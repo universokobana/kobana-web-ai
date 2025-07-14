@@ -1,0 +1,18 @@
+# Protect the CODEOWNERS file
+/.github/CODEOWNERS @universokobana/owners
+
+# Protect workflow files
+/.github/workflows/* @universokobana/infra
+
+# Protect tasks
+/app/tasks/** @kivanio
+
+# Protect infra manifests and scripts
+/.cloud66 @universokobana/infra
+/render.yaml @universokobana/infra
+/bin/op_credentials @universokobana/infra
+
+# DB changes
+/db/kobana_events_schema.rb @kivanio
+/db/kobana_logs_schema.rb @kivanio
+/db/schema.rb @kivanio
