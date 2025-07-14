@@ -10,14 +10,25 @@
 7. [Banking Integration](#banking-integration)
 8. [Security and Compliance](#security-and-compliance)
 9. [Customer Support](#customer-support)
-10. [Pricing and Plans](#pricing-and-plans)
-11. [Customer Testimonials](#customer-testimonials)
-12. [Help Center Resources](#help-center-resources)
-13. [Company Policies](#company-policies)
-14. [Integration Partners](#integration-partners)
-15. [Additional Resources](#additional-resources)
+10. [Company Policies](#company-policies)
+11. [Integration Partners](#integration-partners)
 
 ---
+
+# Summary
+
+Kobana is a comprehensive Brazilian financial automation platform that connects businesses directly to 34+ banks through a unified API, enabling automated billing, payments, and financial operations. The platform serves various industries from startups to enterprises, offering robust security, BACEN compliance, and exceptional customer support with 96% satisfaction rate and NPS of 76.
+
+Key differentiators include:
+- Direct bank connections (not an intermediary)
+- Single API for all Brazilian banks
+- Comprehensive automation features
+- Enterprise-grade security
+- Human-centered support
+- Flexible integration options
+- Transparent pricing model
+
+The platform continues to evolve with regular updates, new bank additions, and feature improvements based on customer feedback, making it a trusted solution for Brazilian businesses looking to automate their financial operations.
 
 # Homepage
 
@@ -533,169 +544,6 @@ Kobana's architecture was designed for high-volume companies, focusing primarily
 
 ---
 
-# Customer Support
-
-## Support Channels
-You can contact us during business hours by email, phone, chat and smoke signal and you will always talk to a real person, without annoying robots.
-
-### Contact Methods
-- **Email**: suporte@kobana.com.br
-- **Chat**: Available during business hours
-- **Phone**: Business hours support
-- **Help Center**: https://ajuda.kobana.com.br
-- **Developer Support**: Via developer portal
-
-### Service Level
-- **Human Support**: No automated chatbots
-- **Business Hours**: Monday-Friday, commercial hours
-- **Response Time**: Quick response for urgent issues
-- **Language**: Portuguese primary, English available
-- **Virtual Office**: Open door policy for visits
-
-### Support Features
-- **Screen Sharing**: For complex troubleshooting
-- **Temporary Access**: 8-hour support access option
-- **Priority Support**: For enterprise customers
-- **Training**: Available for new implementations
-- **Documentation**: Extensive self-service resources
-
-## Customer Success Metrics
-- **96% Satisfaction Rate**: Based on Dec 2020 - Nov 2021
-- **NPS Score of 76**: World-class rating (2021)
-- **Real Human Support**: Always talk to real people
-- **Quick Resolution**: Most issues resolved same day
-
-## Help Center Resources
-
-### Knowledge Base Categories
-1. **All about Kobana** (14 articles)
-2. **Contracting, Plans and Payment** (10 articles)
-3. **Account First Steps** (16 articles)
-4. **Financial** (1 article)
-5. **Banking Operations - Boleto** (111 articles)
-6. **Banking Operations - PIX** (11 articles)
-7. **Banking Operations - Statement** (2 articles)
-8. **Banking Operations - Payments** (10 articles)
-9. **Banking Operations - Credit** (1 article)
-10. **Automations** (12 articles)
-11. **CRM** (7 articles)
-12. **Integrations** (28 articles)
-13. **Security** (8 articles)
-14. **Policies** (9 articles)
-15. **Fraud** (1 article)
-16. **Legislation and Standards** (35 articles)
-
----
-
-# Pricing and Plans
-
-## Plan Structure
-Plans based on monthly transaction volume with different tiers:
-
-### Available Plans
-1. **Integrator** - For integration partners
-2. **Business** - For growing businesses  
-3. **Enterprise** - For high-volume operations
-
-### Billing Model
-- **Pre-paid System**: Pay in advance for usage
-- **Billing Cycles**: Monthly, quarterly, semi-annual, or annual
-- **Volume-based**: Pricing based on transaction count
-- **Transparent Pricing**: Clear pricing structure
-
-### Additional Costs
-- **Excess Operations**: Up to R$ 0.60 per operation over limit
-- **SMS Messages**: Charged per message sent
-- **Auto Registration**: Bank automation fees
-- **Extra Users**: Additional user accounts
-
-### Payment Terms
-- **Invoice Generation**: Automatic upon confirmation
-- **Payment Period**: 10 days to pay invoice
-- **Auto-blocking**: At -R$ 15.01 balance
-- **Multiple Payment Methods**: Various payment options
-
-### Guarantee
-- **30-Day Money Back**: Full refund within 30 days
-- **No Questions Asked**: Simple cancellation process
-- **Risk-Free Trial**: Try without commitment
-- **Fair Terms**: Transparent contract terms
-
-## Commercial Contact
-- **Email**: comercial@kobana.com.br
-- **Custom Proposals**: For specific needs
-- **Volume Discounts**: Available for high volume
-- **Partnership Options**: Special partner pricing
-
----
-
-# Customer Testimonials
-
-## Client Feedback
-
-### API Integration
-> "Kobana has a simple-to-integrate API that supports wallets from various banks, in addition to agility in approving each of these wallets. I recommend it for the good service and support."
-
-### User Interface
-> "Kobana's interface is very didactic and functional. In addition, the support team is very fast and efficient in service, which is very important for Amaze."
-
-### Multi-bank Support
-> "Kobana has integration with more than 20 banks. Today with our tool integrated with Kobana we have a differential for attracting new customers, who can easily issue boletos directly from our platform."
-
-### Developer Experience
-> "I made several integrations with different systems throughout 2021. The Kobana API was very easy to integrate, it was one of the best I've ever used."
-
-### Automation Benefits
-> "Kobana saves us a lot of time. From the boleto generation that the customer performs through integration with Typeform to reminding the customer two days before the due date through integrations with Zapier and Drip. Everything is automated! Kobana has excellent cost-benefit."
-
-### Overall Recommendation
-> "I recommend Kobana for its simplicity both in API integration, as well as for generating boletos, subscriptions and remittance files. All of this is done simply and intuitively, in addition to having good cost-benefit."
-
----
-
-# Help Center Resources
-
-## Getting Started Guides
-
-### Account Setup
-1. Company registration with CNPJ
-2. Bank account verification
-3. Collection wallet configuration
-4. API credential generation
-5. Initial testing in sandbox
-
-### First Integration
-1. Choose integration method (API, EDI, or Manual)
-2. Configure bank connections
-3. Test with small transactions
-4. Monitor initial operations
-5. Scale up gradually
-
-### Common Use Cases
-- **E-commerce**: Automated payment collection
-- **SaaS**: Recurring subscription billing
-- **Education**: Tuition and fee collection
-- **Real Estate**: Rent and condo fee collection
-- **Services**: Invoice and payment automation
-
-## Troubleshooting
-
-### Common Issues
-- Bank connection problems
-- File format errors
-- API authentication issues
-- Webhook configuration
-- Payment reconciliation
-
-### Solutions Database
-- Step-by-step guides
-- Video tutorials
-- Code examples
-- Best practices
-- FAQ section
-
----
-
 # Company Policies
 
 ## Available Policies
@@ -769,58 +617,3 @@ Plans based on monthly transaction volume with different tiers:
 - 40+ bank connections
 - TMR-TI partnership
 - Specialized automation
-
----
-
-# Additional Resources
-
-## Platform Updates
-**URL**: https://atualizacoes.kobana.com.br/
-- Regular feature updates
-- New bank additions
-- System improvements
-- Bug fixes and patches
-
-## Development Roadmap
-**URL**: https://trello.com/b/eMkE6Rar/roadmap-kobana
-- Upcoming features
-- Community requests
-- Development priorities
-- Beta features
-
-## Developer Portal
-**URL**: https://developers.kobana.com.br/
-- API documentation
-- Code examples
-- SDKs and libraries
-- Testing tools
-
-## Support Center
-**URL**: https://suporte.kobana.com.br
-- Ticket system
-- Knowledge base
-- Video tutorials
-- Community forum
-
-## Status Page
-- System status monitoring
-- Scheduled maintenance
-- Incident reports
-- Performance metrics
-
----
-
-# Summary
-
-Kobana is a comprehensive Brazilian financial automation platform that connects businesses directly to 34+ banks through a unified API, enabling automated billing, payments, and financial operations. The platform serves various industries from startups to enterprises, offering robust security, BACEN compliance, and exceptional customer support with 96% satisfaction rate and NPS of 76.
-
-Key differentiators include:
-- Direct bank connections (not an intermediary)
-- Single API for all Brazilian banks
-- Comprehensive automation features
-- Enterprise-grade security
-- Human-centered support
-- Flexible integration options
-- Transparent pricing model
-
-The platform continues to evolve with regular updates, new bank additions, and feature improvements based on customer feedback, making it a trusted solution for Brazilian businesses looking to automate their financial operations.

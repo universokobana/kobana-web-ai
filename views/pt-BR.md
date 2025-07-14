@@ -1,23 +1,34 @@
 # Kobana - Conteúdo Completo do Website
 
 ## Índice
-1. [Página Inicial](#página-inicial)
-2. [Visão Geral da Empresa](#visão-geral-da-empresa)
+1. [Página Inicial](#pgina-inicial)
+2. [Visão Geral da Empresa](#viso-geral-da-empresa)
 3. [Funcionalidades da Plataforma](#funcionalidades-da-plataforma)
-4. [Documentação Técnica](#documentação-técnica)
-5. [Documentação da API](#documentação-da-api)
-6. [Documentação de Webhooks](#documentação-de-webhooks)
-7. [Integração Bancária](#integração-bancária)
-8. [Segurança e Conformidade](#segurança-e-conformidade)
+4. [Documentação Técnica](#documentao-tcnica)
+5. [Documentação da API](#documentao-da-api)
+6. [Documentação de Webhooks](#documentao-de-webhooks)
+7. [Integração Bancária](#integrao-bancria)
+8. [Segurança e Conformidade](#segurana-e-conformidade)
 9. [Suporte ao Cliente](#suporte-ao-cliente)
-10. [Preços e Planos](#preços-e-planos)
-11. [Depoimentos de Clientes](#depoimentos-de-clientes)
-12. [Recursos da Central de Ajuda](#recursos-da-central-de-ajuda)
-13. [Políticas da Empresa](#políticas-da-empresa)
-14. [Parceiros de Integração](#parceiros-de-integração)
-15. [Recursos Adicionais](#recursos-adicionais)
+10. [Políticas da Empresa](#polticas-da-empresa)
+11. [Parceiros de Integração](#parceiros-de-integrao)
 
 ---
+
+# Resumo
+
+Kobana é uma plataforma abrangente de automação financeira brasileira que conecta empresas diretamente a mais de 34 bancos através de uma API unificada, permitindo cobrança automatizada, pagamentos e operações financeiras. A plataforma atende várias indústrias, de startups a grandes empresas, oferecendo segurança robusta, conformidade com o BACEN e suporte excepcional ao cliente com 96% de taxa de satisfação e NPS de 76.
+
+Os principais diferenciais incluem:
+- Conexões bancárias diretas (não é um intermediário)
+- API única para todos os bancos brasileiros
+- Recursos abrangentes de automação
+- Segurança de nível empresarial
+- Suporte centrado no humano
+- Opções flexíveis de integração
+- Modelo de preços transparente
+
+A plataforma continua evoluindo com atualizações regulares, adições de novos bancos e melhorias de recursos baseadas no feedback dos clientes, tornando-se uma solução confiável para empresas brasileiras que buscam automatizar suas operações financeiras.
 
 # Página Inicial
 
@@ -533,7 +544,7 @@ A arquitetura de Kobana foi desenhada para empresas com alto volume, focada prin
 
 ---
 
-# Customer Support
+# Suporte ao Cliente
 
 ## Support Channels
 Você pode falar conosco no horário comercial por email, telefone, chat e sinal de fumaça e sempre vai falar com uma pessoa real, sem robôs chatos.
@@ -585,115 +596,6 @@ Você pode falar conosco no horário comercial por email, telefone, chat e sinal
 14. **Políticas** (9 articles)
 15. **Fraudes** (1 article)
 16. **Legislações e Normas** (35 articles)
-
----
-
-# Pricing and Plans
-
-## Plan Structure
-Plans based on monthly transaction volume with different tiers:
-
-### Available Plans
-1. **Integrador** - For integration partners
-2. **Business** - For growing businesses  
-3. **Enterprise** - For high-volume operations
-
-### Billing Model
-- **Pre-paid System**: Pay in advance for usage
-- **Billing Cycles**: Monthly, quarterly, semi-annual, or annual
-- **Volume-based**: Pricing based on transaction count
-- **Transparent Pricing**: Clear pricing structure
-
-### Additional Costs
-- **Excess Operations**: Up to R$ 0.60 per operation over limit
-- **SMS Messages**: Charged per message sent
-- **Auto Registration**: Bank automation fees
-- **Extra Users**: Additional user accounts
-
-### Payment Terms
-- **Invoice Generation**: Automatic upon confirmation
-- **Payment Period**: 10 days to pay invoice
-- **Auto-blocking**: At -R$ 15.01 balance
-- **Multiple Payment Methods**: Various payment options
-
-### Guarantee
-- **30-Day Money Back**: Full refund within 30 days
-- **No Questions Asked**: Simple cancellation process
-- **Risk-Free Trial**: Try without commitment
-- **Fair Terms**: Transparent contract terms
-
-## Commercial Contact
-- **Email**: comercial@kobana.com.br
-- **Custom Proposals**: For specific needs
-- **Volume Discounts**: Available for high volume
-- **Partnership Options**: Special partner pricing
-
----
-
-# Customer Testimonials
-
-## Client Feedback
-
-### Integração API
-> "A Kobana possui uma API simples de integrar que suporta carteiras de vários bancos, além da agilidade na homologação de cada uma dessas carteiras. Recomendo pelo bom atendimento e suporte."
-
-### Interface do Usuário
-> "A interface da Kobana é bem didática e funcional. Além disso, a equipe de suporte é bem rápida e eficiente no atendimento, o que é muito importante para a Amaze."
-
-### Suporte Multi-banco
-> "A Kobana possui integração com mais de 20 bancos. Hoje com a nossa ferramenta integrada à Kobana possuímos um diferencial para a atração de novos clientes, que podem emitir boletos com facilidade diretamente da nossa plataforma."
-
-### Experiência do Desenvolvedor
-> "Fiz diversas integrações com diferentes sistemas ao longo de 2021. A API da Kobana foi muito fácil de integrar, foi uma das melhores que eu já usei."
-
-### Benefícios da Automação
-> "A Kobana nos poupa muito tempo. Desde a geração do boleto que o próprio cliente realiza via a integração com o Typeform até lembrar o cliente dois dias antes do vencimento através de integrações com o Zapier e Drip. Está tudo automatizado! A Kobana tem um excelente custo benefício."
-
-### Recomendação Geral
-> "Recomendo a Kobana pela sua simplicidade tanto na integração da API, como também para geração dos boletos, assinaturas e arquivos de remessa. Tudo isso é feito de forma simples e intuitiva, além de ter um bom custo benefício."
-
----
-
-# Recursos da Central de Ajuda
-
-## Guias de Início Rápido
-
-### Configuração de Conta
-1. Registro da empresa com CNPJ
-2. Verificação de conta bancária
-3. Configuração de carteira de cobrança
-4. Geração de credenciais de API
-5. Testes iniciais em sandbox
-
-### Primeira Integração
-1. Escolha o método de integração (API, EDI ou Manual)
-2. Configure conexões bancárias
-3. Teste com pequenas transações
-4. Monitore operações iniciais
-5. Escale gradualmente
-
-### Casos de Uso Comuns
-- **E-commerce**: Cobrança automatizada de pagamentos
-- **SaaS**: Cobrança recorrente de assinaturas
-- **Educação**: Cobrança de mensalidades e taxas
-- **Imobiliário**: Cobrança de aluguel e condomínio
-- **Serviços**: Automação de faturas e pagamentos
-
-## Solução de Problemas
-
-### Problemas Comuns
-- Problemas de conexão bancária
-- Erros de formato de arquivo
-- Questões de autenticação de API
-- Configuração de webhook
-- Conciliação de pagamentos
-
-### Base de Soluções
-- Guias passo a passo
-- Tutoriais em vídeo
-- Exemplos de código
-- Melhores práticas
-- Seção de perguntas frequentes
 
 ---
 
@@ -770,58 +672,3 @@ Plans based on monthly transaction volume with different tiers:
 - 40+ conexões bancárias
 - Parceria TMR-TI
 - Automação especializada
-
----
-
-# Recursos Adicionais
-
-## Atualizações da Plataforma
-**URL**: https://atualizacoes.kobana.com.br/
-- Atualizações regulares de recursos
-- Adições de novos bancos
-- Melhorias do sistema
-- Correções de bugs e patches
-
-## Roteiro de Desenvolvimento
-**URL**: https://trello.com/b/eMkE6Rar/roadmap-kobana
-- Recursos futuros
-- Solicitações da comunidade
-- Prioridades de desenvolvimento
-- Recursos beta
-
-## Portal do Desenvolvedor
-**URL**: https://developers.kobana.com.br/
-- Documentação da API
-- Exemplos de código
-- SDKs e bibliotecas
-- Ferramentas de teste
-
-## Centro de Suporte
-**URL**: https://suporte.kobana.com.br
-- Sistema de tickets
-- Base de conhecimento
-- Tutoriais em vídeo
-- Fórum da comunidade
-
-## Página de Status
-- Monitoramento do status do sistema
-- Manutenção programada
-- Relatórios de incidentes
-- Métricas de desempenho
-
----
-
-# Resumo
-
-Kobana é uma plataforma abrangente de automação financeira brasileira que conecta empresas diretamente a mais de 34 bancos através de uma API unificada, permitindo cobrança automatizada, pagamentos e operações financeiras. A plataforma atende várias indústrias, de startups a grandes empresas, oferecendo segurança robusta, conformidade com o BACEN e suporte excepcional ao cliente com 96% de taxa de satisfação e NPS de 76.
-
-Os principais diferenciais incluem:
-- Conexões bancárias diretas (não é um intermediário)
-- API única para todos os bancos brasileiros
-- Recursos abrangentes de automação
-- Segurança de nível empresarial
-- Suporte centrado no humano
-- Opções flexíveis de integração
-- Modelo de preços transparente
-
-A plataforma continua evoluindo com atualizações regulares, adições de novos bancos e melhorias de recursos baseadas no feedback dos clientes, tornando-se uma solução confiável para empresas brasileiras que buscam automatizar suas operações financeiras.
