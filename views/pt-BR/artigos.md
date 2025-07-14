@@ -297,11 +297,11 @@
 
 # Como cadastrar e usar as etiquetas na Kobana?
 
-## Description
+## Descrição
 
 Descubra como criar etiquetas e como usar as etiquetas automáticas na plataforma!
 
-## Content
+## Conteúdo
 
 As etiquetas ajudam você a filtrar e organizar diversas ações na Kobana.
 Por exemplo, com uma etiqueta em boletos, você consegue executar
@@ -439,18 +439,13 @@ digitar para ser oferecido as etiquetas cadastradas para boleto.
 
 ---
 
-# Untitled public article
-
-
----
-
 # O que são e como usar os certificados na Kobana?
 
-## Description
+## Descrição
 
 Descubra melhor o que são, para que servem e como os certificados digitais são usados na Kobana.
 
-## Content
+## Conteúdo
 
 Os certificados digitais são um dos instrumentos essenciais para usar a
 Kobana, já que eles permitem que a plataforma automatize o fluxo
@@ -903,11 +898,11 @@ pelo banco. </i>
 
 # Como criar uma conexão com a API do Sicoob?
 
-## Description
+## Descrição
 
 Descubra como criar uma conexão com a API da Kobana dentro do ambiente de desenvolvimento da Sicoob!
 
-## Content
+## Conteúdo
 
 Criar uma conexão com a API do Sicoob permite automatizar a comunicação
 com o banco para facilitar as operações. Nesse artigo, vamos mostrar
@@ -1102,11 +1097,11 @@ as operações disponíveis no banco.
 
 # Como verificar as atualizações dos boletos pela Kobana?
 
-## Description
+## Descrição
 
 Descubra todas as formas de verificar as atualizações de boletos pela Kobana.
 
-## Content
+## Conteúdo
 
 A automatização dos processos de recebimento por boletos vai muito além
 da criação e do registro dos documentos nos bancos. Na Kobana, você pode
@@ -1176,11 +1171,11 @@ em contato com o nosso suporte!
 
 # Qual versão do TLS é possível conectar na Kobana?
 
-## Description
+## Descrição
 
 Descubra como conectar a sua aplicação na Kobana com segurança!
 
-## Content
+## Conteúdo
 
 Na Kobana, a segurança na troca de informações é sempre uma prioridade.
 Por isso, usamos o protocolo **TLS (Transport Layer Security)**, para
@@ -1236,11 +1231,11 @@ Confira a nossa [documentação para desenvolvedores][1]{: target="_blank"
 
 # Quais bancos e conexões para pagamentos e transferências estão disponíveis na Kobana?
 
-## Description
+## Descrição
 
 Descubra quais operações, bancos e conexões estão disponíveis para automatizar os seus pagamentos na Kobana!
 
-## Content
+## Conteúdo
 
 Neste artigo, vamos mostrar quais bancos e quais automações de conexões
 estão disponíveis para os diferentes tipos de [pagamentos][1]{:
@@ -1333,11 +1328,11 @@ banco, que a Kobana ainda não tenha suporte? Entre em contato conosco!
 
 # Qual é a diferença entre o boleto híbrido gerenciado pela Kobana e pelo banco?
 
-## Description
+## Descrição
 
 Entenda as diferenças entre essas duas operações disponíveis na plataforma!
 
-## Content
+## Conteúdo
 
 Criar boletos que permitem pagamentos também por Pix, é uma forma de
 combinar dois dos principais meios de pagamentos disponíveis no Brasil.
@@ -1441,11 +1436,11 @@ contato com o nosso suporte** para saber mais.
 
 # O que são e como configurar os webhooks na Kobana?
 
-## Description
+## Descrição
 
 Entenda melhor o que são os webhooks e como eles podem te ajudar na Kobana.
 
-## Content
+## Conteúdo
 
 Os **webhooks** são uma funcionalidade que facilita a comunicação entre
 dois sistemas, permitindo que sistemas externos sejam notificados de
@@ -1595,11 +1590,11 @@ envios.
 
 # O que são os lotes e como configurá-los na Kobana?
 
-## Description
+## Descrição
 
 Descubra como configurar os lotes de pagamentos e transferências na Kobana!
 
-## Content
+## Conteúdo
 
 Um **lote de pagamento** ou **lote de transferências** reúne diversas
 operações financeiras, para que elas possam ser processadas em conjunto,
@@ -1705,11 +1700,11 @@ target="_blank" .intercom-content-link} na Kobana!
 
 # Como ativar e emitir o Pix pelo Banco Inter?
 
-## Description
+## Descrição
 
 Descubra tudo que você precisa para emitir Pix pelo banco Inter!
 
-## Content
+## Conteúdo
 
 O PIX é a solução de pagamento instantâneo, criada e gerenciada pelo
 Banco Central do Brasil (BC), que permite fazer e receber transferências
@@ -1863,11 +1858,11 @@ Você pode acompanhar o andamento de todos os Pix criados em
 
 # Como gerar e registrar boletos pela API do Banco Inter?
 
-## Description
+## Descrição
 
 Descubra como usar a conexão por API para gerar boletos pela API do Inter!
 
-## Content
+## Conteúdo
 
 Cada dia mais, os bancos estão evoluindo para que toda a comunicação
 seja realizada via APIs. Nesse artigo, vamos mostrar como receber pela
@@ -1939,11 +1934,11 @@ do arquivo de retorno.
 
 # Como ver o histórico de registro e comandos em um boleto?
 
-## Description
+## Descrição
 
 Descubra como encontrar facilmente as informações do histórico de um boleto!
 
-## Content
+## Conteúdo
 
 Uma das principais vantagens da Kobana é a possibilidade de acompanhar
 todo o histórico de um boleto, desde quando ele é criado e registrado,
@@ -2047,11 +2042,11 @@ informações de registro, essa aba é mais resumida do que a aba de
 
 # Como ativar a conexão com a API do Itaú?
 
-## Description
+## Descrição
 
 Descubra como se conectar com a API do Itaú para habilitar diversas operações com o banco!
 
-## Content
+## Conteúdo
 
 Cada vez mais, os bancos estão evoluindo para que toda a comunicação
 seja realizada via APIs. O Itaú já tem disponível uma API para operações
@@ -2318,11 +2313,11 @@ habilitar as operações disponíveis nesse banco:
 
 # Como ativar a conexão com a API do Santander?
 
-## Description
+## Descrição
 
 Veja como conectar a Kobana com a API do Santander para o registro automático de boletos.
 
-## Content
+## Conteúdo
 
 A comunicação via API é a forma mais eficiente de trocar informações com
 um banco, permitindo que certos retornos sejam feitos até mesmo em tempo
@@ -2567,11 +2562,11 @@ a cada operação:
 
 # Como emitir boletos pela API do Santander?
 
-## Description
+## Descrição
 
 Descubra como emitir os seus boletos registrados pela API do Santander.
 
-## Content
+## Conteúdo
 
 A comunicação via API é a forma mais eficiente de trocar informações com
 um banco, permitindo que certos retornos sejam feitos até mesmo em tempo
@@ -2656,11 +2651,11 @@ Você pode acompanhar o status do boleto em *Recebimentos &gt; Boletos
 
 # Como emitir boletos pela API do BTG?
 
-## Description
+## Descrição
 
 Descubra como usar a conexão com o Banco BTG para emitir e registrar boletos!
 
-## Content
+## Conteúdo
 
 A API é a forma mais rápida de comunicação entre os bancos, diminuindo o
 trabalho manual e agilizando a troca de informações. Neste artigo, você
@@ -2732,11 +2727,11 @@ em *Recebimentos &gt; Boletos &gt; Gerenciar*:
 
 # Como ativar os recebimentos por boleto pela API do Cresol?
 
-## Description
+## Descrição
 
 Descubra como gerenciar os seus boletos pela API do Cresol na Kobana!
 
-## Content
+## Conteúdo
 
 Neste artigo, vamos mostrar como gerenciar os seus boletos de
 recebimentos pela API do Cresol. No momento, pela API, você pode
@@ -2817,11 +2812,11 @@ em *Recebimentos &gt; Boletos &gt; Gerenciar*:
 
 # Como ativar a conexão com a API do Cresol?
 
-## Description
+## Descrição
 
 Descubra como se conectar com a API do Cresol e habilitar as operações com esse banco pela Kobana.
 
-## Content
+## Conteúdo
 
 Neste artigo, vamos mostrar como ativar a integração por API com o Banco
 Cresol, permitindo que você faça operações financeiras com esse banco,
@@ -2914,11 +2909,11 @@ conexão foi configurada corretamente.
 
 # Como fazer pagamentos e transferências pela API da QI Tech?
 
-## Description
+## Descrição
 
 Descubra como fazer as operações de pagamentos e transferências diretamente pela plataforma da Kobana!
 
-## Content
+## Conteúdo
 
 Neste artigo, vamos mostrar como fazer os pagamentos e transferências
 pelo Banco QI Tech, diretamente pela plataforma da Kobana. No momento,
@@ -3046,11 +3041,11 @@ artigo sobre como fazer [transferências][3]{: target="_blank"
 
 # Como ativar a conexão com a API da QI Tech?
 
-## Description
+## Descrição
 
 Descubra como fazer a integração entre a API da Kobana e da QI Tech, habilitando as operações com esse banco pela plataforma.
 
-## Content
+## Conteúdo
 
 Neste artigo, vamos mostrar como ativar a integração por API com o Banco
 QI Tech, permitindo que você faça diversas operações financeiras com
@@ -3285,11 +3280,11 @@ boletos pela API da QI Tech][1]{: target="_blank"
 
 # Como criar uma conexão com a API do Banco do Brasil?
 
-## Description
+## Descrição
 
 Entenda como fazer a conexão com a API do Banco do Brasil para habilitar as operações.
 
-## Content
+## Conteúdo
 
 Cada dia mais, os bancos estão evoluindo para que toda a comunicação
 seja realizada via APIs.
@@ -3584,11 +3579,11 @@ operações:
 
 # Como pegar os dados do comprovante de pagamento na Kobana?
 
-## Description
+## Descrição
 
 Entenda como encontrar as informações dos comprovantes de pagamentos das operações feitas pela Kobana!
 
-## Content
+## Conteúdo
 
 Após fazer pagamentos pela Kobana, você pode querer consultar os dados
 do comprovante da operação. Porém, a forma como é feita essa consulta
@@ -3642,11 +3637,11 @@ acordo com o banco e com o tipo de conexão.
 
 # Como ativar a API de pagamentos e transferências do Sicoob?
 
-## Description
+## Descrição
 
 Descubra como integrar a API para fazer essas operações pela Kobana!
 
-## Content
+## Conteúdo
 
 A possibilidade de fazer pagamentos e transferências pela Kobana é mais
 um exemplo de como a plataforma facilita e agiliza a gestão financeira
@@ -3929,11 +3924,11 @@ interface.
 
 # Como saber quando o dinheiro de um recebimento será creditado na sua conta?
 
-## Description
+## Descrição
 
 Entenda como ver a data de liquidação de um boleto pela Kobana
 
-## Content
+## Conteúdo
 
 Ao receber um pagamento de um boleto, pode levar algum tempo até que o
 dinheiro de fato caia na sua conta bancária.
@@ -3970,129 +3965,13 @@ suporte para saber mais.
 
 ---
 
-# Como funciona a importação e exportação de arquivos na Kobana?
-
-## Description
-
-Entenda quais arquivos você pode importar e exportar na plataforma e como esses processos funcionam.
-
-## Content
-
-Importar ou exportar arquivos é uma ferramenta importante, que permite
-que você potencialize e facilite o uso da plataforma. Nesse artigo,
-vamos ver como funciona a importação e exportação de arquivos na Kobana.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## O que é possível importar na Kobana?    {#h_fce7f4df37}
-
-Na Kobana é possível importar os seguintes dados:
-{: .no-margin}
-
-* [Boletos][1]{: target="_blank" .intercom-content-link};
-  {: .no-margin}
-
-* [Carnês][2]{: target="_blank" .intercom-content-link};
-  {: .no-margin}
-
-* Assinaturas;
-  {: .no-margin}
-
-* [Clientes][3]{: target="_blank" .intercom-content-link};
-  {: .no-margin}
-
-* Pix;
-  {: .no-margin}
-
-* Transferências;
-  {: .no-margin}
-
-* Pagamentos;
-  {: .no-margin}
-
-* Remessa;
-  {: .no-margin}
-
-* [Retorno][4]{: target="_blank" .intercom-content-link}.
-  {: .no-margin}
-
-Os boletos, carnês, assinaturas, Pix, transferências e pagamentos, são
-importações de operações que você pode fazer pela Kobana. Nesses casos,
-você pode importar um arquivo .csv, seguindo os modelos disponibilizados
-na plataforma, e criar diversas dessas operações operações de uma única
-vez.
-{: .no-margin}
-
-
-{: .no-margin}
-
-As importações de clientes permitem o cadastro em massa de diversos
-clientes na plataforma. Ao cadastrar os clientes, você agiliza suas
-operações futuras, pois não é preciso preencher esses dados novamente.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Por fim, você pode importar arquivos de remessa e retorno manualmente.
-Esses arquivos permitem a comunicação com o banco e, por consequência,
-as operações.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Esses recursos podem ajudar você a usar a plataforma de diversas formas.
-Por exemplo, se você estiver migrando de plataforma, você pode importar
-sua base de clientes e seus boletos antigos.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Para subir esses arquivos na plataforma, acesse a ferramenta de
-importação em <i>Cadastrar &gt; Importar, </i>para ver a lista com todas
-as importações possíveis. Na tela da importação você vai encontrar os
-arquivos de exemplo e também as instruções de como subir cada arquivo.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1126011496/4f7043eb67d78d5b5b5d5bdc/image.png?expires=1752529500&amp;signature=a3678b417187c1a1c7b079848b83c9816b6e9ea342882cfa017d5736c6978291&amp;req=dSElEMl%2FnIVWX%2FMW1HO4zQFzG5PoEmeFW6vz43SgdT3uWe3Y4nUahuEDLJm4%0AJH8i%0A)
-</div>
-
-
-{: .no-margin}
-
-## O que é possível exportar na Kobana?   {#h_4dceb47525}
-
-Os recursos de exportação ajudam você a aproveitar as informações da
-Kobana para criar um relatório mais personalizado ou utilizar os dados
-em outros sistemas, de forma prática e simples. Você pode exportar os
-dados das operações e também dos seus clientes.
-{: .no-margin}
-
-
-
-[1]: https://ajuda.kobana.com.br/pt-BR/articles/8838237-como-importar-boletos-por-meio-de-uma-planilha-em-excel-ou-no-google-sheets
-[2]: https://ajuda.kobana.com.br/pt-BR/articles/8856665-como-importar-carnes-por-meio-de-uma-planilha-do-excel-ou-google-sheets
-[3]: https://ajuda.kobana.com.br/pt-BR/articles/8866775-como-importar-varios-clientes-por-meio-de-uma-planilha
-[4]: https://ajuda.kobana.com.br/pt-BR/articles/8823023-como-subir-um-arquivo-de-retorno-na-kobana
-
-
----
-
 # Como fazer pagamentos pela API do Banco Inter?
 
-## Description
+## Descrição
 
 Descubra como conectar com a API de pagamentos do Banco Inter e ter mais uma opção para esse tipo de operação!
 
-## Content
+## Conteúdo
 
 Fazer pagamentos pela Kobana é mais um exemplo de como a plataforma
 facilita e agiliza a gestão financeira do seu negócio.
@@ -4449,11 +4328,11 @@ Uma vez aprovado, o status é atualizado e o pagamento é liberado.
 
 # Como fazer pagamentos pela API do Banco do Brasil?
 
-## Description
+## Descrição
 
 Descubra como se conectar com a API de pagamentos do Banco do Brasil!
 
-## Content
+## Conteúdo
 
 Fazer pagamentos pela Kobana é mais um exemplo de como a plataforma
 facilita e agiliza a gestão financeira do seu negócio.
@@ -4773,11 +4652,11 @@ Clique em <i>Liberar </i>para prosseguir com os pagamentos.
 
 # Como ativar os recebimentos por boletos pela API do Banco Cora?
 
-## Description
+## Descrição
 
 Descubra como emitir boletos pela API do Banco Cora!
 
-## Content
+## Conteúdo
 
 A API é a [forma mais rápida de comunicação entre os bancos][1]{:
 target="_blank" .intercom-content-link}, diminuindo o trabalho manual e
@@ -5060,11 +4939,11 @@ em *Recebimentos &gt; Boletos &gt; Gerenciar*.
 
 # Como pagar boletos e contas pela API do Santander?
 
-## Description
+## Descrição
 
 Descubra como automatizar os pagamentos de boletos e contas de consumo diretamente pela Kobana!
 
-## Content
+## Conteúdo
 
 A comunicação via API é a forma mais eficiente de trocar informações com
 um banco, permitindo que certos retornos sejam feitos até mesmo em tempo
@@ -5513,11 +5392,11 @@ aguardar o envio das informações e a finalização das operações.
 
 # Como funciona a autenticação em dois fatores na Kobana?
 
-## Description
+## Descrição
 
 Entenda como habilitar a dupla autenticação na Kobana e deixar sua conta ainda mais segura!
 
-## Content
+## Conteúdo
 
 A dupla autenticação (autenticação por dois fatores ou 2FA) é uma camada
 extra de proteção, exigindo uma segunda identificação para os
@@ -5623,11 +5502,11 @@ autenticação ativada.***
 
 # Como usar a restrição de crédito na Kobana?
 
-## Description
+## Descrição
 
 Descubra como usar essa ferramenta de controle de inadimplência diretamente pela Kobana!
 
-## Content
+## Conteúdo
 
 A **restrição de crédito**, ou negativação de crédito, é uma ferramenta
 interessante para diminuir a inadimplência na sua empresa. Neste artigo,
@@ -5861,11 +5740,11 @@ pode usar os filtros para visualizar mais facilmente.
 
 # Como funciona a renovação do certificado digital na Kobana?
 
-## Description
+## Descrição
 
 Descubra o que fazer quando precisar renovar um certificado digital!
 
-## Content
+## Conteúdo
 
 O certificado digital é um documento eletrônico que permite que você
 faça diversas ações na Kobana. Seu objetivo é confirmar a identidade da
@@ -5948,11 +5827,11 @@ Ficou com dúvida? Entre em contato com o nosso suporte no e-mail
 
 # Como fazer transferências pela Kobana?
 
-## Description
+## Descrição
 
 Descubra como programar as suas transferências por Pix e Ted na plataforma!
 
-## Content
+## Conteúdo
 
 A possibilidade de fazer transferências pela Kobana é mais um exemplo de
 como a plataforma facilita e agiliza a gestão financeira do seu negócio.
@@ -6325,11 +6204,11 @@ processo para cada banco que faz essa exigência:
 
 # Como fazer pagamentos pela Kobana?
 
-## Description
+## Descrição
 
 Descubra como automatizar a comunicação com o Banco para fazer seus pagamentos!
 
-## Content
+## Conteúdo
 
 A possibilidade de fazer pagamentos pela Kobana é mais um exemplo de
 como a plataforma facilita e agiliza a gestão financeira do seu negócio.
@@ -6695,11 +6574,11 @@ tiver com ele:
 
 # Como alterar o email de proprietário?
 
-## Description
+## Descrição
 
 Descubra como alterar o e-mail, ou o usuário, do proprietário da conta aqui na Kobana!
 
-## Content
+## Conteúdo
 
 Na Kobana, você tem controle total sobre a sua equipe e qual é o papel
 que cada um pode desempenhar dentro da plataforma. Além da possibilidade
@@ -6857,11 +6736,11 @@ proprietário pode excluir uma conta de proprietário. </i>
 
 # Como ativar a integração para recebimentos por Pix do Sicredi?
 
-## Description
+## Descrição
 
 Entenda como ativar a conexão com o Pix do Sicredi e ter mais uma opção de cobrança!
 
-## Content
+## Conteúdo
 
 Neste artigo, vamos mostrar como integrar o Pix do Sicredi com a Kobana,
 para que você possa receber por essa modalidade de pagamento na
@@ -7160,11 +7039,11 @@ Confira o artigo e descubra como funciona!
 
 # Como liberar acesso para o time da Kobana na sua conta?
 
-## Description
+## Descrição
 
 Precisa de ajuda com a sua conta? Confira como liberar acesso para o time da Kobana!
 
-## Content
+## Conteúdo
 
 No padrão da nossa plataforma, por uma questão de segurança, não é
 permitido o acesso à sua conta pelo nosso time de suporte. Porém, em
@@ -7206,11 +7085,11 @@ opção.
 
 # Como ativar a conexão com a API do BTG?
 
-## Description
+## Descrição
 
 Descubra como fazer a conexão entre a Kobana e o BTG por API, para liberar as operações na plataforma.
 
-## Content
+## Conteúdo
 
 A API é a forma mais rápida de comunicação entre os bancos, diminuindo o
 trabalho manual e agilizando a troca de informações. Neste artigo, você
@@ -7517,7 +7396,7 @@ pela Kobana:
 
 # Tipos de retorno que o Banrisul disponibiliza para pagamentos
 
-## Content
+## Conteúdo
 
 Certos bancos têm formatos diferentes em relação ao retorno de
 pagamentos recebidos pelos clientes. Naturalmente, isso pode levar a
@@ -7607,11 +7486,11 @@ solicitar a troca.
 
 # Como usar os servidores de e-mail da Kobana?
 
-## Description
+## Descrição
 
 Descubra como usar os servidores da Kobana para a sua régua de cobrança automatizada e como isso pode ser muito bom para a sua empresa!
 
-## Content
+## Conteúdo
 
 Criar uma [régua de cobrança][1]{: target="_blank"
 .intercom-content-link} para automatizar a comunicação com os clientes é
@@ -7748,11 +7627,11 @@ está disponível para o seu [plano][4]{: target="_blank"
 
 # PIX estático e PIX dinâmico: O que são e como usar na Kobana?
 
-## Description
+## Descrição
 
 Descubra quais são os QR Codes que podem ser usados no Pix e como gerar os códigos na Kobana!
 
-## Content
+## Conteúdo
 
 Existem duas formas de gerar o QR Code para pagamentos no Pix: o QR Code
 estático e o dinâmico. Cada um deles tem as suas vantagens e
@@ -7873,11 +7752,11 @@ fácil!
 
 # Como excluir uma conexão na Kobana?
 
-## Description
+## Descrição
 
 Precisa excluir uma conexão? Descubra como fazer isso neste artigo!
 
-## Content
+## Conteúdo
 
 Certas ativações de integração na Kobana precisam de conexões com os
 bancos para funcionar. Portanto, [criar conexões][1]{: target="_blank"
@@ -8009,11 +7888,11 @@ todos eles e conseguir excluí-la definitivamente.
 
 # Como enviar um arquivo de remessa ao Sicredi?
 
-## Description
+## Descrição
 
 Descubra como enviar o arquivo remessa e registrar as operações bancárias no Sicredi!
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 já faz operações pela Kobana, pode ser necessário enviar o arquivo
@@ -8123,11 +8002,11 @@ processo.
 
 # Como baixar um arquivo remessa na Kobana?
 
-## Description
+## Descrição
 
 Esse arquivo é essencial para registrar as operações nos bancos. Confira como baixá-lo!
 
-## Content
+## Conteúdo
 
 O arquivo de remessa tem a função de transmitir informações aos bancos
 de boletos gerados fora dele, como é o caso da Kobana. É um arquivo que
@@ -8210,11 +8089,11 @@ presentes nela e seguir o mesmo processo acima para fazer o download.
 
 # Como emitir e registrar boletos pela API da QI Tech na Kobana?
 
-## Description
+## Descrição
 
 Descubra como gerenciar os seus boletos da QI Tech pela Kobana!
 
-## Content
+## Conteúdo
 
 Neste artigo, vamos mostrar como gerenciar os seus boletos de
 recebimentos pela API da QI Tech. No momento, pela API, você pode
@@ -8337,7 +8216,7 @@ Kobana</a>! </i>
 
 # Integração entre Atende Simples e Kobana
 
-## Content
+## Conteúdo
 
 O Atende Simples é uma solução completa de atendimento telefônico para
 aumentar vendas e fidelizar clientes, oferecendo automação e
@@ -8598,7 +8477,7 @@ notificação automática com o evento **Boleto Gerado**.
 
 # Como instalar o módulo da Kobana no WHMCS?
 
-## Content
+## Conteúdo
 
 <div class="intercom-container" markdown="1">
 ![](https://kobana.intercom-attachments-1.com/i/o/951571435/10281ae14cea5c79aa143718/boleto-simples-whmcs.png?expires=1752529500&amp;signature=63ba61d20987d5ab8f75745daa046e9e3733f96e48108672e7ed19fe32ba4691&amp;req=fSUmE85%2FmYJaFb4f3HP0gLUgh4IteDmADWN2XcNz%2Bf%2FoR%2F9kfKUZzWtOPUvi%0A1wY%3D%0A)
@@ -8672,7 +8551,7 @@ e cole na pasta */modules/gateways/* da instalação do seu WHMCS.
 
 # Como integrar a Kobana com outras ferramentas usando a Pluga?
 
-## Content
+## Conteúdo
 
 A Pluga permite integrar as ferramentas web que a sua empresa utiliza,
 criando automatizações entre elas. O melhor de tudo é que não é
@@ -8816,7 +8695,7 @@ conclusão com sucesso.
 
 # Como integrar a Kobana com outras ferramentas usando o Zapier?
 
-## Content
+## Conteúdo
 
 O [Zapier][1]{: target="_blank" .intercom-content-link} é um serviço
 online para conectar aplicativos e automatizar tarefas. A Kobana está no
@@ -9026,7 +8905,7 @@ Zapier?][3]{: target="_blank" .intercom-content-link}*
 
 # Como semi-automatizar a gestão de suas remessas e retornos com o Zapier?
 
-## Content
+## Conteúdo
 
 Com o [Zapier][1]{: target="_blank" .intercom-content-link}, é possível
 criar [vários tipos de automatizações com a Kobana][2]{: target="_blank"
@@ -9211,7 +9090,7 @@ Para finalizar, clique em *Publish Zap* para ativar essa automatização.
 
 # Quais automatizações com a Kobana consigo criar no Zapier?
 
-## Content
+## Conteúdo
 
 Conheça as automatizações da Kobana que você pode criar utilizando o
 Zapier.
@@ -9370,7 +9249,7 @@ Invoice e outros.
 
 # Como funciona a integração com o Protesto24h?
 
-## Content
+## Conteúdo
 
 O [Protesto24h][1]{: target="_blank" .intercom-content-link} é um
 parceiro da Kobana. Essa ferramenta reduz o tempo e o custo para
@@ -9479,7 +9358,7 @@ realizar o pagamento por PIX, boleto ou cartão de crédito.
 
 # Como enviar a Nota Fiscal e outras informações da nota ao meu cliente?
 
-## Content
+## Conteúdo
 
 A integração da Kobana com o eNotas não se resume à gerar a nota fiscal
 eletrônica para seus clientes. Nós também disponibilizamos variáveis
@@ -9556,7 +9435,7 @@ Bem simples e fácil enviar seus boletos e notas fiscais no mesmo e-mail.
 
 # Como importar dados da nota fiscal na Kobana para serem enviados ao eNotas?
 
-## Content
+## Conteúdo
 
 Ao utilizar a [integração entre a Kobana e o eNotas][1]{:
 target="_blank" .intercom-content-link}, há inúmeras formas de
@@ -9665,7 +9544,7 @@ suporte realize um acompanhamento.
 
 # Como gerar nota fiscal para boleto registrado com Kobana e eNotas
 
-## Content
+## Conteúdo
 
 O [eNotas][1]{: target="_blank" .intercom-content-link} é uma plataforma
 online que faz a emissão automática de notas fiscais eletrônicas de
@@ -9765,7 +9644,7 @@ Sandbox de testes.*
 
 # Como integrar a Kobana ao Hotzapp?
 
-## Content
+## Conteúdo
 
 <div class="intercom-container" markdown="1">
 ![](https://kobana.intercom-attachments-1.com/i/o/950763369/6b861394d42d6ff2480f0f82/boleto-simples-hotza.png?expires=1752529500&amp;signature=ec4f33fe55402c0f3de9092b0185cc3968bf0c435c2f1cd65613dee09f0f624c&amp;req=fSUnEc99nodWFb4f3HP0gI%2BUy9TlcM%2BBpvI7BVgrHuGRomMG7yiW%2FdGdPU9I%0AlmM%3D%0A)
@@ -10009,7 +9888,7 @@ Alguns pontos importantes:
 
 # Como integrar a Kobana ao DigiSac para enviar boletos por WhatsApp?
 
-## Content
+## Conteúdo
 
 Se você utiliza o DigiSac para atender os seus clientes por WhatsApp,
 você pode usufruir da integração com a Kobana para enviar os boletos
@@ -10176,7 +10055,7 @@ do DigiSac, sem precisar passar pelo WhatsApp Web.
 
 # Como integrar minha conta do Operand com a Kobana?
 
-## Content
+## Conteúdo
 
 Se você utiliza Operand e quer usar a integração com a Kobana, você deve
 seguir os passos abaixo para configurar a sua conta.
@@ -10249,7 +10128,7 @@ boletos pela Operand [aqui][1]{: target="_blank"
 
 # Como integrar a Kobana ao TOTVS RM?
 
-## Content
+## Conteúdo
 
 O TOTVS RM é um dos ERPs mais populares do mercado e atende a diversos
 setores, como construção, educação, logística, serviços, entre outros,
@@ -10422,7 +10301,7 @@ gerado um log de cada execução na pasta \"RM.NET\\Processos\\FV\".
 
 # Como integrar a Kobana ao SharpSpring?
 
-## Content
+## Conteúdo
 
 A [SharpSpring][1]{: target="_blank" .intercom-content-link} é uma
 provedora altamente valorizada de automação de marketing em nuvem com
@@ -10662,7 +10541,7 @@ formulário.
 
 # Como integrar minha loja da Shopify à Kobana?
 
-## Content
+## Conteúdo
 
 A Shopify é uma plataforma de e-commerce na qual você pode criar sua
 própria loja virtual totalmente hospedada com domínio personalizado.
@@ -11155,7 +11034,7 @@ boleto para você mesmo na plataforma.
 
 # Posso usar boletos registrados com a Kobana na minha loja virtual?
 
-## Content
+## Conteúdo
 
 Sim, isso é possível utilizando a nossa API. Você pode integrar a sua
 loja usando a [nossa documentação][1]{: target="_blank"
@@ -11191,7 +11070,7 @@ target="_blank" .intercom-content-link}.
 
 # Como integrar a Kobana à minha plataforma?
 
-## Content
+## Conteúdo
 
 Se você tem um sistema que gostaria de integrar à Kobana, há duas
 maneiras de fazer isso:
@@ -11293,7 +11172,7 @@ você vai usar apenas a sua chave de API para a integração.
 
 # API Kobana
 
-## Content
+## Conteúdo
 
 Veja aqui a documentação da API da Kobana, que está disponível no link:
 [https://developers.kobana.com.br/][1]{: target="_blank"
@@ -11310,11 +11189,11 @@ Veja aqui a documentação da API da Kobana, que está disponível no link:
 
 # Como criar uma conexão na Kobana?
 
-## Description
+## Descrição
 
 Entenda como criar uma conexão e estabelecer a comunicação entre a Kobana e os bancos!
 
-## Content
+## Conteúdo
 
 Algumas ativações de integrações na Kobana necessitam de conexões para
 que possam funcionar de maneira eficaz.
@@ -11428,11 +11307,11 @@ Após preencher as informações, clique no botão <i>Validar conexão
 
 # Como excluir uma subconta na Kobana?
 
-## Description
+## Descrição
 
 Descubra como excluir uma conta dentro da conta principal.
 
-## Content
+## Conteúdo
 
 <div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
 **Atenção! Excluir uma subconta na Kobana é irreversível e irá apagar
@@ -11488,11 +11367,11 @@ os dados referentes à ela.
 
 # Como cadastrar uma conta financeira na Kobana?
 
-## Description
+## Descrição
 
 Veja como cadastrar facilmente sua conta financeira na nossa plataforma.
 
-## Content
+## Conteúdo
 
 Uma das configurações iniciais da plataforma da Kobana para poder
 realizar suas operações bancárias é **cadastrar uma conta financeira**.
@@ -11630,11 +11509,11 @@ Então, irá aparecer uma mensagem de confirmação da operação. Selecione
 
 # Como funcionam as subcontas da Kobana?
 
-## Description
+## Descrição
 
 Entenda como as subcontas podem ajudar a sua equipe ou seus clientes!
 
-## Content
+## Conteúdo
 
 A Kobana foi criada para ser uma interface intuitiva para gerenciar seus
 pagamentos e recebimentos e, também, para ser uma API robusta para
@@ -11750,11 +11629,11 @@ mesmo!][1]{: target="_blank" .intercom-content-link}*
 
 # Como utilizar as subcontas?
 
-## Description
+## Descrição
 
 Entenda como usar as subcontas na Kobana para facilitar ainda mais o controle financeiro na sua empresa!
 
-## Content
+## Conteúdo
 
 Na Kobana, você pode criar subcontas para separar operações diferentes.
 [Leia este artigo para conhecer mais sobre a subconta][1]{:
@@ -11904,11 +11783,11 @@ registrados.
 
 # Como ativar os recebimentos por boleto pela API do BV?
 
-## Description
+## Descrição
 
 Descubra como conectar com a API de recebimentos do BV e automatizar seus recebimentos pela Kobana!
 
-## Content
+## Conteúdo
 
 Para habilitar o acesso da sua conta da Kobana ao Web Service do BV e
 assim ativar o registro automático dos seus boletos, será necessário
@@ -11970,11 +11849,11 @@ Service.
 
 # Como ativar a comunicação via API de boletos do Banco Safra?
 
-## Description
+## Descrição
 
 Descubra como conectar com a API de boletos para receber por essa modalidade!
 
-## Content
+## Conteúdo
 
 Para habilitar o acesso da sua conta da Kobana ao Web Service do Banco
 Safra e assim ativar o registro automático dos seus boletos, contate o
@@ -12046,7 +11925,7 @@ Service.
 
 # Como receber Alertas sobre a minha conta por e-mail?
 
-## Content
+## Conteúdo
 
 Se você já sabe [como funciona o sistema de alertas][1]{:
 target="_blank" .intercom-content-link} da Kobana, agora pode configurar
@@ -12132,7 +12011,7 @@ Pronto! Agora você receberá os alertas nos e-mails cadastrados.
 
 # No caso de boletos fraudados, a instituição financeira fará o ressarcimento?
 
-## Content
+## Conteúdo
 
 O banco é um intermediário no processo de cobrança, devendo o pagador
 ser orientado a procurar a empresa emissora do boleto.
@@ -12150,7 +12029,7 @@ Fonte: FEBRABAN
 
 # O consumidor precisa fazer o cálculo para pagamento de boleto vencido?
 
-## Content
+## Conteúdo
 
 **Não.** O cálculo é feito automaticamente pelo sistema da Nova
 Plataforma da Cobrança, observados os parâmetros contratuais definidos
@@ -12169,7 +12048,7 @@ Fonte: FEBRABAN
 
 # Por que, com a Nova Plataforma de Cobrança, é preciso colocar o CPF no boleto?
 
-## Content
+## Conteúdo
 
 Não é por causa da Nova Plataforma de Cobrança que é necessário colocar
 o CPF no boleto de pagamento. Essa é uma exigência do Banco Central do
@@ -12205,7 +12084,7 @@ Fonte: FEBRABAN
 
 # Houve alguma mudança no pagamento de concessionárias, contas e tributos ?
 
-## Content
+## Conteúdo
 
 Não, pois o pagamento de faturas de concessionárias de serviços públicos
 e tributos, em geral, é feito por outros tipos de documento que não os
@@ -12224,7 +12103,7 @@ Fonte: FEBRABAN
 
 # Existe alteração nos horários limites de pagamentos de boletos?
 
-## Content
+## Conteúdo
 
 Não. Os horários limites de pagamentos de boletos não sofreram
 alteração.
@@ -12242,7 +12121,7 @@ Fonte: FEBRABAN
 
 # É possível pagar meus boletos apenas com o número do meu CPF?
 
-## Content
+## Conteúdo
 
 Por enquanto, somente o pagador que estiver cadastrado no DDA- Débito
 Direto Autorizado – terá essa opção. Para o futuro, o objetivo é acabar
@@ -12262,7 +12141,7 @@ Fonte: FEBRABAN
 
 # Boleto com valor diferente da emissão pode ser pago?
 
-## Content
+## Conteúdo
 
 Sim, é possível se o emissor do boleto definir esse procedimento quando
 for feito o registro da cobrança no banco.
@@ -12280,7 +12159,7 @@ Fonte: FEBRABAN
 
 # No caso de boletos emitidos com vencimento no mesmo dia da compra, como fica o registro?
 
-## Content
+## Conteúdo
 
 Os bancos estão disponibilizando sistemas online de registro, como o
 caso do e-commerce. Assim, quando o cliente fizer uma compra e quiser o
@@ -12312,7 +12191,7 @@ Fonte: FEBRABAN
 
 # O cliente pode emitir boleto de cobrança em sistema próprio?
 
-## Content
+## Conteúdo
 
 Sim. O boleto pode ser emitido em sistema próprio, mas, para usufruir
 das vantagens da Nova Plataforma de Cobrança, ele precisa estar
@@ -12331,7 +12210,7 @@ Fonte: FEBRABAN
 
 # Preciso informar o meu CPF para ter meus boletos emitidos no novo sistema?
 
-## Content
+## Conteúdo
 
 A manutenção do cadastro do cliente, incluindo seu CPF, é uma obrigação
 da empresa beneficiária, conforme foi estabelecido pela circular do
@@ -12351,7 +12230,7 @@ Fonte: FEBRABAN
 
 # O que acontece se o boleto não for encontrado no novo sistema?
 
-## Content
+## Conteúdo
 
 O cliente deve ser orientado a procurar o banco emissor do boleto de
 pagamento.
@@ -12369,7 +12248,7 @@ Fonte: FEBRABAN
 
 # Houve alteração no layout de pagamento?
 
-## Content
+## Conteúdo
 
 Não teve alterações no layout.
 {: .no-margin}
@@ -12386,7 +12265,7 @@ Fonte: FEBRABAN
 
 # Houve alguma mudança para quem paga pelo DDA?
 
-## Content
+## Conteúdo
 
 Não, não haverá mudança no processo para quem já utiliza o DDA.
 {: .no-margin}
@@ -12403,7 +12282,7 @@ Fonte: FEBRABAN
 
 # Quem é responsável pelo cadastro de beneficiário na Nova Plataforma de Cobrança?
 
-## Content
+## Conteúdo
 
 O banco emissor da cobrança.
 {: .no-margin}
@@ -12420,7 +12299,7 @@ Fonte: FEBRABAN
 
 # O boleto físico continuará sendo entregue?
 
-## Content
+## Conteúdo
 
 Sim, normalmente, com exceção se o pagador estiver cadastrado no DDA
 como sacado eletrônico.
@@ -12438,7 +12317,7 @@ Fonte: FEBRABAN
 
 # Todos os bancos emissores de boletos de cobrança estão dentro do projeto?
 
-## Content
+## Conteúdo
 
 Sim, todos.
 {: .no-margin}
@@ -12455,7 +12334,7 @@ Fonte: FEBRABAN
 
 # Os boletos poderão ser pagos em qualquer canal de pagamento? E quando estiver vencido?
 
-## Content
+## Conteúdo
 
 Sim, podem ser pagos em qualquer canal de atendimento dos bancos, mesmo
 vencido.
@@ -12473,7 +12352,7 @@ Fonte: FEBRABAN
 
 # O boleto pode ser acolhido com valor divergente do valor informado para a instituição processadora?
 
-## Content
+## Conteúdo
 
 Sim, desde que a empresa emissora dê a autorização no momento em que for
 feito o registro no banco.
@@ -12491,7 +12370,7 @@ Fonte: FEBRABAN
 
 # É considerado cálculo de juros sobre feriado municipal ou estadual?
 
-## Content
+## Conteúdo
 
 Não. De acordo com o Código Civil, compromissos que tenham seu
 vencimento em feriado, independentemente se municipal, estadual ou
@@ -12526,7 +12405,7 @@ Fonte: [FEBRABAN][2]{: target="_blank" .intercom-content-link}
 
 # Quem é responsável pelo cadastro de CPF e CNPJ do cliente pagador?
 
-## Content
+## Conteúdo
 
 O responsável pelo cadastro dos dados é a empresa emissora do boleto de
 pagamento.
@@ -12544,7 +12423,7 @@ Fonte: FEBRABAN
 
 # Há mudança de código de barra na emissão de segunda via?
 
-## Content
+## Conteúdo
 
 Não. O código de barras não será alterado em nenhum momento.
 {: .no-margin}
@@ -12561,7 +12440,7 @@ Fonte: FEBRABAN
 
 # A Nova Plataforma de Cobrança gerou aumento de custo?
 
-## Content
+## Conteúdo
 
 Para quem paga os boletos, não há cobrança de tarifa pela emissão.
 {: .no-margin}
@@ -12593,7 +12472,7 @@ Fonte: FEBRABAN
 
 # Quais as vantagens da Nova Plataforma de Cobrança?
 
-## Content
+## Conteúdo
 
 Os boletos vencidos agora podem ser pagos em qualquer instituição
 financeira e nos correspondentes bancários, desde que sejam registrados.
@@ -12639,7 +12518,7 @@ Fonte: FEBRABAN
 
 # O que acontece se um mesmo boleto for pago duas vezes?
 
-## Content
+## Conteúdo
 
 Isso não acontece, pois o sistema não aceita pagamento em duplicidade.
 {: .no-margin}
@@ -12656,7 +12535,7 @@ Fonte: FEBRABAN
 
 # Com a Nova Plataforma de Cobrança, o que mudou no pagamento dos boletos?
 
-## Content
+## Conteúdo
 
 Com a Nova Plataforma, um boleto vencido poderá ser pago em qualquer
 instituição financeira e em qualquer um dos canais de atendimento
@@ -12682,7 +12561,7 @@ Fonte: FEBRABAN
 
 # Por que foi desenvolvida a Nova Plataforma de Cobrança?
 
-## Content
+## Conteúdo
 
 A Nova Plataforma de Cobrança foi uma iniciativa do setor bancário para
 modernizar e melhorar a segurança na emissão de boletos.
@@ -12716,7 +12595,7 @@ Fonte: FEBRABAN
 
 # O que é a Nova Plataforma de Cobrança?
 
-## Content
+## Conteúdo
 
 A Nova Plataforma de Cobrança é uma iniciativa do setor bancário, que
 sentiu a necessidade de aperfeiçoar e modernizar o sistema de liquidação
@@ -12785,7 +12664,7 @@ Fonte: FEBRABAN
 
 # Fim do boleto sem registro
 
-## Content
+## Conteúdo
 
 ## Nova Plataforma de Cobrança   {#h_f431212591}
 
@@ -12886,7 +12765,7 @@ Fonte: [FEBRABAN][3]{: target="_blank" .intercom-content-link}
 
 # Regras para e-commerce
 
-## Content
+## Conteúdo
 
 Em 2013, o Governo Federal divulgou um decreto com o objetivo de
 regulamentar o comércio eletrônico, uma vez que o Código de Defesa do
@@ -13001,7 +12880,7 @@ confiança aos seus clientes.
 
 # Preciso emitir nota fiscal da minha venda?
 
-## Content
+## Conteúdo
 
 **Sim.** O boleto bancário é apenas um meio de pagamento pelo qual o
 dinheiro será recebido.
@@ -13024,68 +12903,9 @@ segurança dentro das leis federais, estaduais e municipais.
 
 ---
 
-# Solicitações de integrações e desenvolvimento
-
-## Description
-
-Novas funcionalidades, melhorias e integrações. Entenda como solicitar e como a Kobana pode atender seus pedidos.
-
-## Content
-
-As operações das empresas sempre possuem suas peculiaridades. Quando uma
-empresa utiliza um sistema para determinada operação, nem sempre esse
-sistema tem uma aderência de 100% com a operação. A partir disso, é bem
-comum que seja necessário uma adaptação por parte da empresa ou do
-sistema.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Diariamente recebemos solicitações de alterações, melhorias e
-integrações para que a Kobana se encaixe melhor na operação dos nossos
-cliente.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Em nosso contrato, especificamos que o que está sendo contratado é o
-sistema da Kobana exatamente da forma como se encontra no momento da
-assinatura. Porém, estamos sempre dispostos a receber sugestões que
-melhoram ainda mais a experiência dos nossos clientes.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Contudo, devido a alta demanda de desenvolvimento, não é possível
-atender a todos os pedidos e solicitações que são realizados.
-{: .no-margin}
-
-
-{: .no-margin}
-
-As novas funcionalidades, melhorias e integrações são desenvolvidas de
-acordo com uma prioridade baseada em custos de desenvolvimento e
-quantidade de clientes. Toda a sugestão entre em uma triagem onde são
-considerados esses fatores.
-{: .no-margin}
-
-
-{: .no-margin}
-
-**Em todos os casos, a Kobana nunca estabelece um prazo para desenvolver
-uma funcionalidade, melhoria ou integração.**
-{: .no-margin}
-
-
-
----
-
 # Prevenção e Combate à Lavagem de Dinheiro
 
-## Content
+## Conteúdo
 
 A Lei nº 9.613/98, de 3 de março de 1998, dispôs sobre os crimes de
 \"lavagem\" ou ocultação de bens, direitos e valores; a prevenção da
@@ -13151,7 +12971,7 @@ previstos na Lei nº 9.613.
 
 # O fornecedor pode cobrar pela emissão de boleto bancário?
 
-## Content
+## Conteúdo
 
 **Não.** Cobrar pela emissão de boleto bancário é ilegal e fere o Código
 Civil e o Código de Defesa do Consumidor (Lei nº 8.078/1990).
@@ -13178,7 +12998,7 @@ abusiva e fere os arts. 39 e 51 da Lei nº 8.078/1990.
 
 # Regras para Juros de Mora
 
-## Content
+## Conteúdo
 
 De acordo com a lei, os **juros de mora representam 1% pro-rata**, o que
 quer dizer que, a cada 30 dias ou um mês, soma-se no máximo 1% do valor
@@ -13252,11 +13072,11 @@ previsto em contrato assinado entre sua empresa e o cliente.
 
 # Multa e Juros de Mora
 
-## Description
+## Descrição
 
 Veja como é calculado o valor de multa e juros de mora por atraso no pagamento do boleto.
 
-## Content
+## Conteúdo
 
 De acordo com a lei, a **multa por atraso corresponde a 2% do valor do
 boleto**, enquanto os **juros de mora representam 1% pro-rata**, o que
@@ -13307,7 +13127,7 @@ Portanto, o valor final do boleto será de 100 (valor original) + 2
 
 # Normas referentes a Boletos Bancários
 
-## Content
+## Conteúdo
 
 De acordo com publicação de circulares do **Banco Central do Brasil**, a
 lei n° **3.598** foi alterada para a lei n° **3.656** em vigor e está
@@ -13450,7 +13270,7 @@ premissas:
 
 # Conheça as fraudes com boleto
 
-## Content
+## Conteúdo
 
 O sistema de boleto bancário no Brasil é alvo de fraudes há muitos anos.
 Foi principalmente por este motivo que os bancos se uniram e
@@ -13666,7 +13486,7 @@ dinheiro.
 
 # Compromisso com LGPD
 
-## Content
+## Conteúdo
 
 ## **LGPD – Lei Geral de Proteção de Dados Pessoais**   {#h_224bc21ee9}
 
@@ -13756,7 +13576,7 @@ Kobana com a LGPD, envie um e-mail para
 
 # Política de Retenção de Dados
 
-## Content
+## Conteúdo
 
 *Última atualização em 18 de janeiro de 2023.*
 {: .no-margin}
@@ -13797,7 +13617,7 @@ prévio de 30 dias.
 
 # Política de Segurança
 
-## Content
+## Conteúdo
 
 *Última atualização em 15 de março de 2021.*
 {: .no-margin}
@@ -14002,7 +13822,7 @@ práticas adotadas na Kobana, envie um e-mail para
 
 # Política de Responsabilidade Socioambiental
 
-## Content
+## Conteúdo
 
 <div class="intercom-interblocks-table-container">
 <table role="presentation"><tbody><tr><td><p class="no-margin"><b>Data</b></p></td><td><p class="no-margin"><b>Descrição</b></p></td></tr><tr><td><p class="no-margin">09/07/2024</p></td><td><p class="no-margin">Renovação do certificado de Neutralização de Carbono. </p></td></tr><tr><td><p class="no-margin">19/07/2023</p></td><td><p class="no-margin">Renovação dos certificados de Empresa Parceira da Natureza e Neutralização de Carbono.</p></td></tr><tr><td><p class="no-margin">11/07/2022</p></td><td><p class="no-margin">Renovação dos certificados de Empresa Parceira da Natureza e Neutralização de Carbono.</p></td></tr><tr><td><p class="no-margin">22/06/2021</p></td><td><p class="no-margin">Publicação da Política de Responsabilidade Socioambiental.</p></td></tr></tbody></table>
@@ -14139,7 +13959,7 @@ target="_blank" .intercom-content-link}.
 
 # Política de Cookies
 
-## Content
+## Conteúdo
 
 *Última atualização em março de 2021*
 {: .no-margin}
@@ -14166,7 +13986,7 @@ disponível no link abaixo:
 
 # Política de Inclusão e Acessibilidade
 
-## Content
+## Conteúdo
 
 *Última atualização em 31 de maio de 2021.*
 {: .no-margin}
@@ -14292,7 +14112,7 @@ target="_blank" .intercom-content-link}.
 
 # Política White Hat
 
-## Content
+## Conteúdo
 
 *Última atualização em 15 de março de 2021.*
 {: .no-margin}
@@ -14631,132 +14451,9 @@ target="_blank" .intercom-content-link}.
 
 ---
 
-# Acordo de Nível de Serviço (SLA)
-
-## Description
-
-Entenda o nível de serviço esperado pelo usuário na contratação da plataforma disponibilizada pela Kobana.
-
-## Content
-
-Este **Acordo de Nível de Serviço** (SLA) é o documento que define, em
-termos mensuráveis e claros, o nível de serviço esperado pelo usuário
-quando da utilização da plataforma disponibilizada pela Kobana, no que
-diz respeito à disponibilidade e qualidade dos serviços prestados.
-{: .no-margin}
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #fed9db80; border-color: #fd3a5733;" markdown="1">
-*Quer saber como criar sua conta na Kobana? Veja [como contratar um
-plano no sistema e abrir sua conta][1]{: target="_blank"
-.intercom-content-link}.*
-{: .intercom-align-center .no-margin}
-
-</div>
-
-## **Disponibilidade dos Serviços**   {#h_0c1e1194fd}
-
-A disponibilidade aqui tratada refere-se ao tempo de disponibilidade dos
-servidores da Kobana, ou seja, tempo em que estarão acessíveis e em
-funcionamento, os quais serão medidos por meio de indicador percentual
-ao longo do mês em que o serviço é prestado.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Fica estabelecido pela Kobana que seus serviços e servidores estarão
-disponíveis mensalmente, em média, **99,5%** (noventa e nove vírgula
-cinco por cento) do tempo, excluindo períodos de manutenção programada.
-{: .no-margin}
-
-
-{: .no-margin}
-
-A disponibilidade e a situação dos serviços são monitoradas e podem ser
-visualizadas publicamente em [https://status.kobana.com.br][2]{:
-target="_blank" .intercom-content-link}
-{: .no-margin}
-
-
-{: .no-margin}
-
-Não será contabilizada como interrupção toda manutenção da plataforma e
-dos serviços acima citados, com comunicação prévia de **15 (quinze) dias
-de antecedência**.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **Suporte**   {#h_5fd4ff4be7}
-
-O suporte à plataforma é fornecido pela Kobana de **segunda a
-sexta-feira, das 9h às 18h**, em dias úteis. Como nos finais de semana e
-feriados nacionais não há atendimento, responderemos às dúvidas enviadas
-no início do próximo dia útil.
-{: .no-margin}
-
-
-{: .no-margin}
-
-O suporte é realizado pelos seguinte canais:
-{: .no-margin}
-
-* E-mail: [suporte@kobana.com.br](mailto:suporte@kobana.com.br){:
-  target="_blank" .intercom-content-link}
-  {: .no-margin}
-
-* Telefone: [3003-0386](tel:3003-0386){: target="_blank"
-  .intercom-content-link} (sem DDD)
-  {: .no-margin}
-
-* Chat: (ícone no canto inferior direito da tela)
-  {: .no-margin}
-
-A equipe de suporte da Kobana usará diretrizes para priorizar o
-atendimento, com o objetivo de estabelecer níveis de criticidade, os
-quais terão tempos de resposta proporcionais aos referidos critérios.
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/931175947/7dd28ad5ad5f7d2dac1851a7/acordo+de+nivel+de+serivoc.png?expires=1752529500&amp;signature=38cab2b25edb63fa8cd22c96544d2862c34cd0c65766d0ce5c1b1afb63473cfe&amp;req=fSMmF857lIVYFb4f3HP0gIMcVZPyx%2Fqh6%2FrJizzTPWEFTgfUeE8559gmGFyH%0A8EY%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-O tempo para a solução do problema pode variar de acordo com a
-complexidade dele.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **Informações e Dúvidas**   {#h_744f7f07ca}
-
-Se você tem qualquer dúvida sobre esse Acordo de Nível de Serviço (SLA)
-ou sobre as práticas adotadas na Kobana, envie um e-mail para:
-[suporte@kobana.com.br](mailto:suporte@kobana.com.br){: target="_blank"
-.intercom-content-link}.
-{: .no-margin}
-
-
-
-[1]: https://ajuda.kobana.com.br/pt-BR/articles/8809370-como-criar-minha-conta-na-kobana
-[2]: https://status.kobana.com.br/
-
-
----
-
 # Política de Privacidade e Tratamento de Dados
 
-## Content
+## Conteúdo
 
 *Última Atualização: 10 de junho de 2021*
 {: .no-margin}
@@ -15213,7 +14910,7 @@ com a maior brevidade possível.
 
 # Termos de Uso
 
-## Content
+## Conteúdo
 
 *Última atualização em 19 de abril de 2021.*
 {: .no-margin}
@@ -15240,102 +14937,9 @@ conta disso, os Termos ficam disponíveis no link abaixo:
 
 ---
 
-# Como utilizar as Políticas de Senha e Acesso?
-
-## Content
-
-## **Política de Senha**   {#h_7e05361f80}
-
-A política de senha da Kobana é um conjunto de regras que você pode
-aplicar à sua conta com o objetivo de aumentar a segurança dos acessos
-de todos os usuários.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Para aplicar uma política de senha à sua conta, você deverá ser o
-usuário proprietário ou administrador da conta. Acesse o menu *Conta* e
-[Política de Senha][1]{: target="_blank" .intercom-content-link}. Você
-poderá aplicar as seguintes regras que valerão para todos os
-colaboradores que possuem um usuário de acesso na Kobana:
-{: .no-margin}
-
-* Exigir tamanho mínimo da senha em quantidade de carácteres
-  {: .no-margin}
-
-* Exigir ao menos uma letra maiúscula, uma letra minúscula, um número,
-  um caractere não alfanumérico.
-  {: .no-margin}
-
-* Habilitar tempo para expiração e troca obrigatória de senha
-  {: .no-margin}
-
-* Permissão para que os usuários realizem a alteração da própria senha
-  quando desejarem
-  {: .no-margin}
-
-* Impedir que usuários reutilizem senhas anteriores
-  {: .no-margin}
-
-## **Política de Acesso**   {#h_567dddd119}
-
-A política de acesso permite que a sua empresa obrigue a utilização da
-**autenticação em dois fatores** a todos os colaboradores que tenham
-acesso à conta da Kobana. Essa autenticação em dois fatores pode ser
-utilizada através de aplicativos de autenticação, como, por exemplo,
-Google Authenticator, 1Password, Authy, entre outros.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Essa obrigatoriedade pode ser configurada apenas por usuários
-proprietários ou administradores, acessando *Conta* e [Política de
-Acesso][2]{: target="_blank" .intercom-content-link}. Você, como
-administrador da conta, poderá definir uma data onde essa
-obrigatoriedade passará a valer.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/945041610/28c7e73cb476dd119fb91b96/image.png?expires=1752529500&amp;signature=c124ffb14caa66938da15eeba03a014e265dd456aa32d4f5cfeb827543002d78&amp;req=fSQiFs1%2Fm4BfFb4f3HP0gItXrTQvpFY06FC14b1D9Yqq6f11XUatvRnvncWp%0ANGY%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-Na mesma página, os usuários proprietário e administradores conseguem
-**restringir IPs** de acesso na conta. É muito útil para aumentar a
-segurança de empresas que trabalham com VPN. Assim, apenas acessos
-vindos dos IPs cadastrados serão permitidos.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/945041621/ccf3dc0dd9e0a9b46cce438d/image.png?expires=1752529500&amp;signature=5414f8fdd905d2d01eaa4d743c9bfdad2aee690e42cd946d1353befec240265d&amp;req=fSQiFs1%2Fm4NeFb4f3HP0gJulV0ZAoN0ErJBrFmdzvyWzDiZOar0nvYfN9jHB%0AF%2BU%3D%0A)
-</div>
-
-Recomendamos muito cuidado no cadastro dos IPs. Caso o mesmo seja feito
-de forma incorreta, isso pode barrar o acesso de todos os usuários da
-empresa.
-{: .no-margin}
-
-
-
-[1]: https://kobana.com.br/conta/politica-senha
-[2]: https://kobana.com.br/conta/politica-acesso
-
-
----
-
 # Como permitir acesso a sua conta ao time de suporte da Kobana?
 
-## Content
+## Conteúdo
 
 Muitas vezes, para resolver uma questão de suporte, o nosso time precisa
 acessar sua conta para verificar e confirmar detalhes. Para termos esse
@@ -15367,11 +14971,11 @@ no momento que desejar.
 
 # Como utilizar as Políticas de Senha e Acesso?
 
-## Description
+## Descrição
 
 Descubra como usar as políticas de senha e acesso para trazer mais segurança para sua conta na Kobana!
 
-## Content
+## Conteúdo
 
 ## **Política de Senha**   {#h_69d156e00f}
 
@@ -15467,7 +15071,7 @@ empresa.
 
 # O sistema possui backup?
 
-## Content
+## Conteúdo
 
 Nossos servidores são seguros por um sistema de backup que trafega os
 dados criptografados e os armazena em ambiente seguro. Mantemos os
@@ -15508,7 +15112,7 @@ Para saber mais sobre a segurança do AWS, visite:
 
 # A Kobana utiliza SSL?
 
-## Content
+## Conteúdo
 
 Os servidores da Kobana estão configurados com **Certificados SSL 2048
 bits**, isso quer dizer que todo o acesso é realizado através de HTTPS e
@@ -15537,7 +15141,7 @@ usando o sistema de um cyber café.
 
 # O sistema possui criptografia de senhas?
 
-## Content
+## Conteúdo
 
 Todas as senhas são criptografadas no banco de dados com uma
 criptografia irreversível. Isso quer dizer que, mesmo que nós queiramos,
@@ -15560,7 +15164,7 @@ terem acesso indevido a sua senha.
 
 # Como funciona o sistema de alertas da Kobana?
 
-## Content
+## Conteúdo
 
 A Kobana tem um sistema de Alertas que notifica você sobre os eventos
 relevantes da sua conta. O símbolo do alerta é o sininho que fica na
@@ -15655,11 +15259,11 @@ target="_blank" .intercom-content-link}.
 
 # Como ter controle do histórico de atividades dos usuários da minha conta?
 
-## Description
+## Descrição
 
 Confira como acessar o histórico de atividade de usuários para ter mais informações sobre a sua conta!
 
-## Content
+## Conteúdo
 
 Na Kobana, [você pode cadastrar múltiplos usuários][1]{: target="_blank"
 .intercom-content-link}, dependendo do seu plano. Com o acesso de vários
@@ -15748,11 +15352,11 @@ clientes com planos ativos na Kobana.
 
 # Como funciona o Portal do Cliente?
 
-## Description
+## Descrição
 
 Veja como configurar o Portal do Cliente para que seu cliente tenha acesso aos boletos emitidos para ele na Kobana.
 
-## Content
+## Conteúdo
 
 O **Portal do Cliente** é um site gerado pela interface da Kobana para
 que os seus clientes possam acessar todos os boletos já gerados para ele
@@ -15878,11 +15482,11 @@ na Kobana.
 
 # Como alterar o cadastro de um cliente?
 
-## Description
+## Descrição
 
 Precisa alterar os dados de cadastro de um cliente na plataforma da Kobana? Entenda como.
 
-## Content
+## Conteúdo
 
 **Alterar** **os dados de um cliente**, por via de regra, não afeta os
 boletos que você já gerou. Ao modificar o cadastro, esses dados serão
@@ -16028,11 +15632,11 @@ com sucesso.
 
 # Como adicionar as etiquetas (tags) aos meus clientes?
 
-## Description
+## Descrição
 
 Entenda para que servem e como adicionar as etiquetas no perfil dos seus clientes.
 
-## Content
+## Conteúdo
 
 A principal função das etiquetas é filtrar como uma ferramenta de
 filtro. Por exemplo, a partir do momento que você inclui uma etiqueta em
@@ -16137,7 +15741,7 @@ criar o boleto na interface.
 
 # Como importar vários clientes por meio de uma planilha?
 
-## Content
+## Conteúdo
 
 Toda vez que você gera uma operação de recebimento boleto pela Kobana,
 automaticamente, o pagador é cadastrado como cliente na plataforma. Por
@@ -16289,11 +15893,11 @@ Para verificar o cadastro dos seus clientes, acesse o menu *CRM* &gt;
 
 # É necessário fazer cadastros completos de meus clientes?
 
-## Description
+## Descrição
 
 Veja os dados necessários para cadastrar um cliente e emitir o boleto.
 
-## Content
+## Conteúdo
 
 Para cadastrar um cliente você precisa, obrigatoriamente, informar o
 nome/razão social, CPF/CNPJ e endereço. Todos esses dados são essenciais
@@ -16309,7 +15913,7 @@ para a emissão de um boleto para pagamento.
 
 # Meus clientes precisam ter uma conta na Kobana?
 
-## Content
+## Conteúdo
 
 Seus clientes não precisam ter uma conta na Kobana para pagar os boletos
 emitidos pelo nosso sistema.
@@ -16336,11 +15940,11 @@ Kobana.
 
 # Como cadastrar um cliente e acompanhar seu histórico?
 
-## Description
+## Descrição
 
 Veja como e quando cadastrar um novo cliente na sua operação dentro da Kobana.
 
-## Content
+## Conteúdo
 
 Toda vez que você gera um boleto ou Pix na Kobana, automaticamente o
 pagador é cadastrado como cliente na plataforma. Por isso, não existe a
@@ -16443,7 +16047,7 @@ informações de cadastro.
 
 # Como gerenciar o histórico de SMS enviado
 
-## Content
+## Conteúdo
 
 No painel de histórico de SMS, na plataforma da Kobana, você pode
 acompanhar se as mensagens de texto (SMS) foram enviadas e recebidas
@@ -16533,11 +16137,11 @@ acessando o menu *Administração &gt; Históricos &gt; Exportações*.
 
 # Envios de SMS: O que cada status significa?
 
-## Description
+## Descrição
 
 Entenda o que cada situação apresentada no painel da Kobana representa sobre o envio de SMS aos seus clientes.
 
-## Content
+## Conteúdo
 
 Após ativar a régua de cobrança por SMS, é comum que surjam dúvidas em
 relação às situações apresentadas no painel. Por isso, esse artigo
@@ -16611,11 +16215,11 @@ esteja apenas como recebido.
 
 # Como ativar e disparar o SMS na Kobana?
 
-## Description
+## Descrição
 
 Veja como personalizar uma régua de cobrança para enviar mensagens ao seu cliente de forma automática.
 
-## Content
+## Conteúdo
 
 Na Kobana, você consegue personalizar uma régua de cobrança para que
 mensagens de texto (SMS) sejam enviadas ao celular do seu cliente
@@ -16763,11 +16367,11 @@ telefone do pagador, mensagem, ID da notificação e ID da conta SMS.
 
 # Contratando a Kobana, minha empresa estará isenta das taxas bancárias?
 
-## Description
+## Descrição
 
 Compreenda a diferença entre as cobranças realizadas pela Kobana e o seu banco
 
-## Content
+## Conteúdo
 
 Se a ideia da sua empresa é contratar a Kobana para diminuir os custos
 com o seu banco para realização de operações, isso não é factível.​
@@ -16799,11 +16403,11 @@ interferência da Kobana nessa parte.
 
 # Como acompanhar seu extrato financeiro da Kobana?
 
-## Description
+## Descrição
 
 Saiba como verificar no detalhe cada fatura da Kobana e cada pagamento realizado pela sua empresa.
 
-## Content
+## Conteúdo
 
 Durante o uso da Kobana poderá haver dúvidas relacionadas aos valores
 das faturas. Em nossa interface, você consegue visualizar no detalhe os
@@ -16873,11 +16477,11 @@ acessórias, como operação excedente, envio de SMS, etc.
 
 # Como trocar o cartão de crédito para pagamento do meu plano?
 
-## Description
+## Descrição
 
 Saiba como realizar a troca do cartão de crédito para pagamento das faturas da Kobana
 
-## Content
+## Conteúdo
 
 A Kobana permite que você realize o pagamento relacionado às despesas do
 seu plano através do boleto e do cartão de crédito. Caso, por algum
@@ -16938,11 +16542,11 @@ cancelamento do mesmo para que você não receba cobranças por e-mail.
 
 # Como realizar o pagamento do meu plano da Kobana?
 
-## Description
+## Descrição
 
 Entenda como você pode realizar o pagamento do seu plano ou de despesas acessórias diretamente na interface da Kobana
 
-## Content
+## Conteúdo
 
 A fatura do seu plano ou de despesas acessórias (operações excedentes,
 envio de SMS, etc) é sempre gerada no mesmo dia do mês da sua
@@ -17005,11 +16609,11 @@ como crédito para as próximas cobranças da sua conta.
 
 # Como cancelar meu plano da Kobana?
 
-## Description
+## Descrição
 
 Saiba o passo a passo de como cancelar o seu plano na Kobana.
 
-## Content
+## Conteúdo
 
 Por algum motivo, pode ser que sua empresa não precise mais da Kobana
 para gerenciar o fluxo financeiro e realizar operações bancárias através
@@ -17058,11 +16662,11 @@ solicitar a exclusão total dos dados.
 
 # Como acompanhar o histórico de e-mails enviados?
 
-## Description
+## Descrição
 
 Entenda como gerenciar e acompanhar todas as notificações de e-mails enviadas para seus clientes.
 
-## Content
+## Conteúdo
 
 Na Kobana, você consegue criar uma régua de cobrança para [automatizar o
 envio de e-mails][1]{: target="_blank" .intercom-content-link} ao seus
@@ -17198,90 +16802,13 @@ filtros antes de exportar para que não ultrapasse esse limite
 
 ---
 
-# Variáveis que podem ser utilizadas nas notificações de e-mails na Kobana
-
-## Description
-
-Veja como usar as variáveis para facilitar a criação de notificações na sua empresa.
-
-## Content
-
-A Kobana fornece um **sistema de variáveis de substituição** para
-facilitar, por exemplo, a criação de modelos de boletos e notificações.
-Essas variáveis são usadas para que possam ser criados textos genéricos.
-{: .no-margin}
-
-
-{: .no-margin}
-
-As variáveis colocadas no texto serão substituídas automaticamente pelos
-valores correspondes no momento em que a operação for criada ou uma
-notificação for enviada, como, incluir a variável do nome de um cliente
-em uma notificação sem a necessidade de escrever em cada uma das
-notificações.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
-*Na Kobana, todo dado poderá se tornar variável. O melhor local para
-consultar esses dados é a documentação técnica da Kobana:
-[https://developers.kobana.com.br/][1]{: target="_blank"
-.intercom-content-link}.*
-{: .no-margin}
-
-</div>
-
-<div class="intercom-interblocks-callout" style="background-color: #e8e8e880; border-color: #73737633;" markdown="1">
-*Caso você use a integração da Kobana com o eNotas, você pode incluir
-variáveis das suas notas fiscais e até mesmo a própria nota fiscal nas
-suas notificações. Saiba mais: [Como enviar a Nota Fiscal e outras
-informações dela ao meu cliente?][2]{: target="_blank"
-.intercom-content-link}*
-{: .no-margin}
-
-</div>
-
-## **Exemplos de variáveis disponíveis**   {#h_66103e24bd}
-
-Nas tabelas abaixo, listamos exemplos das variáveis mais utilizadas
-pelos nossos clientes:
-{: .no-margin}
-
-<div class="intercom-interblocks-table-container">
-<table role="presentation"><tbody><tr><td><p class="no-margin"><b>Variável</b></p></td><td><p class="no-margin"><b>Informação substituta</b></p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.amount | prepend: "R$ " }}</p></td><td><p class="no-margin">Valor do boleto iniciando com o prefixo "R$"</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.expire_at }}</p></td><td><p class="no-margin">Data de vencimento do boleto</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.customer_person_name }}</p></td><td><p class="no-margin">Nome ou razão social do cliente</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.customer_contact_person }}</p></td><td><p class="no-margin">Nome do contato da empresa cliente</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.guarantor_name }}</p></td><td><p class="no-margin">Nome ou razão social do beneficiário final (sacador/avalista)</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.description }}</p></td><td><p class="no-margin">Texto do demonstrativo do boleto</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.document_number }}</p></td><td><p class="no-margin">Número de documento do boleto</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.custom_data.exemplo }}</p></td><td><p class="no-margin">Dado de exemplo inserido no custom_data através de importação de CSV ou API</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.paid_amount | money | prepend: "R$ " }}</p></td><td><p class="no-margin">Valor total pago no boleto</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.url }}</p></td><td><p class="no-margin">Link de acesso do boleto</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.customer_nickname }}</p></td><td><p class="no-margin">Nome fantasia da empresa</p></td></tr></tbody></table>
-</div>
-
-## **Formatos das Variáveis**   {#h_1a81e4804e}
-
-Dentro da própria variável, você consegue ajustar o formato a ser
-mostrado, como uma data não mostrar o ano ou mostrar apenas as três
-primeiras letras do mês.
-{: .no-margin}
-
-<div class="intercom-interblocks-table-container">
-<table role="presentation"><tbody><tr><td><p class="no-margin"><b>Variável</b></p></td><td><p class="no-margin"><b>Exemplo de informação substituta</b></p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.expire_at | date: "%m/%d/%Y" }}</p></td><td><p class="no-margin">13/06/2023</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.expire_at | date: "%d/%m" }}</p></td><td><p class="no-margin">13/06</p></td></tr><tr><td><p class="no-margin">#{{ bank_billet.expire_at | date: "%d/%b" }}</p></td><td><p class="no-margin">13/Jun</p></td></tr></tbody></table>
-</div>
-
-Para ajustes de formatos, você pode se basear neste link:
-[https://devhints.io/datetime][3]{: target="_blank"
-.intercom-content-link}
-{: .no-margin}
-
-
-
-[1]: https://developers.kobana.com.br/
-[2]: https://ajuda.kobana.com.br/pt-BR/articles/8850990-como-enviar-a-nota-fiscal-e-outras-informacoes-da-nota-ao-meu-cliente
-[3]: https://devhints.io/datetime
-
-
----
-
 # Como desabilitar o envio de notificações por e-mail?
 
-## Description
+## Descrição
 
 Para o seu cliente não receber notificações de e-mail, veja como desabilitar ou cancelar o disparo de mensagens.
 
-## Content
+## Conteúdo
 
 Você já sabe que na Kobana é possível [configurar notificações
 automáticas via e-mail][1]{: target="_blank" .intercom-content-link}
@@ -17415,11 +16942,11 @@ criadas.
 
 # Campo "Meta" - Crie um campo novo para cadastrar boletos para notificações
 
-## Description
+## Descrição
 
 Veja como inserir um campo novo com outras informações sobre seu cliente ou boleto ao enviar notificações automáticas.
 
-## Content
+## Conteúdo
 
 A Kobana possui diversas variáveis para você deixar as suas notificações
 com informações sobre o seu cliente ou boleto, como o nome do cliente,
@@ -17541,133 +17068,13 @@ No exemplo a seguir, queremos incluir as variáveis ***order\_id*** e
 
 ---
 
-# Como utilizar variáveis nas minhas notificações?
-
-## Description
-
-Descubra como é fácil e rápido de inserir variáveis nas notificações automáticas por e-mail e SMS.
-
-## Content
-
-Como você já deve saber, é possível configurar na Kobana o envio de
-notificações automáticas por [e-mail][1]{: target="_blank"
-.intercom-content-link} e [SMS][2]{: target="_blank"
-.intercom-content-link}. Isso é útil, por exemplo, para enviar
-automaticamente para o cliente um boleto que foi gerado, ou avisá-lo
-quando o boleto está prestes a vencer.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Nesses e-mails, é interessante inserir dados sobre a compra, como o
-valor a ser pago e a data de vencimento. Mas como fazer isso, sendo que
-os e-mails são automáticos e cada um se refere a um cliente e uma compra
-diferentes? É para isso que servem as **Variáveis**.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **O que são Variáveis?**   {#h_32962d9744}
-
-As *Variáveis* são campos padrão que serão substituídos pelas
-informações cadastradas do seu cliente ou do boleto em questão. Assim,
-você consegue personalizar cada e-mail enviado, sem perder tempo
-escrevendo e enviando um a um manualmente.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #fed9db80; border-color: #fd3a5733;" markdown="1">
-*[Confira algumas variáveis que você pode utilizar na Kobana][3]{:
-target="_blank" .intercom-content-link}*
-{: .intercom-align-center .no-margin}
-
-</div>
-
-## **Como usar variáveis nas notificações?**   {#h_c3b0dd8de2}
-
-Você pode adicionar as variáveis com facilidade na hora de criar uma
-notificação. Por exemplo, na notificação de e-mail, tanto no campo do
-**assunto**, como no da **mensagem**, você consegue clicar no bloco de
-variáveis e incluir as que você preferir.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942966439/fe284ac96eb8e81a270a8fa5/image.png?expires=1752529500&amp;signature=6017f3543df858bce4e802f0e2e59787b390aa23b01d2da24830c8e1a52b2f26&amp;req=fSQlH894mYJWFb4f3HP0gOvI9LBH0zSf0FBISfJYm7ICN4XhAsvKKJDbH08V%0A2ZE%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-No exemplo da imagem acima, utilizamos as variáveis do **nome do
-cliente, a data de vencimento e o link do boleto**. Repare que
-utilizamos o nome do cliente no assunto e na mensagem.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Para você, ela vai aparecer como o código: **#\{\{ customer.person\_name
-}}**, porém, quando o e-mail for enviado, esse código será substituído
-pelo nome de cada cliente.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942966450/5613c0a37299d8e5e105d8e0/image.png?expires=1752529500&amp;signature=41cafe74487fd690fc37850522e776a45c0facaf8afcc48506b97e83a1dfe024&amp;req=fSQlH894mYRfFb4f3HP0gEHWsNmDJyIEOYuqIEFayijDPio7FCs1JCpjRlFw%0AdW4%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-No SMS, não existe o campo de assunto, porém você poderá adicionar
-qualquer variável no corpo da mensagem.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942966457/671972cd1f4235b4b7090497/image.png?expires=1752529500&amp;signature=2ca29528ccc08da6dc4a1f30c15d56d478fb4a919f14e1ef129191065df38141&amp;req=fSQlH894mYRYFb4f3HP0gEc0jbDAzhy9PMrq12H7nveheR4zSJuWnjQHlYAy%0AN68%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
-<b><i>Atenção! </i></b>*O SMS é tarifado a cada 160 caracteres. No caso
-da variável, essa contagem é feita no resultado da substituição.
-Recomendamos sempre deixar uma margem grande de caracteres para que a
-mensagem não exceda o limite e sua empresa seja cobrada a mais por
-isso.*
-{: .no-margin}
-
-</div>
-
-
-{: .no-margin}
-
-
-
-[1]: https://ajuda.kobana.com.br/pt-BR/articles/8863528-como-enviar-notificacoes-automaticas-por-e-mail
-[2]: https://ajuda.kobana.com.br/pt-BR/articles/8866445-como-ativar-e-disparar-o-sms-na-kobana
-[3]: https://ajuda.kobana.com.br/pt-BR/articles/8851175-variaveis-que-podem-ser-utilizadas-na-kobana
-
-
----
-
 # Como enviar notificações automáticas por e-mail?
 
-## Description
+## Descrição
 
 Entenda como criar e enviar notificações automáticas de cobranças por e-mail na plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 Com a Kobana, você pode **criar uma régua de cobrança para automatizar o
 envio de notificações** por e-mail e [SMS][1]{: target="_blank"
@@ -17865,11 +17272,11 @@ em seguida, clique em **Adicionar Notificação** para salvá-la.
 
 # Como criar e personalizar o layout dos meus e-mails?
 
-## Description
+## Descrição
 
 Veja como personalizar o layout dos seus e-mails, com as informações, cores e organização, que desejar.
 
-## Content
+## Conteúdo
 
 Na Kobana, você pode criar uma régua de cobrança para disparar
 automaticamente [notificações por e-mail][1]{: target="_blank"
@@ -17975,11 +17382,11 @@ notificação, selecionando esse template pelo nome.
 
 # Como configurar o e-mail do remetente das notificações na Kobana?
 
-## Description
+## Descrição
 
 Para iniciar a configuração da régua de cobrança por e-mail, cadastre o seu e-mail de remetente.
 
-## Content
+## Conteúdo
 
 Para que você possa configurar a régua de cobrança automática por
 e-mail, o primeiro passo é<b> cadastrar e configurar o e-mail do
@@ -18097,11 +17504,11 @@ preenchimentos das informações de **SMTP**, **Porta** e **Domínio**:
 
 # Como personalizar e criar eventos para as notificações?
 
-## Description
+## Descrição
 
 Veja como criar eventos para o disparo de notificações por e-mail ou SMS para seus clientes.
 
-## Content
+## Conteúdo
 
 Com a Kobana, você pode criar e enviar notificações automáticas por
 e-mail e SMS aos seus clientes. Por exemplo, enviando um boleto para
@@ -18288,11 +17695,11 @@ target="_blank" .intercom-content-link}*
 
 # Régua de cobrança e as notificações automáticas
 
-## Description
+## Descrição
 
 Entenda como construir uma régua de cobrança no sistema de notificações automáticas da Kobana.
 
-## Content
+## Conteúdo
 
 A **régua de cobrança** é como ficou conhecida uma medida tomada por
 diversos negócios para evitar a inadimplência de seus clientes e para
@@ -18434,11 +17841,11 @@ todos os dias.
 
 # O que é o Rateio e como usá-lo na Kobana?
 
-## Description
+## Descrição
 
 Entenda como utilizar a função de rateio dentro da sua operação no sistema da Kobana.
 
-## Content
+## Conteúdo
 
 O **rateio** é uma operação que resulta na divisão proporcional de
 valores recebidos durante a execução de projetos ou realização de
@@ -18536,7 +17943,7 @@ suporte.
 
 # Como automatizar a consulta de extrato da minha conta do Sicoob?
 
-## Content
+## Conteúdo
 
 A Kobana possui uma **integração com o Sicoob para consulta de
 extrato**. Em via de regra, o extrato é atualizado no seu banco
@@ -18744,11 +18151,11 @@ procedimento.
 
 # Como consultar o extrato do meu banco na Kobana?
 
-## Description
+## Descrição
 
 Tenha acesso ao extrato do seu banco atualizado na plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 A Kobana possui uma comunicação com os bancos para **consulta de extrato
 automatizada**. Em via de regra, o extrato é atualizado no seu banco
@@ -18954,11 +18361,11 @@ Entre em contato com o nosso suporte pelo chat ou pelo e-mail
 
 # Como receber por PIX pela API do Santander?
 
-## Description
+## Descrição
 
 Neste artigo, saiba como ativar o PIX no banco Santander para receber pagamentos dos seus clientes por essa modalidade.
 
-## Content
+## Conteúdo
 
 O PIX é a solução de pagamento instantâneo, criada e gerida pelo Banco
 Central do Brasil (BC), para fazer transferências e pagamentos. Este
@@ -19207,11 +18614,11 @@ em modelo boleto-híbrido, o PIX é baixado no vencimento do boleto.*
 
 # Como ativar o PIX de recebimentos do Itaú?
 
-## Description
+## Descrição
 
 Este artigo irá te auxiliar na ativação do PIX no banco Itaú para poder receber pagamentos nessa modalidade.
 
-## Content
+## Conteúdo
 
 O PIX é a solução de pagamento instantâneo, criada e gerida pelo Banco
 Central do Brasil (BC), que proporciona a realização de transferências e
@@ -19251,11 +18658,11 @@ processo, você emita e pague um Pix de teste.
 
 # Como ativar os recebimentos por PIX pela API do Bradesco?
 
-## Description
+## Descrição
 
 Neste artigo, explicamos como ativar o PIX no Bradesco para fazer cobranças por essa modalidade.
 
-## Content
+## Conteúdo
 
 O PIX é a solução de pagamento instantâneo, criada e gerida pelo Banco
 Central do Brasil (BC), que permite fazer transferências e pagamentos.
@@ -19377,11 +18784,11 @@ boleto-híbrido, o PIX é baixado no vencimento do boleto.*
 
 # Como ativar os recebimentos por PIX pela API do Sicoob?
 
-## Description
+## Descrição
 
 Neste artigo, veja como ativar o PIX do Sicoob para começar a emitir cobranças com QR Codes do banco.
 
-## Content
+## Conteúdo
 
 O PIX é a solução de pagamento instantâneo, criada e gerenciada pelo
 Banco Central do Brasil (BC), que proporciona a realização de
@@ -19623,11 +19030,11 @@ modelo boleto-híbrido, o PIX é baixado no vencimento do boleto.
 
 # Como receber por PIX pela API do Banco do Brasil?
 
-## Description
+## Descrição
 
 Este artigo irá te auxiliar na ativação do PIX do Banco do Brasil para poder receber nessa modalidade.
 
-## Content
+## Conteúdo
 
 O PIX é a solução de pagamentos e transferências instantâneas, criada e
 gerida pelo Banco Central. Este artigo vai te ajudar a **gerar os QR
@@ -19836,11 +19243,11 @@ Deixe o **evento** PIX Recebido selecionado e defina o status dele como
 
 # Como exportar informações de PIX na Kobana?
 
-## Description
+## Descrição
 
 Exporte os dados do PIX para gerenciá-los e armazená-los.
 
-## Content
+## Conteúdo
 
 Exportar os dados dos Pix permite que você os tenha em um documento para
 gerencia-los ou armazená-los como desejar.
@@ -19947,11 +19354,11 @@ Clique na Nuvem para fazer o download.
 
 # O meu banco poderá me cobrar por PIX gerados?
 
-## Description
+## Descrição
 
 Entenda se existe algum tipo de tarifa a ser paga ao seu banco na geração de PIX.
 
-## Content
+## Conteúdo
 
 Em conversas com nossos clientes e acompanhando na mídia, temos notado
 que alguns dos bancos já estão cobrando tarifas de liquidação de PIX das
@@ -19990,11 +19397,11 @@ target="_blank" .intercom-content-link}*
 
 # Como configurar o boleto híbrido na Kobana?
 
-## Description
+## Descrição
 
 Entenda tudo sobre a combinação do boleto e do Pix em uma única forma de cobrança!
 
-## Content
+## Conteúdo
 
 O **boleto híbrido**, também conhecido como **bolepix**, é uma
 ferramenta operacional que permite vincular um QR Code do Pix a cada
@@ -20215,11 +19622,11 @@ menu <i>Recebimentos &gt; Boletos &gt; Gerenciar. </i>
 
 # Como configurar o Pix de recebimento na Kobana?
 
-## Description
+## Descrição
 
 Mesmo sem vínculo com boleto, você pode receber por PIX na sua empresa.
 
-## Content
+## Conteúdo
 
 Pela interface da Kobana, é possível **receber pelo PIX**, mesmo que
 este não esteja vinculado a um boleto.
@@ -20444,11 +19851,11 @@ coluna de tipo (direto, boleto ou Pix).
 
 # Como suspender ou excluir uma assinatura?
 
-## Description
+## Descrição
 
 É possível cancelar ou excluir a assinatura de um cliente seu usando a Kobana. Veja como!
 
-## Content
+## Conteúdo
 
 Após ter criado uma assinatura para um de seus clientes, pode ser
 necessário cancelá-la temporariamente, caso o uso de seus serviços tenha
@@ -20550,7 +19957,7 @@ possível encontrar todos de forma compilada.
 
 # Como importar carnês por meio de uma planilha do Excel ou Google Sheets?
 
-## Content
+## Conteúdo
 
 Assim como [você pode fazer com boletos][1]{: target="_blank"
 .intercom-content-link}, é possível também<b> importar carnês</b> para a
@@ -20670,11 +20077,11 @@ Assim que os carnês forem gerados, você poderá acessá-los no menu
 
 # Como criar notificações específicas para Tags?
 
-## Description
+## Descrição
 
 Veja como criar notificações específicas por e-mail e SMS para seus clientes usando as Tags.
 
-## Content
+## Conteúdo
 
 Você já sabe que pode [criar Tags para os seus boletos, carnês e
 assinaturas][1]{: target="_blank" .intercom-content-link}, certo?
@@ -20765,11 +20172,11 @@ qualquer Tag.
 
 # Como usar as Etiquetas (TAGs) para identificar os meus carnês?
 
-## Description
+## Descrição
 
 As etiquetas ajudam a organizar e filtrar os carnês e assinaturas. Descubra como utilizar na prática.
 
-## Content
+## Conteúdo
 
 Na Kobana, é possível <b>adicionar etiquetas </b>aos boletos,
 assinaturas e carnês. As etiquetas ajudam a organizar e filtrar os
@@ -20835,11 +20242,11 @@ por engano.
 
 # Como criar uma assinatura para cobrança recorrente?
 
-## Description
+## Descrição
 
 Descubra como funciona para criar uma assinatura na plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 A Assinatura é uma forma de cobrança recorrente, muito utilizada por
 empresas que buscam a fidelização do cliente a um produto ou serviço,
@@ -20987,11 +20394,11 @@ próxima cobrança e antecedência que você cadastrou.
 
 # Como gerar um Carnê na plataforma da Kobana?
 
-## Description
+## Descrição
 
 Veja o passo a passo de como gerar o carnê na plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 O **Carnê** é um conjunto de boletos, que representa uma venda que será
 paga parceladamente.
@@ -21165,11 +20572,11 @@ de [boletos][9]{: target="_blank" .intercom-content-link} ou
 
 # Layout do carnê
 
-## Description
+## Descrição
 
 Entenda cada campo e informação presente no layout do boleto de carnê.
 
-## Content
+## Conteúdo
 
 O **layout utilizado para gerar carnês** é um pouco diferente do layout
 de boleto comum. O boleto do carnê tem um layout horizontal,
@@ -21457,11 +20864,11 @@ target="_blank" .intercom-content-link}.*
 
 # Como funciona a emissão automática de boletos para os clientes cadastrados em uma assinatura?
 
-## Description
+## Descrição
 
 Entenda como os boletos de uma assinatura são emitidos de forma automática.
 
-## Content
+## Conteúdo
 
 Quando você cria uma<b> assinatura na Kobana</b>, os boletos referentes
 a ela serão gerados nos dias programados para cada cliente de forma
@@ -21513,11 +20920,11 @@ boletos foram emitidos.
 
 # Layouts de boletos, carnês, boletos fatura e envelopes
 
-## Description
+## Descrição
 
 Conheça os tipos de layouts que você pode emitir pela plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 Dependendo do seu objetivo e do tipo de cobrança, você pode emitir
 **boletos comuns ou optar por gerar assinaturas, carnês e boletos
@@ -21743,11 +21150,11 @@ Basta usar **/recibo** no fim da URL:
 
 # Qual a diferença entre Boleto, Carnê e Assinatura?
 
-## Description
+## Descrição
 
 Entenda em que momento sua empresa deve utilizar o boleto, carnê ou pagamento na cobrança dos seus produtos ou serviços.
 
-## Content
+## Conteúdo
 
 No menu *Cadastrar*, você tem a opção de criar três modos de recebimento
 o **Boleto**, a **Assinatura** e o **Carnê**.
@@ -21830,11 +21237,11 @@ target="_blank" .intercom-content-link} na Kobana.*
 
 # Variáveis que podem ser utilizadas na Kobana
 
-## Description
+## Descrição
 
 Veja como usar as variáveis para facilitar a criação de modelos de boletos na sua empresa.
 
-## Content
+## Conteúdo
 
 A Kobana fornece um **sistema de variáveis de substituição** para
 facilitar, por exemplo, a criação de modelos de boletos e notificações.
@@ -21977,11 +21384,11 @@ Para ajustes de formatos, você pode se basear neste link:
 
 # Como criar um Modelo de Boleto?
 
-## Description
+## Descrição
 
 Confira um passo a passo simples e prático para criar Modelos de Boleto na plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 Na Kobana, é possível criar **modelos de boleto com informações
 pré-configuradas e personalizações,** que tornam a emissão dos boletos
@@ -22185,11 +21592,11 @@ gerados.
 
 # Posso personalizar os meus boletos?
 
-## Description
+## Descrição
 
 No sistema da Kobana, é possível configurar os meus boletos para ter informações da minha empresa?
 
-## Content
+## Conteúdo
 
 Você pode escolher o logotipo e incluir informações da sua empresa no
 cabeçalho do boleto.
@@ -22242,11 +21649,11 @@ uma personalização.
 
 # Como gerar um Link de Pagamento?
 
-## Description
+## Descrição
 
 Saiba como criar um link de pagamento para o seu cliente acessar a página de check-out na compra de um produto e serviço e emitir o boleto.
 
-## Content
+## Conteúdo
 
 O <b>Link de Pagamento </b>é uma ferramenta muito útil e simples para
 você criar um link em que o cliente ou visitante do seu site vai acessar
@@ -22355,7 +21762,7 @@ meio da URL criada.
 
 # Como acompanhar os recebimentos da sua empresa e pagamentos dos seus clientes?
 
-## Content
+## Conteúdo
 
 A Kobana possui uma tela exclusiva para você verificar e acompanhar os
 recebimentos da sua empresa, ou seja, os pagamentos realizados pelos
@@ -22412,11 +21819,11 @@ apenas os dados desejados.
 
 # Como conferir o valor do boleto de homologação no Bradesco?
 
-## Description
+## Descrição
 
 Tem dúvidas sobre o processo de homologação da carteira de recebimento? Veja como conferir o valor do boleto.
 
-## Content
+## Conteúdo
 
 Durante o **processo de homologação** da sua carteira de recebimento, é
 comum surgirem diversas dúvidas, principalmente quando é necessário
@@ -22535,11 +21942,11 @@ para finalizar o processo.
 
 # Como exportar as informações de boletos e carnês para Excel?
 
-## Description
+## Descrição
 
 Veja como exportar dados de boletos e carnês para uma planilha para você gerenciar ou armazenar as informações.
 
-## Content
+## Conteúdo
 
 A **exportação** permite com que você tenha os dados dos boletos em uma
 planilha para que você possa gerenciar ou armazenar os dados.
@@ -22639,11 +22046,11 @@ Aplique um filtro para que a opção de exportação apareça:
 
 # Como enviar a Nota Fiscal e outras informações da nota ao meu cliente?
 
-## Description
+## Descrição
 
 Entenda como funciona a integração da Kobana com o eNotas para geração de nota fiscal eletrônica.
 
-## Content
+## Conteúdo
 
 A integração da Kobana com o **eNotas** não se resume a **gerar** **a
 nota fiscal eletrônica** para seus clientes. Nós também disponibilizamos
@@ -22728,11 +22135,11 @@ Bem simples e fácil enviar seus boletos e notas fiscais no mesmo e-mail!
 
 # Posso usar boletos registrados com a Kobana na minha loja virtual?
 
-## Description
+## Descrição
 
 Entenda como integrar a sua loja virtual com a Kobana.
 
-## Content
+## Conteúdo
 
 Sim, isso é possível utilizando a nossa API, que você pode integrar com
 a sua loja utilizando a [nossa documentação][1]{: target="_blank"
@@ -22764,11 +22171,11 @@ conhecer mais.
 
 # É possível protestar um boleto na Kobana?
 
-## Description
+## Descrição
 
 Veja como proceder para realizar o protesto de um boleto na plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 Quando um cliente deixa de pagar um boleto, isso pode gerar prejuízos
 para você. Para evitar este problema, existe o **protesto**. Trata-se de
@@ -22855,11 +22262,11 @@ Especificações:
 
 # Posso estornar um boleto bancário recebido?
 
-## Description
+## Descrição
 
 Veja se é possível estornar o valor de recebimento de um boleto bancário para o seu cliente.
 
-## Content
+## Conteúdo
 
 **Não é possível estornar um boleto bancário recebido**.
 {: .no-margin}
@@ -22894,11 +22301,11 @@ necessário combinar diretamente com a pessoa.
 
 # Negativação de boleto dentro da plataforma da Kobana
 
-## Description
+## Descrição
 
 Saiba como realizar a solicitação de negativação pela Kobana.
 
-## Content
+## Conteúdo
 
 A **negativação** é a inclusão do nome do pagador, que possui boleto
 vencido e não pago, em um bureau de restrição de crédito. Dessa forma,
@@ -22994,11 +22401,11 @@ nosso suporte para saber mais.
 
 # Como editar as permissões dos usuários?
 
-## Description
+## Descrição
 
 Descubra como ter controle total sobre o que cada usuário consegue fazer na plataforma!
 
-## Content
+## Conteúdo
 
 Na Kobana, você tem controle total do que seus colaboradores podem
 visualizar e realizar. Isso mantém sua operação ainda mais segura.
@@ -23113,11 +22520,11 @@ Ver usuários &gt; Três pontos azuis &gt; Remover como proprietário.*
 
 # Como cadastrar novos usuários para a minha conta?
 
-## Description
+## Descrição
 
 Descubra como cadastrar a sua equipe na Kobana!
 
-## Content
+## Conteúdo
 
 Quando você contrata um plano da Kobana, o seu usuário principal será o
 e-mail cadastrado na compra do seu plano. Caso faça sentido para a sua
@@ -23234,11 +22641,11 @@ painel][3]{: target="_blank" .intercom-content-link}.
 
 # Um boleto registrado pode ser adulterado?
 
-## Description
+## Descrição
 
 Conheça precauções de segurança que o seu cliente pode tomar para confirmar se o boleto é verídico ou não.
 
-## Content
+## Conteúdo
 
 Hoje em dia, a obrigatoriedade de registro dos boletos reduziu o volume
 de golpes, normalmente feitos alterando os dados do documento. Isso
@@ -23378,11 +22785,11 @@ tomar a iniciativa de conferir os dados.
 
 # Como criar notificações específicas para Tags?
 
-## Description
+## Descrição
 
 Veja como criar notificações específicas por e-mail e SMS para seus clientes usando as Tags de boletos.
 
-## Content
+## Conteúdo
 
 Você já sabe que pode [criar Tags para os seus boletos, carnês e
 assinaturas][1]{: target="_blank" .intercom-content-link}, certo?
@@ -23472,11 +22879,11 @@ qualquer Tag.
 
 # Como adicionar as etiquetas (tags) aos meus clientes?
 
-## Description
+## Descrição
 
 Saiba como usar as etiquetas no cadastro dos seus clientes dentro da plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 A principal função das etiquetas é filtrar boletos para executar uma
 ação. A partir do momento que você inclui uma etiqueta em alguns dos
@@ -23578,11 +22985,11 @@ criar o boleto na interface.
 
 # Como usar as Etiquetas (TAGs) para identificar os meus recebimentos?
 
-## Description
+## Descrição
 
 As etiquetas ajudam a organizar e filtrar operações. Descubra como utilizar na prática.
 
-## Content
+## Conteúdo
 
 Na Kobana, é possível **adicionar etiquetas aos boletos**,
 <b>assinaturas, carnês e Pix. </b>As etiquetas ajudam a organizar e
@@ -23688,11 +23095,11 @@ gerados já venham etiquetados. Saiba mais: [Como adicionar as etiquetas
 
 # Como cancelar um boleto?
 
-## Description
+## Descrição
 
 Conheça todas as possibilidades para cancelar boletos na Kobana.
 
-## Content
+## Conteúdo
 
 Em certas ocasiões pode ser necessário **cancelar um boleto** que foi
 gerado anteriormente. Os motivos podem ser diversos, como o cancelamento
@@ -23854,7 +23261,7 @@ o cancelamento do boleto. </i>
 
 # Como saber o motivo do meu cliente não ter conseguido pagar o boleto?
 
-## Content
+## Conteúdo
 
 Quando você gera seus boletos e os envia aos seus clientes, pode
 acontecer de ele entrar em contato algum tempo depois informando que
@@ -23989,11 +23396,11 @@ principais do nosso site.
 
 # Como enviar boletos por WhatsApp aos meus clientes?
 
-## Description
+## Descrição
 
 Facilite a vida dos seus clientes enviando os boletos por WhatsApp. Veja como.
 
-## Content
+## Conteúdo
 
 ## **Envio através dos atalhos**   {#h_6be0fa0769}
 
@@ -24111,11 +23518,11 @@ target="_blank" .intercom-content-link} e [SMS][4]{: target="_blank"
 
 # Como configurar valores de multa, juros e desconto no boleto?
 
-## Description
+## Descrição
 
 Entenda a melhor forma de fazer essas configurações ao emitir seus boletos.
 
-## Content
+## Conteúdo
 
 Quando um boleto é gerado, existem três fatores que podem alterar o seu
 valor: a **multa**, os **juros** e o **desconto**. Veja como funciona
@@ -24289,7 +23696,7 @@ boleto na Kobana.*
 
 # Regras para aplicação de juros e multa por banco
 
-## Content
+## Conteúdo
 
 A **aplicação de juros e multa em seus boletos** pode ser um fator bem
 importante para o seu negócio, seja como uma forma de incentivar os seus
@@ -24359,11 +23766,11 @@ juros de mora][2]{: target="_blank" .intercom-content-link}.
 
 # Multa e Juros de Mora
 
-## Description
+## Descrição
 
 Veja como são calculados os valores de multa e juros de mora por atraso no pagamento do boleto.
 
-## Content
+## Conteúdo
 
 De acordo com a lei, a **multa por atraso corresponde a 2% do valor do
 boleto**, enquanto os **juros de mora representam 1% pro-rata**, o que
@@ -24414,11 +23821,11 @@ Portanto, o valor final do boleto será de 100 (valor original) + 2
 
 # Posso adicionar juros e multa aos meus boletos?
 
-## Description
+## Descrição
 
 Entenda se é permitido colocar juros e multa nos boletos gerados pela sua empresa.
 
-## Content
+## Conteúdo
 
 Sim. No caso de boleto pago após o vencimento, o cálculo do valor dos
 juros e da multa será feito automaticamente de acordo com as taxas
@@ -24450,11 +23857,11 @@ boleto pelo sistema da Kobana?][2]{: target="_blank"
 
 # Como salvar vários boletos em PDF?
 
-## Description
+## Descrição
 
 Se você tem a necessidade de imprimir os boletos para entregar aos seus clientes, veja como salvar os documentos em PDF.
 
-## Content
+## Conteúdo
 
 Dependendo do seu negócio, você pode ter a necessidade de<b> imprimir os
 boletos para entregar aos seus clientes</b>. Isso é bastante comum em
@@ -24529,11 +23936,11 @@ sempre pode acessar os lotes gerados no menu *Recebimentos &gt; Boletos*
 
 # Como criar uma cópia de um boleto?
 
-## Description
+## Descrição
 
 Entenda como gerar a segunda via de boleto com a cópia rápida da Kobana.
 
-## Content
+## Conteúdo
 
 Muitas vezes, existe a necessidade de **gerar uma segunda via de um
 boleto** com novas informações, como vencimento e valor, ou até mesmo
@@ -24674,11 +24081,11 @@ planilha serão:
 
 # Como informar e retirar o pagamento de um boleto manualmente?
 
-## Description
+## Descrição
 
 Seu cliente pagou o boleto de outra forma e você precisa informar de modo manual na plataforma? Veja como fazer!
 
-## Content
+## Conteúdo
 
 Por mais que você dê opções ao seu cliente de realizar o pagamento via
 boleto ou PIX, algumas vezes pode acontecer dele efetuar esse pagamento
@@ -24805,7 +24212,7 @@ pagamento.
 
 # Como alterar vários boletos utilizando um arquivo em Excel (CSV)?
 
-## Content
+## Conteúdo
 
 Pela interface da Kobana, você consegue emitir vários boletos de uma vez
 utilizando um arquivo CSV, que pode ser gerado a partir de uma planilha
@@ -24981,11 +24388,11 @@ Importações* quando desejar para verificar o andamento do processo.
 
 # Posso alterar a data de vencimento e o valor de um boleto já emitido?
 
-## Description
+## Descrição
 
 Entenda quais informações você pode alterar em um boleto já emitido.
 
-## Content
+## Conteúdo
 
 Para empresas que utilizam o boleto como meio de recebimento, muitas
 vezes, pode ser necessário **alterar o vencimento ou valor** dos
@@ -25033,11 +24440,11 @@ arquivo CNAB aceitos pelo banco, seja o CNAB 240, 400 ou ambos.
 
 # Como alterar um boleto já emitido?
 
-## Description
+## Descrição
 
 Entenda como você pode atualizar um boleto já emitido pelo sistema da Kobana.
 
-## Content
+## Conteúdo
 
 Algumas vezes, após emitirmos um boleto, por causa do nosso cliente ou
 operação, temos que fazer alguma<b> alteração no boleto</b>. Essa
@@ -25117,11 +24524,11 @@ automaticamente, se você possui o [EDI ativado][2]{: target="_blank"
 
 # Como permitir que o vencimento do boleto ocorra no final de semana?
 
-## Description
+## Descrição
 
 Saiba como liberar a possibilidade de colocar o vencimento de um boleto no fim de semana.
 
-## Content
+## Conteúdo
 
 Para configurar sua carteira de forma que seja possível gerar boletos
 com **data de vencimento nos fins de semana e feriados**, você deve
@@ -25173,11 +24580,11 @@ pode ter implicações nas regras de multa, juros e desconto.*
 
 # Como gerar um envelope para o meu boleto?
 
-## Description
+## Descrição
 
 Siga os passos abaixo para gerar um envelope para o boleto da sua empresa.
 
-## Content
+## Conteúdo
 
 Na Kobana, cada vez que um boleto é emitido, também é gerado
 automaticamente um envelope com os dados do remetente e do destinatário.
@@ -25232,11 +24639,11 @@ link encurtado do boleto.
 
 # Como adicionar senha aos boletos?
 
-## Description
+## Descrição
 
 Ao incluir uma senha em um boleto, é possível aumentar a segurança e reduzir fraudes. Veja como fazer isso na prática.
 
-## Content
+## Conteúdo
 
 **Adicionar senhas aos seus boletos** aumenta a segurança da sua empresa
 e dos seus clientes, reduzindo assim possíveis tentativas de fraudes. A
@@ -25346,11 +24753,11 @@ uma das duas senhas disponíveis.
 
 # O que significam os ícones e as cores na listagem de boletos?
 
-## Description
+## Descrição
 
 Entenda o andamento do boleto junto ao banco de acordo com os ícores e cores do sistema da Kobana.
 
-## Content
+## Conteúdo
 
 Na Kobana, você consegue acompanhar todos os estágios de um boleto,
 desde quando ele é criado, passando pela confirmação do registro do
@@ -25462,11 +24869,11 @@ banco, o mesmo ficará com o status de cancelado.
 
 # Como preencher as instruções para o caixa na emissão do boleto?
 
-## Description
+## Descrição
 
 Entenda as principais informações que devem constar na parte de instruções para o caixa no boleto emitido.
 
-## Content
+## Conteúdo
 
 **Configurações no boleto**, como multa, juros, desconto, demonstrativo,
 aplicação de senha, dentre outros, podem ser realizadas em várias áreas
@@ -25546,7 +24953,7 @@ preenchidas de acordo com as configurações feitas na criação do boleto.
 
 # Como definir a carteira padrão para geração dos boletos na importação de remessa?
 
-## Content
+## Conteúdo
 
 A Kobana possui uma [ferramenta de importação de remessa][1]{:
 target="_blank" .intercom-content-link}. A partir dela, você pode gerar
@@ -25610,18 +25017,9 @@ devem ser cadastrados na Kobana anteriormente à importação.
 
 ---
 
-# Como cancelar o meu plano da Kobana?
-
-## Description
-
-Saiba como cancelar o plano da sua empresa na Kobana
-
-
----
-
 # Como alterar o meu plano?
 
-## Content
+## Conteúdo
 
 Por vários motivos pode fazer sentido para a sua empresa uma alteração
 de plano na Kobana, seja para ter acesso a mais funcionalidades, para
@@ -25682,11 +25080,11 @@ contratação do novo plano.
 
 # Como acompanhar o meu volume de operações?
 
-## Description
+## Descrição
 
 Saiba como acompanhar a quantidade de operações geradas pela sua empresa
 
-## Content
+## Conteúdo
 
 Para gerenciar sua conta na Kobana, pode ser necessário que sua empresa
 acompanhe a quantidade de operações que tem sido realizadas na
@@ -25731,11 +25129,11 @@ uma volumetria maior. Contate o nosso time para conhecer outros planos:
 
 # Como a Kobana faz a contagem de operações do meu volume contratado?
 
-## Description
+## Descrição
 
 Entenda o período que a volumetria do seu plano é contado e quando ocorre a cobrança
 
-## Content
+## Conteúdo
 
 O plano da sua empresa contratado na Kobana possui um limite de
 operações mensal, ou seja, sua empresa pode realizar um determinado
@@ -25815,11 +25213,11 @@ aplicadas.
 
 # Posso personalizar os meus boletos?
 
-## Description
+## Descrição
 
 No sistema da Kobana, é possível configurar os meus boletos para ter informações da minha empresa?
 
-## Content
+## Conteúdo
 
 Sim. Você pode escolher o logotipo e incluir informações da sua empresa
 no cabeçalho do boleto.
@@ -25867,11 +25265,11 @@ uma personalização.
 
 # Layouts de boletos, carnês, boletos fatura e envelopes
 
-## Description
+## Descrição
 
 Conheça os tipos de layouts que você pode emitir pela plataforma da Kobana.
 
-## Content
+## Conteúdo
 
 Dependendo do seu objetivo e do tipo de cobrança, você pode emitir
 **boletos comuns ou optar por gerar assinaturas, carnês e boletos
@@ -26111,7 +25509,7 @@ Basta usar **/recibo** no fim da URL:
 
 # Como alterar minha senha de acesso à Kobana?
 
-## Content
+## Conteúdo
 
 Para sua segurança, recomendamos a troca de senha frequente do seu
 acesso da Kobana. Para alterar sua senha doa Kobana, clique na parte
@@ -26151,7 +25549,7 @@ clicar em **Mudar minha senha**.
 
 # Alteração de dados cadastrais em minha conta Kobana
 
-## Content
+## Conteúdo
 
 Após cadastrar somente um único e-mail na Kobana, você perdeu o acesso
 ao mesmo, e agora não consegue mais ter acesso à sua conta na
@@ -26219,11 +25617,11 @@ juntamente à solicitação de alteração.*
 
 # Layout do boleto comum
 
-## Description
+## Descrição
 
 Veja de forma detalhada o que significa cada informação presente no layout do boleto comum.
 
-## Content
+## Conteúdo
 
 O layout mais utilizado para emissão de boletos é o do **boleto comum**,
 usado para uma cobrança única. Esse mesmo layout também é utilizado para
@@ -26525,7 +25923,7 @@ target="_blank" .intercom-content-link}.*
 
 # Como resolver o erro de autenticação ao cadastrar uma conta do Gmail?
 
-## Content
+## Conteúdo
 
 Um dos problemas mais comuns dos nossos usuários ao cadastrar uma conta
 do Gmail ou hospedada pelo Gmail é se deparar com um erro de
@@ -26632,11 +26030,11 @@ você troque a senha no seu e-mail.*
 
 # Layout do boleto fatura
 
-## Description
+## Descrição
 
 Veja de forma detalhada o que significa cada informação presente no layout do boleto fatura.
 
-## Content
+## Conteúdo
 
 O<b> layout utilizado para boletos de fatura</b> tem características
 específicas. Como no boleto comum, o recibo do pagador fica acima da
@@ -26900,288 +26298,9 @@ target="_blank" .intercom-content-link}.
 
 ---
 
-# Como importar boletos para a Kobana por meio de arquivos remessa?
-
-## Description
-
-Entenda como fazer importação de remessa para geração de boletos.
-
-## Content
-
-Se você utiliza um sistema ERP, por exemplo, que gera **arquivos
-remessa** a partir de cobranças cadastradas por você, você poderá subir
-esse arquivo na Kobana para que ele gere todos os boletos e registre
-automaticamente no seu banco, caso você tenha um dos serviços de
-registro automático disponibilizados pelo nosso sistema.
-{: .no-margin}
-
-
-{: .no-margin}
-
-A remessa poderá ser importada com ou sem a informação do nosso número.
-Se estiver com essa informação, o sistema só irá aceitar caso não exista
-outro boleto com a mesma numeração, ou se este boleto já foi baixado
-pelo seu banco e essa informação veio em um retorno. Se estiver sem essa
-informação, esse dado será preenchido a partir do sequencial cadastrado
-na carteira por você.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **Como importar um arquivo de remessa?**   {#h_0c9f22daea}
-
-Para fazer a importação do arquivo remessa, clique no menu *Cadastrar
-&gt; Importar &gt; Importar Boletos*.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937269305/0383c768db0467e98a098079/image.png?expires=1752529500&amp;signature=14f5122439145329c1fe01a20ea4937064dcf7352e165057254b345d8941bb48&amp;req=fSMgFM93noFaFb4f3HP0gE9DVo3JjzGsktiZ2ekxiW9ox7gCMT2vF7ahfl2r%0AJQU%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-Na tela de importação, você deve clicar dentro do retângulo pontilhado e
-selecionar o arquivo de remessa a ser enviado ou arrastar o arquivo para
-dentro do retângulo.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Em via de regra, o formato CNAB 400 não possui todos os dados dos
-clientes. Por isso para que a importação tenha sucesso, é preciso
-cadastrar as informações de seus clientes na Kobana antes.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #fed9db80; border-color: #fd3a5733;" markdown="1">
-*Veja em [Como faço o cadastro dos meus clientes?][1]{: target="_blank"
-.intercom-content-link}*
-{: .intercom-align-center .no-margin}
-
-</div>
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937269312/980ee339fe24cba3e1609cc4/image.png?expires=1752529500&amp;signature=5f5f727515e4585be521ae876f38bf2d2074409ecbd1f7afd49011c1efc96154&amp;req=fSMgFM93noBdFb4f3HP0gKOFceuKGmvgwvrzARHFae%2F41VNVS3B9jX4GEm66%0ApD0%3D%0A)
-</div>
-
-### **Acompanhando a importação**   {#h_4141fec114}
-
-Você poderá acompanhar a importação, acessando o menu *Administração
-&gt; Históricos &gt; Importações*. Nesta página, estarão listadas todas
-as importações já realizadas. Ao clicar em *Ver Importação*, você terá
-acesso a detalhes de cada uma delas.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Se houver algum problema na importação, nosso sistema vai apontar o
-erro. Se você não não entender bem o erro, sugerimos que envie o print
-da tela para o e-mail
-[suporte@kobana.com.br](mailto:suporte@kobana.com.br){: target="_blank"
-.intercom-content-link}. Assim, podemos te ajudar a entender o que está
-acontecendo.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Concluída a importação, você poderá visualizar todo o grupo de boletos
-gerados a partir dela.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **Quais bancos a Kobana oferece suporte na importação de remessa?**   {#h_c8b7443374}
-
-A Kobana gera arquivos de mais de [30 bancos][2]{: target="_blank"
-.intercom-content-link} em seus diferentes formatos. Porém, na
-importação de remessa para gerar boletos, estamos implementando os
-bancos e seus formatos conforme solicitados por nossos clientes.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Consulte a tabela abaixo para saber quais bancos e formatos temos
-suporte atualmente:
-{: .no-margin}
-
-<div class="intercom-interblocks-table-container">
-<table role="presentation"><tbody><tr><td><p class="no-margin">Banco</p></td><td><p class="no-margin">CNAB 240</p></td><td><p class="no-margin">CNAB 400</p></td></tr><tr><td><p class="no-margin">Banco do Brasil</p></td><td><p class="no-margin">Sim</p></td><td><p class="no-margin">Não</p></td></tr><tr><td><p class="no-margin">Banrisul</p></td><td><p class="no-margin">Não</p></td><td><p class="no-margin">Sim</p></td></tr><tr><td><p class="no-margin">Bradesco</p></td><td><p class="no-margin">Sim</p></td><td><p class="no-margin">Sim</p></td></tr><tr><td><p class="no-margin">Caixa Econômica Federal</p></td><td><p class="no-margin">Sim</p></td><td><p class="no-margin">Sim</p></td></tr><tr><td><p class="no-margin">Cresol</p></td><td><p class="no-margin">Sim*</p></td><td><p class="no-margin">Sim*</p></td></tr><tr><td><p class="no-margin">Itaú</p></td><td><p class="no-margin">Sim</p></td><td><p class="no-margin">Sim</p></td></tr><tr><td><p class="no-margin">Safra</p></td><td><p class="no-margin">Não</p></td><td><p class="no-margin">Sim</p></td></tr><tr><td><p class="no-margin">Santander</p></td><td><p class="no-margin">Sim</p></td><td><p class="no-margin">Sim</p></td></tr><tr><td><p class="no-margin">Sicoob</p></td><td><p class="no-margin">Sim</p></td><td><p class="no-margin">Não</p></td></tr><tr><td><p class="no-margin">Sicredi</p></td><td><p class="no-margin">Sim</p></td><td><p class="no-margin">Sim</p></td></tr></tbody></table>
-</div>
-
-\* O banco Cresol tem diferentes variações para cada formato de arquivo.
-Temos suporte para uma dessas variações de cada formato.
-{: .no-margin}
-
-
-
-[1]: https://ajuda.kobana.com.br/pt-BR/articles/8866775-como-importar-varios-clientes-por-meio-de-uma-planilha
-[2]: https://ajuda.kobana.com.br/pt-BR/articles/8814216-quais-bancos-a-kobana-atende
-
-
----
-
-# Como criar minha conta na Kobana?
-
-## Content
-
-Para utilizar a Kobana, você deve [contratar um plano junto à nossa
-equipe comercial][1]{: target="_blank" .intercom-content-link} e
-cadastrar os dados da sua empresa.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **1. Contratando um plano**   {#h_11a97ef3b6}
-
-Para receber uma proposta e contratar um plano, você deve fazer contato
-com a nossa equipe comercial da maneira que preferir:
-{: .no-margin}
-
-* [Agende uma reunião][1]{: target="_blank" .intercom-content-link}
-  {: .no-margin}
-
-* [Converse pelo WhatsApp][2]{: target="_blank" .intercom-content-link}
-  {: .no-margin}
-
-* Ligue no telefone: 3003-0386 (ramal 1)
-  {: .no-margin}
-
-Envie um e-mail para
-[comercial@kobana.com.br](mailto:comercial@kobana.com.br){:
-target="_blank" .intercom-content-link}
-{: .no-margin}
-
-##    {#h_a610070436}
-
-## **2. Confirmando o seu e-mail**   {#h_a610070436}
-
-Escolhendo um plano e realizando o pagamento da assinatura, você
-receberá um e-mail de confirmação do remetente
-[suporte@kobana.com.br](mailto:suporte@kobana.com.br){: target="_blank"
-.intercom-content-link}, como o abaixo, para o endereço informando à
-nossa equipe, onde você deve clicar em **Confirmar meu Email** para
-criar uma senha na Kobana.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937295315/4a208222a42406e33db02ce9/image.png?expires=1752529500&amp;signature=147b60afd28a7cf465f06856fc7ada7a14213caedd8a758f29c260059b30d1f2&amp;req=fSMgFMB7noBaFb4f3HP0gFRrun2%2BVSP3jQh9diftuIpCUc47dGJSxjrb7FAJ%0AyXA%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-Se você realizou o pagamento no boleto deve aguardar a compensação para
-receber o e-mail de confirmação. Isso leva em média 1 dia útil.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #e3e7fa80; border-color: #334bfa33;" markdown="1">
-Caso você não tenha encontrado o e-mail, procure na sua caixa de SPAM.
-Se mesmo assim não encontrar, [clique aqui][3]{: target="_blank"
-.intercom-content-link} e insira o seu e-mail para que a confirmação
-seja reenviada.
-{: .no-margin}
-
-</div>
-
-Ao clicar para confirmar o seu e-mail, confirme seu nome e sobrenome e
-digite uma senha segura para o cadastro.
-{: .no-margin}
-
-​
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937331970/88bbccbc44cf0fbd41c94862/image.png?expires=1752529500&amp;signature=7bab7d67a6b424fa9177fcf088c96f6829360e68fd78165af888eb069f8603ac&amp;req=fSMgFcp%2FlIZfFb4f3HP0gKbxPN47Y8mHe63rXnsadnjZiIZ7RY6cqerrhBBa%0AfXg%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-## **3. Cadastrando sua empresa**   {#h_7112688806}
-
-Criada a conta, você deve cadastrar os dados da sua empresa, a atividade
-dela, os dados do representante legal e o endereço.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937331980/f634b97331af1893d57a7c95/image.png?expires=1752529500&amp;signature=0486aca79e7d7ff66f8b6b01a33fdc403b2f7b5f461e2b04ada12627be73daa1&amp;req=fSMgFcp%2FlIlfFb4f3HP0gKnovPHUOTquDG89zYvdIjd5lz90qV4SZxYTGH6q%0ArfE%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-## **4. Cadastrando e validando o seu telefone**   {#h_b0fc0cb43c}
-
-Para finalizar seu cadastro: informe seu nome completo, seu cargo na
-empresa e um número de telefone que esteja próximo de você.
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937331985/bcd22f1e8fabad221d6ad315/image.png?expires=1752529500&amp;signature=c132666903c718ecae13d67a565fec7506caedeae48f5dbcd6fffbaaf745f0a0&amp;req=fSMgFcp%2FlIlaFb4f3HP0gIdBCmFHdCMvzdNJ0uIpWS8xUqYwC%2BzgLT45%2BWYb%0Aajg%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-Caso você tenha informado um celular, você receberá uma mensagem SMS com
-um código de verificação. Se foi um telefone fixo, receberá o código de
-validação através de uma ligação.
-{: .no-margin}
-
-Digite o código recebido para finalizar o processo.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
-Caso você não tenha recebido a nossa ligação ou mensagem SMS. Nos envie
-um e-mail para [suporte@kobana.com.br](mailto:suporte@kobana.com.br){:
-target="_blank" .intercom-content-link} ou nos chame através do chat da
-interface.
-{: .no-margin}
-
-</div>
-
-A próxima etapa após ter finalizado a validação do telefone será o
-[cadastro da sua carteira de cobrança][4]{: target="_blank"
-.intercom-content-link}.
-{: .no-margin}
-
-​  
-​  
-​
-{: .no-margin}
-
-
-
-[1]: https://agendar.kobana.com.br/
-[2]: https://api.whatsapp.com/send?phone=5565996861087
-[3]: https://app.kobana.com.br/users/confirmation/new
-[4]: https://ajuda.kobana.com.br/pt-BR/articles/8822754-como-cadastrar-e-homologar-minha-carteira-de-cobranca-na-kobana
-
-
----
-
 # Como importar boletos por meio de uma planilha em Excel ou no Google Sheets?
 
-## Content
+## Conteúdo
 
 Na Kobana, você consegue **importar vários boletos de uma vez** por meio
 de um arquivo CSV, que pode ser gerado de uma planilha Excel ou no
@@ -27415,11 +26534,11 @@ de 1 a 3 boletos para testar e se certificar que está tudo certo.
 
 # Como emitir um boleto pela plataforma da Kobana?
 
-## Description
+## Descrição
 
 Confira o passo a passo completo de como emitir o boleto e quais informações preencher durante a geração do documento.
 
-## Content
+## Conteúdo
 
 O boleto é um título de cobrança com informações, como valor, data de
 vencimento, pagador e beneficiário. Ele pode ser pago em qualquer
@@ -27606,11 +26725,11 @@ habilitando o pagamento. Esse processo varia conforme está configurada a
 
 # Como criar um boleto fatura na Kobana?
 
-## Description
+## Descrição
 
 Descubra para que serve um boleto fatura e como criá-lo no sistema da Kobana.
 
-## Content
+## Conteúdo
 
 **Boletos neste formato de fatura** são comumente utilizados para
 faturas de condomínios ou outros tipos de cobrança, que necessitam de um
@@ -27694,11 +26813,11 @@ Material sobre Markdown caso você não esteja familiarizado com ele:
 
 # Qual a diferença entre um boleto proposta e um boleto código D8?
 
-## Description
+## Descrição
 
 Ententa como funciona o boleto código D8 e se existe tipo de modalidade é aceita no sistema da Kobana.
 
-## Content
+## Conteúdo
 
 Enquanto que um boleto proposta tem o objetivo de apresentar a oferta de
 um produto/serviço, uma doação, uma proposta de contrato civil ou até um
@@ -27749,11 +26868,11 @@ trabalha com este tipo de boleto.
 
 # O que é um boleto proposta e quais as regras para a emissão desse tipo de boleto?
 
-## Description
+## Descrição
 
 Entenda as diferenças entre boleto proposta e boleto de cobrança.
 
-## Content
+## Conteúdo
 
 O **boleto de proposta** é diferente do boleto de cobrança.
 {: .no-margin}
@@ -27865,11 +26984,11 @@ Fonte: FEBRABAN
 
 # O que preciso para emitir boletos com registro?
 
-## Description
+## Descrição
 
 Veja as principais informações que você precisa para emitir boletos com registro na Kobana.
 
-## Content
+## Conteúdo
 
 Para **emitir boletos com [registro][1]{: target="_blank"
 .intercom-content-link}**, você precisa ter uma carteira de recebimento
@@ -27936,7 +27055,7 @@ Kobana][4]{: target="_blank" .intercom-content-link}.
 
 # Eu mesmo posso configurar tudo?
 
-## Content
+## Conteúdo
 
 Sim! Você mesmo pode [criar uma conta][1]{: target="_blank"
 .intercom-content-link} e começar a utilizar.
@@ -27970,7 +27089,7 @@ Você pode nos chamar caso tenha dúvidas
 
 # A Kobana funciona em Windows, Linux e Mac?
 
-## Content
+## Conteúdo
 
 Sim, a Kobana funciona em qualquer sistema operacional e em qualquer
 navegador, inclusive em tablets.
@@ -28014,7 +27133,7 @@ nos seguintes navegadores:
 
 # Preciso instalar algum programa para usar a Kobana?
 
-## Content
+## Conteúdo
 
 Não. A Kobana é um sistema na web que não requer instalação de programas
 para funcionar.
@@ -28044,11 +27163,11 @@ simples começar a usar. Basta [criar uma conta][1]{: target="_blank"
 
 # Como ativar o EDI para uma carteira do Sicoob?
 
-## Description
+## Descrição
 
 Veja como automatizar o tráfego de arquivos de remessa e retorno no Sicoob via EDI.
 
-## Content
+## Conteúdo
 
 O **EDI (Eletronic Data Interchange)** é uma ferramenta de automatização
 de tráfego de arquivos de remessa e retorno, eliminando o trabalho
@@ -28192,11 +27311,11 @@ Fico no aguardo de qualquer novidade sobre a conclusão dessa ativação.
 
 # Como ativar o registro automático de boletos via API do Sicredi?
 
-## Description
+## Descrição
 
 Veja como conectar sua carteira cadastrada na Kobana com a API do Sicredi.
 
-## Content
+## Conteúdo
 
 O registro via API possibilita que os boletos gerados na Kobana sejam
 registrados automaticamente e em segundos, sem a necessidade de gerar um
@@ -28404,11 +27523,11 @@ acessar a aba registros.
 
 # Como ativar o recebimento por boletos pela API do Sicoob?
 
-## Description
+## Descrição
 
 Veja como conectar sua carteira cadastrada na Kobana com a API do Sicoob.
 
-## Content
+## Conteúdo
 
 O<b> registro via API </b>bancária possibilita que o boleto gerado na
 Kobana seja registrado na hora, sem a necessidade de criar um arquivo de
@@ -28622,271 +27741,13 @@ bancária.
 
 ---
 
-# Como ativar a conexão com a API do Santander?
-
-## Description
-
-Veja como conectar a Kobana com a API do Santander para o registro automático de boletos.
-
-## Content
-
-A comunicação via API é a forma mais eficiente de trocar informações com
-um banco, permitindo que certos retornos sejam feitos até mesmo em tempo
-real. Neste artigo, vamos mostrar como fazer a conexão com a API do
-Santander.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## 1. Acesse a sua conta de PJ no Santander   {#h_cc58c1152f}
-
-Para começar, acesse o [portal de desenvolvedores do Santander][1]{:
-target="_blank" .intercom-content-link}, clique em <i>Entrar </i>e em
-seguida no botão <i>Acesse com sua conta PJ. </i>
-{: .no-margin}
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501034/b7c00353aba8c3e1281144c4/UeviVAALszKwaLySalVUm52VjoYJFCffpwsOYTe4GREVYySxMDtx8xgslN10Y7URzEEYnFCVLD9WoqDlLHUTc8i7pR_4hGqJDjrHHMPcQg4OZFcNekZtG_VybqbnUkzNyOCRDsxE5iL7AAy0sutQf8Q?expires=1752529500&amp;signature=7e61b39c4972bb2f4aa4ddb5e91361e5dfcad5a75b95570d9c4309e6bac73ccd&amp;req=dSAkFcx%2BnIFcXfMW1HO4zd4TJBYga0Q68MRtqDcl7yTweS%2FCGzwmiWXkswzL%0AUU2r%0A)
-</div>
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-O sistema vai pedir as suas informações de acesso, como usuário, conta,
-agência e senha. Lembrando que existem algumas regras para usar o portal
-de desenvolvedor do banco:
-{: .no-margin}
-
-* Somente o Usuário Master consegue criar aplicações em Produção, no Dev
-  Portal;
-  {: .no-margin}
-
-* É necessário que o Usuário Master tenha o ID Santander habilitado;
-  {: .no-margin}
-
-* É necessário que o Usuário Master tenha um e-mail cadastrado associado
-  ao seu usuário;
-  {: .no-margin}
-
-* Para que o Usuário Master tenha acesso a duas ou mais empresas dentro
-  do Dev Portal, é necessário que o mesmo faça o Login PJ para as
-  diferentes empresas. Assim, ficarão associadas à sua conta.
-  {: .no-margin}
-
-## 2. Crie um aplicativo em produção    {#h_adf8fa0f59}
-
-Uma vez logado, você precisa criar um aplicativo em produção para gerar
-as credenciais necessárias. Clique em *Aplicações*, como na imagem
-abaixo, ao lado do nome da sua empresa.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
-<b><i>Atenção! </i></b><i>Certifique-se de que o check no lado superior
-direito está em <b>Produção</b>. </i>
-{: .no-margin}
-
-</div>
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501055/b6dbc21042850c4952acecc6/1t9ZnuLaPCUyMT0BV77AeYRGOX_t_4jAUSpTnEWOwMuyJQ_qaVjLnq1Rgrv_f_HCLkVKkGVWVlgnC4Wyyzx_Ys8BZfi793J9oQXV72oPlX2F4hyps6hB2LfovoCOcf2zgkC6N4spVMTDymJ8k7nO5BI?expires=1752529500&amp;signature=26c1ff10c20c9fc825065763be02c731f6e034aabe8cff6aeeb03cd61bcb9fb7&amp;req=dSAkFcx%2BnIFaXPMW1HO4zZFDrJGcYcHPZN9uOu5ecLK3W2EwmT4NLcQAY7RL%0AWZVh%0A)
-</div>
-
-
-{: .no-margin}
-
-No fluxo de criação de credenciais, escolha a opção *Sou desenvolvedor*
-e siga o passo a passo de acordo com a imagem abaixo. Para a Kobana, na
-opção 6, selecione a caixa *Emissão de Boletos*. Na opção 5, em
-produtos, escolha as opções de acordo com a operação que você pretende
-fazer. É possível fazer opções de recebimentos de Boletos e Pix, extrato
-e pagamentos.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501070/e47ac9987bba91fc519c48bd/IrGE1u5lJRGQNjFwG7YDG9m5v4elWOXPr7NqFPNcqW95f4k1INLHC9xO7tXqoadni-yY2fNmxyDuni9oJNCGxwVfKhVNYp1GFyBCKXRebWQ64l3QnLXGBn55XOF5zrSXW1g_tvs9TDk_oRgS-4_8VVI?expires=1752529500&amp;signature=09af5cbe142315bb93334fb461f4344b16549ac329f5ee3d43006bd2aa65cf52&amp;req=dSAkFcx%2BnIFYWfMW1HO4zUL5rp0%2FJpZjARIEobLk3XDkSZXKf1MRi40ne4En%0A4%2BKc%0A)
-</div>
-
-
-{: .no-margin}
-
-## 3. Copie o ClientID e Client Secret   {#h_892f836a46}
-
-Após o processo ser aprovado, você deve voltar ao espaço anterior em
-<i>Aplicações, </i>para visualizar as informações que vamos precisar, o
-<b>ClientID </b>e **Client Secret**. Para copiar, clique nos botões
-destacados na imagem abaixo e guarde as informações em um arquivo, como
-o bloco de notas, uma por vez.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501090/8d67d79eb55187bcaeef38b1/5soKSsXQq2u-Bg2ntVbfcJeBLIbaLiJ3iG1OP__CkJ55Z_g_2WT9ZNL4wEye0keQ83Ex6kyrZThV4p71p-1tbJdJtVPytvQjMmxYfTrf4b1vFNMjpngh0ol7QjfCu41aQSo9ZdlKgSG1XM0_QuFu6OY?expires=1752529500&amp;signature=0dd648b720c412e8df124519a05350310eca481abcfa7bafd4da502b74d60749&amp;req=dSAkFcx%2BnIFWWfMW1HO4zQgGl6BXwsBPUx%2Bt%2Fw0YG5kqsJ5lsdBk75QP2QE2%0Az0Re%0A)
-</div>
-
-
-{: .no-margin}
-
-## 4. Verifique o status do certificado digital   {#h_e29d3205c1}
-
-Para certas conexões aqui na Kobana, você também vai precisar do
-[certificado digital][2]{: target="_blank" .intercom-content-link}, que
-deve ser o mesmo que você usou para criar a aplicação no Santander. Caso
-o seu certificado tenha a validade expirada, você deve renovar subindo
-um novo certificado no portal do desenvolvedor e também na Kobana.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Caso queira verificar essas informações no sistema do Santander, acesse
-a sua conta PJ, clique em *Aplicações* para ver uma imagem como a
-abaixo.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501118/a798a258517ef90666768c1c/vEP6m7IaM6irQaYm4omCmdjtN2UdjlmcDVUqSi5SFfTqzK1vAX70HUBU4vsbieiQwNXi58dms0VMbrk2LmQInV8Au1tvTi7YPushspIqdS6Kb2t9lnNuQvYTinEO7jRrLopa1w5B-HY6ywV2s6vAlYo?expires=1752529500&amp;signature=290106a4d623dbf7d7f66b98e0151a4179e709e1c7cd948b767fc282959087a5&amp;req=dSAkFcx%2BnIBeUfMW1HO4zfEJlyEKQCsRsPBRTyyu29aevmX%2FAc6ORtEEngYh%0An1wV%0A)
-</div>
-
-
-{: .no-margin}
-
-Caso precise renovar, clique na opção <i>Editar a aplicação </i>para
-subir um novo certificado de acordo com as regras do banco:
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501135/d3dd21bd85780dbff908696c/iD0bRskS6RrJSGgT4OhQZc0p1NZTTbFqflr-tUvnij6RJoPorM5N91aMTmIVz8a-sFc9nWw9qfBIHv390rPxuSU2ybcWMHJXBiIQGZlhKEBkPYGivmarPuyCAIjTjHGUQM2RC0-zrQFpW46kwxePO4U?expires=1752529500&amp;signature=eb918b239ebe63fdd11fe206001177d86f8f3fa993821fb5dd91bbbf5f12eacb&amp;req=dSAkFcx%2BnIBcXPMW1HO4zf3mAI%2Bbbjy6nZt8A8yGkxVD73Rf60X9Eg2QdM%2BU%0AY9zw%0A)
-</div>
-
-
-{: .no-margin}
-
-## 5. Crie a conexão com o Santander   {#h_89c407e1ce}
-
-Com as informações que você precisa em mãos, é hora de criar a conexão
-com o Santander. Escolha a opção da imagem abaixo para iniciar o
-processo:
-{: .no-margin}
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501146/f5680e19f09dbedc2c6c4f6e/d5TeEEEPPiRvcKgSWOnYPf99mJrZR5wTiunrAtVXURl10b9y8ecaXEHb8L9Nx53oQ0ZWv1RZMDHlPxGrPBwpOJ5fkh-1DmSX0PkvHlrsmBRJMdKYvk2JqncfM920F9TdGh7jpi9hPvH8RYs53mWASJQ?expires=1752529500&amp;signature=4536d5f6b91f21e1d1b9e39994cce36f9dc308b6ccd657ad48f7abbb231bc783&amp;req=dSAkFcx%2BnIBbX%2FMW1HO4zazPspV4NTmWUGgmfg4IBTkwdzHl3mXj63iuguH2%0ANZhg%0A)
-</div>
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-Na tela seguinte, preencha as informações pedidas pelo sistema.
-Primeiro, escolha as permissões que a API terá, ou seja, o que ela
-poderá fazer, como gerar boletos, fazer transferências e consultar
-extrato. Nas credenciais, <b>client ID </b>e<b> client Secret</b>,
-preencha as informações que você copiou no passo 3. Escolha também o
-certificado que você conferiu no passo anterior.
-{: .no-margin}
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501195/7169f769d2271014dbe244b7/NhJ8CYDRFiGrvexzSQXge488q0B1f_wtetlsjiaBj75exWbVTASBBaPqNViTexroPtCyDet_RNrOSBckloD7GZIOUw1rOHdMVFcH4C-CsefQDBeJKydk1N6ujaX2VUTI66-FdABXR1sFrK-UpIMfJvc?expires=1752529500&amp;signature=ff4f85758facfceacbaaacb3ef73cc1fffc7756ad207ffeca3dbab121a6e1d4f&amp;req=dSAkFcx%2BnIBWXPMW1HO4zT%2FGLRq1S8OUw%2FwCrpZNCJtYr5GL81uKiokqigN%2F%0AnLgv%0A)
-</div>
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-Após inserir os dados, clique no botão <i>Validar Conexão </i>para que o
-sistema possa conferir as credenciais.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1033501211/25e801d90610319f7b103ab8/B_RV3gUtDA6IW03kMtB1da9lm41ij6flCByXW9bsJDtxIjXrWX_bs8D7q4vg7QZSY7Z7eVH4VLnSFUggwbJTESgS8dYIlqqydOrn78kFz73TA-qizrTTTsSgYYe24M2cmRvmLfz-gRDBZpvhlo8_-kU?expires=1752529500&amp;signature=93d34a305755e8bd439ae182d92eca4d99e3564aff14bd03dd8a8c0c0bb39800&amp;req=dSAkFcx%2BnINeWPMW1HO4zZ%2BBvxOb6lspLoVH0agJ%2FnwmOtouXWRCrJheLeok%0AcgiL%0A)
-</div>
-
-
-{: .no-margin}
-
-## 6. Associe a nova conexão às operações   {#h_f606e58c77}
-
-Para a conexão de fato funcionar, é preciso associá-la à operação que
-você quer fazer. Nos links abaixo, você encontra como associar a conexão
-a cada operação:
-{: .no-margin}
-
-* [Pagamentos][3]{: target="_blank" .intercom-content-link};
-  {: .no-margin}
-
-* [Recebimentos por Pix][4]{: target="_blank" .intercom-content-link};
-  {: .no-margin}
-
-* [Recebimentos por boleto][5]{: target="_blank"
-  .intercom-content-link}.
-  {: .no-margin}
-
-
-{: .no-margin}
-
-
-{: .no-margin}
-
-
-
-[1]: https://developer.santander.com.br/
-[2]: https://ajuda.kobana.com.br/pt-BR/articles/8832324-como-cadastrar-um-certificado-digital-na-kobana
-[3]: https://ajuda.kobana.com.br/pt-BR/articles/9385571-como-pagar-boletos-e-contas-pela-api-do-santander
-[4]: https://ajuda.kobana.com.br/pt-BR/articles/8862304-como-receber-por-pix-pela-api-do-santander
-[5]: https://ajuda.kobana.com.br/pt-BR/articles/10055008-como-emitir-boletos-pela-api-do-santander
-
-
----
-
 # Como ativar a comunicação com a API do Banco Inter?
 
-## Description
+## Descrição
 
 Veja como conectar sua conta da Kobana com a API do Inter.
 
-## Content
+## Conteúdo
 
 A forma mais eficiente de comunicação com o banco é por APIs. Essa
 comunicação dispensa a criação e troca de arquivos, permitindo executar
@@ -29050,11 +27911,11 @@ Banco Inter na Kobana. Confira nos artigos abaixo:
 
 # Como ativar a API de recebimentos de boletos do Itaú?
 
-## Description
+## Descrição
 
 Veja como conectar sua carteira cadastrada na Kobana com a API do Itaú.
 
-## Content
+## Conteúdo
 
 Cada dia mais, os bancos estão evoluindo para que toda a comunicação
 seja realizada via APIs. O Itaú já tem disponível uma API para
@@ -29143,11 +28004,11 @@ descobre [como emitir um boleto pela Kobana][4]{: target="_blank"
 
 # Como ativar o recebimento por boletos pela API do Banco do Brasil?
 
-## Description
+## Descrição
 
 Veja como conectar sua carteira cadastrada na Kobana com a API do Banco do Brasil.
 
-## Content
+## Conteúdo
 
 Cada dia mais, os bancos estão evoluindo para que toda a comunicação
 seja realizada via APIs. Nesse artigo, vamos mostrar como receber pela
@@ -29326,11 +28187,11 @@ como **Ativado**. Clique em *Salvar* para finalizar.
 
 # Como ativar o envio automático dos arquivos de remessa e retorno (EDI)?
 
-## Description
+## Descrição
 
 Saiba tudo sobre a ativação no envio automático dos arquivos de remessa e retorno.
 
-## Content
+## Conteúdo
 
 A Kobana elimina diversos trabalhos manuais e faz sua empresa ganhar
 tempo!
@@ -29561,7 +28422,7 @@ target="_blank" .intercom-content-link}.
 
 # Como exportar o certificado digital no formato PK/PFX?
 
-## Content
+## Conteúdo
 
 Antes de cadastrar o certificado digital no sistema da Kobana, é preciso
 <b>exportar o documento no formato correto. </b>
@@ -29765,164 +28626,13 @@ Kobana.
 
 ---
 
-# Como cadastrar um certificado digital na Kobana?
-
-## Description
-
-Entenda um passo a passo de como importar e cadastrar o seu certificado digital no nosso sistema.
-
-## Content
-
-**Importar um certificado digital** na Kobana é um passo necessário para
-que algumas das ações em nosso sistema sejam possíveis.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Certos bancos, em alguns processos, solicitam o certificado digital para
-que o procedimento seja realizado e, assim, a conexão possa ser
-efetivada.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
-*Caso você não saiba ou mesmo não se recorde sobre o que é o certificado
-digital, indicamos aqui um outro artigo explicativo sobre o assunto -
-[Certificado Digital - O que é e onde o encontrar?][1]{: target="_blank"
-.intercom-content-link}*
-{: .intercom-align-center .no-margin}
-
-</div>
-
-Com o certificado em mãos, será necessário cadastrar o mesmo na Kobana.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **Cadastre seu certificado digital rapidamente**   {#h_f61e1fefe1}
-
-Por meio do menu *Administração &gt; Segurança &gt; Certificados*,
-clique no botão Novo certificado.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935854811/f49751ed913c359ab0bc3219/novo-certificado.png?expires=1752529500&amp;signature=a9f98b5a0d5c0502813d7f6695c5bf58c58d9a4fc35e074dddaebd202f10ff9f&amp;req=fSMiHsx6lYBeFb4f3HP0gK72xf82jp5CrtlHqZNvDLaSYrFFhwwWdd5iL6ha%0ADYg%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-Com os dados em mãos, selecione a opção correspondente ao certificado
-que você possui e, em seguida, preencha os demais campos do formulário.
-Clique em salvar.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
-<b><i>Atenção!</i> </b>*Sempre use o mesmo certificado que você usou no
-banco para cadastrá-lo aqui na Kobana. Um certificado diferente não
-possibilitará que a conexão seja realizada com sucesso.*
-{: .no-margin}
-
-</div>
-
-
-
-[1]: https://ajuda.kobana.com.br/pt-BR/articles/8832308-certificado-digital-o-que-e-e-onde-o-encontrar
-
-
----
-
-# Certificado Digital - O que é e onde o encontrar?
-
-## Content
-
-Para que você realize algumas ativações juntamente à Kobana, tais como a
-conexão com a API bancária para [geração e gestão de boletos][1]{:
-target="_blank" .intercom-content-link} e [PIX][2]{: target="_blank"
-.intercom-content-link}, é necessário que você faça uso de um
-**certificado digital.**
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **O que é um certificado digital?**   {#h_6f50199747}
-
-O certificado digital é um documento eletrônico que possibilita que seu
-portador use determinados serviços e contratos de maneira segura e menos
-burocrática.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Estes documentos contêm os dados básicos de seu proprietário, sejam
-referentes à pessoa física ou jurídica, sendo disponibilizados aos
-órgãos que os solicitam para firmar determinadas ações entre ambos.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Estas informações existentes são a garantia de que a autenticidade das
-ações realizadas será validada, assegurando que o conteúdo destas ações
-esteja limitado somente a seu portador e à empresa a qual o mesmo foi
-disponibilizado.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Os responsáveis pelas informações existentes nos certificados digitais
-são as Autoridades Certificadoras, que deverão garantir a veracidade das
-informações assim como a proteção destas.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
-*É importante também saber: [Como cadastrar um certificado digital na
-Kobana?][3]{: target="_blank" .intercom-content-link}*
-{: .intercom-align-center .no-margin}
-
-</div>
-
-## **Onde posso ter acesso a um certificado digital?**   {#h_d1b9af5e49}
-
-Atualmente, existem várias empresas que disponibilizam o certificado
-digital para comercialização. Você pode ter acesso às mesmas realizando
-uma busca pela internet.
-{: .no-margin}
-
-Condições e valores referentes a estes certificados podem ser conferidos
-por você juntamente às próprias empresas.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Mantenha-se atento ao prazo de validade destes documentos, para que você
-sempre venha a utilizar documentos que estejam com a validade correta.
-{: .no-margin}
-
-
-
-[1]: https://ajuda.kobana.com.br/pt-BR/articles/8832266-como-ativar-a-comunicacao-com-o-meu-banco-via-api-ou-web-service
-[2]: https://ajuda.kobana.com.br/pt-BR/articles/8858511-como-utilizar-o-pix-e-o-boleto-hibrido-na-kobana
-[3]: https://ajuda.kobana.com.br/pt-BR/articles/8832324-como-cadastrar-um-certificado-digital-na-kobana
-
-
----
-
 # Como ativar a comunicação com o banco via API ou web service?
 
-## Description
+## Descrição
 
 Veja como deve ser o procedimento para ativar a comunicação com o seu banco.
 
-## Content
+## Conteúdo
 
 A forma mais eficiente de comunicação entre a Kobana e o seu banco é por
 **Web Service** ou **API bancária**.
@@ -30042,11 +28752,11 @@ service.
 
 # Quais as diferenças entre a comunicação com o banco via EDI e web service/API?
 
-## Description
+## Descrição
 
 As formas de comunicação automática com o banco possuem diferenças de ativação, custo e outras. Entenda!
 
-## Content
+## Conteúdo
 
 Por meio da Kobana, você pode se comunicar automaticamente com o banco
 para registrar o boleto, receber confirmação de pagamentos e realizar
@@ -30090,11 +28800,11 @@ contratação de um ou dos dois serviços.*
 
 # Formas de comunicação entre os bancos e a Kobana
 
-## Description
+## Descrição
 
 Existem 3 tipos de comunicação entre os bancos e o sistema da Kobana. Entenda como funcionam.
 
-## Content
+## Conteúdo
 
 Em relação às operações, a Kobana possui três **formas de comunicação
 com os bancos**:
@@ -30189,11 +28899,11 @@ dos boletos.
 
 # Envios pendentes: acompanhe ou cancele os eventos que entrarão na próxima remessa
 
-## Description
+## Descrição
 
 Entenda como gerenciar as ocorrências da próxima remessa facilmente.
 
-## Content
+## Conteúdo
 
 Se você gerou ou cancelou um boleto e não quer enviar essa ocorrência na
 remessa, deve fazer isso na página de **Envios Pendentes**. Isso é útil
@@ -30286,11 +28996,11 @@ remessa.
 
 # Como excluir uma remessa na Kobana?
 
-## Description
+## Descrição
 
 Quer cancelar uma remessa e não sabe como? Descubra no artigo!
 
-## Content
+## Conteúdo
 
 <b>Excluir uma remessa </b>é uma ação fácil de ser realizada na
 interface da Kobana.
@@ -30376,11 +29086,11 @@ extras.
 
 # Como alterar o sequencial de remessa?
 
-## Description
+## Descrição
 
 Saiba como mudar o sequencial de remessa para que a próxima remessa tenha a numeração que desejar.
 
-## Content
+## Conteúdo
 
 O **sequencial de remessa** é a numeração das remessas, um número que
 identifica cada remessa, pela ordem em que foram criadas. Isso facilita
@@ -30477,11 +29187,11 @@ gerada com o número seguinte que você incluir aqui.
 
 # Como baixar o arquivo de retorno do Bradesco?
 
-## Description
+## Descrição
 
 Veja um passo a passo para baixar corretamente o arquivo de retorno do Bradesco.
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 já faz operações pela Kobana, é necessário entender como funciona o
@@ -30609,11 +29319,11 @@ retorno. Por fim, basta clicar em **Enviar arquivo retorno**.
 
 # Como baixar o arquivo de retorno do Santander?
 
-## Description
+## Descrição
 
 Veja um passo a passo para baixar corretamente o arquivo de retorno do Santander.
 
-## Content
+## Conteúdo
 
 Quando você está homologando uma nova carteira na Kobana ou faz
 operações, é essencial entender como funciona e qual a finalidade da
@@ -30734,11 +29444,11 @@ Depois, basta clicar em <b>Enviar arquivo retorno: </b>
 
 # Como enviar o arquivo de remessa ao Santander?
 
-## Description
+## Descrição
 
 Veja um passo a passo para enviar corretamente o arquivo de remessa ao Internet Banking do Santander.
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 faz operações pela Kobana, pode ser necessário **enviar o arquivo
@@ -30852,11 +29562,11 @@ contato com o seu gerente bancário.
 
 # Como enviar o arquivo de remessa ao Banco Daycoval?
 
-## Description
+## Descrição
 
 Veja um passo a passo para enviar corretamente o arquivo de remessa ao Internet Banking do Daycoval.
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 já faz operações pela Kobana, pode ser necessário **enviar o arquivo
@@ -30905,11 +29615,11 @@ aprovação.
 
 # Como enviar o arquivo de remessa ao Banco do Brasil?
 
-## Description
+## Descrição
 
 Veja um passo a passo para enviar corretamente o arquivo de remessa ao Internet Banking do Banco do Brasil.
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 já faz operações pela Kobana, pode ser necessário **enviar o arquivo
@@ -30998,11 +29708,11 @@ o erro e nos envie por e-mail
 
 # Como enviar o arquivo de remessa à Caixa Econômica Federal?
 
-## Description
+## Descrição
 
 Veja um passo a passo para enviar corretamente o arquivo de remessa ao Internet Banking da Caixa.
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 já faz operações pela Kobana, pode ser necessário fazer o **envio do
@@ -31133,11 +29843,11 @@ um print da tela com o erro e nos envie para o e-mail
 
 # Como enviar o arquivo de remessa ao Bradesco?
 
-## Description
+## Descrição
 
 Veja um passo a passo para enviar corretamente o arquivo de remessa ao Internet Banking do Bradesco.
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 já faz operações pela Kobana, pode ser necessário enviar o arquivo
@@ -31241,11 +29951,11 @@ realizado com sucesso, como a abaixo:
 
 # Como enviar o arquivo de remessa ao Sicoob?
 
-## Description
+## Descrição
 
 Veja um passo a passo para enviar corretamente o arquivo de remessa ao Internet Banking do Sicoob.
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 já emite boletos pela Kobana, é necessário registrar os seus boletos.
@@ -31374,11 +30084,11 @@ mensagem abaixo será exibida:
 
 # Como enviar o arquivo de remessa ao Itaú?
 
-## Description
+## Descrição
 
 Veja um passo a passo para enviar corretamente o arquivo de remessa ao Internet Banking do Itaú.
 
-## Content
+## Conteúdo
 
 Seja na hora de homologar a sua carteira de recebimento ou quando você
 já faz operações pela Kobana, pode ser necessário **enviar o arquivo
@@ -31485,11 +30195,11 @@ tire um print da tela e nos envie através do e-mail
 
 # Como enviar o arquivo de remessa ao banco?
 
-## Description
+## Descrição
 
 Depois de gerar o arquivo de remessa pela Kobana, saiba como enviar o mesmo para o seu banco.
 
-## Content
+## Conteúdo
 
 Por meio do Internet Banking do seu banco, você consegue **transmitir o
 arquivo de remessa** gerado pela Kobana.
@@ -31567,11 +30277,11 @@ gerente pedindo instruções de como enviar a remessa.
 
 # Como gerar um arquivo de remessa na Kobana?
 
-## Description
+## Descrição
 
 Entenda a importância do arquivo de remessa para comunicar o banco das interações realizadas por você com o boleto.
 
-## Content
+## Conteúdo
 
 Sempre que gerar, cancelar, alterar ou realizar qualquer outra interação
 no boleto é necessário comunicar ao banco. Essa comunicação pode ser
@@ -31644,11 +30354,11 @@ pelo sistema.
 
 # Como subir um arquivo de retorno na Kobana
 
-## Description
+## Descrição
 
 Recebeu um arquivo de retorno do banco e não sabe como proceder? Veja como subir o material dentro do sistema da Kobana.
 
-## Content
+## Conteúdo
 
 Sempre que existir uma atualização sobre um boleto no banco, a
 instituição, por padrão, deverá gerar um<b> arquivo de retorno</b> com
@@ -31716,11 +30426,11 @@ carteiras** disponíveis para que seja selecionada.
 
 # Como importar boletos para a Kobana usando arquivos de remessa?
 
-## Description
+## Descrição
 
 Entenda como gerar boletos ao subir os arquivos de remessa no sistema da Kobana.
 
-## Content
+## Conteúdo
 
 Se você utiliza um sistema ERP, por exemplo, que gera **arquivos de
 remessa** a partir de cobranças cadastradas por você, é possível
@@ -31836,11 +30546,11 @@ Temos suporte para uma dessas variações de cada formato.
 
 # Formatos dos arquivos de remessa e retorno
 
-## Description
+## Descrição
 
 Entenda os formatos dos arquivos gerados pela Kobana e o que acontece se aparecer uma mensagem de formato inválido.
 
-## Content
+## Conteúdo
 
 A Kobana trabalha com arquivos de remessa e retorno no **formato**
 **CNAB 240** e **CNAB 400** para [todos os bancos que trabalhamos][1]{:
@@ -31899,11 +30609,11 @@ o meu banco?][2]{: target="_blank" .intercom-content-link}*
 
 # O que são e como funcionam os arquivos de remessa e retorno?
 
-## Description
+## Descrição
 
 Compreenda como é realizada a troca de arquivos de remessa e retorno entre seu banco e o sistema da Kobana para registro de boletos.
 
-## Content
+## Conteúdo
 
 Os **arquivos** **remessa e retorno** são utilizados para a troca de
 informações entre a Kobana e o seu banco para registro de boletos. A
@@ -32012,11 +30722,11 @@ meu banco via API ou web service?][1]{: target="_blank"
 
 # O que fazer se eu não conseguir concluir a homologação da minha carteira de recebimento?
 
-## Description
+## Descrição
 
 Algumas situações podem atrapalhar a conclusão da homologação da carteira. Analise se algum desses casos está ocorrendo com você.
 
-## Content
+## Conteúdo
 
 Se você **não está conseguindo concluir a fase de homologação**,
 verifique se você se encaixa em um dos 4 casos abaixo.
@@ -32125,11 +30835,11 @@ recebimento do boleto de homologação.
 
 # Como homologar minha carteira de recebimento quando o gerente do banco solicita o envio de boletos e remessa para análise?
 
-## Description
+## Descrição
 
 Entenda o que fazer para homologar sua carteira de recebimento em casos como esse.
 
-## Content
+## Conteúdo
 
 Em alguns casos, os bancos podem solicitar um<b> processo de homologação
 diferente do padrão</b>. Normalmente, nesses casos, o gerente solicita o
@@ -32353,11 +31063,11 @@ para saber como ativar][2]{: target="_blank" .intercom-content-link}.
 
 # Durante a homologação, cadastrei errado minha carteira. O que fazer?
 
-## Description
+## Descrição
 
 Como alterar um dado cadastrado de forma equivocada na minha carteira de recebimento na Kobana? Veja!
 
-## Content
+## Conteúdo
 
 Ao cadastrar a sua carteira de recebimento, todos os dados precisam
 estar corretos para que o banco e a Kobana façam as transações de forma
@@ -32425,11 +31135,11 @@ o procedimento. Para [recadastrar a carteira][2]{: target="_blank"
 
 # Como cadastrar e homologar minha carteira de recebimento na Kobana?
 
-## Description
+## Descrição
 
 Cadastrar a carteira de recebimento é muito simples e prático. Veja o passo a passo e fique pronto para emitir seus boletos.
 
-## Content
+## Conteúdo
 
 A <b>carteira de recebimento </b>é um serviço contratado no seu banco
 para que a sua empresa possa gerar boletos bancários com registro.
@@ -32622,11 +31332,11 @@ carteira estará liberada para iniciar a emissão dos boletos.
 
 # Como funciona a cobrança dos planos da Kobana?
 
-## Description
+## Descrição
 
 Entenda os tipos de plano, o que é cobrado e os prazos de pagamentos
 
-## Content
+## Conteúdo
 
 A Kobana possui três tipos de planos que oferecem acesso diferenciado à
 interface, uso de funcionalidades e atendimento mais próximo da nossa
@@ -32907,11 +31617,11 @@ target="_blank" .intercom-content-link}**
 
 # Como faço para excluir uma carteira de recebimento?
 
-## Description
+## Descrição
 
 É muito simples excluir uma carteira de recebimento no sistema da Kobana. Veja como!
 
-## Content
+## Conteúdo
 
 É possível **excluir uma carteira de recebimento** do sistema da Kobana.
 {: .no-margin}
@@ -32987,11 +31697,11 @@ ajudar com o artigo!*
 
 # Como faço alterações na minha carteira de recebimento?
 
-## Description
+## Descrição
 
 Para saber se é possível modificar uma carteira e como fazer essas mudanças na prática, confira o artigo.
 
-## Content
+## Conteúdo
 
 Sim, é possível fazer **alterações na carteira de recebimento**
 cadastrada na Kobana. Você pode alterar alguns dados e informações da
@@ -33072,11 +31782,11 @@ artigo aqui!][1]{: target="_blank" .intercom-content-link}*
 
 # Quais informações preciso para cadastrar minha carteira de recebimento?
 
-## Description
+## Descrição
 
 Conheça os dados que você precisa para cadastrar sua carteira de recebimento na Kobana.
 
-## Content
+## Conteúdo
 
 Para<b> cadastrar a sua carteira de recebimento</b>, emitir boletos e
 receber diretamente na conta corrente da sua empresa, você precisará de
@@ -33224,176 +31934,13 @@ estes artigos:*
 
 ---
 
-# Como cadastrar e homologar minha carteira de recebimento na Kobana?
-
-## Description
-
-Cadastrar a carteira de cobrança é muito simples e prático. Veja o passo a passo e fique pronto para emitir seus boletos.
-
-## Content
-
-A **carteira de recebimento (ou carteira de cobrança)** é um serviço
-contratado junto ao seu banco para que a sua empresa possa gerar boletos
-bancários com registro. Por meio dela, os pagamentos são identificados e
-creditados diretamente na sua conta bancária.
-{: .no-margin}
-
-
-{: .no-margin}
-
-**Para cadastrar sua carteira de recebimento na Kobana**, você precisará
-de dados específicos que dependem do seu banco. Verifique a [lista de
-dados necessários para o seu banco][1]{: target="_blank"
-.intercom-content-link} e consulte o gerente bancário caso necessário.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Veja, a seguir, como cadastrar a carteira na Kobana:
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **1. Iniciando o Cadastro da sua Carteira de Recebimento**   {#h_950ff6058a}
-
-Para cadastrar uma carteira, acesse o menu *Recebimentos &gt; Boletos*
-&gt; *Carteiras* e clique no botão verde para cadastrar uma nova
-carteira.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/933768594/425ee62db8f2d1d4b1e9dbc5/image.png?expires=1752529500&amp;signature=631c70b03e178f6f1fa6893a2c99b29c914e59e3c6c840aea6fa16215f542f91&amp;req=fSMkEc92mIhbFb4f3HP0gDjIBrb0rgxZopi45cWlBjfnISH3UvkYbCZZLuSi%0A25A%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-Se esse botão não aparecer na sua tela, significa que você tem um plano
-limitado de carteiras e já atingiu esse limite. Converse com a nossa
-equipe sobre adicionar mais carteiras ao seu plano por intermédio do
-chat ou do e-mail
-[suporte@kobana.com.br](mailto:suporte@kobana.com.br){: target="_blank"
-.intercom-content-link}.
-{: .no-margin}
-
-
-{: .no-margin}
-
-## **2. Inserindo os dados bancários**   {#h_c5792908f6}
-
-Agora você vai selecionar o banco da carteira a ser cadastrada.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/933768600/4878b14985b436f84d43e32a/image.png?expires=1752529500&amp;signature=b2adb03f9f88be6e2debf1dd2676851376000fb53de11633fe522f026b873fd0&amp;req=fSMkEc92m4FfFb4f3HP0gF%2BrI0JU08Hn6My%2BOlmSKxsZSk2dPzWZ5mUixYxb%0AgHE%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-Cada banco possui características e dados específicos a serem
-cadastrados. Esta etapa é muito importante e você deve preenchê-la com o
-máximo de atenção.
-{: .no-margin}
-
-<div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
-*[Veja aqui quais dados são necessários para cadastrar a carteira de
-recebimento do seu banco][1]{: target="_blank" .intercom-content-link}*
-{: .intercom-align-center .no-margin}
-
-</div>
-
-## **3. Homologando sua Carteira de Recebimento**   {#h_a8772a6d4f}
-
-Ao finalizar o cadastro da sua carteira, ela ficará listada com as
-outras já cadastradas e com status da cor laranja. Isso significa que a
-homologação está pendente. Clique na seta para prosseguir com a
-homologação.
-{: .no-margin}
-
-
-{: .no-margin}
-
-<div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/933768609/7606e45f2590788428135f37/image.png?expires=1752529500&amp;signature=e488ecd4e1cc596f94bd2aff904d9d412de26af802ffd95aae417aceabf62239&amp;req=fSMkEc92m4FWFb4f3HP0gHnaWvj8Pe6MkF65m1qedT9j9vsjZKXOWHdEFhLD%0ApPw%3D%0A)
-</div>
-
-
-{: .no-margin}
-
-Agora leia atentamente as orientações da tela final, marque os 3 boxes
-informando ter ciência dos próximos passos e clique em *Prosseguir com a
-Homologação*.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Faça o download da remessa e acesse o seu internet banking para fazer o
-envio. Para saber como fazer isso, consulte este artigo: [Como enviar o
-arquivo de remessa ao banco?][2]{: target="_blank"
-.intercom-content-link}
-{: .no-margin}
-
-
-{: .no-margin}
-
-Sempre que for gerado um boleto em sua conta é necessário que você faça
-o registro. Isso é feito com o envio do arquivo de forma manual ou
-automática, ou por meio do acesso ao API / Web Service do banco. Saiba
-mais: [Formas de comunicação na gestão de boletos entre os bancos e a
-Kobana][3]{: target="_blank" .intercom-content-link}
-{: .no-margin}
-
-
-{: .no-margin}
-
-Com o arquivo de remessa enviado ao banco, você deverá aguardar um dia
-útil para que o seu banco crie um arquivo de retorno com a confirmação
-do registro do boleto contido na remessa de homologação.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Faça o download desse arquivo no banco, acesse o sistema da Kobana e, na
-[área das carteiras][4]{: target="_blank" .intercom-content-link},
-clique novamente na seta para finalizar a homologação.
-{: .no-margin}
-
-
-{: .no-margin}
-
-Na próxima página, clique no botão *Enviar Arquivo Retorno*. Selecione o
-arquivo de retorno salvo em seu computador e se estiver tudo certo a
-carteira estará liberada para iniciar a emissão dos boletos.
-{: .no-margin}
-
-
-
-[1]: https://ajuda.kobana.com.br/pt-BR/articles/8822007-quais-informacoes-preciso-para-cadastrar-minha-carteira-de-cobranca
-[2]: https://ajuda.kobana.com.br/pt-BR/articles/8823096-como-enviar-o-arquivo-de-remessa-ao-banco
-[3]: https://ajuda.kobana.com.br/pt-BR/articles/8827399-formas-de-comunicacao-na-gestao-de-boletos-entre-os-bancos-e-a-kobana
-[4]: https://app.kobana.com.br/carteiras
-
-
----
-
 # Quais carteiras de recebimento estão disponíveis na Kobana?
 
-## Description
+## Descrição
 
 Quer saber se a carteira de recebimento da sua empresa pode ser usada no sistema da Kobana? Veja aqui a relação completa!
 
-## Content
+## Conteúdo
 
 Na tabela abaixo, você confere todas as **carteiras de recebimento dos
 bancos implementadas na Kobana** para gerar boletos.
@@ -33465,11 +32012,11 @@ carteiras][3]{: target="_blank" .intercom-content-link} na Kobana.*
 
 # O que é carteira de recebimento e para que serve?
 
-## Description
+## Descrição
 
 Para emitir boletos bancários, é preciso ter uma carteira de recebimento cadastrada. Entenda como funciona!
 
-## Content
+## Conteúdo
 
 A **carteira de recebimento** é um serviço contratado pelas empresas
 junto ao seu banco, o que permite a emissão de boletos bancários. Sem
@@ -33562,11 +32109,11 @@ apropriado para a realidade do seu negócio.
 
 # Funcionalidades da Kobana
 
-## Description
+## Descrição
 
 Quais são os principais recursos e utilidades do sistema da Kobana na automação de operações bancárias? Confira a seguir!
 
-## Content
+## Conteúdo
 
 A Kobana permite realizar a automação de diversas operações bancárias,
 envolvendo boletos, PIX, consulta de saldo e extrato, réguas de
@@ -36258,11 +34805,11 @@ dor de cabeça e garantindo os melhores benefícios para o seu negócio.
 
 # Quais bancos a Kobana atende?
 
-## Description
+## Descrição
 
 Acompanhe a relação de instituições bancárias com as quais a plataforma da Kobana tem integração.
 
-## Content
+## Conteúdo
 
 A Kobana é integrada e homologada com os principais bancos do país.
 **São mais de 30 instituições** atendidas pelo nosso sistema de
@@ -36433,11 +34980,11 @@ artigo: [Como criar minha conta na Kobana?][2]{: target="_blank"
 
 # Preciso de carteira de recebimento para utilizar a Kobana?
 
-## Description
+## Descrição
 
 Além da conta bancária, também é necessário que você tenha uma carteira de recebimento? Saiba mais a seguir!
 
-## Content
+## Conteúdo
 
 Sim, é necessário ter uma **carteira de recebimento para utilizar a
 Kobana**.
@@ -36481,11 +35028,11 @@ Kobana?][1]{: target="_blank" .intercom-content-link}*
 
 # Preciso de conta bancária para utilizar a Kobana?
 
-## Description
+## Descrição
 
 O que sua empresa precisa fazer para começar a utilizar os serviços da Kobana nas operações bancárias? Entenda!
 
-## Content
+## Conteúdo
 
 Sim, sua empresa precisa ter uma **conta bancária para utilizar a
 Kobana**. Não somos intermediadores ou instituição financeira.
@@ -36525,11 +35072,11 @@ recebimento</a> ativa. </i>
 
 # Exemplos de grandes empresas que utilizam a Kobana
 
-## Description
+## Descrição
 
 Conheça os clientes que confiam em nossos produtos e contratam os nossos serviços!
 
-## Content
+## Conteúdo
 
 Possuímos **mais de 250 clientes** que contrataram e confiam na
 plataforma da Kobana para automatizar suas operações bancárias de
@@ -36625,11 +35172,11 @@ Acesse nossos artigos sobre:*
 
 # Como criar minha conta na Kobana?
 
-## Description
+## Descrição
 
 Entenda como contratar um plano da Kobana e começar a utilizar o sistema para automatizar o fluxo financeiro da sua empresa
 
-## Content
+## Conteúdo
 
 A **criação da sua conta** na Kobana depende da **contratação de um
 plano**.
@@ -36729,11 +35276,11 @@ interface.*
 
 # Acordo de Nível de Serviço (SLA)
 
-## Description
+## Descrição
 
 Entenda o nível de serviço esperado pelo usuário na contratação da plataforma disponibilizada pela Kobana.
 
-## Content
+## Conteúdo
 
 Este **Acordo de Nível de Serviço** (SLA) é o documento que define, em
 termos mensuráveis e claros, o nível de serviço esperado pelo usuário
@@ -36853,11 +35400,11 @@ ou sobre as práticas adotadas na Kobana, envie um e-mail para:
 
 # O sistema fica fora do ar?
 
-## Description
+## Descrição
 
 Você consegue acessar a plataforma da Kobana sempre ou corre o risco de ficar fora do ar? Veja como funciona a disponibilidade do sistema.
 
-## Content
+## Conteúdo
 
 O **sistema da Kobana pode ficar fora do ar**. Isso pode acontecer com
 qualquer sistema, mas mantemos as melhores práticas para evitar esse
@@ -36939,7 +35486,7 @@ Kobana.*
 
 # Funciona no Windows, Linux e Mac?
 
-## Content
+## Conteúdo
 
 Sim, a **Kobana funciona em qualquer sistema operacional** e em qualquer
 navegador, inclusive nos tablets. Para usar a nossa plataforma, basta
@@ -36995,11 +35542,11 @@ Kobana?][2]{: target="_blank" .intercom-content-link}*
 
 # Preciso instalar algum programa?
 
-## Description
+## Descrição
 
 Como fazer para usar o sistema da Kobana nas suas operações bancárias? Entenda o que é necessário para utilizar a plataforma.
 
-## Content
+## Conteúdo
 
 Ao contratar a Kobana, é normal ouvirmos dúvidas sobre como funciona a
 plataforma, se é necessário ter<b> instalar algum programa</b>, e como
@@ -37057,11 +35604,11 @@ Kobana?][2]{: target="_blank" .intercom-content-link}*
 
 # Como é o suporte e qual o horário de atendimento?
 
-## Description
+## Descrição
 
 Conheça quais são os canais de atendimento da Kobana para ajudar você a tirar suas dúvidas e resolver quaisquer problemas.
 
-## Content
+## Conteúdo
 
 Para tirar dúvidas sobre a contratação do sistema da Kobana, as
 configurações e o funcionamento da plataforma, além de todos os recursos
@@ -37123,11 +35670,11 @@ você será notificado por e-mail.
 
 # Como criar minha conta na Kobana?
 
-## Description
+## Descrição
 
 Veja como contratar a plataforma da Kobana e cadastrar sua conta para começar a usar o sistema na sua empresa.
 
-## Content
+## Conteúdo
 
 Para utilizar a Kobana, você deve **contratar um plano** junto à nossa
 [equipe comercial][1]{: target="_blank" .intercom-content-link} e
@@ -37269,11 +35816,11 @@ A próxima etapa após ter finalizado a validação do telefone será o
 
 # Quais são as vantagens em utilizar a Kobana?
 
-## Description
+## Descrição
 
 O que a sua empresa pode ganhar ao implementar o sistema da Kobana em suas operações bancárias? Descubra!
 
-## Content
+## Conteúdo
 
 O sistema da Kobana promove impactos positivos na operação da sua
 empresa, com a maior facilidade e automação nos procedimentos bancários.
@@ -37428,11 +35975,11 @@ sobre a Kobana.][17]{: target="_blank" .intercom-content-link}*
 
 # O que a Kobana faz e não faz?
 
-## Description
+## Descrição
 
 Para compreender melhor se o serviço da Kobana atende às necessidades da sua empresa, entenda o que fazemos e o que não fazemos.
 
-## Content
+## Conteúdo
 
 De modo resumido, a Kobana trabalha com empresas que desejam
 **automatizar operações bancárias**. Assim, oferecemos uma plataforma de
@@ -37587,11 +36134,11 @@ cadastrar sua conta e muito mais!*
 
 # A Kobana é para o meu negócio?
 
-## Description
+## Descrição
 
 Entenda como funciona o sistema de automação de operações bancárias da Kobana e como podemos ajudar a sua empresa na prática!
 
-## Content
+## Conteúdo
 
 O serviço que a nossa plataforma oferece tem por objetivo ajudar a sua
 empresa a gerenciar e facilitar um volume considerável de operações
