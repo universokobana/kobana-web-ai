@@ -15,9 +15,9 @@ class Application < Sinatra::Base
 
   get '/:lang.md' do
     lang = params['lang'] || 'pt-BR'
-    if !File.exist?(File.join(settings.views, "#{lang}.md"))
+    unless File.exist?(File.join(settings.views, "#{lang}.md"))
       LOG.error "Language file not found: #{lang}.md"
-      halt 404, "Not Found"
+      halt 404, 'Not Found'
     end
     content_type 'text/markdown'
     File.read(File.join(settings.views, "#{lang}.md"))
@@ -25,12 +25,24 @@ class Application < Sinatra::Base
 
   get '/:lang?' do
     lang = params['lang'] || 'pt-BR'
-    if !File.exist?(File.join(settings.views, "#{lang}.md"))
+    unless File.exist?(File.join(settings.views, "#{lang}.md"))
       LOG.error "Language file not found: #{lang}.md"
-      halt 404, "Not Found"
+      halt 404, 'Not Found'
     end
-    @markdown_content = File.read(File.join(settings.views, "#{lang}.md"))
-    @html_content = Kramdown::Document.new(@markdown_content).to_html
-    erb :"layouts/#{lang}"
+
+    # Check if request is from a bot based on User-Agent
+    user_agent = request.user_agent || ''
+    is_bot = user_agent.match?(/bot|crawl|spider|scrape|curl|wget|python|java|ruby|go|rust|php|node|axios|fetch|postman/i)
+
+    if is_bot
+      # Serve raw markdown for bots
+      content_type 'text/markdown'
+      File.read(File.join(settings.views, "#{lang}.md"))
+    else
+      # Serve HTML for browsers
+      @markdown_content = File.read(File.join(settings.views, "#{lang}.md"))
+      @html_content = Kramdown::Document.new(@markdown_content).to_html
+      erb :"layouts/#{lang}"
+    end
   end
 end

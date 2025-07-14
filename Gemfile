@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
 ruby '3.4.4'
 
-gem 'sinatra', '~> 3.0'
-gem 'logger'
 gem 'kramdown'
+gem 'logger'
 gem 'ostruct'
 gem 'puma', '~> 6.0'
 gem 'rack-canonical-host', '1.0.0'
@@ -11,7 +10,7 @@ gem 'rack-ssl-enforcer'
 gem 'rake', '13.0.3'
 gem 'rerun', '~> 0.14', group: :development
 gem 'rexml'
-gem 'pandoc-ruby'
+gem 'sinatra', '~> 3.0'
 
 group :development do
   gem 'foreman'

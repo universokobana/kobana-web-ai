@@ -10,21 +10,44 @@ describe 'main application' do
   end
 
   describe 'GET /' do
-    it do
-      get '/'
-      expect(last_response).to be_ok
-      expect(last_response.content_type).to eq('text/html;charset=utf-8')
-      expect(last_response.body).to match(/Kobana - Conteúdo Completo do Website/)
-      expect(last_response.body).to match(/ Este conteúdo é projetado especificamente para LLMs/)
+    context 'with browser user agent' do
+      it 'returns HTML' do
+        get '/', {}, { 'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+        expect(last_response).to be_ok
+        expect(last_response.content_type).to eq('text/html;charset=utf-8')
+        expect(last_response.body).to match(/Kobana - Conteúdo Completo do Website/)
+        expect(last_response.body).to match(/Este conteúdo é projetado especificamente para LLMs/)
+      end
+    end
+
+    context 'with bot user agent' do
+      it 'returns markdown' do
+        get '/', {}, { 'HTTP_USER_AGENT' => 'curl/7.64.1' }
+        expect(last_response).to be_ok
+        expect(last_response.content_type).to eq('text/markdown;charset=utf-8')
+        expect(last_response.body).to match(/# Kobana - Conteúdo Completo do Website/)
+        expect(last_response.body).not_to match(/Este conteúdo é projetado especificamente para LLMs/)
+      end
     end
   end
   describe 'GET /pt-BR' do
-    it do
-      get '/pt-BR'
-      expect(last_response).to be_ok
-      expect(last_response.content_type).to eq('text/html;charset=utf-8')
-      expect(last_response.body).to match(/Kobana - Conteúdo Completo do Website/)
-      expect(last_response.body).to match(/Este conteúdo é projetado especificamente para LLMs/)
+    context 'with browser user agent' do
+      it 'returns HTML' do
+        get '/pt-BR', {}, { 'HTTP_USER_AGENT' => 'Mozilla/5.0' }
+        expect(last_response).to be_ok
+        expect(last_response.content_type).to eq('text/html;charset=utf-8')
+        expect(last_response.body).to match(/Kobana - Conteúdo Completo do Website/)
+        expect(last_response.body).to match(/Este conteúdo é projetado especificamente para LLMs/)
+      end
+    end
+
+    context 'with bot user agent' do
+      it 'returns markdown' do
+        get '/pt-BR', {}, { 'HTTP_USER_AGENT' => 'python-requests/2.31.0' }
+        expect(last_response).to be_ok
+        expect(last_response.content_type).to eq('text/markdown;charset=utf-8')
+        expect(last_response.body).to match(/# Kobana - Conteúdo Completo do Website/)
+      end
     end
   end
   describe 'GET /pt-BR.md' do
@@ -37,12 +60,23 @@ describe 'main application' do
     end
   end
   describe 'GET /en-US' do
-    it do
-      get '/en-US'
-      expect(last_response).to be_ok
-      expect(last_response.content_type).to eq('text/html;charset=utf-8')
-      expect(last_response.body).to match(/Kobana - Complete Website Content/)
-      expect(last_response.body).to match(/This content is specifically designed for LLMs/)
+    context 'with browser user agent' do
+      it 'returns HTML' do
+        get '/en-US', {}, { 'HTTP_USER_AGENT' => 'Mozilla/5.0' }
+        expect(last_response).to be_ok
+        expect(last_response.content_type).to eq('text/html;charset=utf-8')
+        expect(last_response.body).to match(/Kobana - Complete Website Content/)
+        expect(last_response.body).to match(/This content is specifically designed for LLMs/)
+      end
+    end
+
+    context 'with bot user agent' do
+      it 'returns markdown' do
+        get '/en-US', {}, { 'HTTP_USER_AGENT' => 'Googlebot/2.1' }
+        expect(last_response).to be_ok
+        expect(last_response.content_type).to eq('text/markdown;charset=utf-8')
+        expect(last_response.body).to match(/# Kobana - Complete Website Content/)
+      end
     end
   end
   describe 'GET /en-US.md' do
