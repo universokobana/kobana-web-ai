@@ -9,6 +9,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 require 'fileutils'
+require 'kramdown'
 
 # Check if API token is set
 unless ENV.fetch('INTERCOM_API_TOKEN', nil)
@@ -54,10 +55,10 @@ def fetch_articles(api_token, url)
   JSON.parse(response.body)
 end
 
-def save_article_as_markdown(article, content_dir)
+def article_as_markdown(article)
   # Generate filename from title
-  filename = underscorize(article['title']) + '.md'
-  filepath = File.join(content_dir, filename)
+  # filename = underscorize(article['title']) + '.md'
+  # filepath = File.join(content_dir, filename)
 
   # Create markdown content
   markdown_content = []
@@ -67,23 +68,23 @@ def save_article_as_markdown(article, content_dir)
   markdown_content << ''
 
   # Add metadata
-  markdown_content << "**Article ID:** #{article['id']}"
-  markdown_content << "**Type:** #{article['type']}"
-  markdown_content << "**State:** #{article['state']}"
-  markdown_content << "**Created:** #{article['created_at']}"
-  markdown_content << "**Updated:** #{article['updated_at']}"
+  # markdown_content << "**Article ID:** #{article['id']}"
+  # markdown_content << "**Type:** #{article['type']}"
+  # markdown_content << "**State:** #{article['state']}"
+  # markdown_content << "**Created:** #{article['created_at']}"
+  # markdown_content << "**Updated:** #{article['updated_at']}"
 
-  markdown_content << "**Author ID:** #{article['author_id']}" if article['author_id']
+  # markdown_content << "**Author ID:** #{article['author_id']}" if article['author_id']
 
-  markdown_content << "**Parent ID:** #{article['parent_id']}" if article['parent_id']
+  # markdown_content << "**Parent ID:** #{article['parent_id']}" if article['parent_id']
 
-  markdown_content << ''
-  markdown_content << '---'
-  markdown_content << ''
+  # markdown_content << ''
+  # markdown_content << '---'
+  # markdown_content << ''
 
   # Add description if available
   if article['description'] && !article['description'].empty?
-    markdown_content << '## Description'
+    markdown_content << '## Descrição'
     markdown_content << ''
     markdown_content << article['description']
     markdown_content << ''
@@ -91,40 +92,25 @@ def save_article_as_markdown(article, content_dir)
 
   # Add body content
   if article['body'] && !article['body'].empty?
-    markdown_content << '## Content'
+    markdown_content << '## Conteúdo'
     markdown_content << ''
-    # Convert HTML to markdown (basic conversion)
-    body = article['body']
-           .gsub(%r{<br\s*/?>}, "\n")
-           .gsub(%r{</p>}, "\n\n")
-           .gsub(/<p>/, '')
-           .gsub(/<strong>|<b>/, '**')
-           .gsub(%r{</strong>|</b>}, '**')
-           .gsub(/<em>|<i>/, '*')
-           .gsub(%r{</em>|</i>}, '*')
-           .gsub(/<h1[^>]*>/, '# ')
-           .gsub(%r{</h1>}, "\n")
-           .gsub(/<h2[^>]*>/, '## ')
-           .gsub(%r{</h2>}, "\n")
-           .gsub(/<h3[^>]*>/, '### ')
-           .gsub(%r{</h3>}, "\n")
-           .gsub(/<ul>/, '')
-           .gsub(%r{</ul>}, "\n")
-           .gsub(/<li>/, '- ')
-           .gsub(%r{</li>}, "\n")
-           .gsub(/<[^>]+>/, '') # Remove any remaining HTML tags
-           .strip
-
+    # Convert HTML to markdown using kramdown
+    body = Kramdown::Document.new(article['body'], input: 'html').to_kramdown
     markdown_content << body
   end
 
+  markdown_content << ''
+  markdown_content << '---'
+  markdown_content << ''
+
+  markdown_content
   # Write to file
-  File.write(filepath, markdown_content.join("\n"))
-  puts "Saved: #{filename}"
+  # File.write(filepath, markdown_content.join("\n"))
+  # puts "Saved: #{filename}"
 end
 
 if File.exist?(File.join(content_dir, 'articles.json'))
-  puts "Index file already exists. Skipping update."
+  puts 'Index file already exists. Skipping update.'
   all_articles = JSON.parse(File.read(File.join(content_dir, 'articles.json')))
 else
   # Main execution
@@ -150,10 +136,25 @@ end
 
 puts "Found #{all_articles.length} articles"
 
-# Save each article
+indice = []
+articles = []
 all_articles.each do |article|
-  puts "Processing article: #{article['title']} (ID: #{article['id']})"
-  # save_article_as_markdown(article, content_dir)
+  indice << "#{indice.size + 1}. [#{article['title']}](#{article['id']})"
+  puts "⚙️ Processing article: #{article['title']} (ID: #{article['id']})"
+  articles += article_as_markdown(article)
 end
 
-puts "Done! Saved #{all_articles.length} articles to #{content_dir}"
+markdown_content = [
+  '# Kobana - Artigos da Base de Conhecimento',
+  '',
+  '## Índice de Conteúdos'
+]
+markdown_content += indice
+markdown_content << ''
+markdown_content << ''
+markdown_content += articles
+
+filepath = File.join(File.dirname(__FILE__), '..', 'views', 'pt-BR', 'artigos.md')
+File.write(filepath, markdown_content.join("\n"))
+
+puts "✅ Done! Processed #{all_articles.length} articles"

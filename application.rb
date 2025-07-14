@@ -19,8 +19,6 @@ class Application < Sinatra::Base
                   File.join(settings.views, "#{lang}/#{page}.md")
                 elsif File.exist?(File.join(settings.views, "#{lang}.md")) && page == 'index'
                   File.join(settings.views, "#{lang}.md")
-                else
-                  nil
                 end
 
     unless file_path
@@ -44,7 +42,7 @@ class Application < Sinatra::Base
         erb :"layouts/#{lang}/#{page}"
       elsif File.exist?(File.join(settings.views, "layouts/#{lang}.erb"))
         erb :"layouts/#{lang}"
-      elsif File.exist?(File.join(settings.views, "layout.erb"))
+      elsif File.exist?(File.join(settings.views, 'layout.erb'))
         erb :layout
       else
         # Return HTML without layout if no layout found
@@ -73,7 +71,7 @@ class Application < Sinatra::Base
   # /pt-BR.md       -> lang=pt-BR, page=index, format=md
   # /pt-BR/artigos  -> lang=pt-BR, page=artigos, format=html
   # /pt-BR/artigos.md -> lang=pt-BR, page=artigos, format=md
-  get %r{/([^/\.]+)(?:\.md)?(?:/([^/\.]+)(?:\.md)?)?} do |lang, page|
+  get %r{/([^/.]+)(?:\.md)?(?:/([^/.]+)(?:\.md)?)?} do |lang, page|
     # Set defaults
     lang ||= 'pt-BR'
     page ||= 'index'
