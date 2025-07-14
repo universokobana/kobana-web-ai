@@ -13,20 +13,18 @@ class Application < Sinatra::Base
   LOG = Logger.new($stdout)
   LOG.level = Logger.const_get ENV['LOG_LEVEL'] || 'DEBUG'
 
-  get '/:lang.md' do
-    lang = params['lang'] || 'pt-BR'
-    unless File.exist?(File.join(settings.views, "#{lang}.md"))
-      LOG.error "Language file not found: #{lang}.md"
-      halt 404, 'Not Found'
-    end
-    content_type 'text/markdown'
-    File.read(File.join(settings.views, "#{lang}.md"))
-  end
+  def index(lang, page, format)
+    # For backwards compatibility, check both new structure and old flat files
+    file_path = if File.exist?(File.join(settings.views, "#{lang}/#{page}.md"))
+                  File.join(settings.views, "#{lang}/#{page}.md")
+                elsif File.exist?(File.join(settings.views, "#{lang}.md")) && page == 'index'
+                  File.join(settings.views, "#{lang}.md")
+                else
+                  nil
+                end
 
-  get '/:lang?' do
-    lang = params['lang'] || 'pt-BR'
-    unless File.exist?(File.join(settings.views, "#{lang}.md"))
-      LOG.error "Language file not found: #{lang}.md"
+    unless file_path
+      LOG.error "File not found: #{lang}/#{page}.md or #{lang}.md"
       halt 404, 'Not Found'
     end
 
@@ -34,15 +32,55 @@ class Application < Sinatra::Base
     user_agent = request.user_agent || ''
     is_bot = user_agent.match?(/bot|crawl|spider|scrape|curl|wget|python|java|ruby|go|rust|php|node|axios|fetch|postman/i)
 
-    if is_bot
-      # Serve raw markdown for bots
+    if is_bot || format == 'md'
       content_type 'text/markdown'
-      File.read(File.join(settings.views, "#{lang}.md"))
+      File.read(file_path)
     else
-      # Serve HTML for browsers
-      @markdown_content = File.read(File.join(settings.views, "#{lang}.md"))
+      @markdown_content = File.read(file_path)
       @html_content = Kramdown::Document.new(@markdown_content).to_html
-      erb :"layouts/#{lang}"
+
+      # Try to find the appropriate layout
+      if File.exist?(File.join(settings.views, "layouts/#{lang}/#{page}.erb"))
+        erb :"layouts/#{lang}/#{page}"
+      elsif File.exist?(File.join(settings.views, "layouts/#{lang}.erb"))
+        erb :"layouts/#{lang}"
+      elsif File.exist?(File.join(settings.views, "layout.erb"))
+        erb :layout
+      else
+        # Return HTML without layout if no layout found
+        @html_content
+      end
     end
+  end
+
+  # get '/:lang.md' do
+  #   lang = params['lang'] || 'pt-BR'
+  #   unless File.exist?(File.join(settings.views, "#{lang}/index.md"))
+  #     LOG.error "Language file not found: #{lang}"
+  #     halt 404, 'Not Found'
+  #   end
+  #   content_type 'text/markdown'
+  #   File.read(File.join(settings.views, "#{lang}/index.md"))
+  # end
+
+  # Root route redirects to default language
+  get '/' do
+    index('pt-BR', 'index', 'html')
+  end
+
+  # Handle routes like:
+  # /pt-BR          -> lang=pt-BR, page=index, format=html
+  # /pt-BR.md       -> lang=pt-BR, page=index, format=md
+  # /pt-BR/artigos  -> lang=pt-BR, page=artigos, format=html
+  # /pt-BR/artigos.md -> lang=pt-BR, page=artigos, format=md
+  get %r{/([^/\.]+)(?:\.md)?(?:/([^/\.]+)(?:\.md)?)?} do |lang, page|
+    # Set defaults
+    lang ||= 'pt-BR'
+    page ||= 'index'
+
+    # Determine format based on request path
+    format = request.path_info.end_with?('.md') ? 'md' : 'html'
+
+    index(lang, page, format)
   end
 end

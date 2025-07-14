@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 ruby '3.4.4'
 
+gem 'dotenv'
 gem 'kramdown'
 gem 'logger'
 gem 'ostruct'
@@ -11,6 +12,9 @@ gem 'rake', '13.0.3'
 gem 'rerun', '~> 0.14', group: :development
 gem 'rexml'
 gem 'sinatra', '~> 3.0'
+
+# For bin/update-articles script
+gem 'json'
 
 group :development do
   gem 'foreman'

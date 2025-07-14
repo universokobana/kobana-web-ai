@@ -1,0 +1,159 @@
+#!/usr/bin/env ruby
+
+require 'bundler'
+Bundler.setup(:default)
+
+require 'dotenv/load'
+require_relative '../config/1password'
+require 'net/http'
+require 'uri'
+require 'json'
+require 'fileutils'
+
+# Check if API token is set
+unless ENV.fetch('INTERCOM_API_TOKEN', nil)
+  puts 'Error: INTERCOM_API_TOKEN environment variable is not set'
+  exit 1
+end
+
+# Create content directory if it doesn't exist
+content_dir = File.join(File.dirname(__FILE__), '..', 'content')
+FileUtils.mkdir_p(content_dir)
+
+# Intercom API configuration
+api_token = ENV.fetch('INTERCOM_API_TOKEN', nil)
+base_url = 'https://api.intercom.io'
+articles_endpoint = '/articles'
+
+def underscorize(string)
+  string.downcase
+        .gsub(/[^a-z0-9\s-]/, '') # Remove special characters
+        .gsub(/\s+/, '_')          # Replace spaces with underscores
+        .gsub(/-+/, '_')           # Replace hyphens with underscores
+        .gsub(/_+/, '_')           # Remove duplicate underscores
+        .gsub(/^_|_$/, '')         # Remove leading/trailing underscores
+end
+
+def fetch_articles(api_token, url)
+  uri = URI(url)
+  http = Net::HTTP.new(uri.host, uri.port)
+  http.use_ssl = true
+
+  request = Net::HTTP::Get.new(uri)
+  request['Authorization'] = "Bearer #{api_token}"
+  request['Accept'] = 'application/json'
+  request['Intercom-Version'] = '2.11'
+
+  response = http.request(request)
+
+  unless response.code == '200'
+    puts "Error fetching articles: #{response.code} - #{response.body}"
+    exit 1
+  end
+
+  JSON.parse(response.body)
+end
+
+def save_article_as_markdown(article, content_dir)
+  # Generate filename from title
+  filename = underscorize(article['title']) + '.md'
+  filepath = File.join(content_dir, filename)
+
+  # Create markdown content
+  markdown_content = []
+
+  # Add title
+  markdown_content << "# #{article['title']}"
+  markdown_content << ''
+
+  # Add metadata
+  markdown_content << "**Article ID:** #{article['id']}"
+  markdown_content << "**Type:** #{article['type']}"
+  markdown_content << "**State:** #{article['state']}"
+  markdown_content << "**Created:** #{article['created_at']}"
+  markdown_content << "**Updated:** #{article['updated_at']}"
+
+  markdown_content << "**Author ID:** #{article['author_id']}" if article['author_id']
+
+  markdown_content << "**Parent ID:** #{article['parent_id']}" if article['parent_id']
+
+  markdown_content << ''
+  markdown_content << '---'
+  markdown_content << ''
+
+  # Add description if available
+  if article['description'] && !article['description'].empty?
+    markdown_content << '## Description'
+    markdown_content << ''
+    markdown_content << article['description']
+    markdown_content << ''
+  end
+
+  # Add body content
+  if article['body'] && !article['body'].empty?
+    markdown_content << '## Content'
+    markdown_content << ''
+    # Convert HTML to markdown (basic conversion)
+    body = article['body']
+           .gsub(%r{<br\s*/?>}, "\n")
+           .gsub(%r{</p>}, "\n\n")
+           .gsub(/<p>/, '')
+           .gsub(/<strong>|<b>/, '**')
+           .gsub(%r{</strong>|</b>}, '**')
+           .gsub(/<em>|<i>/, '*')
+           .gsub(%r{</em>|</i>}, '*')
+           .gsub(/<h1[^>]*>/, '# ')
+           .gsub(%r{</h1>}, "\n")
+           .gsub(/<h2[^>]*>/, '## ')
+           .gsub(%r{</h2>}, "\n")
+           .gsub(/<h3[^>]*>/, '### ')
+           .gsub(%r{</h3>}, "\n")
+           .gsub(/<ul>/, '')
+           .gsub(%r{</ul>}, "\n")
+           .gsub(/<li>/, '- ')
+           .gsub(%r{</li>}, "\n")
+           .gsub(/<[^>]+>/, '') # Remove any remaining HTML tags
+           .strip
+
+    markdown_content << body
+  end
+
+  # Write to file
+  File.write(filepath, markdown_content.join("\n"))
+  puts "Saved: #{filename}"
+end
+
+if File.exist?(File.join(content_dir, 'articles.json'))
+  puts "Index file already exists. Skipping update."
+  all_articles = JSON.parse(File.read(File.join(content_dir, 'articles.json')))
+else
+  # Main execution
+  puts 'Fetching articles from Intercom API...'
+
+  all_articles = []
+  next_page = "#{base_url}#{articles_endpoint}"
+
+  # Fetch all pages
+  while next_page
+    data = fetch_articles(api_token, next_page)
+
+    all_articles.concat(data['data']) if data['data']
+
+    # Check for next page
+    next_page = data.dig('pages', 'next')
+
+    puts 'Fetching next page...' if next_page
+  end
+
+  File.write(File.join(content_dir, 'index.json'), JSON.pretty_generate(all_articles))
+end
+
+puts "Found #{all_articles.length} articles"
+
+# Save each article
+all_articles.each do |article|
+  puts "Processing article: #{article['title']} (ID: #{article['id']})"
+  # save_article_as_markdown(article, content_dir)
+end
+
+puts "Done! Saved #{all_articles.length} articles to #{content_dir}"

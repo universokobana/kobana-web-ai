@@ -4,7 +4,8 @@
       "Bash(mkdir:*)",
       "Bash(bundle install:*)",
       "Bash(ls:*)",
-      "Bash(bundle exec:*)"
+      "Bash(bundle exec:*)",
+      "Bash(chmod:*)"
     ],
     "deny": []
   }
