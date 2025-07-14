@@ -26,13 +26,12 @@ api_token = ENV.fetch('INTERCOM_API_TOKEN', nil)
 base_url = 'https://api.intercom.io'
 articles_endpoint = '/articles'
 
-def underscorize(string)
+def slug(string)
   string.downcase
-        .gsub(/[^a-z0-9\s-]/, '') # Remove special characters
-        .gsub(/\s+/, '_')          # Replace spaces with underscores
-        .gsub(/-+/, '_')           # Replace hyphens with underscores
-        .gsub(/_+/, '_')           # Remove duplicate underscores
-        .gsub(/^_|_$/, '')         # Remove leading/trailing underscores
+        .gsub(/[^a-z0-9\s-]/, '')  # Remove special characters
+        .gsub(/\s+/, '-')          # Replace spaces with dahshes
+        .gsub(/-+/, '-')           # Remove duplicate underscores
+        .gsub(/^-|-$/, '')         # Remove leading/trailing underscores
 end
 
 def fetch_articles(api_token, url)
@@ -140,8 +139,8 @@ puts "Found #{all_articles.length} articles"
 indice = []
 articles = []
 all_articles.each do |article|
-  indice << "#{indice.size + 1}. [#{article['title']}](#{article['id']})"
-  puts "⚙️ Processing article: #{article['title']} (ID: #{article['id']})"
+  puts "⚙️  #{article['title']} (ID: #{article['id']})"
+  indice << "#{indice.size + 1}. [#{article['title']}](##{slug(article['title'])})"
   articles += article_as_markdown(article)
 end
 
@@ -152,10 +151,11 @@ markdown_content = [
 ]
 markdown_content += indice
 markdown_content << ''
+markdown_content << '---'
 markdown_content << ''
 markdown_content += articles
 
 filepath = File.join(File.dirname(__FILE__), '..', 'views', 'pt-BR', 'artigos.md')
 File.write(filepath, markdown_content.join("\n"))
 
-puts "✅ Done! Processed #{all_articles.length} articles"
+puts "✅  Done! Processed #{all_articles.length} articles"
