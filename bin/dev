@@ -1,7 +1,3 @@
 #!/usr/bin/env bash
 
-if command -v overmind &> /dev/null; then
-  overmind start -f Procfile
-else
-  foreman start -f Procfile
-fi
+bundle exec rerun "puma -C config/puma.rb"
