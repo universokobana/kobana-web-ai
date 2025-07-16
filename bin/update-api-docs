@@ -2,6 +2,7 @@
 # frozen_string_literal: true
 
 require 'pathname'
+require 'yaml'
 
 root_dir = Pathname.new(__dir__).parent
 api_content_dir = root_dir.join('content', 'api', 'docs')
@@ -20,6 +21,61 @@ if ignore_file.exist?
   puts "Loaded #{ignore_patterns.length} ignore patterns: #{ignore_patterns.join(', ')}"
 else
   puts "No ignore file found at #{ignore_file}"
+end
+
+# Function to sort files according to _order.yaml
+def sort_by_order_file(files, base_dir)
+  # Group files by directory
+  grouped = files.group_by { |f| File.dirname(f) }
+  sorted_files = []
+
+  # First, handle root-level ordering
+  root_order_file = base_dir.join('_order.yaml')
+  if root_order_file.exist?
+    begin
+      root_order = YAML.load_file(root_order_file) || []
+
+      # Process directories in the specified order
+      root_order.each do |dir_name|
+        dir_path = base_dir.join(dir_name).to_s
+        next unless grouped[dir_path]
+
+        # Check for subdirectory order file
+        sub_order_file = base_dir.join(dir_name, '_order.yaml')
+        if sub_order_file.exist?
+          begin
+            sub_order = YAML.load_file(sub_order_file) || []
+            # Sort files within this directory according to sub_order
+            dir_files = grouped[dir_path]
+            sorted_dir_files = []
+
+            sub_order.each do |file_base|
+              matching_file = dir_files.find { |f| File.basename(f, '.md') == file_base }
+              sorted_dir_files << matching_file if matching_file
+            end
+
+            # Add any files not in the order list
+            remaining = dir_files - sorted_dir_files
+            sorted_files.concat(sorted_dir_files + remaining.sort)
+          rescue StandardError => e
+            puts "Warning: Failed to parse #{sub_order_file}: #{e.message}"
+            sorted_files.concat(grouped[dir_path].sort)
+          end
+        else
+          sorted_files.concat(grouped[dir_path].sort)
+        end
+
+        grouped.delete(dir_path)
+      end
+    rescue StandardError => e
+      puts "Warning: Failed to parse #{root_order_file}: #{e.message}"
+    end
+  end
+
+  # Add any remaining files not covered by order files
+  grouped.each_value { |files| sorted_files.concat(files.sort) }
+
+  sorted_files
 end
 
 # Read all markdown files from content/api directory recursively
@@ -43,8 +99,12 @@ if api_content_dir.exist?
   if filtered_files.empty?
     puts 'No markdown files to process after applying ignore patterns'
   else
+    # Sort filtered files according to _order.yaml files
+    sorted_files = sort_by_order_file(filtered_files, api_content_dir)
+    puts 'Sorted files according to _order.yaml configuration'
+
     hidden_count = 0
-    filtered_files.each do |file|
+    sorted_files.each do |file|
       relative_path = Pathname.new(file).relative_path_from(api_content_dir)
       puts "⚙️  Processing: #{relative_path}"
       content = File.read(file).strip
