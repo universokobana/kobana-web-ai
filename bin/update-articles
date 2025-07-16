@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'bundler'
 Bundler.setup(:default)
@@ -55,7 +56,8 @@ def fetch_articles(api_token, url)
 end
 
 def article_as_markdown(article)
-  return[] unless article['state'] == 'published'
+  return [] unless article['state'] == 'published'
+
   # Generate filename from title
   # filename = underscorize(article['title']) + '.md'
   # filepath = File.join(content_dir, filename)

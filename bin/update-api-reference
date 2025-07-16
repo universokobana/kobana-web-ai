@@ -1,0 +1,368 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'bundler'
+Bundler.setup(:default)
+
+require 'dotenv/load'
+require_relative '../config/1password'
+require 'json'
+require 'fileutils'
+
+swagger_file = './content/kobana_swagger.json'
+output_file = './content/api_reference.md'
+
+puts "⏳ Generating API documentation from #{swagger_file}..."
+
+# Helper method to build example from schema
+def build_example_from_schema(schema, swagger_doc = nil, depth = 0)
+  return nil unless schema
+  return '...' if depth > 5 # Prevent infinite recursion
+
+  # Handle $ref
+  if schema['$ref'] && swagger_doc
+    ref_parts = schema['$ref'].sub('#/', '').split('/')
+    ref_schema = swagger_doc.dig(*ref_parts)
+    return build_example_from_schema(ref_schema, swagger_doc, depth + 1) if ref_schema
+  end
+
+  case schema['type']
+  when 'object'
+    example = {}
+    if schema['properties']
+      schema['properties'].each do |prop_name, prop_schema|
+        example[prop_name] = build_example_from_schema(prop_schema, swagger_doc, depth + 1)
+      end
+    elsif schema['additionalProperties']
+      # Handle objects with dynamic keys
+      example = {
+        'key1' => build_example_from_schema(schema['additionalProperties'], swagger_doc, depth + 1),
+        'key2' => build_example_from_schema(schema['additionalProperties'], swagger_doc, depth + 1)
+      }
+    end
+    example
+  when 'array'
+    if schema['items']
+      # Show 2 items in array examples for better clarity
+      item_example = build_example_from_schema(schema['items'], swagger_doc, depth + 1)
+      [item_example, item_example].compact
+    else
+      []
+    end
+  when 'string'
+    if schema['format'] == 'date'
+      '2024-01-15'
+    elsif schema['format'] == 'date-time'
+      '2024-01-15T10:30:00Z'
+    elsif schema['format'] == 'email'
+      'user@example.com'
+    elsif %w[uri url].include?(schema['format'])
+      'https://example.com'
+    elsif schema['format'] == 'uuid'
+      '123e4567-e89b-12d3-a456-426614174000'
+    elsif schema['enum']&.any?
+      schema['enum'].first
+    elsif schema['example']
+      schema['example']
+    elsif (prop_name = schema['x-property-name'] || schema['title'])
+      "sample_#{prop_name.downcase.gsub(/\s+/, '_')}"
+    else
+      'string'
+    end
+  when 'integer'
+    if schema['example']
+      schema['example']
+    elsif schema['minimum']
+      schema['minimum']
+    elsif schema['maximum']
+      [schema['maximum'], 100].min
+    else
+      1
+    end
+  when 'number'
+    if schema['example']
+      schema['example']
+    elsif schema['minimum']
+      schema['minimum'].to_f
+    elsif schema['maximum']
+      [schema['maximum'], 100.0].min
+    else
+      10.50
+    end
+  when 'boolean'
+    schema['example'] || true
+  when 'null'
+    nil
+  else
+    # Handle schemas without explicit type
+    if schema['properties']
+      build_example_from_schema({ 'type' => 'object' }.merge(schema), swagger_doc, depth)
+    elsif schema['items']
+      build_example_from_schema({ 'type' => 'array' }.merge(schema), swagger_doc, depth)
+    elsif schema['anyOf']&.any?
+      build_example_from_schema(schema['anyOf'].first, swagger_doc, depth + 1)
+    elsif schema['oneOf']&.any?
+      build_example_from_schema(schema['oneOf'].first, swagger_doc, depth + 1)
+    elsif schema['allOf']&.any?
+      # Merge all schemas in allOf
+      merged = {}
+      schema['allOf'].each do |sub_schema|
+        if sub_schema['properties']
+          merged['properties'] ||= {}
+          merged['properties'].merge!(sub_schema['properties'])
+        end
+        next unless sub_schema['$ref']
+
+        ref_parts = sub_schema['$ref'].sub('#/', '').split('/')
+        ref_schema = swagger_doc.dig(*ref_parts) if swagger_doc
+        if ref_schema && ref_schema['properties']
+          merged['properties'] ||= {}
+          merged['properties'].merge!(ref_schema['properties'])
+        end
+      end
+      merged['type'] = 'object'
+      build_example_from_schema(merged, swagger_doc, depth + 1)
+    end
+  end
+end
+
+begin
+  swagger = JSON.parse(File.read(swagger_file))
+
+  # Start building the markdown content
+  md_content = []
+
+  # # Header
+  # md_content << "# Kobana API Documentation\n"
+
+  # # Overview
+  # md_content << '## Overview'
+  # md_content << swagger.dig('info', 'description') || 'Kobana é um conjunto de serviços oferecidos em forma de sistema web e APIs que permite a automação de operações bancárias e consumo de serviços financeiros de bancos brasileiros diretamente na conta da sua empresa ou do seu cliente.'
+  # md_content << ''
+
+  # # Base URL
+  # md_content << '## Base URL'
+  # if swagger['servers']&.any?
+  #   server = swagger['servers'].first
+  #   base_url = server['url']
+
+  #   # Replace variables with default values
+  #   server['variables']&.each do |var_name, var_info|
+  #     base_url = base_url.gsub("{#{var_name}}", var_info['default'] || var_info['enum']&.first || var_name)
+  #   end
+
+  #   md_content << "`#{base_url}`"
+  # else
+  #   md_content << '`https://api.kobana.com.br`'
+  # end
+  # md_content << ''
+
+  # # Authentication
+  # md_content << '## Authentication'
+  # if swagger.dig('components', 'securitySchemes')
+  #   swagger['components']['securitySchemes'].each_value do |scheme|
+  #     case scheme['type']
+  #     when 'http'
+  #       if scheme['scheme'] == 'bearer'
+  #         md_content << '**Bearer Token Authentication**'
+  #         md_content << '- Header: `Authorization: Bearer {token}`'
+  #       elsif scheme['scheme'] == 'basic'
+  #         md_content << '**Basic Authentication**'
+  #         md_content << '- Header: `Authorization: Basic {base64(username:password)}`'
+  #       end
+  #     when 'apiKey'
+  #       md_content << '**API Key Authentication**'
+  #       md_content << "- #{scheme['in'].capitalize}: `#{scheme['name']}: {api_key}`"
+  #     when 'oauth2'
+  #       md_content << '**OAuth 2.0**'
+  #       scheme['flows']&.each do |flow_type, flow_info|
+  #         md_content << "- Flow: #{flow_type}"
+  #         md_content << "- Authorization URL: #{flow_info['authorizationUrl']}" if flow_info['authorizationUrl']
+  #         md_content << "- Token URL: #{flow_info['tokenUrl']}" if flow_info['tokenUrl']
+  #       end
+  #     end
+  #     md_content << "- Description: #{scheme['description']}" if scheme['description']
+  #     md_content << ''
+  #   end
+  # else
+  #   md_content << 'See API documentation for authentication details.'
+  # end
+  # md_content << ''
+
+  # Endpoints
+  md_content << "## Endpoints\n"
+
+  # Group endpoints by tag
+  endpoints_by_tag = {}
+
+  swagger['paths']&.each do |path, path_info|
+    path_info.each do |method, operation|
+      next if %w[parameters servers summary description].include?(method)
+
+      tags = operation['tags'] || ['Other']
+      tags.each do |tag|
+        endpoints_by_tag[tag] ||= []
+        endpoints_by_tag[tag] << {
+          path: path,
+          method: method.upcase,
+          operation: operation
+        }
+      end
+    end
+  end
+
+  # Sort tags and generate documentation for each
+  endpoints_by_tag.keys.sort.each do |tag|
+    tag_info = swagger['tags']&.find { |t| t['name'] == tag } if swagger['tags']
+
+    md_content << "### #{tag}"
+    md_content << tag_info['description'] if tag_info && tag_info['description']
+    md_content << ''
+
+    # Sort endpoints within tag
+    endpoints_by_tag[tag].sort_by { |e| [e[:path], e[:method]] }.each do |endpoint|
+      operation = endpoint[:operation]
+
+      # Endpoint header
+      md_content << "#### #{endpoint[:method]} #{endpoint[:path]}"
+
+      # Description
+      if operation['summary'] || operation['description']
+        md_content << "**Description**: #{operation['summary'] || operation['description']}"
+      end
+
+      # Parameters
+      all_params = []
+
+      # Collect parameters from operation
+      all_params.concat(operation['parameters']) if operation['parameters']
+
+      # Collect parameters from path level
+      if swagger['paths'][endpoint[:path]]['parameters']
+        all_params.concat(swagger['paths'][endpoint[:path]]['parameters'])
+      end
+
+      # Process request body as parameters for documentation
+      if operation['requestBody']
+        rb = operation['requestBody']
+        if rb['content']
+          content_type = rb['content'].keys.first
+          if rb['content'][content_type]['schema']
+            md_content << "**Request Body** (#{content_type}):"
+            schema = rb['content'][content_type]['schema']
+
+            # Handle ref
+            if schema['$ref']
+              ref_name = schema['$ref'].split('/').last
+              md_content << "- Type: `#{ref_name}`"
+
+              # Try to get the referenced schema
+              ref_parts = schema['$ref'].sub('#/', '').split('/')
+              ref_schema = swagger.dig(*ref_parts)
+              if ref_schema && ref_schema['properties']
+                md_content << '- Properties:'
+                ref_schema['properties'].each do |prop_name, prop_info|
+                  required = ref_schema['required']&.include?(prop_name) ? ' (required)' : ' (optional)'
+                  prop_type = prop_info['type'] || 'object'
+                  prop_desc = prop_info['description'] || ''
+                  md_content << "  - `#{prop_name}`#{required}: #{prop_type} - #{prop_desc}"
+                end
+
+                # Add example
+                example = build_example_from_schema(schema, swagger)
+                if example
+                  md_content << '- Example:'
+                  md_content << '```json'
+                  md_content << JSON.pretty_generate(example)
+                  md_content << '```'
+                end
+              end
+            elsif schema['properties']
+              md_content << '- Properties:'
+              schema['properties'].each do |prop_name, prop_info|
+                required = schema['required']&.include?(prop_name) ? ' (required)' : ' (optional)'
+                prop_type = prop_info['type'] || 'object'
+                prop_desc = prop_info['description'] || ''
+                md_content << "  - `#{prop_name}`#{required}: #{prop_type} - #{prop_desc}"
+              end
+
+              # Add example
+              example = build_example_from_schema(schema, swagger)
+              if example
+                md_content << '- Example:'
+                md_content << '```json'
+                md_content << JSON.pretty_generate(example)
+                md_content << '```'
+              end
+            end
+            md_content << ''
+          end
+        end
+      end
+
+      # Regular parameters
+      if all_params.any?
+        md_content << '**Parameters**:'
+        all_params.uniq { |p| p['name'] }.each do |param|
+          # Handle ref parameters
+          if param['$ref']
+            ref_parts = param['$ref'].sub('#/', '').split('/')
+            param = swagger.dig(*ref_parts) || param
+          end
+
+          required = param['required'] ? ' (required)' : ' (optional)'
+          param_type = param['schema'] ? param['schema']['type'] : 'string'
+          md_content << "- `#{param['name']}` (#{param['in']}, #{param_type})#{required}: #{param['description']}"
+        end
+        md_content << ''
+      end
+
+      # Response
+      if operation['responses']
+        success_response = operation['responses']['200'] ||
+                           operation['responses']['201'] ||
+                           operation['responses']['204'] ||
+                           operation['responses'].values.first
+
+        if success_response
+          md_content << '**Response**:'
+          md_content << success_response['description'] if success_response['description']
+
+          if success_response['content']
+            content_type = success_response['content'].keys.first
+            schema = success_response['content'][content_type]['schema']
+
+            if schema
+              example = build_example_from_schema(schema, swagger)
+              if example
+                md_content << '```json'
+                md_content << JSON.pretty_generate(example)
+                md_content << '```'
+              end
+            end
+          end
+        end
+      end
+
+      md_content << ''
+    end
+  end
+
+  # Write the markdown file
+  File.write(output_file, md_content.join("\n"))
+
+  puts "📈 Total endpoints documented: #{swagger['paths']&.sum do |_, p|
+    p.keys.count do |k|
+      !%w[parameters servers summary description].include?(k)
+    end
+  end || 0}"
+
+  puts "✅  Done! API documentation generated successfully at: #{output_file}"
+rescue JSON::ParserError => e
+  puts "🚨 ERROR: Failed to parse swagger file: #{e.message}"
+  exit 1
+rescue StandardError => e
+  puts "🚨 ERROR: #{e.message}"
+  puts e.backtrace if ENV['DEBUG']
+  exit 1
+end
