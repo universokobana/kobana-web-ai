@@ -229,6 +229,7 @@ begin
       # Description
       if operation['summary'] || operation['description']
         md_content << "**Description**: #{operation['summary'] || operation['description']}"
+        md_content << ''
       end
 
       # Parameters
@@ -249,6 +250,7 @@ begin
           content_type = rb['content'].keys.first
           if rb['content'][content_type]['schema']
             md_content << "**Request Body** (#{content_type}):"
+            md_content << ''
             schema = rb['content'][content_type]['schema']
 
             # Handle ref
@@ -272,7 +274,7 @@ begin
                 example = build_example_from_schema(schema, swagger)
                 if example
                   md_content << '- Example:'
-                  md_content << '```json'
+                  md_content << '```'
                   md_content << JSON.pretty_generate(example)
                   md_content << '```'
                 end
@@ -290,7 +292,7 @@ begin
               example = build_example_from_schema(schema, swagger)
               if example
                 md_content << '- Example:'
-                md_content << '```json'
+                md_content << '```'
                 md_content << JSON.pretty_generate(example)
                 md_content << '```'
               end
@@ -303,6 +305,7 @@ begin
       # Regular parameters
       if all_params.any?
         md_content << '**Parameters**:'
+        md_content << ''
         all_params.uniq { |p| p['name'] }.each do |param|
           # Handle ref parameters
           if param['$ref']
@@ -326,6 +329,7 @@ begin
 
         if success_response
           md_content << '**Response**:'
+          md_content << ''
           md_content << success_response['description'] if success_response['description']
 
           if success_response['content']
@@ -335,9 +339,11 @@ begin
             if schema
               example = build_example_from_schema(schema, swagger)
               if example
-                md_content << '```json'
+                md_content << ''
+                md_content << '```'
                 md_content << JSON.pretty_generate(example)
                 md_content << '```'
+                md_content << ''
               end
             end
           end

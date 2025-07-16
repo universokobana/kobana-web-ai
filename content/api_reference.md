@@ -5,15 +5,19 @@ Gerenciar assinaturas
 
 #### GET /v1/v1/customer_subscriptions
 **Description**: Listar Assinaturas
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem de assinaturas
-```json
+
+```
 [
   {
     "id": 1,
@@ -194,9 +198,12 @@ Sucesso na listagem de assinaturas
 ]
 ```
 
+
 #### POST /v1/v1/customer_subscriptions
 **Description**: Criar uma Assinatura
+
 **Request Body** (application/json):
+
 - Type: `v1_customer_subscription_object`
 - Properties:
   - `id` (optional): integer - ID da assinatura
@@ -323,7 +330,7 @@ Disponível apenas para os seguintes bancos e formatos.
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "customer_id": 1,
@@ -415,12 +422,15 @@ Disponível apenas para os seguintes bancos e formatos.
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Assinatura criada
-```json
+
+```
 {
   "id": 1,
   "customer_id": 1,
@@ -511,26 +521,34 @@ Assinatura criada
 }
 ```
 
+
 #### DELETE /v1/v1/customer_subscriptions/{id}
 **Description**: Excluir a Assinatura
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Assinatura
 
 **Response**:
+
 Assinatura excluída
 
 #### GET /v1/v1/customer_subscriptions/{id}
 **Description**: Informações da Assinatura
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Assinatura
 
 **Response**:
+
 Assinatura encontrada
-```json
+
+```
 {
   "id": 1,
   "customer_id": 1,
@@ -621,9 +639,12 @@ Assinatura encontrada
 }
 ```
 
+
 #### PUT /v1/v1/customer_subscriptions/{id}
 **Description**: Atualizar a Assinatura
+
 **Request Body** (application/json):
+
 - Type: `v1_customer_subscription_object`
 - Properties:
   - `id` (optional): integer - ID da assinatura
@@ -750,7 +771,7 @@ Disponível apenas para os seguintes bancos e formatos.
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "customer_id": 1,
@@ -842,23 +863,29 @@ Disponível apenas para os seguintes bancos e formatos.
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Assinatura
 
 **Response**:
+
 Assinatura atualizado
 
 #### POST /v1/v1/customer_subscriptions/{id}/next_charge
 **Description**: Gerar Próxima Cobrança
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Assinatura
 
 **Response**:
+
 Próxima cobrança gerada
-```json
+
+```
 {
   "id": 1,
   "customer_id": 1,
@@ -948,13 +975,16 @@ Próxima cobrança gerada
   "updated_at": "2024-01-15T10:30:00Z"
 }
 ```
+
 
 ### Boletos
 Gerenciar boletos
 
 #### GET /v1/v1/bank_billets
 **Description**: Listar Boletos
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `bank_billet_account_id` (query, string) (optional): Filtro por ID da Carteira. Acha todas os registros que tenham o ID.
@@ -976,8 +1006,10 @@ Gerenciar boletos
 - `updated_to` (query, string) (optional): Data final do filtro de data de atualização do registro.
 
 **Response**:
+
 Sucesso na listagem de boletos
-```json
+
+```
 [
   {
     "id": 1,
@@ -1338,9 +1370,12 @@ Sucesso na listagem de boletos
 ]
 ```
 
+
 #### POST /v1/v1/bank_billets
 **Description**: Criar um Boleto
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_object`
 - Properties:
   - `id` (optional): integer - ID do boleto
@@ -1684,7 +1719,7 @@ Válido apenas para Itau. Usado apenas com Split de Pagamento true.
                  Valores permitidos:
                 * `sync`: Sincronização com o provedor financeiro.
 - Example:
-```json
+```
 {
   "id": 1,
   "bank_billet_account_id": 1,
@@ -1866,12 +1901,15 @@ Válido apenas para Itau. Usado apenas com Split de Pagamento true.
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Boleto criado
-```json
+
+```
 {
   "id": 1,
   "bank_billet_account_id": 1,
@@ -2052,9 +2090,12 @@ Boleto criado
 }
 ```
 
+
 #### POST /v1/v1/bank_billets/cancel_all
 **Description**: Cancelar Boletos em Lote
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_cancel_all_object`
 - Properties:
   - `status` (optional): string - Situação do boleto:
@@ -2072,7 +2113,7 @@ Boleto criado
   - `cnpj_cpf` (optional): string - CNPJ ou CPF do Pagador
   - `bank_billet_ids` (optional): array - IDs de boletos a serem cancelados
 - Example:
-```json
+```
 {
   "status": "generating",
   "expire_from": "2024-01-15",
@@ -2086,22 +2127,28 @@ Boleto criado
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Solicitação realizada com sucesso
 
 #### GET /v1/v1/bank_billets/{id}
 **Description**: Visualizar o Boleto
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Boleto
 
 **Response**:
+
 Boleto encontrado
-```json
+
+```
 {
   "id": 1,
   "bank_billet_account_id": 1,
@@ -2282,9 +2329,12 @@ Boleto encontrado
 }
 ```
 
+
 #### PUT /v1/v1/bank_billets/{id}
 **Description**: Atualizar o Boleto
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_update_object`
 - Properties:
   - `amount` (optional): number - Valor do Boleto
@@ -2436,7 +2486,7 @@ Opções disponíveis para cada banco suportado:
   - `bolepix_key` (optional): string - Chave do bolepix. Bancos Suportados: Santander
   - `pix_txid` (optional): string - TxId do pix. Bancos Suportados: Santander
 - Example:
-```json
+```
 {
   "amount": 10.99,
   "expire_at": "2024-01-15",
@@ -2500,16 +2550,20 @@ Opções disponíveis para cada banco suportado:
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Boleto
 
 **Response**:
+
 Boleto atualizado
 
 #### PUT /v1/v1/bank_billets/{id}/cancel
 **Description**: Cancelar o Boleto
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_cancel_object`
 - Properties:
   - `cancellation_reason` (optional): integer - Motivo do cancelamento:
@@ -2519,23 +2573,27 @@ Boleto atualizado
 * `4` Erro operacional
 * `5` Quitação paga
 - Example:
-```json
+```
 {
   "cancellation_reason": 1
 }
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Boleto
 
 **Response**:
+
 Boleto cancelado
 
 #### POST /v1/v1/bank_billets/{id}/duplicate
 **Description**: Duplicar Boleto
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_duplicate_object`
 - Properties:
   - `expire_at_in_days` (optional): integer - Nº de dias para vencimento a partir da data de hoje. Default: 7
@@ -2785,7 +2843,7 @@ Informar as contas para rateio em `split_accounts`
 * `chargeback` Estornado
   - `recipient_account` (optional): string - Conta Destinatária + Dígito
 - Example:
-```json
+```
 {
   "expire_at_in_days": 1,
   "amount": 10.99,
@@ -2951,13 +3009,16 @@ Informar as contas para rateio em `split_accounts`
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Boleto
 
 **Response**:
+
 Boleto duplicado
-```json
+
+```
 {
   "id": 1,
   "bank_billet_account_id": 1,
@@ -3138,9 +3199,12 @@ Boleto duplicado
 }
 ```
 
+
 #### PUT /v1/v1/bank_billets/{id}/pay
 **Description**: Marcar Boleto Como Pago
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_pay_object`
 - Properties:
   - `paid_amount` (required): number - Valor pago do boleto.
@@ -3148,7 +3212,7 @@ Boleto duplicado
   - `bank_rate` (optional): string - Valor da taxa bancária.
   - `direct_payment` (optional): boolean - Informa se o pagamento foi feito diretamente ao beneficiário.
 - Example:
-```json
+```
 {
   "paid_amount": 1345.56,
   "paid_at": "2024-01-15",
@@ -3158,21 +3222,25 @@ Boleto duplicado
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Boleto
 
 **Response**:
+
 Boleto pago
 
 #### POST /v1/v1/bank_billets/{id}/send_email
 **Description**: Enviar Boleto por E-mail
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_send_email_object`
 - Properties:
   - `form` (required): object - Formulário de E-mail.
 - Example:
-```json
+```
 {
   "form": {
     "to": "user@example.com",
@@ -3187,21 +3255,25 @@ Boleto pago
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Boleto
 
 **Response**:
+
 E-mail enviado com sucesso
 
 #### POST /v1/v1/bank_billets/{id}/send_sms
 **Description**: Enviar Boleto por SMS
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_send_sms_object`
 - Properties:
   - `form` (required): object - Formulário de SMS.
 - Example:
-```json
+```
 {
   "form": {
     "phone_to": "string",
@@ -3213,22 +3285,26 @@ E-mail enviado com sucesso
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Boleto
 
 **Response**:
+
 SMS enviado com sucesso
 
 #### POST /v2/v2/payment/bank_billet_batches
 **Description**: Criar um Lote de Pagamento de Boletos
+
 **Request Body** (application/json):
+
 - Type: `v2_new_payment_batch_bank_billet`
 - Properties:
   - `financial_account_uid` (required): string - UID da Conta Financeira de Origem
   - `payments` (required): array - Lista de Pagamentos de Boletos novos ou existentes.
 - Example:
-```json
+```
 {
   "financial_account_uid": "123e4567-e89b-12d3-a456-426614174000",
   "payments": [
@@ -3259,12 +3335,15 @@ SMS enviado com sucesso
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Lote de Pagamento criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -3322,16 +3401,21 @@ Lote de Pagamento criado
 }
 ```
 
+
 #### GET /v2/v2/payment/bank_billets
 **Description**: Listar Pagamentos de Boleto
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Pagamentos encontrados
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -3404,9 +3488,12 @@ Pagamentos encontrados
 }
 ```
 
+
 #### POST /v2/v2/payment/bank_billets
 **Description**: Criar um Pagamento de Boleto
+
 **Request Body** (application/json):
+
 - Type: `v2_new_payment_bank_billet`
 - Properties:
   - `amount` (required): number - Quantia
@@ -3418,7 +3505,7 @@ Pagamentos encontrados
   - `custom_data` (optional): object - Hash com chave e valor no formato JSON.
   - `tags` (optional): array - Tags associadas
 - Example:
-```json
+```
 {
   "amount": 120.99,
   "scheduled_to": "2024-01-15",
@@ -3434,12 +3521,15 @@ Pagamentos encontrados
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Pagamento criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -3475,15 +3565,20 @@ Pagamento criado
 }
 ```
 
+
 #### GET /v2/v2/payment/bank_billets/{uid}
 **Description**: Visualizar um Pagamento de Boleto
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID do Pagamento de Boleto
 
 **Response**:
+
 Pagamento encontrado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -3518,12 +3613,15 @@ Pagamento encontrado
   }
 }
 ```
+
 
 ### CNAB (Remessa)
 
 #### GET /v1/v1/remittances
 **Description**: Listar CNABs
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -3535,8 +3633,10 @@ Pagamento encontrado
 - `our_code` (query, string) (optional): Filtro por Nosso número.
 
 **Response**:
+
 Sucesso na listagem de CNABs
-```json
+
+```
 [
   {
     "id": 1,
@@ -3629,15 +3729,18 @@ Sucesso na listagem de CNABs
 ]
 ```
 
+
 #### POST /v1/v1/remittances
 **Description**: Criar CNAB
+
 **Request Body** (application/json):
+
 - Type: `v1_remittance_create_cnab_object`
 - Properties:
   - `bank_billet_account_id` (optional): integer - ID da [Carteira de Cobrança](/reference/post_v1-bank-billet-accounts).
   - `bank_billet_remittance_ids` (optional): array - IDs de [Registros de Remessa](/reference/get_v1-bank-billet-remittances).
 - Example:
-```json
+```
 {
   "bank_billet_account_id": 1,
   "bank_billet_remittance_ids": [
@@ -3648,12 +3751,15 @@ Sucesso na listagem de CNABs
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 CNAB criado
-```json
+
+```
 {
   "id": 1,
   "content": "string",
@@ -3700,13 +3806,16 @@ CNAB criado
 }
 ```
 
+
 #### POST /v1/v1/remittances/bulk
 **Description**: Criar CNABs em Lote
+
 **Request Body** (application/json):
+
 - Properties:
   - `bank_billet_remittance_ids` (optional): array - IDs de [Registros de Remessa](/reference/get_v1-bank-billet-remittances).
 - Example:
-```json
+```
 {
   "bank_billet_remittance_ids": [
     1,
@@ -3716,11 +3825,14 @@ CNAB criado
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 CNABs criadas
-```json
+
+```
 [
   {
     "id": 1,
@@ -3813,24 +3925,32 @@ CNABs criadas
 ]
 ```
 
+
 #### DELETE /v1/v1/remittances/{id}
 **Description**: Apagar CNAB
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do CNAB
 
 **Response**:
+
 CNAB excluído
 
 #### GET /v1/v1/remittances/{id}
 **Description**: Informações do CNAB
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do CNAB
 
 **Response**:
+
 CNAB encontrado
-```json
+
+```
 {
   "id": 1,
   "content": "string",
@@ -3877,13 +3997,17 @@ CNAB encontrado
 }
 ```
 
+
 #### GET /v1/v1/remittances/{id}/raw
 **Description**: Raw(text/plain) do CNAB
+
 **Parameters**:
+
 - `id` (path, string) (required): ID do CNAB
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Raw do CNAB
 
 ### CNAB (Retorno)
@@ -3891,7 +4015,9 @@ CNAB (Retorno)
 
 #### GET /v1/v1/discharges
 **Description**: Listar CNABs
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `created_from` (query, string) (optional): A partir da Data de criação do Retorno.
 - `created_to` (query, string) (optional): Até a Data de criação do Retorno.
@@ -3900,8 +4026,10 @@ CNAB (Retorno)
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem de CNABs
-```json
+
+```
 [
   {
     "id": 1,
@@ -3996,16 +4124,19 @@ Sucesso na listagem de CNABs
 ]
 ```
 
+
 #### POST /v1/v1/discharges
 **Description**: Enviar CNAB
+
 **Request Body** (multipart/form-data):
+
 - Type: `v1_discharge_send_cnab_object`
 - Properties:
   - `file` (optional): string - Arquivo
   - `filename` (optional): string - Nome do arquivo
   - `bank_billet_account_id` (optional): integer - ID da [Carteira de Cobrança](/reference/post_v1-bank-billet-accounts).
 - Example:
-```json
+```
 {
   "file": "string",
   "filename": "string",
@@ -4014,12 +4145,15 @@ Sucesso na listagem de CNABs
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 CNAB enviado
-```json
+
+```
 {
   "id": 1,
   "filename": "string",
@@ -4066,16 +4200,21 @@ CNAB enviado
   "updated_at": "2024-01-15T10:30:00Z"
 }
 ```
+
 
 #### GET /v1/v1/discharges/{id}
 **Description**: Informações do CNAB
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do CNAB
 
 **Response**:
+
 CNAB encontrado
-```json
+
+```
 {
   "id": 1,
   "filename": "string",
@@ -4123,46 +4262,60 @@ CNAB encontrado
 }
 ```
 
+
 #### GET /v1/v1/discharges/{id}/download
 **Description**: Download do CNAB
+
 **Parameters**:
+
 - `id` (path, string) (required): ID do CNAB
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Download com sucesso
 
 #### PUT /v1/v1/discharges/{id}/pay_off
 **Description**: Quitar Boletos
+
 **Parameters**:
+
 - `id` (path, string) (required): ID do CNAB
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Boletos quitados
 
 #### PUT /v1/v1/discharges/{id}/reprocess
 **Description**: Reprocessar CNAB
+
 **Parameters**:
+
 - `id` (path, string) (required): ID do CNAB
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 CNAB reprocessada
 
 ### Caixas Postais
 
 #### GET /v2/v2/edi/edi_boxes
 **Description**: Listar Caixas Postais
+
 **Parameters**:
+
 - `resource_type` (query, string) (optional): Filtro por Tipo de Recurso. Carteira de Cobrança (`charge.bank_billet_account`) ou Conta Financeira (`financial.account`).
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `per_page` (query, integer) (optional): Quantidade de registros por página. Máximo de 50.
 - `page` (query, integer) (optional): Número da página.
 
 **Response**:
+
 Caixas Postais encontradas.
-```json
+
+```
 {
   "status": 1,
   "data": [],
@@ -4174,69 +4327,91 @@ Caixas Postais encontradas.
 }
 ```
 
+
 #### POST /v2/v2/edi/edi_boxes
 **Description**: Criar Caixa Postal
+
 **Request Body** (application/json):
+
 - Type: `v2_edi_box`
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Caixa Postal criada
-```json
+
+```
 {
   "status": 1,
   "data": null
 }
 ```
+
 
 #### GET /v2/v2/edi/edi_boxes/{uid}
 **Description**: Visualizar Caixa Postal
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID da Caixa Postal
 
 **Response**:
+
 Caixa Postal encontrada
-```json
+
+```
 {
   "status": 1,
   "data": null
 }
 ```
+
 
 #### PUT /v2/v2/edi/edi_boxes/{uid}
 **Description**: Atualizar Caixa Postal
+
 **Request Body** (application/json):
+
 - Type: `v2_edi_box`
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID da Caixa Postal
 
 **Response**:
+
 Caixa Postal atualizada
-```json
+
+```
 {
   "status": 1,
   "data": null
 }
 ```
+
 
 ### Carnês
 Gerenciar carnês
 
 #### GET /v1/v1/installments
 **Description**: Listar Carnês
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem de carnês
-```json
+
+```
 [
   {
     "id": 1,
@@ -4449,9 +4624,12 @@ Sucesso na listagem de carnês
 ]
 ```
 
+
 #### POST /v1/v1/installments
 **Description**: Criar um Carnê
+
 **Request Body** (application/json):
+
 - Type: `v1_installment_object`
 - Properties:
   - `id` (optional): integer - ID do carnê
@@ -4678,7 +4856,7 @@ Caso `true`, impede que o boleto seja registrado. Para ser usado nos casos em qu
   - `import_id` (optional): integer - ID da Importação
   - `ignore_whatsapp` (optional): boolean - Nunca enviar este carnê por WhatsApp
 - Example:
-```json
+```
 {
   "id": 1,
   "bank_billet_account_id": 1,
@@ -4786,12 +4964,15 @@ Caso `true`, impede que o boleto seja registrado. Para ser usado nos casos em qu
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Carnê Criado
-```json
+
+```
 {
   "id": 1,
   "bank_billet_account_id": 1,
@@ -4898,25 +5079,33 @@ Carnê Criado
 }
 ```
 
+
 #### DELETE /v1/v1/installments/{id}
 **Description**: Excluir o Carnê
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Carnê
 
 **Response**:
+
 Carnê cancelado
 
 #### GET /v1/v1/installments/{id}
 **Description**: Informações do Carnê
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Carnê
 
 **Response**:
+
 Carnê encontrado com sucesso
-```json
+
+```
 {
   "id": 1,
   "bank_billet_account_id": 1,
@@ -5022,21 +5211,26 @@ Carnê encontrado com sucesso
   "ignore_whatsapp": true
 }
 ```
+
 
 ### Carteiras de Cobrança
 Gerenciar carteiras
 
 #### GET /v1/v1/bank_billet_accounts
 **Description**: Listar Carteiras
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Carteiras Encontradas
-```json
+
+```
 [
   {
     "id": 1,
@@ -5175,9 +5369,12 @@ Carteiras Encontradas
 ]
 ```
 
+
 #### POST /v1/v1/bank_billet_accounts
 **Description**: Criar Carteira de Cobrança
+
 **Request Body** (application/json):
+
 - Type: `v1_new_bank_billet_account_object`
 - Properties:
   - `id` (optional): integer - ID da carteira
@@ -5243,7 +5440,7 @@ No momento que a primeira carteira é homologada (passa para o `status` = `activ
   - `updated_at` (optional): string - Data e hora da última atualização da carteira
   - `created_via_api` (optional): boolean - Indica se a carteira foi criada por API
 - Example:
-```json
+```
 {
   "id": 1,
   "bank_contract_slug": "string",
@@ -5300,12 +5497,15 @@ No momento que a primeira carteira é homologada (passa para o `status` = `activ
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Carteira de cobrança criada
-```json
+
+```
 {
   "id": 1,
   "bank_contract_slug": "string",
@@ -5383,16 +5583,21 @@ Carteira de cobrança criada
 }
 ```
 
+
 #### GET /v1/v1/bank_billet_accounts/{id}
 **Description**: Informações da Carteira
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Carteira
 
 **Response**:
+
 Carteira encontrada
-```json
+
+```
 {
   "id": 1,
   "bank_contract_slug": "string",
@@ -5470,9 +5675,12 @@ Carteira encontrada
 }
 ```
 
+
 #### PUT /v1/v1/bank_billet_accounts/{id}
 **Description**: Atualizar a Carteira
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_account_update_object`
 - Properties:
   - `kind` (optional): string - Tipo de CNAB:
@@ -5521,7 +5729,7 @@ Carteira encontrada
   - `bank_billet_account_next_our_number_attributes` (optional): object - 
   - `bank_billet_account_next_remittance_number_attributes` (optional): object - 
 - Example:
-```json
+```
 {
   "kind": "cnab400",
   "bank_contract_slug": "string",
@@ -5576,23 +5784,29 @@ Carteira encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Carteira
 
 **Response**:
+
 Carteira atualizada
 
 #### GET /v1/v1/bank_billet_accounts/{id}/ask
 **Description**: Solicitar Homologação da Carteira de Cobrança
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Carteira
 
 **Response**:
+
 Solicitação de homologação realizada com sucesso
-```json
+
+```
 {
   "id": 1,
   "bank_contract_slug": "string",
@@ -5670,59 +5884,72 @@ Solicitação de homologação realizada com sucesso
 }
 ```
 
+
 #### PUT /v1/v1/bank_billet_accounts/{id}/set_default
 **Description**: Alterar Carteira de Cobrança padrão
+
 **Request Body** (application/json):
+
 - Properties:
   - `default` (required): boolean - Define a Carteira padrão(Default: true) ou deixar de ser padrão(Default: false)
 - Example:
-```json
+```
 {
   "default": true
 }
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Carteira
 
 **Response**:
+
 Carteira definida com padrão com sucesso
 
 #### PUT /v1/v1/bank_billet_accounts/{id}/validate
 **Description**: Validar Carteira de Cobrança
+
 **Request Body** (application/json):
+
 - Properties:
   - `homologation_amount` (required): string - Valor recebido pelo boleto (R$) Ex.: 1,87
 - Example:
-```json
+```
 {
   "homologation_amount": "string"
 }
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Carteira
 
 **Response**:
+
 Carteira Homologada com sucesso
 
 ### Certificado
 
 #### GET /v2/v2/admin/certificates
 **Description**: Listar Certificados
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Certificados encontrados
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -5767,9 +5994,12 @@ Certificados encontrados
 }
 ```
 
+
 #### POST /v2/v2/admin/certificates
 **Description**: Incluir um Certificado
+
 **Request Body** (multipart/form-data):
+
 - Type: `v2_certificate_create`
 - Properties:
   - `label` (required): string - Nome dado ao certificado
@@ -5783,7 +6013,7 @@ Se o tipo do certificado for `CRT` é obrigatório enviar o `crt_file` e o `crt_
   - `files` (required): object - Arquivo do certificado e senha.
 Se o tipo do certificado for `CRT` é obrigatório enviar o `crt_file` e o `crt_private_key_file`, se o tipo for `PFX` é obrigatório `pfx_file` e `pfx_password`.
 - Example:
-```json
+```
 {
   "label": "Meu Certificado",
   "cnpj_cpf": "16.974.923/0001-84",
@@ -5799,12 +6029,15 @@ Se o tipo do certificado for `CRT` é obrigatório enviar o `crt_file` e o `crt_
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Certificado incluído
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -5826,17 +6059,22 @@ Certificado incluído
 }
 ```
 
+
 ### Clientes
 Gerenciar clientes
 
 #### GET /v1/v1/customers
 **Description**: Listar Clientes
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Sucesso na listagem de clientes
-```json
+
+```
 [
   {
     "id": 1,
@@ -5909,9 +6147,12 @@ Sucesso na listagem de clientes
 ]
 ```
 
+
 #### POST /v1/v1/customers
 **Description**: Criar um Cliente
+
 **Request Body** (application/json):
+
 - Type: `v1_customer_object`
 - Properties:
   - `id` (optional): integer - ID
@@ -5944,7 +6185,7 @@ Sucesso na listagem de clientes
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "external_code": "C0001",
@@ -5982,12 +6223,15 @@ Sucesso na listagem de clientes
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Cliente criado
-```json
+
+```
 {
   "id": 1,
   "external_code": "C0001",
@@ -6024,15 +6268,20 @@ Cliente criado
 }
 ```
 
+
 #### GET /v1/v1/customers/cnpj_cpf
 **Description**: Busca Cliente por CNPJ/CPF
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `q` (query, string) (required): CNPJ/CPF do cliente
 
 **Response**:
+
 Cliente encontrado
-```json
+
+```
 {
   "id": 1,
   "external_code": "C0001",
@@ -6069,15 +6318,20 @@ Cliente encontrado
 }
 ```
 
+
 #### GET /v1/v1/customers/email
 **Description**: Busca Cliente por E-mail
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `q` (query, string) (required): E-mail do cliente
 
 **Response**:
+
 Cliente encontrado
-```json
+
+```
 {
   "id": 1,
   "external_code": "C0001",
@@ -6114,15 +6368,20 @@ Cliente encontrado
 }
 ```
 
+
 #### GET /v1/v1/customers/{id}
 **Description**: Visualizar o Cliente
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Cliente
 
 **Response**:
+
 Cliente encontrado
-```json
+
+```
 {
   "id": 1,
   "external_code": "C0001",
@@ -6159,9 +6418,12 @@ Cliente encontrado
 }
 ```
 
+
 #### PUT /v1/v1/customers/{id}
 **Description**: Atualizar Cliente
+
 **Request Body** (application/json):
+
 - Type: `v1_customer_update_object`
 - Properties:
   - `id` (optional): integer - ID
@@ -6193,7 +6455,7 @@ Cliente encontrado
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "external_code": "C0001",
@@ -6230,17 +6492,21 @@ Cliente encontrado
 ```
 
 **Parameters**:
+
 - `id` (path, string) (required): ID do Cliente
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Cliente atualizado
 
 ### Conexões
 
 #### GET /v2/v2/admin/connections
 **Description**: Listar Conexões
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `page` (query, integer) (optional): Número da Página
@@ -6253,8 +6519,10 @@ Cliente atualizado
 - `created_to` (query, string) (optional): Data final do filtro de data de criação da conexão.
 
 **Response**:
+
 Conexões encontradas
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -6315,17 +6583,23 @@ Conexões encontradas
 }
 ```
 
+
 #### POST /v2/v2/admin/connections
 **Description**: Incluir uma Conexão
+
 **Request Body** (application/json):
 
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Conexão criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -6361,26 +6635,34 @@ Conexão criada
 }
 ```
 
+
 #### DELETE /v2/v2/admin/connections/{uid}
 **Description**: Excluir uma Conexão
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UUID da Conexão
 
 **Response**:
+
 Conexão
 
 #### GET /v2/v2/admin/connections/{uid}
 **Description**: Informações da conexão
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UID da Conexão
 
 **Response**:
+
 Conexão encontrada
-```json
+
+```
 {
   "uid": "123e4567-e89b-12d3-a456-426614174000",
   "label": "string",
@@ -6413,9 +6695,12 @@ Conexão encontrada
 }
 ```
 
+
 #### PUT /v2/v2/admin/connections/{uid}
 **Description**: Atualizar Conexão
+
 **Request Body** (application/json):
+
 - Type: `v2_connection_update`
 - Properties:
   - `label` (optional): string - Nome da Conexão
@@ -6437,7 +6722,7 @@ Conexão encontrada
   - `enabled` (optional): boolean - Habilita conexão
   - `revalidate` (optional): boolean - Revalida as credenciais no provedor financeiro. Se passado true, a conexão só será alterada se as credenciais e permissões forem válidas.
 - Example:
-```json
+```
 {
   "label": "string",
   "environment": "production",
@@ -6453,13 +6738,16 @@ Conexão encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UUID da Conexão
 
 **Response**:
+
 Conexão atualizada
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -6515,14 +6803,17 @@ Conexão atualizada
 }
 ```
 
+
 #### DELETE /v2/v2/admin/connections/{uid}/associations
 **Description**: Desconectar Conta de Serviço
+
 **Request Body** (application/json):
+
 - Type: `v2_association`
 - Properties:
   - `resource` (required): object - 
 - Example:
-```json
+```
 {
   "resource": {
     "type": "charge.bank_billet_account",
@@ -6532,21 +6823,25 @@ Conexão atualizada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UUID da Conexão
 
 **Response**:
+
 Conexão
 
 #### POST /v2/v2/admin/connections/{uid}/associations
 **Description**: Conectar Conta de Serviço
+
 **Request Body** (application/json):
+
 - Type: `v2_association`
 - Properties:
   - `resource` (required): object - 
 - Example:
-```json
+```
 {
   "resource": {
     "type": "charge.bank_billet_account",
@@ -6556,25 +6851,31 @@ Conexão
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UUID da Conexão
 
 **Response**:
+
 Associação criada
 
 ### Consulta de Boletos
 
 #### GET /v2/v2/data/bank_billet_queries
 **Description**: Listar Consultas de Boletos
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem de consultas de boletos
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -6661,9 +6962,12 @@ Sucesso na listagem de consultas de boletos
 }
 ```
 
+
 #### POST /v2/v2/data/bank_billet_queries
 **Description**: Criar uma Consulta de Boleto
+
 **Request Body** (application/json):
+
 - Type: `v2_bank_billet_query`
 - Properties:
   - `uid` (optional): string - ID único do registro no formato UUID
@@ -6695,7 +6999,7 @@ Código de Barras: 34197758700000010001790010104351004791020150
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "uid": "string",
   "status": "pending",
@@ -6736,12 +7040,15 @@ Código de Barras: 34197758700000010001790010104351004791020150
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Consulta de Boleto criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -6784,18 +7091,23 @@ Consulta de Boleto criada
 }
 ```
 
+
 ### Conta Pix
 
 #### GET /v2/v2/charge/pix_accounts
 **Description**: Listar Contas Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Contas Pix encontradas
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -6852,9 +7164,12 @@ Contas Pix encontradas
 }
 ```
 
+
 #### POST /v2/v2/charge/pix_accounts
 **Description**: Criar Pix Account
+
 **Request Body** (application/json):
+
 - Type: `v2_pix_account`
 - Properties:
   - `id` (optional): integer - ID da Conta Pix
@@ -6867,7 +7182,7 @@ Contas Pix encontradas
   - `created_at` (optional): string - Data de criação do registro
   - `updated_at` (optional): string - Data de atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "custom_name": "string",
@@ -6893,12 +7208,15 @@ Contas Pix encontradas
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Conta Pix criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -6925,16 +7243,21 @@ Conta Pix criada
   }
 }
 ```
+
 
 #### DELETE /v2/v2/charge/pix_accounts/{uid}
 **Description**: Deletar Pix Account
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID da Conta Pix
 
 **Response**:
+
 Conta Pix deletada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -6961,16 +7284,21 @@ Conta Pix deletada
   }
 }
 ```
+
 
 #### GET /v2/v2/charge/pix_accounts/{uid}
 **Description**: Visualizar uma conta Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID da Conta Pix
 
 **Response**:
+
 Conta Pix encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -6998,9 +7326,12 @@ Conta Pix encontrada
 }
 ```
 
+
 #### PUT /v2/v2/charge/pix_accounts/{uid}
 **Description**: Atualizar Pix Account
+
 **Request Body** (application/json):
+
 - Type: `v2_pix_account`
 - Properties:
   - `id` (optional): integer - ID da Conta Pix
@@ -7013,7 +7344,7 @@ Conta Pix encontrada
   - `created_at` (optional): string - Data de criação do registro
   - `updated_at` (optional): string - Data de atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "custom_name": "string",
@@ -7039,13 +7370,16 @@ Conta Pix encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UID da Conta Pix
 
 **Response**:
+
 Conta Pix atualizada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7072,19 +7406,24 @@ Conta Pix atualizada
   }
 }
 ```
+
 
 ### Contas
 
 #### GET /v2/v2/financial/accounts
 **Description**: Listar Contas
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Contas encontradas
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -7145,9 +7484,12 @@ Contas encontradas
 }
 ```
 
+
 #### POST /v2/v2/financial/accounts
 **Description**: Criar uma Conta
+
 **Request Body** (application/json):
+
 - Type: `v2_financial_account`
 - Properties:
   - `uid` (optional): string - UID da Conta Financeira
@@ -7172,7 +7514,7 @@ Contas encontradas
   - `tags` (optional): array - Tags associadas a importação. Opcional para controle interno.
   - `updated_at` (optional): string - Data da última atualização. Formato iso8601
 - Example:
-```json
+```
 {
   "uid": "123e4567-e89b-12d3-a456-426614174000",
   "kind": "string",
@@ -7200,12 +7542,15 @@ Contas encontradas
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Conta criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7235,9 +7580,12 @@ Conta criada
 }
 ```
 
+
 #### POST /v2/v2/financial/accounts/{financial_account_uid}/balances
 **Description**: Criar um saldo
+
 **Request Body** (application/json):
+
 - Type: `v2_financial_account_balance`
 - Properties:
   - `uid` (optional): string - UID do Saldo
@@ -7249,7 +7597,7 @@ Conta criada
   - `external_id` (optional): string - ID no seu sistema. Opcional para controle interno.
   - `tags` (optional): array - Tags associadas a importação. Opcional para controle interno.
 - Example:
-```json
+```
 {
   "uid": "123e4567-e89b-12d3-a456-426614174000",
   "amount": 124,
@@ -7266,13 +7614,16 @@ Conta criada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `financial_account_uid` (path, string) (required): UUID da Conta Financeira
 
 **Response**:
+
 Saldo criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7291,15 +7642,20 @@ Saldo criado
 }
 ```
 
+
 #### GET /v2/v2/financial/accounts/{financial_account_uid}/commands
 **Description**: Listar Comandos de uma Conta
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `financial_account_uid` (path, string) (required): UUID da Conta Financeira
 
 **Response**:
+
 Comandos encontrado
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -7366,16 +7722,21 @@ Comandos encontrado
 }
 ```
 
+
 #### GET /v2/v2/financial/accounts/{financial_account_uid}/commands/{id}
 **Description**: Visualizar um Comando
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `financial_account_uid` (path, string) (required): UUID da Conta Financeira
 - `id` (path, string) (required): ID do Comando
 
 **Response**:
+
 Comando encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7414,16 +7775,21 @@ Comando encontrada
 }
 ```
 
+
 #### GET /v2/v2/financial/accounts/{id}
 **Description**: Visualizar uma Conta
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): UUID ou External ID da Conta Financeira
 - `field` (query, string) (optional): Campo para buscar o ID. Exemplo: `uid` ou `external_id`
 
 **Response**:
+
 Conta encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7453,9 +7819,12 @@ Conta encontrada
 }
 ```
 
+
 #### PUT /v2/v2/financial/accounts/{id}
 **Description**: Atualizar Conta
+
 **Request Body** (application/json):
+
 - Type: `v2_financial_account_update`
 - Properties:
   - `kind` (optional): string - Tipo da Conta
@@ -7475,7 +7844,7 @@ Conta encontrada
   - `person_info` (optional): object - Dados do Titular
   - `tags` (optional): array - Tags associadas a importação. Opcional para controle interno.
 - Example:
-```json
+```
 {
   "kind": "string",
   "account_number": "string",
@@ -7498,12 +7867,15 @@ Conta encontrada
 ```
 
 **Parameters**:
+
 - `id` (path, string) (required): UUID ou External ID da Conta Financeira
 - `field` (query, string) (optional): Campo para buscar o ID. Exemplo: `uid` ou `external_id`
 
 **Response**:
+
 Conta Financeira atualizada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7533,18 +7905,23 @@ Conta Financeira atualizada
 }
 ```
 
+
 ### Contas de Consumo
 
 #### GET /v2/v2/payment/utilities
 **Description**: Listar Pagamentos de Contas de Consumo
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Pagamentos encontrados
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -7617,9 +7994,12 @@ Pagamentos encontrados
 }
 ```
 
+
 #### POST /v2/v2/payment/utilities
 **Description**: Criar um Pagamento de Conta de Consumo
+
 **Request Body** (application/json):
+
 - Type: `v2_new_payment_utility`
 - Properties:
   - `amount` (required): number - Quantia
@@ -7631,7 +8011,7 @@ Pagamentos encontrados
   - `tags` (optional): array - Tags associadas
   - `code` (required): string - Código de Barras ou Linha Digitável
 - Example:
-```json
+```
 {
   "amount": 120.99,
   "scheduled_to": "2024-01-15",
@@ -7647,12 +8027,15 @@ Pagamentos encontrados
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Pagamento criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7688,15 +8071,20 @@ Pagamento criado
 }
 ```
 
+
 #### GET /v2/v2/payment/utilities/{uid}
 **Description**: Visualizar um Pagamento de Conta de Consumo
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID do Pagamento de Conta de Consumo
 
 **Response**:
+
 Pagamento encontrado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7732,15 +8120,18 @@ Pagamento encontrado
 }
 ```
 
+
 #### POST /v2/v2/payment/utility_batches
 **Description**: Criar um Lote de Pagamento de Contas de Consumo
+
 **Request Body** (application/json):
+
 - Type: `v2_new_payment_batch_utility`
 - Properties:
   - `financial_account_uid` (required): string - UID da Conta Financeira de Origem
   - `payments` (required): array - Lista de Pagamentos de Contas de Consumo novas ou existentes.
 - Example:
-```json
+```
 {
   "financial_account_uid": "123e4567-e89b-12d3-a456-426614174000",
   "payments": [
@@ -7771,12 +8162,15 @@ Pagamento encontrado
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Lote de Pagamento criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7833,18 +8227,21 @@ Lote de Pagamento criado
   }
 }
 ```
+
 
 ### DARF (beta)
 
 #### POST /v2/v2/payment/darf_batches
 **Description**: Criar um Lote de Pagamento de DARF
+
 **Request Body** (application/json):
+
 - Type: `v2_new_payment_batch_darf`
 - Properties:
   - `financial_account_uid` (required): string - UID da Conta Financeira de Origem
   - `payments` (required): array - Lista de Pagamentos de Darf novos ou existentes.
 - Example:
-```json
+```
 {
   "financial_account_uid": "123e4567-e89b-12d3-a456-426614174000",
   "payments": [
@@ -7867,12 +8264,15 @@ Lote de Pagamento criado
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Lote de Pagamento criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -7930,16 +8330,21 @@ Lote de Pagamento criado
 }
 ```
 
+
 #### GET /v2/v2/payment/darfs
 **Description**: Listar Pagamentos de DARF
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Pagamentos encontrados
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -8012,9 +8417,12 @@ Pagamentos encontrados
 }
 ```
 
+
 #### POST /v2/v2/payment/darfs
 **Description**: Criar um Pagamento de DARF
+
 **Request Body** (application/json):
+
 - Type: `v2_new_payment_darf`
 - Properties:
   - `calculation_date` (optional): string - Data de Encerramento do Período de Apuração
@@ -8023,7 +8431,7 @@ Pagamentos encontrados
   - `taxpayer_number` (optional): string - CPF/CNPJ
   - `tax_code` (optional): string - Código da Receita
 - Example:
-```json
+```
 {
   "calculation_date": "2024-01-15",
   "expire_at": "2024-01-15",
@@ -8034,12 +8442,15 @@ Pagamentos encontrados
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Pagamento criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -8075,15 +8486,20 @@ Pagamento criado
 }
 ```
 
+
 #### GET /v2/v2/payment/darfs/{uid}
 **Description**: Visualizar um Pagamento de DARF
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID do Pagamento de DARF
 
 **Response**:
+
 Pagamento encontrado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -8118,19 +8534,24 @@ Pagamento encontrado
   }
 }
 ```
+
 
 ### Entre Contas
 
 #### GET /v2/v2/transfer/internal
 **Description**: Listar Transferências Entre Contas
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem das transferências
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -8241,9 +8662,12 @@ Sucesso na listagem das transferências
 }
 ```
 
+
 #### POST /v2/v2/transfer/internal
 **Description**: Criar uma Transferência Entre Contas
+
 **Request Body** (application/json):
+
 - Type: `v2_new_transfer_internal`
 - Properties:
   - `amount` (required): number - Quantia
@@ -8257,7 +8681,7 @@ Sucesso na listagem das transferências
   - `beneficiary` (optional): object - Dados do Recebedor
   - `internal` (required): object - Dados bancários
 - Example:
-```json
+```
 {
   "amount": 120.99,
   "scheduled_to": "2024-01-15",
@@ -8283,12 +8707,15 @@ Sucesso na listagem das transferências
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Transferência Entre Contas criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -8343,15 +8770,20 @@ Transferência Entre Contas criada
 }
 ```
 
+
 #### GET /v2/v2/transfer/internal/{uid}
 **Description**: Visualizar uma Transferência Entre Contas
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID da Transferência
 
 **Response**:
+
 Transferência Entre Contas encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -8406,15 +8838,18 @@ Transferência Entre Contas encontrada
 }
 ```
 
+
 #### POST /v2/v2/transfer/internal_batches
 **Description**: Criar um Lote de Transferência Entre Contas
+
 **Request Body** (application/json):
+
 - Type: `v2_new_transfer_batch_internal`
 - Properties:
   - `financial_account_uid` (required): string - UID da Conta Financeira de Origem
   - `transfers` (required): array - Lista de Transferências Entre Contas novas ou existentes.
 - Example:
-```json
+```
 {
   "financial_account_uid": "123e4567-e89b-12d3-a456-426614174000",
   "transfers": [
@@ -8467,12 +8902,15 @@ Transferência Entre Contas encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Lote de Transferência Entre Contas criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -8533,12 +8971,15 @@ Lote de Transferência Entre Contas criado
 }
 ```
 
+
 ### Eventos
 Eventos
 
 #### GET /v1/v1/events
 **Description**: Listar Eventos
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -8548,8 +8989,10 @@ Eventos
 - `occurred_at_to` (query, string) (optional): Fim da data de ocorrência do evento.
 
 **Response**:
+
 Sucesso na listagem dos eventos
-```json
+
+```
 [
   {
     "id": 1,
@@ -8574,15 +9017,20 @@ Sucesso na listagem dos eventos
 ]
 ```
 
+
 #### GET /v1/v1/events/{id}
 **Description**: Informações do Evento
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Evento
 
 **Response**:
+
 Evento encontrado com sucesso
-```json
+
+```
 {
   "id": 1,
   "code": "bank_billet.created",
@@ -8595,22 +9043,28 @@ Evento encontrado com sucesso
 }
 ```
 
+
 ### Exportação do Lote
 
 #### GET /v1/v1/bank_billet_batch_exports/{id}
 **Description**: Arquivo de Exportação do Lote
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID arquivo de exportação do lote
 
 **Response**:
+
 Exportação de lote gerada com sucesso
 
 ### Extrato
 
 #### GET /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions
 **Description**: Listar Transações
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -8619,8 +9073,10 @@ Exportação de lote gerada com sucesso
 - `financial_account_uid` (path, string) (required): UUID da Conta Financeira
 
 **Response**:
+
 Transações encontradas
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -8671,9 +9127,12 @@ Transações encontradas
 }
 ```
 
+
 #### GET /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions/imports
 **Description**: Listar Importações de extrato
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `financial_account_uid` (path, string) (required): UID da Conta Financeira
 - `page` (query, integer) (optional): Número da Página
@@ -8687,8 +9146,10 @@ Transações encontradas
 - `tags` (query, string) (optional): Filtro por tags da importação
 
 **Response**:
+
 Importações de Extrato encontradas
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -8747,9 +9208,12 @@ Importações de Extrato encontradas
 }
 ```
 
+
 #### POST /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions/imports
 **Description**: Importar Extrato
+
 **Request Body** (multipart/form-data):
+
 - Type: `v2_import_send`
 - Properties:
   - `source` (required): string - Arquivo para importação.
@@ -8757,7 +9221,7 @@ Importações de Extrato encontradas
   - `external_id` (optional): string - ID no seu sistema. Opcional para controle interno.
   - `tags[]` (optional): array - Tags associadas a importação. Opcional para controle interno.
 - Example:
-```json
+```
 {
   "source": "string",
   "custom_data": {},
@@ -8770,13 +9234,16 @@ Importações de Extrato encontradas
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `financial_account_uid` (path, string) (required): UID da Conta Financeira
 
 **Response**:
+
 Importação criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -8805,16 +9272,21 @@ Importação criada
 }
 ```
 
+
 #### GET /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions/imports/{uid}
 **Description**: Visualizar Importação de Extrato
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `financial_account_uid` (path, string) (required): UID da Conta Financeira
 - `uid` (path, string) (required): UID da Importação de Extrato
 
 **Response**:
+
 Importação de Extrato encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -8843,16 +9315,21 @@ Importação de Extrato encontrada
 }
 ```
 
+
 #### POST /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions/sync
 **Description**: Sincronizar Extrato
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `financial_account_uid` (path, string) (required): UUID da Conta Financeira
 
 **Response**:
+
 Comando criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -8891,11 +9368,14 @@ Comando criado
 }
 ```
 
+
 ### Histórico de E-mails
 
 #### GET /v1/v1/email_deliveries
 **Description**: Listar E-mails Enviados
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -8904,8 +9384,10 @@ Comando criado
 - `status` (query, integer) (optional): Status do e-mail enviado
 
 **Response**:
+
 Sucesso na listagem dos e-mails enviados
-```json
+
+```
 [
   {
     "id": 1,
@@ -8968,15 +9450,20 @@ Sucesso na listagem dos e-mails enviados
 ]
 ```
 
+
 #### GET /v1/v1/email_deliveries/{id}
 **Description**: Informações do E-mail Enviado
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do E-mail
 
 **Response**:
+
 E-mail encontrado com sucesso
-```json
+
+```
 {
   "id": 1,
   "uid": "string",
@@ -9008,13 +9495,17 @@ E-mail encontrado com sucesso
 }
 ```
 
+
 #### PUT /v1/v1/email_deliveries/{id}/resend
 **Description**: Reenviar E-mail Enviado
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do E-mail enviado
 
 **Response**:
+
 E-mail reeenviado com sucesso
 
 ### Histórico de SMS
@@ -9022,7 +9513,9 @@ Histórico de SMS
 
 #### GET /v1/v1/sms_deliveries
 **Description**: Listar SMS Enviados
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -9031,8 +9524,10 @@ Histórico de SMS
 - `status` (query, integer) (optional): Status do SMS enviado
 
 **Response**:
+
 Sucesso na listagem dos SMS enviados
-```json
+
+```
 [
   {
     "id": 1,
@@ -9071,15 +9566,20 @@ Sucesso na listagem dos SMS enviados
 ]
 ```
 
+
 #### GET /v1/v1/sms_deliveries/{id}
 **Description**: Informações do SMS Enviado
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do SMS
 
 **Response**:
+
 SMS encontrado com sucesso
-```json
+
+```
 {
   "id": 1,
   "uid": "string",
@@ -9099,20 +9599,26 @@ SMS encontrado com sucesso
 }
 ```
 
+
 #### PUT /v1/v1/sms_deliveries/{id}/resend
 **Description**: Reenviar SMS Enviado
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do SMS enviado
 
 **Response**:
+
 SMS reeenviado com sucesso
 
 ### Importações
 
 #### GET /v1/v1/imports/{collection_name}
 **Description**: Listar Importações
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -9123,8 +9629,10 @@ SMS reeenviado com sucesso
 * `installments` Carnês
 
 **Response**:
+
 Importações encontradas
-```json
+
+```
 [
   {
     "id": 1,
@@ -9163,20 +9671,24 @@ Importações encontradas
 ]
 ```
 
+
 #### POST /v1/v1/imports/{collection_name}
 **Description**: Importar
+
 **Request Body** (multipart/form-data):
+
 - Type: `v1_import_send`
 - Properties:
   - `source` (required): string - Arquivo para importação.
 - Example:
-```json
+```
 {
   "source": "string"
 }
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `collection_name` (path, string) (required): Tipo da importação:
@@ -9186,8 +9698,10 @@ Importações encontradas
 * `installments` Carnês
 
 **Response**:
+
 Importação criada
-```json
+
+```
 {
   "id": 1,
   "status": "string",
@@ -9207,9 +9721,12 @@ Importação criada
 }
 ```
 
+
 #### GET /v1/v1/imports/{collection_name}/{id}
 **Description**: Visualizar Importação
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `collection_name` (path, string) (required): Tipo da importação:
 * `customers` Clientes
@@ -9219,8 +9736,10 @@ Importação criada
 - `id` (path, string) (required): ID da Importação
 
 **Response**:
+
 Importação encontrada
-```json
+
+```
 {
   "id": 1,
   "status": "string",
@@ -9240,11 +9759,14 @@ Importação encontrada
 }
 ```
 
+
 ### Log de Webhooks
 
 #### GET /v1/v1/webhook_deliveries
 **Description**: Listar Webhooks Enviados
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -9256,8 +9778,10 @@ Importação encontrada
 - `status` (query, integer) (optional): Situação do webhook delivery
 
 **Response**:
+
 Sucesso na listagem dos webhooks enviados
-```json
+
+```
 [
   {
     "id": 1,
@@ -9310,9 +9834,12 @@ Sucesso na listagem dos webhooks enviados
 ]
 ```
 
+
 #### PUT /v1/v1/webhook_deliveries/resend
 **Description**: Reenviar Webhooks Enviados
+
 **Request Body** (application/json):
+
 - Type: `v1_webhook_delivery_resend_object`
 - Properties:
   - `resource_owner_id` (optional): integer - ID do Objeto
@@ -9775,7 +10302,7 @@ Sucesso na listagem dos webhooks enviados
   - `created_from` (optional): string - A partir da Data de criação (DD/MM/YYYY) ou (YYYY-MM-DD)
   - `created_to` (optional): string - Até a Data de criação (DD/MM/YYYY) ou (YYYY-MM-DD)
 - Example:
-```json
+```
 {
   "resource_owner_id": 1,
   "webhook_id": 1,
@@ -9789,20 +10316,26 @@ Sucesso na listagem dos webhooks enviados
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Webhooks reeenviados com sucesso
 
 #### GET /v1/v1/webhook_deliveries/{id}
 **Description**: Informações do Webhook Enviado
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do webhook
 
 **Response**:
+
 Webhook encontrado com sucesso
-```json
+
+```
 {
   "id": 1,
   "uid": "string",
@@ -9829,18 +10362,23 @@ Webhook encontrado com sucesso
 }
 ```
 
+
 ### Lotes
 
 #### GET /v1/v1/bank_billet_batches
 **Description**: Listar Lotes
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem dos lotes
-```json
+
+```
 [
   {
     "id": 1,
@@ -9865,15 +10403,18 @@ Sucesso na listagem dos lotes
 ]
 ```
 
+
 #### POST /v1/v1/bank_billet_batches
 **Description**: Criar Lote
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_batch_create_object`
 - Properties:
   - `name` (required): string - Nome do lote.
   - `bank_billet_ids` (optional): string - IDs dos [Boletos](/reference/post_v1-bank-billets-1) separados por vírgula.
 - Example:
-```json
+```
 {
   "name": "string",
   "bank_billet_ids": "string"
@@ -9881,12 +10422,15 @@ Sucesso na listagem dos lotes
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Lote criado com sucesso
-```json
+
+```
 {
   "id": 1,
   "name": "string",
@@ -9899,24 +10443,32 @@ Lote criado com sucesso
 }
 ```
 
+
 #### DELETE /v1/v1/bank_billet_batches/{id}/
 **Description**: Excluir o lote
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Lote
 
 **Response**:
+
 Lote excluído
 
 #### GET /v1/v1/bank_billet_batches/{id}/
 **Description**: Informações do Lote
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Lote
 
 **Response**:
+
 Lote encontrado
-```json
+
+```
 {
   "id": 1,
   "name": "string",
@@ -9929,36 +10481,45 @@ Lote encontrado
 }
 ```
 
+
 #### PUT /v1/v1/bank_billet_batches/{id}/add_bank_billets
 **Description**: Incluir Boletos no Lote
+
 **Request Body** (application/json):
+
 - Properties:
   - `bank_billet_ids` (required): string - IDs dos [Boletos](/reference/post_v1-bank-billets-1) separados por vírgula.
 - Example:
-```json
+```
 {
   "bank_billet_ids": "string"
 }
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Lote
 
 **Response**:
+
 Boletos adicionados com sucesso
 
 #### POST /v1/v1/bank_billet_batches/{id}/pdf
 **Description**: Exportar Lote no Formato .pdf
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Lote
 
 **Response**:
+
 Solicitação de exportação do lote criada com sucesso
-```json
+
+```
 {
   "id": 1,
   "account_id": 1,
@@ -9972,36 +10533,45 @@ Solicitação de exportação do lote criada com sucesso
 }
 ```
 
+
 #### DELETE /v1/v1/bank_billet_batches/{id}/remove_bank_billet
 **Description**: Excluir Boleto do Lote
+
 **Request Body** (application/json):
+
 - Properties:
   - `bank_billet_id` (required): integer - ID dos [Boleto](/reference/post_v1-bank-billets-1) separados por vírgula.
 - Example:
-```json
+```
 {
   "bank_billet_id": 1
 }
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Lote
 
 **Response**:
+
 Boleto removido com sucesso
 
 #### POST /v1/v1/bank_billet_batches/{id}/zip
 **Description**: Exportar Lote no Formato .zip
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Lote
 
 **Response**:
+
 Solicitação de exportação do lote criada com sucesso
-```json
+
+```
 {
   "id": 1,
   "account_id": 1,
@@ -10015,17 +10585,22 @@ Solicitação de exportação do lote criada com sucesso
 }
 ```
 
+
 ### Other
 
 #### GET /v2/v2/automation/email/email_accounts
 **Description**: Lista todas as contas de e-mail
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da página para paginação
 
 **Response**:
+
 Lista de contas de e-mail
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -10094,9 +10669,12 @@ Lista de contas de e-mail
 }
 ```
 
+
 #### POST /v2/v2/automation/email/email_accounts
 **Description**: Criar nova conta de e-mail
+
 **Request Body** (application/json):
+
 - Properties:
   - `name` (optional): string - Nome da conta de e-mail.
   - `sender_name` (required): string - Nome do remetente.
@@ -10109,7 +10687,7 @@ Lista de contas de e-mail
   - `custom_data` (optional): object - Dados personalizados definidos pelo usuário no formato chave-valor.
   - `tags` (optional): array - Lista de etiquetas associadas à conta de e-mail.
 - Example:
-```json
+```
 {
   "name": "string",
   "sender_name": "string",
@@ -10131,51 +10709,65 @@ Lista de contas de e-mail
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Conta de e-mail criada com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {}
 }
 ```
 
+
 #### DELETE /v2/v2/automation/email/email_accounts/{uid}
 **Description**: Excluir conta de e-mail
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID da conta de e-mail
 
 **Response**:
+
 Conta de e-mail excluída com sucesso
 
 #### GET /v2/v2/automation/email/email_accounts/{uid}
 **Description**: Informações da Conta de E-mail
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID da conta de e-mail
 
 **Response**:
+
 Conta de e-mail encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {}
 }
 ```
 
+
 #### PATCH /v2/v2/automation/email/email_accounts/{uid}
 **Description**: Atualizar conta de e-mail
+
 **Request Body** (application/json):
+
 - Properties:
   - `name` (optional): string - Nome da conta de e-mail
   - `sender_name` (optional): string - Nome do remetente
   - `from_address` (optional): string - Endereço de e-mail
   - `enabled` (optional): boolean - Habilitar conta
 - Example:
-```json
+```
 {
   "name": "string",
   "sender_name": "string",
@@ -10185,38 +10777,49 @@ Conta de e-mail encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID da conta de e-mail
 
 **Response**:
+
 Conta de e-mail atualizada com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {}
 }
 ```
+
 
 #### PUT /v2/v2/automation/email/email_accounts/{uid}/check_identity
 **Description**: Verificar identidade da conta de e-mail
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID da conta de e-mail
 
 **Response**:
+
 Verificação de identidade executada com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {}
 }
 ```
+
 
 ### Pix
 
 #### GET /v2/v2/charge/pix
 **Description**: Listar Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -10233,8 +10836,10 @@ Verificação de identidade executada com sucesso
 - `tags` (query, string) (optional): Filtro por tags do pix
 
 **Response**:
+
 Buscando Pix por tags
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -10357,9 +10962,12 @@ Buscando Pix por tags
 }
 ```
 
+
 #### POST /v2/v2/charge/pix
 **Description**: Criar um Pix
+
 **Request Body** (application/json):
+
 - Type: `v2_pix`
 - Properties:
   - `uid` (optional): string - UID do Pix
@@ -10420,7 +11028,7 @@ Buscando Pix por tags
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "uid": "123e4567-e89b-12d3-a456-426614174000",
   "amount": 120.99,
@@ -10479,12 +11087,15 @@ Buscando Pix por tags
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Pix criado com dados de cliente
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -10545,16 +11156,21 @@ Pix criado com dados de cliente
 }
 ```
 
+
 #### PUT /v2/v2/charge/pix/{pix_uid}/cancel
 **Description**: Cancelar um Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `pix_uid` (path, string) (required): UID do Pix
 
 **Response**:
+
 Comando criado com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -10616,15 +11232,20 @@ Comando criado com sucesso
 }
 ```
 
+
 #### GET /v2/v2/charge/pix/{pix_uid}/commands
 **Description**: Listar Comandos de um Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `pix_uid` (path, string) (required): UID do Pix
 
 **Response**:
+
 Pix encontrado
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -10723,15 +11344,20 @@ Pix encontrado
 }
 ```
 
+
 #### GET /v2/v2/charge/pix/{pix_uid}/commands/{id}
 **Description**: Visualizar um Comando
+
 **Parameters**:
+
 - `pix_uid` (path, string) (required): UID do Pix
 - `id` (path, string) (required): ID da Atualização do Pix
 
 **Response**:
+
 Atualização do Pix encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -10793,9 +11419,12 @@ Atualização do Pix encontrada
 }
 ```
 
+
 #### PUT /v2/v2/charge/pix/{pix_uid}/update
 **Description**: Atualizar um Pix
+
 **Request Body** (application/json):
+
 - Type: `v2_pix_update`
 - Properties:
   - `amount` (optional): number - Quantia
@@ -10836,7 +11465,7 @@ Atualização do Pix encontrada
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "amount": 120.99,
   "payer": {
@@ -10874,13 +11503,16 @@ Atualização do Pix encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `pix_uid` (path, string) (required): UID do Pix
 
 **Response**:
+
 Comando criado com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -10942,24 +11574,32 @@ Comando criado com sucesso
 }
 ```
 
+
 #### DELETE /v2/v2/charge/pix/{uid}
 **Description**: Excluir um Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): ID do Pix
 
 **Response**:
+
 Pix deletado
 
 #### GET /v2/v2/charge/pix/{uid}
 **Description**: Visualizar um Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UID do Pix
 
 **Response**:
+
 Pix encontrado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -11020,16 +11660,21 @@ Pix encontrado
 }
 ```
 
+
 #### GET /v2/v2/payment/pix
 **Description**: Listar Pagamentos Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Pagamentos encontrados
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -11102,9 +11747,12 @@ Pagamentos encontrados
 }
 ```
 
+
 #### POST /v2/v2/payment/pix
 **Description**: Criar um Pagamento Pix
+
 **Request Body** (application/json):
+
 - Type: `v2_new_payment_pix_single`
 - Properties:
   - `amount` (optional): number - Quantia
@@ -11123,7 +11771,7 @@ Pagamentos encontrados
 Bancos que aceitam esse campo (via API): Itaú
 
 - Example:
-```json
+```
 {
   "amount": 120.99,
   "scheduled_to": "2024-01-15",
@@ -11140,12 +11788,15 @@ Bancos que aceitam esse campo (via API): Itaú
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Pagamento criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -11181,15 +11832,20 @@ Pagamento criado
 }
 ```
 
+
 #### GET /v2/v2/payment/pix/{uid}
 **Description**: Visualizar um Pagamento Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID do Pagamento Pix
 
 **Response**:
+
 Pagamento encontrado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -11225,15 +11881,18 @@ Pagamento encontrado
 }
 ```
 
+
 #### POST /v2/v2/payment/pix_batches
 **Description**: Criar um Lote de Pagamento Pix
+
 **Request Body** (application/json):
+
 - Type: `v2_new_payment_batch_pix`
 - Properties:
   - `financial_account_uid` (required): string - UID da Conta Financeira de Origem
   - `payments` (required): array - Lista de Pagamentos de Pix novos ou existentes.
 - Example:
-```json
+```
 {
   "financial_account_uid": "123e4567-e89b-12d3-a456-426614174000",
   "payments": [
@@ -11266,12 +11925,15 @@ Pagamento encontrado
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Lote de Pagamento criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -11329,16 +11991,21 @@ Lote de Pagamento criado
 }
 ```
 
+
 #### GET /v2/v2/transfer/pix
 **Description**: Listar Transferências Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem das transferências
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -11449,9 +12116,12 @@ Sucesso na listagem das transferências
 }
 ```
 
+
 #### POST /v2/v2/transfer/pix
 **Description**: Criar uma Transferência Pix
+
 **Request Body** (application/json):
+
 - Type: `v2_new_transfer_pix`
 - Properties:
   - `amount` (required): number - Quantia
@@ -11482,7 +12152,7 @@ Sucesso na listagem das transferências
 Bancos que aceitam esse campo (via API): Itaú
 
 - Example:
-```json
+```
 {
   "amount": 120.99,
   "scheduled_to": "2024-01-15",
@@ -11515,12 +12185,15 @@ Bancos que aceitam esse campo (via API): Itaú
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Transferência Pix criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -11575,15 +12248,20 @@ Transferência Pix criada
 }
 ```
 
+
 #### GET /v2/v2/transfer/pix/{uid}
 **Description**: Visualizar uma Transferência Pix
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID da Transferência
 
 **Response**:
+
 Transferência Pix encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -11638,15 +12316,18 @@ Transferência Pix encontrada
 }
 ```
 
+
 #### POST /v2/v2/transfer/pix_batches
 **Description**: Criar um Lote de Transferência Pix
+
 **Request Body** (application/json):
+
 - Type: `v2_new_transfer_batch_pix`
 - Properties:
   - `financial_account_uid` (required): string - UID da Conta Financeira de Origem
   - `transfers` (required): array - Lista de Transferências Pix novas ou existentes.
 - Example:
-```json
+```
 {
   "financial_account_uid": "123e4567-e89b-12d3-a456-426614174000",
   "transfers": [
@@ -11713,12 +12394,15 @@ Transferência Pix encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Lote de Transferência Pix criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -11779,16 +12463,21 @@ Lote de Transferência Pix criado
 }
 ```
 
+
 ### Provedores
 
 #### GET /v2/v2/financial/providers
 **Description**: Listar Provedores
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Provedores encontradas
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -11816,11 +12505,14 @@ Provedores encontradas
 }
 ```
 
+
 ### Recebimento de Boleto
 
 #### GET /v1/v1/bank_billet_payments
 **Description**: Listar Pagamentos de Boleto
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -11830,8 +12522,10 @@ Provedores encontradas
 - `bank_billet_account_id` (query, string) (optional): ID da Carteira.
 
 **Response**:
+
 Sucesso na listagem dos pagamentos de boletos
-```json
+
+```
 [
   {
     "id": 1,
@@ -11886,9 +12580,12 @@ Sucesso na listagem dos pagamentos de boletos
 ]
 ```
 
+
 #### POST /v1/v1/bank_billet_payments
 **Description**: Efetuar Pagamento de Boleto
+
 **Request Body** (application/json):
+
 - Type: `v1_bank_billet_payment_object`
 - Properties:
   - `id` (optional): integer - ID do Recebimento de Boleto
@@ -11943,7 +12640,7 @@ Conteúdo do retorno bancário. Pode mudar de acordo com o banco e o formato 240
 | control_number | Número de Controle |
 | document_number | Número do Documento |
 - Example:
-```json
+```
 {
   "id": 1,
   "bank_billet_id": 1,
@@ -11972,12 +12669,15 @@ Conteúdo do retorno bancário. Pode mudar de acordo com o banco e o formato 240
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Pagamento efetuado com sucesso
-```json
+
+```
 {
   "id": 1,
   "bank_billet_id": 1,
@@ -12005,24 +12705,32 @@ Pagamento efetuado com sucesso
 }
 ```
 
+
 #### DELETE /v1/v1/bank_billet_payments/{id}
 **Description**: Excluir Pagamento de Boleto
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Pagamento de Boleto
 
 **Response**:
+
 Pagamento de Boleto excluído
 
 #### GET /v1/v1/bank_billet_payments/{id}
 **Description**: Informações do Pagamento de Boleto
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Pagamento de Boleto
 
 **Response**:
+
 Pagamento de boleto encontrado
-```json
+
+```
 {
   "id": 1,
   "bank_billet_id": 1,
@@ -12049,12 +12757,15 @@ Pagamento de boleto encontrado
   "line_parsed": "string"
 }
 ```
+
 
 ### Registro de Boleto
 
 #### GET /v1/v1/bank_billet_registrations
 **Description**: Listar Registros de Boleto.
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -12064,8 +12775,10 @@ Pagamento de boleto encontrado
 - `bank_billet_account_id` (query, string) (optional): ID da Carteira.
 
 **Response**:
+
 Sucesso na listagem de registros de boleto
-```json
+
+```
 [
   {
     "id": 1,
@@ -12096,15 +12809,20 @@ Sucesso na listagem de registros de boleto
 ]
 ```
 
+
 #### GET /v1/v1/bank_billet_registrations/{id}
 **Description**: Informações do Registro de Boleto
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Registro de Boleto
 
 **Response**:
+
 Registro de Boleto encontrado
-```json
+
+```
 {
   "id": 1,
   "bank_billet_id": 1,
@@ -12120,11 +12838,14 @@ Registro de Boleto encontrado
 }
 ```
 
+
 ### Registro de Remessa
 
 #### GET /v1/v1/bank_billet_remittances
 **Description**: Listar Registros de Remessa
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -12136,8 +12857,10 @@ Registro de Boleto encontrado
 - `remittance_id` (query, string) (optional): ID da Remessa.
 
 **Response**:
+
 Sucesso na listagem de registros de remessa
-```json
+
+```
 [
   {
     "id": 1,
@@ -12165,10 +12888,13 @@ Sucesso na listagem de registros de remessa
   }
 ]
 ```
+
 
 #### GET /v1/v1/bank_billet_remittances/pending
 **Description**: Listar Registros de Remessa Pendentes
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
@@ -12180,8 +12906,10 @@ Sucesso na listagem de registros de remessa
 - `remittance_id` (query, string) (optional): ID da Remessa.
 
 **Response**:
+
 Sucesso na listagem de registros de remessa
-```json
+
+```
 [
   {
     "id": 1,
@@ -12210,44 +12938,58 @@ Sucesso na listagem de registros de remessa
 ]
 ```
 
+
 #### DELETE /v1/v1/bank_billet_remittances/{id}
 **Description**: Excluir Pendências
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Registro de Remessa
 
 **Response**:
+
 Pendências excluida
 
 #### GET /v1/v1/bank_billet_remittances/{id}
 **Description**: Informações do Registro de Remessa
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Registro de Remessa
 
 **Response**:
+
 Registro de Remessa encontrado
 
 #### POST /v1/v1/bank_billet_remittances/{id}/occurrence/{our_code}
 **Description**: Criar Pendências
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do BOLETO
 - `our_code` (path, string) (required): Código de operação de registro. Consulte os possíveis valores [para cada banco](/reference/bancos-suportados).
 
 **Response**:
+
 Pendências criada
-```json
+
+```
 {
   "message": "string"
 }
 ```
 
+
 ### Registro de Retorno
 
 #### GET /v1/v1/bank_billet_discharges
 **Description**: Listar Registros de Retorno
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `processed_from` (query, string) (optional): A partir da Data de processamento.
 - `processed_to` (query, string) (optional): Até a Data de processamento.
@@ -12258,8 +13000,10 @@ Pendências criada
 - `our_occurrence` (query, string) (optional): Código único de operação de retorno dentro da Kobana.
 
 **Response**:
+
 Sucesso na listagem de registros de retorno
-```json
+
+```
 [
   {
     "id": 1,
@@ -12296,15 +13040,20 @@ Sucesso na listagem de registros de retorno
 ]
 ```
 
+
 #### GET /v1/v1/bank_billet_discharges/{id}
 **Description**: Informações do Registro de Retorno
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do Registro de Retorno
 
 **Response**:
+
 Registro de Retorno encontrado
-```json
+
+```
 {
   "id": 1,
   "our_occurrence": "2001",
@@ -12323,11 +13072,14 @@ Registro de Retorno encontrado
 }
 ```
 
+
 ### Relatórios
 
 #### GET /v1/v1/reports/bank_billets
 **Description**: Contagem de Boletos.
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `expire_from` (query, string) (optional): A partir da Data de vencimento.
 - `expire_to` (query, string) (optional): Até a Data de vencimento.
@@ -12340,8 +13092,10 @@ Registro de Retorno encontrado
 - `status` (query, string) (optional): Status do boleto.
 
 **Response**:
+
 Sucesso na listagem de boletos
-```json
+
+```
 [
   {
     "bank_billet_account_id": 1,
@@ -12356,19 +13110,24 @@ Sucesso na listagem de boletos
 ]
 ```
 
+
 ### Saldos
 
 #### GET /v2/v2/financial/accounts/{financial_account_uid}/balances
 **Description**: Listar saldos
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 - `financial_account_uid` (path, string) (required): UUID da Conta Financeira
 
 **Response**:
+
 Saldos encontrados
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -12407,17 +13166,22 @@ Saldos encontrados
 }
 ```
 
+
 #### GET /v2/v2/financial/accounts/{financial_account_uid}/balances/{balance_uid}
 **Description**: Visualizar um Saldo
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `field` (query, string) (optional): Campo para buscar o ID. Exemplo: `uid` ou `external_id`
 - `financial_account_uid` (path, string) (required): UUID da Conta Financeira
 - `balance_uid` (path, string) (required): UUID do Saldo
 
 **Response**:
+
 Conta encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -12436,11 +13200,14 @@ Conta encontrada
 }
 ```
 
+
 ### Subcontas
 
 #### GET /v2/v2/admin/subaccounts
 **Description**: Listar Subcontas
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `page` (query, integer) (optional): Número da Página
@@ -12451,8 +13218,10 @@ Conta encontrada
 - `created_to` (query, string) (optional): Data final do filtro de data de criação da subconta
 
 **Response**:
+
 Subcontas encontradas
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -12507,9 +13276,12 @@ Subcontas encontradas
 }
 ```
 
+
 #### POST /v2/v2/admin/subaccounts
 **Description**: Criar uma Subconta
+
 **Request Body** (application/json):
+
 - Type: `v2_subaccount`
 - Properties:
   - `id` (optional): integer - ID da subconta
@@ -12529,7 +13301,7 @@ Subcontas encontradas
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "uid": "string",
@@ -12554,12 +13326,15 @@ Subcontas encontradas
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Subconta criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -12586,16 +13361,21 @@ Subconta criada
 }
 ```
 
+
 #### GET /v2/v2/admin/subaccounts/{id}
 **Description**: Visualizar uma Subconta
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Subconta
 
 **Response**:
+
 Subconta encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -12622,9 +13402,12 @@ Subconta encontrada
 }
 ```
 
+
 #### PUT /v2/v2/admin/subaccounts/{id}
 **Description**: Alterar Subconta
+
 **Request Body** (application/json):
+
 - Type: `v2_subaccount_update`
 - Properties:
   - `id` (optional): integer - ID da subconta
@@ -13005,7 +13788,7 @@ Subconta encontrada
   - `simple_opting` (optional): boolean - Optante pelo simples
   - `rate_limits` (optional): object - Limites de requisições - Hash com chave e valor no formato JSON.
 - Example:
-```json
+```
 {
   "id": 1,
   "uid": "string",
@@ -13054,13 +13837,16 @@ Subconta encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID da Subconta
 
 **Response**:
+
 Subconta alterada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13087,18 +13873,23 @@ Subconta alterada
 }
 ```
 
+
 ### TED
 
 #### GET /v2/v2/transfer/ted
 **Description**: Listar Transferências TED
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem das transferências
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -13209,9 +14000,12 @@ Sucesso na listagem das transferências
 }
 ```
 
+
 #### POST /v2/v2/transfer/ted
 **Description**: Criar uma Transferência TED
+
 **Request Body** (application/json):
+
 - Type: `v2_new_transfer_ted`
 - Properties:
   - `amount` (required): number - Quantia
@@ -13225,7 +14019,7 @@ Sucesso na listagem das transferências
   - `beneficiary` (optional): object - Dados do Recebedor
   - `bank_account` (required): object - Dados bancários
 - Example:
-```json
+```
 {
   "amount": 120.99,
   "scheduled_to": "2024-01-15",
@@ -13254,12 +14048,15 @@ Sucesso na listagem das transferências
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Transferência TED criada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13314,15 +14111,20 @@ Transferência TED criada
 }
 ```
 
+
 #### GET /v2/v2/transfer/ted/{uid}
 **Description**: Visualizar uma Transferência TED
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID da Transferência
 
 **Response**:
+
 Transferência TED encontrada
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13377,15 +14179,18 @@ Transferência TED encontrada
 }
 ```
 
+
 #### POST /v2/v2/transfer/ted_batches
 **Description**: Criar um Lote de Transferência TED
+
 **Request Body** (application/json):
+
 - Type: `v2_new_transfer_batch_ted`
 - Properties:
   - `financial_account_uid` (required): string - UID da Conta Financeira de Origem
   - `transfers` (required): array - Lista de Transferências TED novas ou existentes.
 - Example:
-```json
+```
 {
   "financial_account_uid": "123e4567-e89b-12d3-a456-426614174000",
   "transfers": [
@@ -13444,12 +14249,15 @@ Transferência TED encontrada
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Lote de Transferência TED criado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13510,18 +14318,23 @@ Lote de Transferência TED criado
 }
 ```
 
+
 ### Todos
 
 #### GET /v2/v2/payment/batches
 **Description**: Listar Lotes de Pagamentos
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Lotes encontrados
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -13558,15 +14371,20 @@ Lotes encontrados
 }
 ```
 
+
 #### GET /v2/v2/payment/batches/{uid}
 **Description**: Visualizar um Lote de Pagamento
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID do Lote de Pagamento
 
 **Response**:
+
 Lote de Pagamento encontrado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13584,16 +14402,21 @@ Lote de Pagamento encontrado
 }
 ```
 
+
 #### PUT /v2/v2/payment/batches/{uid}/approve
 **Description**: Aprovar um Lote de Pagamento
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UUID do Lote de Pagamento
 
 **Response**:
+
 Comando criado com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13619,17 +14442,22 @@ Comando criado com sucesso
   }
 }
 ```
+
 
 #### PUT /v2/v2/payment/batches/{uid}/reprove
 **Description**: Reprovar um Lote de Pagamento
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UUID do Lote de Pagamento
 
 **Response**:
+
 Comando criado com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13656,16 +14484,21 @@ Comando criado com sucesso
 }
 ```
 
+
 #### GET /v2/v2/transfer/batches
 **Description**: Listar Lotes de Transferência
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem dos lotes
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -13704,15 +14537,20 @@ Sucesso na listagem dos lotes
 }
 ```
 
+
 #### GET /v2/v2/transfer/batches/{uid}
 **Description**: Visualizar um Lote de Transferência
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `uid` (path, string) (required): UUID do Lote de Transferência
 
 **Response**:
+
 Lote de Transferência encontrado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13773,16 +14611,21 @@ Lote de Transferência encontrado
 }
 ```
 
+
 #### PUT /v2/v2/transfer/batches/{uid}/approve
 **Description**: Aprovar um Lote de Transferência
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UUID do Lote de Transferência
 
 **Response**:
+
 Comando criado com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13809,17 +14652,22 @@ Comando criado com sucesso
   }
 }
 ```
+
 
 #### PUT /v2/v2/transfer/batches/{uid}/reprove
 **Description**: Reprovar um Lote de Transferência
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `uid` (path, string) (required): UUID do Lote de Transferência
 
 **Response**:
+
 Comando criado com sucesso
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13846,13 +14694,16 @@ Comando criado com sucesso
   }
 }
 ```
+
 
 ### Usuário
 Usuário
 
 #### GET /v2/v2/admin/users
 **Description**: Listar Usuários
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `page` (query, integer) (optional): Número da Página
@@ -13860,8 +14711,10 @@ Usuário
 - `email` (query, string) (optional): Filtro por email. Busca usuário por email
 
 **Response**:
+
 Usuários encontrados
-```json
+
+```
 {
   "status": 1,
   "data": [
@@ -13902,9 +14755,12 @@ Usuários encontrados
 }
 ```
 
+
 #### POST /v2/v2/admin/users
 **Description**: Incluir um Usuário
+
 **Request Body** (application/json):
+
 - Type: `v2_user`
 - Properties:
   - `id` (optional): integer - ID do usuário
@@ -13920,7 +14776,7 @@ Usuários encontrados
   - `created_at` (optional): string - Data e hora de criação do evento
   - `updated_at` (optional): string - Data e hora de atualização do evento
 - Example:
-```json
+```
 {
   "id": 1,
   "uid": "string",
@@ -13938,12 +14794,15 @@ Usuários encontrados
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Usuário incluído
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -13963,19 +14822,25 @@ Usuário incluído
 }
 ```
 
+
 #### DELETE /v2/v2/admin/users/{id}
 **Description**: Excluir um Usuário
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Usuário
 
 **Response**:
+
 Usuário excluído
 
 #### PUT /v2/v2/admin/users/{id}
 **Description**: Alterar Dados De Um Usuário
+
 **Request Body** (application/json):
+
 - Type: `v2_user`
 - Properties:
   - `id` (optional): integer - ID do usuário
@@ -13991,7 +14856,7 @@ Usuário excluído
   - `created_at` (optional): string - Data e hora de criação do evento
   - `updated_at` (optional): string - Data e hora de atualização do evento
 - Example:
-```json
+```
 {
   "id": 1,
   "uid": "string",
@@ -14009,13 +14874,16 @@ Usuário excluído
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 - `id` (path, string) (required): ID do Usuário
 
 **Response**:
+
 Usuário Alterado
-```json
+
+```
 {
   "status": 1,
   "data": {
@@ -14034,17 +14902,22 @@ Usuário Alterado
   }
 }
 ```
+
 
 ### Usuário Autenticado
 
 #### GET /v1/v1/userinfo
 **Description**: Informações do Usuário
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Usuário encontrado
-```json
+
+```
 {
   "id": 1,
   "uid": "string",
@@ -14060,20 +14933,25 @@ Usuário encontrado
   "updated_at": "2024-01-15T10:30:00Z"
 }
 ```
+
 
 ### Webhooks
 Webhooks
 
 #### GET /v1/v1/webhooks
 **Description**: Listar Webhooks
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `page` (query, integer) (optional): Número da Página
 - `per_page` (query, integer) (optional): Quantidade de registros por página
 
 **Response**:
+
 Sucesso na listagem de webhooks
-```json
+
+```
 [
   {
     "id": 1,
@@ -14110,9 +14988,12 @@ Sucesso na listagem de webhooks
 ]
 ```
 
+
 #### POST /v1/v1/webhooks
 **Description**: Criar Webhook
+
 **Request Body** (application/json):
+
 - Type: `v1_webhook_object`
 - Properties:
   - `id` (optional): integer - ID do webhook
@@ -14127,7 +15008,7 @@ Sucesso na listagem de webhooks
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "name": "string",
@@ -14147,12 +15028,15 @@ Sucesso na listagem de webhooks
 ```
 
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `X-Idempotency-Key` (header, string) (optional): Chave de idempotência para evitar replay de processamento.
 
 **Response**:
+
 Webhook criado
-```json
+
+```
 {
   "id": 1,
   "name": "string",
@@ -14171,24 +15055,32 @@ Webhook criado
 }
 ```
 
+
 #### DELETE /v1/v1/webhooks/{id}
 **Description**: Excluir Webhook
+
 **Parameters**:
+
 - `id` (path, string) (required): ID do webhook
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Webhook excluido
 
 #### GET /v1/v1/webhooks/{id}
 **Description**: Informações do Webhook
+
 **Parameters**:
+
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 - `id` (path, string) (required): ID do webhook
 
 **Response**:
+
 Webhook encontrado
-```json
+
+```
 {
   "id": 1,
   "name": "string",
@@ -14207,9 +15099,12 @@ Webhook encontrado
 }
 ```
 
+
 #### PUT /v1/v1/webhooks/{id}
 **Description**: Atualizar Webhook
+
 **Request Body** (application/json):
+
 - Type: `v1_webhook_object`
 - Properties:
   - `id` (optional): integer - ID do webhook
@@ -14224,7 +15119,7 @@ Webhook encontrado
   - `created_at` (optional): string - Data e hora de criação do registro
   - `updated_at` (optional): string - Data e hora da última atualização do registro
 - Example:
-```json
+```
 {
   "id": 1,
   "name": "string",
@@ -14244,8 +15139,10 @@ Webhook encontrado
 ```
 
 **Parameters**:
+
 - `id` (path, string) (required): ID do webhook
 - `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
 
 **Response**:
+
 Webhook atualizado

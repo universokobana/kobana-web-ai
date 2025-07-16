@@ -14,6 +14,14 @@ combined_content = ["# Kobana API Documentation\n\n"]
 index_entries = []
 section_counter = 0
 
+def normalize_anchor(string)
+  string.downcase
+        .gsub(/[^a-z0-9\s-]/, '')  # Remove special characters
+        .gsub(/\s+/, '-')          # Replace spaces with dahshes
+        .gsub(/-+/, '-')           # Remove duplicate underscores
+        .gsub(/^-|-$/, '')         # Remove leading/trailing underscores
+end
+
 # Load ignore patterns
 ignore_patterns = []
 if ignore_file.exist?
@@ -128,7 +136,7 @@ if api_content_dir.exist?
         if title_match
           title = title_match[1].strip.gsub(/^['"]|['"]$/, '') # Remove quotes if present
           section_counter += 1
-          anchor = title.downcase.gsub(/[^\w\s-]/, '').gsub(/\s+/, '-')
+          anchor = normalize_anchor(title)
           index_entries << { number: section_counter, title: title, anchor: anchor }
           combined_content << "## #{title}\n\n"
         end
@@ -152,10 +160,43 @@ else
   exit 1
 end
 
-# Read the reference content from views/pt-BR/api.md
+# Read and process the reference content
 if api_reference_file.exist?
   puts "Reading reference from #{api_reference_file}"
-  combined_content << api_reference_file.read.strip
+  reference_content = api_reference_file.read.strip
+
+  # Extract endpoint sections from the reference
+  reference_lines = reference_content.lines
+  processed_reference = []
+
+  # Add a separator before API content
+  combined_content << "\n---\n\n"
+  combined_content << "## API Reference\n\n"
+
+  reference_lines.each_with_index do |line, idx|
+    if line.match(/^### (.+)$/)
+      section_title = Regexp.last_match(1).strip
+      if section_title != 'Other' # Skip generic sections
+        section_counter += 1
+        # For the anchor in the index, we need to match how the markdown processor will generate it
+        # Most processors convert headers to lowercase and replace spaces with hyphens
+        # We'll use normalize_anchor for consistency
+        anchor = normalize_anchor(section_title)
+        index_entries << { number: section_counter, title: "API: #{section_title}", anchor: anchor }
+        # Keep the original title without modifications
+        processed_reference << line
+      else
+        processed_reference << line
+      end
+    elsif line.match(/^## (.+)$/) && idx == 0
+      # Skip the first ## header (Endpoints) as we're replacing it with "API Reference"
+      next
+    else
+      processed_reference << line
+    end
+  end
+
+  combined_content << processed_reference.join
   combined_content << "\n\n"
 else
   puts "Warning: #{api_reference_file} not found"
