@@ -1,4 +1,4 @@
-# Kobana API Documentation
+# Documentação da API da Kobana
 
 ## Índice
 1. [Kobana para Desenvolvedores](#kobana-para-desenvolvedores)

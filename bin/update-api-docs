@@ -10,7 +10,7 @@ api_reference_file = root_dir.join('content', 'api_reference.md')
 output_file = root_dir.join('views', 'pt-BR', 'api.md')
 ignore_file = root_dir.join('content', 'ignore_docs.txt')
 
-combined_content = ["# Kobana API Documentation\n\n"]
+combined_content = ["# Documentação da API da Kobana\n\n"]
 index_entries = []
 section_counter = 0
 
