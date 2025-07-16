@@ -133,7 +133,7 @@ else
     puts 'Fetching next page...' if next_page
   end
 
-  File.write(File.join(content_dir, 'index.json'), JSON.pretty_generate(all_articles))
+  File.write(File.join(content_dir, 'articles.json'), JSON.pretty_generate(all_articles))
 end
 
 puts "Found #{all_articles.length} articles"

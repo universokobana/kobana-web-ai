@@ -343,7 +343,7 @@ permissões. </i>Na página do usuário, acesse o menu <i>Administração
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1609925433/36fff2efdbd35d8b377a81c1a136/AD_4nXcHZYKodTJbLJa8M-L5a74ZJmIwwwlP9vbUo6XNTCP82FRstUJK5-2Rs6MMWP6qMn31-ARsJOa6UxKdEVeJKUl2NcNslsGx_SQW2DOMreL7mxd-OmMQOr2ItEWZiMIbvXQWts4P?expires=1752529500&amp;signature=a1b387648a8bf2f356c54e054f702957dfdb98d5ecd760473bf85d0f035b8b81&amp;req=dSYnH8B8mIVcWvMW1HO4zV5LxfC8oUXQjsD%2Fs4zENWNLbR7NRGmp5M8ODizU%0AkkHI%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1609925433/36fff2efdbd35d8b377a81c1a136/AD_4nXcHZYKodTJbLJa8M-L5a74ZJmIwwwlP9vbUo6XNTCP82FRstUJK5-2Rs6MMWP6qMn31-ARsJOa6UxKdEVeJKUl2NcNslsGx_SQW2DOMreL7mxd-OmMQOr2ItEWZiMIbvXQWts4P?expires=1752633900&amp;signature=be26a6adae9ff78ec0078cc8be2b754ff9916dadfe3653d821a50199e93086d0&amp;req=dSYnH8B8mIVcWvMW1HO4zV5LxfC%2FoE%2FcjsD%2Fs4zENWMcETnFYNpG33KTPpPx%0Akick%0A)
 </div>
 
 
@@ -387,7 +387,7 @@ será disponibilizada em todos os modelos disponíveis.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1609925429/7c082f2e6a31d95de6ba7c9814a1/AD_4nXfxGTCBPEKh59MYc-ya6UcFv_EStMqSdDlj5WjmGPFk2TQj4JMy2zzmv8jk_diF4c1MBwIrPYMSObdy4ZE8sodScbES4M2Ta6VZ8t2Vr7F8Ro_OFxII-OLLbLBhaJSGCKfkGnSM?expires=1752529500&amp;signature=eebe06a1a2b830914dc739602cfa2b765de0bfa4edd70d0d3f2728063ad5dd0e&amp;req=dSYnH8B8mIVdUPMW1HO4zUm%2FB4qYPe9xCZphuL3HURFQr7D%2F%2B7esVF1xiIv9%0AO6XP%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1609925429/7c082f2e6a31d95de6ba7c9814a1/AD_4nXfxGTCBPEKh59MYc-ya6UcFv_EStMqSdDlj5WjmGPFk2TQj4JMy2zzmv8jk_diF4c1MBwIrPYMSObdy4ZE8sodScbES4M2Ta6VZ8t2Vr7F8Ro_OFxII-OLLbLBhaJSGCKfkGnSM?expires=1752633900&amp;signature=1133c53d3992b664c979dfca03fbd12498c5211b61790b92b2bd170530a19c79&amp;req=dSYnH8B8mIVdUPMW1HO4zUm%2FB4qbPOV9CZphuL3HURGQHm6dCM8ojZX%2BA6i%2F%0AUeEQ%0A)
 </div>
 
 
@@ -412,7 +412,7 @@ digitar para ser oferecido as etiquetas cadastradas para boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1609925428/ded2e374ac0ffac6217ee2b89c21/AD_4nXeVmnVl1rfz9_TUXGPSY10xtv5aJvQq4sN7EcmnfViYsipzVQbQM3EzgfnUIE1rM2PMmM7lj4E5NIX97nj6jcE1N53Cb-6Tkra-y8vZhZM_-GWYTo327Np4Mk9szVPAvaWg7ECT0w?expires=1752529500&amp;signature=2f9bb2b5e87edb8267f7c8ed2a9c12e1f822903c17302d7cf3d46cbd7daefe97&amp;req=dSYnH8B8mIVdUfMW1HO4zUgU0fs8XFlbKJ8Ga8bzui2VkegGC7aJVuVdpMm6%0AKrEB%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1609925428/ded2e374ac0ffac6217ee2b89c21/AD_4nXeVmnVl1rfz9_TUXGPSY10xtv5aJvQq4sN7EcmnfViYsipzVQbQM3EzgfnUIE1rM2PMmM7lj4E5NIX97nj6jcE1N53Cb-6Tkra-y8vZhZM_-GWYTo327Np4Mk9szVPAvaWg7ECT0w?expires=1752633900&amp;signature=6df20d4030657f61e08957b22a69efe5f38d19c89fc08ecff9726d9e76f60f15&amp;req=dSYnH8B8mIVdUfMW1HO4zUgU0fs%2FXVNXKJ8Ga8bzui0AE%2FP8%2FBk42LVN771z%0AuoFF%0A)
 </div>
 
 
@@ -684,7 +684,7 @@ caso.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487961/419a75f104cb66266786a3589f1c/AD_4nXfOw2zgEUKTHOFBzn5R_kwV80iJjO60pG2oQ5Wg0DhiB0GcaYCP_GdsrwScylO0zXPWvV9PER0u1s3v2m5nvSgjFZWAzF4miVo0rQYcA5EICRGFUNwoEb2mDXY5I5RiYtNa7VcF?expires=1752529500&amp;signature=2fea2ab10c3e603f469a238e872026f9afacf86901d68e81e82e24005c7d4e69&amp;req=dSUmEs12mohZWPMW1HO4zf%2FGP4SzPuQ78nfyvgb647dAcZZOyPDL5p3H4R7g%0AQeC7%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487961/419a75f104cb66266786a3589f1c/AD_4nXfOw2zgEUKTHOFBzn5R_kwV80iJjO60pG2oQ5Wg0DhiB0GcaYCP_GdsrwScylO0zXPWvV9PER0u1s3v2m5nvSgjFZWAzF4miVo0rQYcA5EICRGFUNwoEb2mDXY5I5RiYtNa7VcF?expires=1752633900&amp;signature=f666e2cdf9eeaf67e2324ed79f2c955e2b6949ba14bd54049a4013bf4c6bd192&amp;req=dSUmEs12mohZWPMW1HO4zf%2FGP4SwP%2B438nfyvgb647f9pvkRUxfqqNjjJ%2Fks%0ATDWW%0A)
 </div>
 
 
@@ -735,7 +735,7 @@ Nesse caso, basta subir o arquivo e digitar a senha.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487958/ec74d1fb3298f178c2f15c1cccc7/AD_4nXcJewECAjuASE2DhkrdTljV5ZtRElLT2-Nedx4Q7YXBtZsNECXdGytsafnHUQ6YPwtgQDoxbrZhpTzWMTv7XBBoOIQQgbHTulMX71z8l-RJYRbMD7g0mFwUAPk7TXA2lvB_5ZkP7w?expires=1752529500&amp;signature=52584db3a6efbbeb82aa4b35a5194a05382348a0cb145aa8c287c65b827615eb&amp;req=dSUmEs12mohaUfMW1HO4zbdpCgoC3ODzCdpQ6zuN1rP4wJB84d2mrGzHka6G%0AK0Gb%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487958/ec74d1fb3298f178c2f15c1cccc7/AD_4nXcJewECAjuASE2DhkrdTljV5ZtRElLT2-Nedx4Q7YXBtZsNECXdGytsafnHUQ6YPwtgQDoxbrZhpTzWMTv7XBBoOIQQgbHTulMX71z8l-RJYRbMD7g0mFwUAPk7TXA2lvB_5ZkP7w?expires=1752633900&amp;signature=692560e428dde66dcf462f3eaaf4ca6bb3a036faa691eae93b7fe635fc05c2a8&amp;req=dSUmEs12mohaUfMW1HO4zbdpCgoB3er%2FCdpQ6zuN1rP4rHNH2REtKm7ux4Nx%0Asai1%0A)
 </div>
 
 
@@ -768,7 +768,7 @@ formato.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487959/78b4e13771bc1b388348a2b8c42e/AD_4nXfRcwgldSODp250aLHEgsqESvap6mVissJhFYZCcx8sEanCJ26xtFVwPZQIprXFpZJxd7fTio9Edc86cnUYA69xlOd8J_bGfdKz0escqzkjdLxgx7jZWABKk7A0PQrVJ_6eDjewgQ?expires=1752529500&amp;signature=a3ae44fcd68afac1c669f54cccad26fe141ec492dd254071934315940801530c&amp;req=dSUmEs12mohaUPMW1HO4zWa2QzjlpsaBJbNlgS5QxdwBbiXkBKPvFApw%2FjtM%0AgbZR%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487959/78b4e13771bc1b388348a2b8c42e/AD_4nXfRcwgldSODp250aLHEgsqESvap6mVissJhFYZCcx8sEanCJ26xtFVwPZQIprXFpZJxd7fTio9Edc86cnUYA69xlOd8J_bGfdKz0escqzkjdLxgx7jZWABKk7A0PQrVJ_6eDjewgQ?expires=1752633900&amp;signature=96b5cf1b4fb2f17cfb0f7edbd0406660d51c31d0c0ab08b9b123f619d05a8ffd&amp;req=dSUmEs12mohaUPMW1HO4zWa2Qzjmp8yNJbNlgS5QxdzEM3XEe0sle5e4fhYV%0AA8gP%0A)
 </div>
 
 
@@ -797,7 +797,7 @@ conhecimento para investigar. </i>
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487966/11282160b61de18a4eb77ddbfbaf/AD_4nXfDHltVG0piSZ8KM1Fbpz4d5CDHQjwvo6mqor55lHaJFr_M7gqMTOIzfw1OUOpwpAdJ5wbAUa0cS-UHG2Q_jw_jpa9Nbp9sY0Sn4WWe7dm2XafIu3swcz1-Rajkr2gKjOU1Q9-NyQ?expires=1752529500&amp;signature=5c22c89ed8fea6a9dece80c9c8614d4142fb9b49d49aa23a7eb0595d49af01e3&amp;req=dSUmEs12mohZX%2FMW1HO4zZrlyPfS5D3sLPhx14ukuVMKxErb7aq4spyohcuu%0AQ01f%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487966/11282160b61de18a4eb77ddbfbaf/AD_4nXfDHltVG0piSZ8KM1Fbpz4d5CDHQjwvo6mqor55lHaJFr_M7gqMTOIzfw1OUOpwpAdJ5wbAUa0cS-UHG2Q_jw_jpa9Nbp9sY0Sn4WWe7dm2XafIu3swcz1-Rajkr2gKjOU1Q9-NyQ?expires=1752633900&amp;signature=7f3e5b3b0265bc1c0d51c87a7f54d926320d7d98d750d1d296d133538bdea9dc&amp;req=dSUmEs12mohZX%2FMW1HO4zZrlyPfR5TfgLPhx14ukuVO9KseXVBbBh4a8SIbH%0AjJ63%0A)
 </div>
 
 
@@ -828,7 +828,7 @@ Nesse caso, suba cada arquivo no local adequado e insira a senha.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487964/e45e381c6509603832a403247af6/AD_4nXfR_QgQxHVk8nw-_NOjxmo4WPMrSbAhP_fsLw3vGGclId8agU2LVxm0S2LE_K3CY-xrX1t2zhOMxeY4Cwuq-z9IPdDyfNi4IHGrBaXr8t-hpGUIWkSSozeB15uWddi8AWCiw2V86g?expires=1752529500&amp;signature=98bbf0e0bacf924be897c8d709c75e412c2daeb85d58215bd5c4da2135011c9e&amp;req=dSUmEs12mohZXfMW1HO4zaDer0GrnXh9auM9ojEZ45e0k9pjQXnqAr1C%2FN%2FX%0AkeK%2B%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487964/e45e381c6509603832a403247af6/AD_4nXfR_QgQxHVk8nw-_NOjxmo4WPMrSbAhP_fsLw3vGGclId8agU2LVxm0S2LE_K3CY-xrX1t2zhOMxeY4Cwuq-z9IPdDyfNi4IHGrBaXr8t-hpGUIWkSSozeB15uWddi8AWCiw2V86g?expires=1752633900&amp;signature=9663d35b2d0eecf054a81c4535d623e6e74dd8997ab147420e968092770960b0&amp;req=dSUmEs12mohZXfMW1HO4zaDer0GonHJxauM9ojEZ45fd9wNJisfy%2BfNt8I%2BK%0AtYKI%0A)
 </div>
 
 
@@ -854,7 +854,7 @@ certificado válido.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487965/9528478adbfe96b91eea62dc3862/AD_4nXcny0rMvYljkgqHIyU3Wmeo5xBSmTt4Def4hLyKLUjp-FrBEEskIJguAYu3vRj_rlsBJgD61atE3G1qrBnkMM6ciqVnoqABjQt71A-zs4tO1Y2PRdl_lmOlrwIKZ6gZkJsNfzQu?expires=1752529500&amp;signature=c80728eca8092f09b19857af3c0bcc7b5fb8ca9cabcd686ea4c0f19c71994a8c&amp;req=dSUmEs12mohZXPMW1HO4zdf9INEQN4qIgW4kMmFQ63HDcIkXkzSipjzdKHVl%0AD3oM%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487965/9528478adbfe96b91eea62dc3862/AD_4nXcny0rMvYljkgqHIyU3Wmeo5xBSmTt4Def4hLyKLUjp-FrBEEskIJguAYu3vRj_rlsBJgD61atE3G1qrBnkMM6ciqVnoqABjQt71A-zs4tO1Y2PRdl_lmOlrwIKZ6gZkJsNfzQu?expires=1752633900&amp;signature=fa55b95e69ecb3370ff45d66e1e9111578a3e67e377620451555f125175759a7&amp;req=dSUmEs12mohZXPMW1HO4zdf9INETNoCEgW4kMmFQ63HPKbbSxszPiERyULyq%0ApLvg%0A)
 </div>
 
 
@@ -874,7 +874,7 @@ após ser validado pelo banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487968/a4e46bde1e13e40e02f644965387/AD_4nXes0ne8zXF9IOvMktXgMUC0JGQVjNXIXs4fanQg9opkni043cDEESV-EsSV-6aGPYaY9lMoXQqOz_laUeb3NE6e8lQLi4siu9ClCUMxqxdEymXQLH_fASG-CxyM9Bm6ehcT3kfdXw?expires=1752529500&amp;signature=a64aa5584e30f6232d4a2e62abe0605d2884f987984c69a9ee9a2fd2574f78d9&amp;req=dSUmEs12mohZUfMW1HO4zV3kWW%2BI7vMzYRHZYw4pvJXPf9ruADAPB2GN1dJC%0ATx%2Bq%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514487968/a4e46bde1e13e40e02f644965387/AD_4nXes0ne8zXF9IOvMktXgMUC0JGQVjNXIXs4fanQg9opkni043cDEESV-EsSV-6aGPYaY9lMoXQqOz_laUeb3NE6e8lQLi4siu9ClCUMxqxdEymXQLH_fASG-CxyM9Bm6ehcT3kfdXw?expires=1752633900&amp;signature=72c21e01a5aab0a1838e5b08c83ebe91406d9cf5ce2c57b591e97598a271d005&amp;req=dSUmEs12mohZUfMW1HO4zV3kWW%2BL7%2Fk%2FYRHZYw4pvJXaA95VEK1yNbGGcbwH%0AGUKt%0A)
 </div>
 
 
@@ -924,7 +924,7 @@ clique em *Cadastrar Novo Aplicativo.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473584/5c9a6c2909b8c84832a5facba413/AD_4nXcFCujPoOy2FGU7QJnHJiWgZQx7wwvBkW8XguBq0KT8ZsTrMR_fsMyLTMEtv6aeP3OptMkUuaFo1hUDdtZkpiCowidTfHgWFvh32KI4OkzQDfd-_iEv2CBweKkX-Hk0brJO69DkHw?expires=1752529500&amp;signature=82f99a2ee2df7a3c151a6add4a9e72e77b74b5a15ab694b176db8e5538416e42&amp;req=dSUmEs15noRXXfMW1HO4zaT7j3f9Cgv%2FifUW8o311MThyFljwwtKSsVeobJf%0A7A0r%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473584/5c9a6c2909b8c84832a5facba413/AD_4nXcFCujPoOy2FGU7QJnHJiWgZQx7wwvBkW8XguBq0KT8ZsTrMR_fsMyLTMEtv6aeP3OptMkUuaFo1hUDdtZkpiCowidTfHgWFvh32KI4OkzQDfd-_iEv2CBweKkX-Hk0brJO69DkHw?expires=1752633900&amp;signature=7b55e2e6642463678f155415dd163281a3ac9d1e7595642ff57b34b33907cc42&amp;req=dSUmEs15noRXXfMW1HO4zaT7j3f%2BCwHzifUW8o311MRysK0I4w8RngTFs60Q%0A9lAZ%0A)
 </div>
 
 
@@ -941,7 +941,7 @@ aplicativo. As informações do <i>Nome do cooperado </i>e da <i>Conta
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473587/691e73e54fec406cccc3179576ff/AD_4nXcyEKuO8Nx1uMhkkSsAvsRuTOLXMmClHXVy7MeNRP0ii9uwTFdJznRdfNKzUyJAL1CPcM1TB7JpUIvJ3a-W379cczD7x77cKG-nOpkDBb2Bww2RqYN99zd8JREcgaHeeSLBJF-L?expires=1752529500&amp;signature=0c644aea0a782c40f642fc9c30cb307596074ee354da3fc85ab30c410d4aa5d1&amp;req=dSUmEs15noRXXvMW1HO4zWA%2FAdOR1vCL%2Fb0%2Bjq9O97jZkrqcLq7bblPbDbPA%0AVIt4%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473587/691e73e54fec406cccc3179576ff/AD_4nXcyEKuO8Nx1uMhkkSsAvsRuTOLXMmClHXVy7MeNRP0ii9uwTFdJznRdfNKzUyJAL1CPcM1TB7JpUIvJ3a-W379cczD7x77cKG-nOpkDBb2Bww2RqYN99zd8JREcgaHeeSLBJF-L?expires=1752633900&amp;signature=64ea0ea56d908dc5ce78c4a9f5191d6f96da16eaf25e1ecf59670190c0021bc4&amp;req=dSUmEs15noRXXvMW1HO4zWA%2FAdOS1%2FqH%2Fb0%2Bjq9O97gCzfsQ5CNHq4hhtDOM%0ALdDC%0A)
 </div>
 
 
@@ -957,7 +957,7 @@ parceira e, na lista de empresas, selecione a Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473586/54a0ea6618e7305fab99f92990d3/AD_4nXf_YGuSkcWLrPg7MSvh-N6RtJHZZcKEpghXoYYYPuzKF-iHtiJdcX-zFpBXAErZEq4wtYLotvnh5rKFqOYaAWYVZ7PrRHXm1edFzjRxsdA0VtFhQ73hIV2WL6Km16Iqoy92Tk53?expires=1752529500&amp;signature=d73616ac0d094e6a6c750cd16b0820a4ad6623e6f75a15d9183e72c4da19caf5&amp;req=dSUmEs15noRXX%2FMW1HO4zUX4h9MhvsK9IMzQU29tg3Z5NZs8ReLUwYDSXl%2Fp%0A5RLT%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473586/54a0ea6618e7305fab99f92990d3/AD_4nXf_YGuSkcWLrPg7MSvh-N6RtJHZZcKEpghXoYYYPuzKF-iHtiJdcX-zFpBXAErZEq4wtYLotvnh5rKFqOYaAWYVZ7PrRHXm1edFzjRxsdA0VtFhQ73hIV2WL6Km16Iqoy92Tk53?expires=1752633900&amp;signature=6a39c7f86ddcd0f88f1591536bfd65a01bb3e8e1dd90d780ec565b92ac71a3f4&amp;req=dSUmEs15noRXX%2FMW1HO4zUX4h9Miv8ixIMzQU29tg3bPubacKbXxWDwLvkff%0ASWkN%0A)
 </div>
 
 
@@ -977,7 +977,7 @@ transferências. </b>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473630/13430f8521bf185e7a580565515c/AD_4nXc62MuSZA10BjOngePkn0MP2lFknsz9FDUxgeAiBQg5ZMRyUi2FXwymWgDkX89qcIzt4-LRHiMYinsPdCETfIO8LM_4C8HJf5h_0Vubd3HhSoyc4GE6fcwakvH_CvwmOomRndJEyg?expires=1752529500&amp;signature=8cee0f18197c85c35caaff34350fd3b9ec2f5e7f6210528ad10be30b4fceaeb1&amp;req=dSUmEs15nodcWfMW1HO4zdVmprr0JCwLE1V5MxZXKKnl%2FY%2Bbr3TJirOuqWjl%0AI0Z3%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473630/13430f8521bf185e7a580565515c/AD_4nXc62MuSZA10BjOngePkn0MP2lFknsz9FDUxgeAiBQg5ZMRyUi2FXwymWgDkX89qcIzt4-LRHiMYinsPdCETfIO8LM_4C8HJf5h_0Vubd3HhSoyc4GE6fcwakvH_CvwmOomRndJEyg?expires=1752633900&amp;signature=f69d4d74f7f59902b25e3b576751f3808b8ffe116fcc122b03e61b4a6715442b&amp;req=dSUmEs15nodcWfMW1HO4zdVmprr3JSYHE1V5MxZXKKktPK59Lfs%2BzSaxcKaw%0AcVk%2F%0A)
 </div>
 
 
@@ -999,7 +999,7 @@ ID </b>conforme ilustra a imagem.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473593/1aa73090b58abd1ffe949f65ca85/AD_4nXff-MXVESKUy--En4Jthk1jm2VzD1klk5UyWK4GJ7YCS5oN1EuNVIe7DvTuYMfvmMZWhJ7mi_y9OSgX2ZZcU8Kzfh6WciGrAmb8uMdcUjaTW_y76odBpJz1lGD6FgTXpIqHyo6dmw?expires=1752529500&amp;signature=668a62bb964e7e97e88c4d0649da3654154d5eef1821dacda4fd55d52223d78c&amp;req=dSUmEs15noRWWvMW1HO4zQC2BN3O4bSjiUwB4hAVmfxKberIkj9W6%2BfHigC%2F%0AFgfU%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473593/1aa73090b58abd1ffe949f65ca85/AD_4nXff-MXVESKUy--En4Jthk1jm2VzD1klk5UyWK4GJ7YCS5oN1EuNVIe7DvTuYMfvmMZWhJ7mi_y9OSgX2ZZcU8Kzfh6WciGrAmb8uMdcUjaTW_y76odBpJz1lGD6FgTXpIqHyo6dmw?expires=1752633900&amp;signature=210e74f3114bf87411879d02a6f4b359880500d432e161dfd8d974938f91a8fc&amp;req=dSUmEs15noRWWvMW1HO4zQC2BN3N4L6viUwB4hAVmfy%2FS0qYrasjWVus43uf%0ANlT3%0A)
 </div>
 
 
@@ -1022,7 +1022,7 @@ operação que você quiser fazer.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473592/013dc1d4a1940ee17eb84ce572c1/AD_4nXc7w7fi6HaCbmKEjO8Jrt6fBC8w19pQlWVPiA573JeHseUPEMWBtYCIouO74-mWbbOx9E6YvoMd0HJNpagI5iwghe9dy5PRkQ7PjdYy854wYwcEmzV7uB1-gw2DJ7JeHU2EXzOxOQ?expires=1752529500&amp;signature=471d177afdc4557ebe15b33ca52cd77e5c3fe2eacc7091e7f9059e42d24e9011&amp;req=dSUmEs15noRWW%2FMW1HO4zUpnATmklHxmWbas%2BaUF3ZYNFL1Rv85BmrWQ3zZh%0AG2Go%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473592/013dc1d4a1940ee17eb84ce572c1/AD_4nXc7w7fi6HaCbmKEjO8Jrt6fBC8w19pQlWVPiA573JeHseUPEMWBtYCIouO74-mWbbOx9E6YvoMd0HJNpagI5iwghe9dy5PRkQ7PjdYy854wYwcEmzV7uB1-gw2DJ7JeHU2EXzOxOQ?expires=1752633900&amp;signature=0da88ca8d1b6aa721c021089e9e64e1a28116b149db82efa6b3e0ca27f931eb0&amp;req=dSUmEs15noRWW%2FMW1HO4zUpnATmnlXZqWbas%2BaUF3ZZjjxKEXn05AH1tHjGP%0A0XcQ%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
@@ -1057,7 +1057,7 @@ usá-lo, será necessário repetir o processo em produção.*
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473589/e2ec4a8d0a94ed3bdbcd9fe25185/AD_4nXcbBrYDXgRQWEPPqqFeybOMjH9OzY4doCKum9M6M6DaI5ZVGxZmgLW9y8rp-IRvvoNaaJIbniGrvpCgVZ_9JbL6L82kslAi1H-Lk0Ga1wMmWb0o2e7t9Kby4fdoSpDGGfSK5y1blg?expires=1752529500&amp;signature=f0f41c796ea281231dc25f9a6318f4887b37b2bd7044697327d3bafe45c49aaf&amp;req=dSUmEs15noRXUPMW1HO4zbJ5U6jrVl4kuwnXP9cPt%2FGQBfJ8GWBq5SW57qAf%0A7NGb%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473589/e2ec4a8d0a94ed3bdbcd9fe25185/AD_4nXcbBrYDXgRQWEPPqqFeybOMjH9OzY4doCKum9M6M6DaI5ZVGxZmgLW9y8rp-IRvvoNaaJIbniGrvpCgVZ_9JbL6L82kslAi1H-Lk0Ga1wMmWb0o2e7t9Kby4fdoSpDGGfSK5y1blg?expires=1752633900&amp;signature=9440fc921fe44a9dabda2c7a577f45ee6173df44b340de7cfe2f22746c0c668d&amp;req=dSUmEs15noRXUPMW1HO4zbJ5U6joV1QouwnXP9cPt%2FGxXR%2FzsjMcFmZdVaOK%0ARyB7%0A)
 </div>
 
 
@@ -1072,7 +1072,7 @@ certo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473591/f6b1f08d6e776486ce23f76d6ed6/AD_4nXc9m8EzSyHQEgY7V_ymSpETHehgCcibxfoKEM1btpnGe_tp3lZrP3dufDIej1k7RP1-ZpJMN7e_IB34_usjSrDq995cCEAbdKJXiSYhrALJJwDd3vnnEI-pU2wWfAR9uMiSrJW7?expires=1752529500&amp;signature=e58e5bf7c54b40c73406f560153a6ac6f21add4f483cb35588f317828e0e039b&amp;req=dSUmEs15noRWWPMW1HO4zTu0TS13gkIpGWXY943g%2FKIi2qQYDp6IS7%2B4M%2FdQ%0A%2BgFi%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1514473591/f6b1f08d6e776486ce23f76d6ed6/AD_4nXc9m8EzSyHQEgY7V_ymSpETHehgCcibxfoKEM1btpnGe_tp3lZrP3dufDIej1k7RP1-ZpJMN7e_IB34_usjSrDq995cCEAbdKJXiSYhrALJJwDd3vnnEI-pU2wWfAR9uMiSrJW7?expires=1752633900&amp;signature=c7478486d50dde16e8b9a3d4c568efa4267f4750216eb21e7b5eb8b29c6247cd&amp;req=dSUmEs15noRWWPMW1HO4zTu0TS10g0glGWXY943g%2FKLSw0qUj1Ufr%2Ffpwugv%0AcWgm%0A)
 </div>
 
 
@@ -1508,7 +1508,7 @@ ou seja, onde serão enviadas as notificações.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310330360/13a740db8cab44bea9fd50639a71/AD_4nXcj7lcRnZumNDsf4YSTJbCcM65n_gh8bAr80gwfSgrbYvqZTvBap5fv2nRMnvTu5mmwuAyUp1-wQJZUb4kTEyr5GzaAlTkGiopuWYDUMJpG-50jvjVtyx_5_SSfyru0sqGak1y5?expires=1752529500&amp;signature=b094cc47a044ebef91c167967c08cb25d13e2bfdda2a3d264f91f9582de68fad&amp;req=dSMmFsp9nYJZWfMW1HO4zVt3OsnI4LOXfIrMe8Uf4ymL%2Fnu35IyRqkkLVEw9%0AxXFi%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310330360/13a740db8cab44bea9fd50639a71/AD_4nXcj7lcRnZumNDsf4YSTJbCcM65n_gh8bAr80gwfSgrbYvqZTvBap5fv2nRMnvTu5mmwuAyUp1-wQJZUb4kTEyr5GzaAlTkGiopuWYDUMJpG-50jvjVtyx_5_SSfyru0sqGak1y5?expires=1752633900&amp;signature=8bdce7002cd7f4054c78f03b36702f6b99aab5a3d54af62995f974c93122813f&amp;req=dSMmFsp9nYJZWfMW1HO4zVt3OsnL4bmbfIrMe8Uf4ymkutKyzULlSdbCQDFH%0ArFOm%0A)
 </div>
 
 
@@ -1533,7 +1533,7 @@ da Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310330357/91d5c6a4b2bc7e29e509fd5c14eb/AD_4nXdut-JV_jvizLb0PcGBukfqa6HN-dZ8e0CXjk2NMCaLt9VP9OrNDlq86W1ZGgtebredcqh-uh0HxKpoASWIbedCqU6W9O8TraR5vKmsl7V8P_jObYTegj2fDer3w7lj_d6pvPUpjg?expires=1752529500&amp;signature=c3bb0b3f61d5b6bb661511e26ff831ba4d79765737f571b48032c609a37dfb7c&amp;req=dSMmFsp9nYJaXvMW1HO4zXU99dSaaT6fEnwV93mvyiKEAAXlnemoIk2At8uK%0AUH1o%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310330357/91d5c6a4b2bc7e29e509fd5c14eb/AD_4nXdut-JV_jvizLb0PcGBukfqa6HN-dZ8e0CXjk2NMCaLt9VP9OrNDlq86W1ZGgtebredcqh-uh0HxKpoASWIbedCqU6W9O8TraR5vKmsl7V8P_jObYTegj2fDer3w7lj_d6pvPUpjg?expires=1752633900&amp;signature=ecc7ab105fb5c46c30d570d5fc4b3435fbba3223ab8640e19e90c217f6ee6bf0&amp;req=dSMmFsp9nYJaXvMW1HO4zXU99dSZaDSTEnwV93mvyiK944JxnfCtNtVDP2ad%0AV7aK%0A)
 </div>
 
 
@@ -1553,7 +1553,7 @@ dispara os eventos das suas subcontas, ou apenas na conta principal.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310330358/ea047469ee3b7fda4106e0b53d06/AD_4nXfFN7_PMhWnS9pzJY1YNRf362rO8UYXiJY7V5zhQC_Iwu3ozM4O21ZOmQH9TAJf6VyBHCGTrnP5VRHvFX4BPTjtTW2N7BFbPjs-n5Q5r8u_Z572_nfipBl-3AJqEeiRcY7tpIHhLQ?expires=1752529500&amp;signature=4703cd2a503109f309d64688183fd5e715bbd841cbeb4890436a232032a6ef9d&amp;req=dSMmFsp9nYJaUfMW1HO4zUeGlGRGl3J6XlgcC%2FfG%2F31QoB%2BTI7G%2FG8Pj4HmD%0AyVoQ%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310330358/ea047469ee3b7fda4106e0b53d06/AD_4nXfFN7_PMhWnS9pzJY1YNRf362rO8UYXiJY7V5zhQC_Iwu3ozM4O21ZOmQH9TAJf6VyBHCGTrnP5VRHvFX4BPTjtTW2N7BFbPjs-n5Q5r8u_Z572_nfipBl-3AJqEeiRcY7tpIHhLQ?expires=1752633900&amp;signature=1040bb87f464ae45cb9115a30a21552fc87591e55d30e845f358c0725fe4c5ae&amp;req=dSMmFsp9nYJaUfMW1HO4zUeGlGRFlnh2XlgcC%2FfG%2F33F9WpiSM9ZijV6wC65%0AQBpD%0A)
 </div>
 
 
@@ -1568,7 +1568,7 @@ seguro, pois ela será apresentada apenas uma vez.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310330356/fa219942f1f27238da435dcd2abe/AD_4nXf0K1mW2edixxLFAphprkSxUOstHF-Q3tZ7CmYCvsFuDYS80BVuFPNHvAowTDvvq_wJl2qA-N6wj-36v9W4z8VJKYrBJTX314r5wt78EK3RGy3GaruQOX1sJBSfO_pLFyGcSbJT?expires=1752529500&amp;signature=2d871bdf6bb1ee8ddf8a5432f9d6cbd756e3b9a87df1dc3999b2d16e23dae928&amp;req=dSMmFsp9nYJaX%2FMW1HO4zXPuOjgG9LxpDL8epcmAWCnJHW0om4DPp2esRWb3%0AVe21%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310330356/fa219942f1f27238da435dcd2abe/AD_4nXf0K1mW2edixxLFAphprkSxUOstHF-Q3tZ7CmYCvsFuDYS80BVuFPNHvAowTDvvq_wJl2qA-N6wj-36v9W4z8VJKYrBJTX314r5wt78EK3RGy3GaruQOX1sJBSfO_pLFyGcSbJT?expires=1752633900&amp;signature=727af31a9be4f7cf9c00b49240fde16302ba5f5c2a04910cf72c9a1ec7cf2623&amp;req=dSMmFsp9nYJaX%2FMW1HO4zXPuOjgF9bZlDL8epcmAWClHR1UKkzLAR2fCWU44%0Ad%2F3m%0A)
 </div>
 
 
@@ -1659,7 +1659,7 @@ escolha todas as operações que quiser incluir no lote e clique no botão
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310319757/b2bb5d5cd5ecd24432ac21a68a5e/AD_4nXcEpQb9XPeqMG6ahe3GqP0KU484R4w2xo-4dI0Q8ELRyyoQ-7J8cCBxyd1DCogPvveQlNKQxHIwPaO0IAZoTg4KVylJ6RbScesoEPGMz4P5APxTDMawrTPgO_-Ys-_l3uPOQImGDA?expires=1752529500&amp;signature=59ce8e2a2eaf6d3b871a574ed140746bfaaac06b080d75777fdd462361036511&amp;req=dSMmFsp%2FlIZaXvMW1HO4zT7SALlleaqAtULz62%2B0zXEY%2BDzZWVKSetuRK9Y5%0ANXtv%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1310319757/b2bb5d5cd5ecd24432ac21a68a5e/AD_4nXcEpQb9XPeqMG6ahe3GqP0KU484R4w2xo-4dI0Q8ELRyyoQ-7J8cCBxyd1DCogPvveQlNKQxHIwPaO0IAZoTg4KVylJ6RbScesoEPGMz4P5APxTDMawrTPgO_-Ys-_l3uPOQImGDA?expires=1752633900&amp;signature=408a64497aec6dc6eea3eefde61e177018c8f410f56c4b945787cba5e3ee327c&amp;req=dSMmFsp%2FlIZaXvMW1HO4zT7SALlmeKCMtULz62%2B0zXHk5ZM4g5nZYLfPYDnr%0AcRX9%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
@@ -1743,7 +1743,7 @@ Inter.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1301357879/590b9fac4fd9096d09143866acae/image.png?expires=1752529500&amp;signature=4edbba898bbe03592b5b27277a394e2772434384011c4fb1d78eeb8baff55071&amp;req=dSMnF8p7molYUPMW1HO4zaeIjWS%2FQ%2FIKUvY888LoHah6QjWhWjOyOO0IQZQH%0AY1NS%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1301357879/590b9fac4fd9096d09143866acae/image.png?expires=1752633900&amp;signature=1d8d0bca98ca6e1233c7a0f342060520223c6a6682529b29173e3f90b98e9a53&amp;req=dSMnF8p7molYUPMW1HO4zaeIjWS8QvgGUvY888LoHaiH66GSOOuu7PD9qCb1%0Aq3wo%0A)
 </div>
 
 Em seguida, você vai precisar preencher as informações:
@@ -1771,7 +1771,7 @@ Confira um exemplo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1301838167/1dda907ce6d4dcfd38e1872d81c4/image.png?expires=1752529500&amp;signature=4445ed06c40240473f87a9323bb236279e0b49695fe3d5680da8c6198852f650&amp;req=dSMnF8F9lYBZXvMW1HO4zQU8er7e%2F0Xv%2BlCsuVUgiUD2hbE5Qn%2BGiivyHcPq%0AOhln%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1301838167/1dda907ce6d4dcfd38e1872d81c4/image.png?expires=1752633900&amp;signature=c3ced7c89c7c8889eafd2b7d36ed70700c096396236ef612874ff333bd1699d2&amp;req=dSMnF8F9lYBZXvMW1HO4zQU8er7d%2Fk%2Fj%2BlCsuVUgiUC3xAotlLwnr2Ylqc%2Fj%0A0Pxc%0A)
 </div>
 
 
@@ -1795,7 +1795,7 @@ a que deseja gerar a cobrança.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1301838163/e6ed56e55d772fceca8a40a13d76/image.png?expires=1752529500&amp;signature=d4e8096e560d292556e3392da97911ec31ace4a7067c7f2a21980754ce5018c7&amp;req=dSMnF8F9lYBZWvMW1HO4zXmVt2wb%2Bfs2nu0%2Bot1FdfgOtGxWOr6%2B9fVfyH9Z%0ApbCP%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1301838163/e6ed56e55d772fceca8a40a13d76/image.png?expires=1752633900&amp;signature=4351fe1da4fba78ce7c0a6b548d8acdec46827ee3365c002e3b4e835f11fcbd4&amp;req=dSMnF8F9lYBZWvMW1HO4zXmVt2wY%2BPE6nu0%2Bot1FdfgJzxkxFpU%2B4svn7Dll%0AvVfD%0A)
 </div>
 
 
@@ -1898,7 +1898,7 @@ correspondente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1293451850/6be68ba5f57f4bdaea0b470418e4/image.png?expires=1752529500&amp;signature=a2156fef10575a219b81bf21fb8b02a27e7fc758d9645c6f7b228fb64db9bf92&amp;req=dSIuFc17nIlaWfMW1HO4zd0qVCIEsxWBIBGYJPKtHt0%2B8nkO%2BXaGBmuTYorS%0AD7sT%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1293451850/6be68ba5f57f4bdaea0b470418e4/image.png?expires=1752633900&amp;signature=0e0efba2689b4bf2d83fa1f6b7a11f2a69e58447ae4cb50d31d0130f54f31a8e&amp;req=dSIuFc17nIlaWfMW1HO4zd0qVCIHsh%2BNIBGYJPKtHt2wmFf7wc4Yli8VflGx%0AmwET%0A)
 </div>
 
 
@@ -1922,7 +1922,7 @@ do arquivo de retorno.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1293451851/895f7d2c240eb4cd855f74b2b726/image.png?expires=1752529500&amp;signature=04779a0782a2b6e7ce6a919ee1eeea6bbb4a451f8786ec96d90162da511ba134&amp;req=dSIuFc17nIlaWPMW1HO4zYuEAsOvzLKpWoxAmxTLx%2FkbHGJ2ymhoR%2BucsyGq%0AszsU%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1293451851/895f7d2c240eb4cd855f74b2b726/image.png?expires=1752633900&amp;signature=63256a4c3a46b1087a00731055eca5e41d3e77c82f0c0e755fb4c611dc78fc7c&amp;req=dSIuFc17nIlaWPMW1HO4zYuEAsOszbilWoxAmxTLx%2FnadcT4wARKAUbaov1x%0At%2B%2BK%0A)
 </div>
 
 
@@ -2008,7 +2008,7 @@ específico.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240892697/ced85487ad56f7e938e9feb638d1/AD_4nXdHn4bwUIKiFwyvaAFCVsy3Htn-h6qYjWd1eL1ZdJu5Urpc_YmGOriB98DHqnPNpOMELzhOTPt9fjm2LPRaobIj_ot83SONFaH-OxVmV4NEvWnSiTlqML3gjdo1c33wbJwGRvoa-EeBx7VxNE-UW4GxxC12?expires=1752529500&amp;signature=c1d7af8dcf995d7309efb9f1db61ac42c1896e1be3970881f90038bf1adf3eb0&amp;req=dSIjFsF3n4dWXvMW1HO4zWxnFfXRkNNp2kSoREV3BqTEd%2Fqec2oEt88QWSTh%0AnWo%2B%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240892697/ced85487ad56f7e938e9feb638d1/AD_4nXdHn4bwUIKiFwyvaAFCVsy3Htn-h6qYjWd1eL1ZdJu5Urpc_YmGOriB98DHqnPNpOMELzhOTPt9fjm2LPRaobIj_ot83SONFaH-OxVmV4NEvWnSiTlqML3gjdo1c33wbJwGRvoa-EeBx7VxNE-UW4GxxC12?expires=1752633900&amp;signature=2c7f1540195a1615407e6e122ca8e3ed19e0e28a38bf1416996a9174289e6040&amp;req=dSIjFsF3n4dWXvMW1HO4zWxnFfXSkdll2kSoREV3BqQ%2FDqtTD91WsIvgja5U%0A44JZ%0A)
 </div>
 
 
@@ -2027,7 +2027,7 @@ informações de registro, essa aba é mais resumida do que a aba de
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240892695/2b4322cd86b7bc9587ce1e0ceb9b/AD_4nXeaX4lnyRLsKP4kWgMLZVNRuWm62PaRsW9_SZbl3W7Lrl44D9Hpp-gfkt6TLHfXV4p6choElw4A7D-uFg5R-v0iFdt4YbuZkEj5U-hcA6NlLgVJzVwrK97BFDXUbBVFQI-7PzNBpQ9oVzeQcemwfjO9Wjx3?expires=1752529500&amp;signature=1a09300345e2ad7dc4a1e07bcc8b3cff8e57bd0e6f669477fee971349b2ab04b&amp;req=dSIjFsF3n4dWXPMW1HO4zSq6vEQHTh0wdbG5LRx4H6ZBFFc2ZQ59Q%2BOMM9GH%0A2AIz%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240892695/2b4322cd86b7bc9587ce1e0ceb9b/AD_4nXeaX4lnyRLsKP4kWgMLZVNRuWm62PaRsW9_SZbl3W7Lrl44D9Hpp-gfkt6TLHfXV4p6choElw4A7D-uFg5R-v0iFdt4YbuZkEj5U-hcA6NlLgVJzVwrK97BFDXUbBVFQI-7PzNBpQ9oVzeQcemwfjO9Wjx3?expires=1752633900&amp;signature=059074d1388a807f79bc60c640c810464342b81dbf6e868c3e93c932ed20e178&amp;req=dSIjFsF3n4dWXPMW1HO4zSq6vEQETxc8dbG5LRx4H6Y62KEsknYj0A1IXbes%0AtETJ%0A)
 </div>
 
 
@@ -2084,7 +2084,7 @@ para receber as credenciais necessárias. Para isso, acesse
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850778/c8cb17c9bec1d66c6b3096a43905/AD_4nXfl5BrljgxZ704NTmqweF--PZO1tf9I2HTaVZgCJLRlkLRdg4i8LLdfwCcbAFiPpBqTCBEFyDxzrn8XIWylO-1ky8i1qZtoDSMBXokeeDF1IGGnIokNDh4dNExpwY2TbcBeWrewVm5J68gt-uH3vxKNYDBj?expires=1752529500&amp;signature=ef3b700f9f527394523ed44521ef91d5492232502e56ddb37888d26a4c08a727&amp;req=dSIjFsF7nYZYUfMW1HO4zXjV7rTpnPC01U7a5pJ3nql8tFhsw96r%2FPIinhhw%0AtQT%2F%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850778/c8cb17c9bec1d66c6b3096a43905/AD_4nXfl5BrljgxZ704NTmqweF--PZO1tf9I2HTaVZgCJLRlkLRdg4i8LLdfwCcbAFiPpBqTCBEFyDxzrn8XIWylO-1ky8i1qZtoDSMBXokeeDF1IGGnIokNDh4dNExpwY2TbcBeWrewVm5J68gt-uH3vxKNYDBj?expires=1752633900&amp;signature=088ffd96481ec03293f3be9a06a91174f2c31e28dd9b8cf1bf3193fad9911ec4&amp;req=dSIjFsF7nYZYUfMW1HO4zXjV7rTqnfq41U7a5pJ3nqlaDBs03e9BgWiOIYjx%0AxBXE%0A)
 </div>
 
 
@@ -2103,7 +2103,7 @@ passo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850773/aadfaafc07257e9ec30a01913ff3/AD_4nXf0UVlIK3y3Igi0MWTwYetViz3kGsyl6gAvBrFQbp2V8E9goPxFCeL78U3jOWW4f3B2sz9J9JwYaYda7N_h1irmTqu5oW1hyik4ECwfHlyPlogCrTf94tP-s60lsc4sao5hNDJEXo3FUNOEnAOIM3mJ9ZdM?expires=1752529500&amp;signature=c016e6b01ad02b70461e596924342ecf41bc5324e6718750e3c6df3c422f9947&amp;req=dSIjFsF7nYZYWvMW1HO4zflRdbZwotKw51T7zaiGHr4%2FvCoXAwFeT%2BI7sNVQ%0AYwQV%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850773/aadfaafc07257e9ec30a01913ff3/AD_4nXf0UVlIK3y3Igi0MWTwYetViz3kGsyl6gAvBrFQbp2V8E9goPxFCeL78U3jOWW4f3B2sz9J9JwYaYda7N_h1irmTqu5oW1hyik4ECwfHlyPlogCrTf94tP-s60lsc4sao5hNDJEXo3FUNOEnAOIM3mJ9ZdM?expires=1752633900&amp;signature=6645c9e6df5509137985e7a80ead91544b9e5d54288419033d884aee26624ae7&amp;req=dSIjFsF7nYZYWvMW1HO4zflRdbZzo9i851T7zaiGHr7dmJV3KhQTdppW3Ytw%0Adwqp%0A)
 </div>
 
 
@@ -2117,7 +2117,7 @@ solicitador e clique no botão para gerar a chave.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850776/e053fe234456d03d379b7acb05d3/AD_4nXdjszmL9iilhyP4c6NFYIjOZw_A6UQ7ZaDNEEs0jrqKSjQJbA-HB7LsPzhDhG-4UP4_RJjb2y6vOhBWx_rjcepT03Qe3DqJLYUaiUeCxiO-Jia0XtpJuWsVItRXKN66X77l_rKa1GsavKE04iBlMSgcysc?expires=1752529500&amp;signature=c83519744af0dbdc90cf262c71e62d1bcb755a2ce714f112fe5f970e9282fc5c&amp;req=dSIjFsF7nYZYX%2FMW1HO4zXIR%2FgFS0ITy18MsSceJUnH4RPwtEDN0%2BoSdpJy4%0AdleT%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850776/e053fe234456d03d379b7acb05d3/AD_4nXdjszmL9iilhyP4c6NFYIjOZw_A6UQ7ZaDNEEs0jrqKSjQJbA-HB7LsPzhDhG-4UP4_RJjb2y6vOhBWx_rjcepT03Qe3DqJLYUaiUeCxiO-Jia0XtpJuWsVItRXKN66X77l_rKa1GsavKE04iBlMSgcysc?expires=1752633900&amp;signature=f15da429d6633bd2b29b11e5a45f106676b748f7b6a77e7328266f8bd59a4719&amp;req=dSIjFsF7nYZYX%2FMW1HO4zXIR%2FgFR0Y7%2B18MsSceJUnEAgZa%2FtkHuO4t3opDp%0Axvn2%0A)
 </div>
 
 
@@ -2131,7 +2131,7 @@ download.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850775/c26fa933cbddcb5da0b2230e7231/AD_4nXdfu9fdtPYtwGs8cpjvKbxV0p266yg7fDroS4zQE5fvo5XU2ftXTDJohBYhdvehH4MRmuU38f9EAds1lcaS5KO9yYKOXTSizTykLrjGAPWfq_cuGHomOBFZP2dYLBfgauWGTcjM_mWqsRgQgtp_YHF_1aOX?expires=1752529500&amp;signature=16dc8383b837d5f02bc761ee60935f54f2daa2a71f5336aee3b69dc1adb090e6&amp;req=dSIjFsF7nYZYXPMW1HO4zf%2B4MWUIWGEEMEd7Pk9bKzqq1IBakOBxOYQIzHFw%0AxBKP%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850775/c26fa933cbddcb5da0b2230e7231/AD_4nXdfu9fdtPYtwGs8cpjvKbxV0p266yg7fDroS4zQE5fvo5XU2ftXTDJohBYhdvehH4MRmuU38f9EAds1lcaS5KO9yYKOXTSizTykLrjGAPWfq_cuGHomOBFZP2dYLBfgauWGTcjM_mWqsRgQgtp_YHF_1aOX?expires=1752633900&amp;signature=548e1c4ee8dd8e8c4a50386e75d1f715772784b848785bbd3e6c099f29f12660&amp;req=dSIjFsF7nYZYXPMW1HO4zf%2B4MWULWWsIMEd7Pk9bKzr5fiGDvCnzpjhbF8r%2F%0A6NZB%0A)
 </div>
 
 
@@ -2181,7 +2181,7 @@ informações que o seu gerente enviou.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850777/0c00a28d87195ae218d36acb6c85/AD_4nXcj5qRwo_bFVI9u93MV6kEY0-h7jion7tPELTiuag3NeRBUd4iZ64LQUwYRU_sx9jaASM3VyDZ08ZBii3J67clEtH--XxXaHqwHc-MbE3rlz4QI7seusuSVDIGn4s2HnxkV-OliRvoF_qsGuEx7yGAZrMA?expires=1752529500&amp;signature=70b6438b5aef3768687c38fe098cf95b4fb7170e653f81faa41b713f5222e6dc&amp;req=dSIjFsF7nYZYXvMW1HO4zXaVvCHXV6SOwNZ2x6Lc54nscGz3x2QdnaG3OeiO%0AmXrh%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850777/0c00a28d87195ae218d36acb6c85/AD_4nXcj5qRwo_bFVI9u93MV6kEY0-h7jion7tPELTiuag3NeRBUd4iZ64LQUwYRU_sx9jaASM3VyDZ08ZBii3J67clEtH--XxXaHqwHc-MbE3rlz4QI7seusuSVDIGn4s2HnxkV-OliRvoF_qsGuEx7yGAZrMA?expires=1752633900&amp;signature=b9381e606ef0030e2337b515f6d86bcc64325dbb8b793c0a406013cc66bbd3b4&amp;req=dSIjFsF7nYZYXvMW1HO4zXaVvCHUVq6CwNZ2x6Lc54mATuasGZhMNujXCC7i%0AWn%2Bl%0A)
 </div>
 
 
@@ -2205,7 +2205,7 @@ as credenciais.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850772/b593fd3986f47b4c6f9c1aea7db8/AD_4nXeBLQ_whFa7A1wUfbrQwNu6I83Z_oNL9U6YLq5ZKi9V2oqMRj2OtOi9kk7mBhvaS0Itrt65q2_39XBq6-9_HJ5AtPwHmTSzIM4CDClV71K2TQGGr3AdDDYuu8mRt_phphy_Ht0FKwYk_bXaYqcgp1VLn0A?expires=1752529500&amp;signature=2fa4158c7891b7e63bc271e05c551b522ab9850301aebbabfaa1dd914a7cefd2&amp;req=dSIjFsF7nYZYW%2FMW1HO4zYR14avR4U5CacoAsgKi%2BSXqo60Cx2XiqKGhu2J%2F%0A5Phg%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850772/b593fd3986f47b4c6f9c1aea7db8/AD_4nXeBLQ_whFa7A1wUfbrQwNu6I83Z_oNL9U6YLq5ZKi9V2oqMRj2OtOi9kk7mBhvaS0Itrt65q2_39XBq6-9_HJ5AtPwHmTSzIM4CDClV71K2TQGGr3AdDDYuu8mRt_phphy_Ht0FKwYk_bXaYqcgp1VLn0A?expires=1752633900&amp;signature=d0204280e4cc596d791fec264770d73c17a3b101a8270568172947effa2b484a&amp;req=dSIjFsF7nYZYW%2FMW1HO4zYR14avS4EROacoAsgKi%2BSXxUXhg0gmxpvPktDFU%0Acb%2Ft%0A)
 </div>
 
 
@@ -2218,7 +2218,7 @@ Nos campos das credenciais, preencha com o que foi enviado pelo banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850780/5e90ac9fc7ad5da3e29d0f929041/AD_4nXfzbmz3LDUPbHr5WLQ8jbe9f0LS1eESbdFsUrAXwr24Iix_GS7hYrveYBsUDP4wR8th80KKpzK15nRdZfAB9Yxc02vRFczt0DbK0Tjf2BSD7gM9roQcjSfPlD4MoxvoZ-VpQk9SsrraEUpiWYvUbrgrJLpy?expires=1752529500&amp;signature=a28861497ad391da691835e0f7d618f7ee32d3819640484b47277dd964bcc4ec&amp;req=dSIjFsF7nYZXWfMW1HO4zUNe47EldW39O4W1q%2BYCM0czAM7AxORw152ydNiW%0ARZLS%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850780/5e90ac9fc7ad5da3e29d0f929041/AD_4nXfzbmz3LDUPbHr5WLQ8jbe9f0LS1eESbdFsUrAXwr24Iix_GS7hYrveYBsUDP4wR8th80KKpzK15nRdZfAB9Yxc02vRFczt0DbK0Tjf2BSD7gM9roQcjSfPlD4MoxvoZ-VpQk9SsrraEUpiWYvUbrgrJLpy?expires=1752633900&amp;signature=0ae2fa03e785833236fc49c83d8557376cbc6d147947e3ac13b53e371455e446&amp;req=dSIjFsF7nYZXWfMW1HO4zUNe47EmdGfxO4W1q%2BYCM0dPVgmwnKFyksw%2BmYIp%0AQ%2FMi%0A)
 </div>
 
 
@@ -2279,7 +2279,7 @@ está funcionando como esperado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850771/a603ddf6f0ed7d0c4bede8dc21f2/AD_4nXdljbtB-u-Cg0c2wCjoYCAm8gozqRtm5pbsKsq29oAp-v6dsp4pKaaBV6nPCtu8ffNCNmiM3IYKvLJ1PYs4eaZFsLDWM80D0-KWSRwU7UNlS6SB6S-e5_P0UiSrfc5SGSVo6XDW27rVh3aPRELYyf3jPJFA?expires=1752529500&amp;signature=fa3422894fa3fcb29eb2ee9ddf00c7f4aabf3168e83f9afd5a621a48da0200c0&amp;req=dSIjFsF7nYZYWPMW1HO4zVigyqvJcuEDnqu9hNHOKCGte2wc%2BhdWGhZPeWGL%0AGJ7A%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1240850771/a603ddf6f0ed7d0c4bede8dc21f2/AD_4nXdljbtB-u-Cg0c2wCjoYCAm8gozqRtm5pbsKsq29oAp-v6dsp4pKaaBV6nPCtu8ffNCNmiM3IYKvLJ1PYs4eaZFsLDWM80D0-KWSRwU7UNlS6SB6S-e5_P0UiSrfc5SGSVo6XDW27rVh3aPRELYyf3jPJFA?expires=1752633900&amp;signature=6de1dc96059ea542bc1e30882e93b154fd7b18192a8043e1b450a6b45931319f&amp;req=dSIjFsF7nYZYWPMW1HO4zVigyqvKc%2BsPnqu9hNHOKCEEwig%2BVWHJNrHxAfUw%0AHtNX%0A)
 </div>
 
 
@@ -2343,7 +2343,7 @@ seguida no botão *Acesse com sua conta PJ.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751036/aba21cf9a30e865b707c86181086/UeviVAALszKwaLySalVUm52VjoYJFCffpwsOYTe4GREVYySxMDtx8xgslN10Y7URzEEYnFCVLD9WoqDlLHUTc8i7pR_4hGqJDjrHHMPcQg4OZFcNekZtG_VybqbnUkzNyOCRDsxE5iL7AAy0sutQf8Q?expires=1752529500&amp;signature=d2a8aa8e1eb371b8a87068ec349ec4267caf4e338d2eaf8b0aa8e1a972a08010&amp;req=dSIkFM57nIFcX%2FMW1HO4zbAEjp9kvcZr28ueyrZURDv9qVCw7rszI6RwD2C%2B%0AUdT1%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751036/aba21cf9a30e865b707c86181086/UeviVAALszKwaLySalVUm52VjoYJFCffpwsOYTe4GREVYySxMDtx8xgslN10Y7URzEEYnFCVLD9WoqDlLHUTc8i7pR_4hGqJDjrHHMPcQg4OZFcNekZtG_VybqbnUkzNyOCRDsxE5iL7AAy0sutQf8Q?expires=1752633900&amp;signature=372d290677093d33af41c3613f258607637f66235d0c1be16e415b1481956760&amp;req=dSIkFM57nIFcX%2FMW1HO4zbAEjp9nvMxn28ueyrZURDvkPWu%2FRLwLNCe%2FXSQs%0A4PsO%0A)
 </div>
 
 
@@ -2388,7 +2388,7 @@ direito está em **Produção**.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751032/59661f47f017591cb749f962872b/1t9ZnuLaPCUyMT0BV77AeYRGOX_t_4jAUSpTnEWOwMuyJQ_qaVjLnq1Rgrv_f_HCLkVKkGVWVlgnC4Wyyzx_Ys8BZfi793J9oQXV72oPlX2F4hyps6hB2LfovoCOcf2zgkC6N4spVMTDymJ8k7nO5BI?expires=1752529500&amp;signature=4a179b82a6182a8c371a1053a73beb7d5682001125f659345b98f10c14777481&amp;req=dSIkFM57nIFcW%2FMW1HO4zXw68o5DI8Y3uA85sI3o%2BvXZsDKKSTDh%2FNd%2FjSEh%0Aej4d%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751032/59661f47f017591cb749f962872b/1t9ZnuLaPCUyMT0BV77AeYRGOX_t_4jAUSpTnEWOwMuyJQ_qaVjLnq1Rgrv_f_HCLkVKkGVWVlgnC4Wyyzx_Ys8BZfi793J9oQXV72oPlX2F4hyps6hB2LfovoCOcf2zgkC6N4spVMTDymJ8k7nO5BI?expires=1752633900&amp;signature=9c4f99a0b81337e0e63a3b0c01235de3d3c4b26790e7737b639d4fb107237f9c&amp;req=dSIkFM57nIFcW%2FMW1HO4zXw68o5AIsw7uA85sI3o%2BvVlXC8TKlQuT%2FNmdBdh%0A1S1c%0A)
 </div>
 
 
@@ -2406,7 +2406,7 @@ e pagamentos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751044/21119bf8ba0bdd04d52296522508/IrGE1u5lJRGQNjFwG7YDG9m5v4elWOXPr7NqFPNcqW95f4k1INLHC9xO7tXqoadni-yY2fNmxyDuni9oJNCGxwVfKhVNYp1GFyBCKXRebWQ64l3QnLXGBn55XOF5zrSXW1g_tvs9TDk_oRgS-4_8VVI?expires=1752529500&amp;signature=5f9e95c4bf5d4c1266b84d9f9fa44b6dd680754150f1133f84e14af3a16d72c7&amp;req=dSIkFM57nIFbXfMW1HO4zZAwDM09D%2F02%2Bb5pbLQEWrbRu%2FqQ16be%2FcISUMfk%0AvQEs%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751044/21119bf8ba0bdd04d52296522508/IrGE1u5lJRGQNjFwG7YDG9m5v4elWOXPr7NqFPNcqW95f4k1INLHC9xO7tXqoadni-yY2fNmxyDuni9oJNCGxwVfKhVNYp1GFyBCKXRebWQ64l3QnLXGBn55XOF5zrSXW1g_tvs9TDk_oRgS-4_8VVI?expires=1752633900&amp;signature=4a4fff5b8a5c4ca66a759cb55e605b7f8cf55f68a0474c3f81189521c365358d&amp;req=dSIkFM57nIFbXfMW1HO4zZAwDM0%2BDvc6%2Bb5pbLQEWra5TTorY%2BdnjxzBXoFR%0AMu%2B5%0A)
 </div>
 
 
@@ -2425,7 +2425,7 @@ o bloco de notas, uma por vez.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751037/8561eb1bf1c555d0d68ffa11c248/5soKSsXQq2u-Bg2ntVbfcJeBLIbaLiJ3iG1OP__CkJ55Z_g_2WT9ZNL4wEye0keQ83Ex6kyrZThV4p71p-1tbJdJtVPytvQjMmxYfTrf4b1vFNMjpngh0ol7QjfCu41aQSo9ZdlKgSG1XM0_QuFu6OY?expires=1752529500&amp;signature=97bcb15c534d421a930ab811a06af460b10fb245fe4f2c29bd9ab0be4b80d14b&amp;req=dSIkFM57nIFcXvMW1HO4zSwE4u7FIZrjVUrwLg%2FM1BZr6cFfZUVHwA%2F5kjjJ%0A3q0y%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751037/8561eb1bf1c555d0d68ffa11c248/5soKSsXQq2u-Bg2ntVbfcJeBLIbaLiJ3iG1OP__CkJ55Z_g_2WT9ZNL4wEye0keQ83Ex6kyrZThV4p71p-1tbJdJtVPytvQjMmxYfTrf4b1vFNMjpngh0ol7QjfCu41aQSo9ZdlKgSG1XM0_QuFu6OY?expires=1752633900&amp;signature=22425540787ea1719aa2d40b38d3f15128458edf489433d16fe3ad2316e437ca&amp;req=dSIkFM57nIFcXvMW1HO4zSwE4u7GIJDvVUrwLg%2FM1BaiP92iRSU6c%2BEtNpoX%0ASNNX%0A)
 </div>
 
 
@@ -2452,7 +2452,7 @@ abaixo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751043/bbb5b77091a36b0213abf3d653bd/vEP6m7IaM6irQaYm4omCmdjtN2UdjlmcDVUqSi5SFfTqzK1vAX70HUBU4vsbieiQwNXi58dms0VMbrk2LmQInV8Au1tvTi7YPushspIqdS6Kb2t9lnNuQvYTinEO7jRrLopa1w5B-HY6ywV2s6vAlYo?expires=1752529500&amp;signature=474fb955dadc0c1466e211af0c679f25e19c620c6329bc1c3dd86bad8ea21128&amp;req=dSIkFM57nIFbWvMW1HO4zZIGc5Adu%2Fo7gaHbyFgkCJuXLdvqFwhTpFycUDJs%0AJdwi%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751043/bbb5b77091a36b0213abf3d653bd/vEP6m7IaM6irQaYm4omCmdjtN2UdjlmcDVUqSi5SFfTqzK1vAX70HUBU4vsbieiQwNXi58dms0VMbrk2LmQInV8Au1tvTi7YPushspIqdS6Kb2t9lnNuQvYTinEO7jRrLopa1w5B-HY6ywV2s6vAlYo?expires=1752633900&amp;signature=52b74b95be05373343b222807ba9820fb9aa3f41fdfa65452639368073772888&amp;req=dSIkFM57nIFbWvMW1HO4zZIGc5AeuvA3gaHbyFgkCJsMCM9GL%2Byi9XstKNGJ%0A%2B7Xd%0A)
 </div>
 
 
@@ -2466,7 +2466,7 @@ subir um novo certificado de acordo com as regras do banco:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751040/5ee87e90740bc5c86e6b756677ad/iD0bRskS6RrJSGgT4OhQZc0p1NZTTbFqflr-tUvnij6RJoPorM5N91aMTmIVz8a-sFc9nWw9qfBIHv390rPxuSU2ybcWMHJXBiIQGZlhKEBkPYGivmarPuyCAIjTjHGUQM2RC0-zrQFpW46kwxePO4U?expires=1752529500&amp;signature=e37dc66d433dfa45a89c445b9e50c991f35b9047914f17683221e8dc8065d9b1&amp;req=dSIkFM57nIFbWfMW1HO4zcspEtiM%2F1b2fpgcasZDEi%2FIfwbS7meOyFn%2Bn5vW%0ACrBq%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751040/5ee87e90740bc5c86e6b756677ad/iD0bRskS6RrJSGgT4OhQZc0p1NZTTbFqflr-tUvnij6RJoPorM5N91aMTmIVz8a-sFc9nWw9qfBIHv390rPxuSU2ybcWMHJXBiIQGZlhKEBkPYGivmarPuyCAIjTjHGUQM2RC0-zrQFpW46kwxePO4U?expires=1752633900&amp;signature=b615edbc0cec5c128f0af60d531ba78eab57efcf03db4ecf3755544d133617ce&amp;req=dSIkFM57nIFbWfMW1HO4zcspEtiP%2Flz6fpgcasZDEi%2FAGZClX7PsA87upDSx%0ACzJR%0A)
 </div>
 
 
@@ -2486,7 +2486,7 @@ processo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751033/e8e295093ecdc2c4500c4e63594f/d5TeEEEPPiRvcKgSWOnYPf99mJrZR5wTiunrAtVXURl10b9y8ecaXEHb8L9Nx53oQ0ZWv1RZMDHlPxGrPBwpOJ5fkh-1DmSX0PkvHlrsmBRJMdKYvk2JqncfM920F9TdGh7jpi9hPvH8RYs53mWASJQ?expires=1752529500&amp;signature=7b941da704a358364297cec6dedaca4eda737e67e92f1248d9419b1d65c03f92&amp;req=dSIkFM57nIFcWvMW1HO4zezaQFduDm4lKoCyoX1rmoO7yxaMug%2Bu81p9rW%2Bf%0AUh8q%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751033/e8e295093ecdc2c4500c4e63594f/d5TeEEEPPiRvcKgSWOnYPf99mJrZR5wTiunrAtVXURl10b9y8ecaXEHb8L9Nx53oQ0ZWv1RZMDHlPxGrPBwpOJ5fkh-1DmSX0PkvHlrsmBRJMdKYvk2JqncfM920F9TdGh7jpi9hPvH8RYs53mWASJQ?expires=1752633900&amp;signature=95df9afd01ba5f64855313cb52f3242d235fba7e6d32a6ab0e2ed298746e4fef&amp;req=dSIkFM57nIFcWvMW1HO4zezaQFdtD2QpKoCyoX1rmoPsIYwxMlHhswJRvXiE%0APG%2B6%0A)
 </div>
 
 
@@ -2510,7 +2510,7 @@ certificado que você conferiu no passo anterior.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751035/84f910abbcf314ee07e1ffb3f344/NhJ8CYDRFiGrvexzSQXge488q0B1f_wtetlsjiaBj75exWbVTASBBaPqNViTexroPtCyDet_RNrOSBckloD7GZIOUw1rOHdMVFcH4C-CsefQDBeJKydk1N6ujaX2VUTI66-FdABXR1sFrK-UpIMfJvc?expires=1752529500&amp;signature=d75ae0bdb79c4a1f97adf485a3625d5e07eef11f1cf7a5904fe15bcd040e4004&amp;req=dSIkFM57nIFcXPMW1HO4zUrTBFb7%2BTO9p%2BKONGOievwYthrhnA24X%2F5qnm60%0Ao18L%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751035/84f910abbcf314ee07e1ffb3f344/NhJ8CYDRFiGrvexzSQXge488q0B1f_wtetlsjiaBj75exWbVTASBBaPqNViTexroPtCyDet_RNrOSBckloD7GZIOUw1rOHdMVFcH4C-CsefQDBeJKydk1N6ujaX2VUTI66-FdABXR1sFrK-UpIMfJvc?expires=1752633900&amp;signature=d9ac8ad03021696d0e35be9c4e7435795427578354602987179f862a6f2a36ba&amp;req=dSIkFM57nIFcXPMW1HO4zUrTBFb4%2BDmxp%2BKONGOievy1OyjeLbzT6v9RdvIO%0ABaNE%0A)
 </div>
 
 
@@ -2527,7 +2527,7 @@ sistema possa conferir as credenciais.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751034/210f8ad5342390c07f19274d3686/B_RV3gUtDA6IW03kMtB1da9lm41ij6flCByXW9bsJDtxIjXrWX_bs8D7q4vg7QZSY7Z7eVH4VLnSFUggwbJTESgS8dYIlqqydOrn78kFz73TA-qizrTTTsSgYYe24M2cmRvmLfz-gRDBZpvhlo8_-kU?expires=1752529500&amp;signature=f9b62e79a390cf57c4be63cf049418b17be944bcb8bed9fda34e3662ce21f61e&amp;req=dSIkFM57nIFcXfMW1HO4zTBYlEaSDHvVp3B0ISFEX1mfe0Lu19MhwnYaZNSe%0A3Rak%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1232751034/210f8ad5342390c07f19274d3686/B_RV3gUtDA6IW03kMtB1da9lm41ij6flCByXW9bsJDtxIjXrWX_bs8D7q4vg7QZSY7Z7eVH4VLnSFUggwbJTESgS8dYIlqqydOrn78kFz73TA-qizrTTTsSgYYe24M2cmRvmLfz-gRDBZpvhlo8_-kU?expires=1752633900&amp;signature=a4f685f3ac26471f4edfab6a6a31cb7da8fec0b7f68cac28777e1c4c6cbc95c8&amp;req=dSIkFM57nIFcXfMW1HO4zTBYlEaRDXHZp3B0ISFEX1lBzewFofW9%2BN%2BTkZ3Z%0AWE13%0A)
 </div>
 
 
@@ -2599,7 +2599,7 @@ opção <i>Ativar </i>da carteira do Santander que quiser utilizar:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231778455/b32f394a10db537dd6e12d1d3924/MWGIIWwAPCNDFUm0VX5rPl1Uu3UiNIkv9rIYEfIM5elZLgA33-2fpWQ-DulFX_xFPFVVj6eMJgpCYoLqtnI94dNlrp97YvYcM7aUSKOUVil6fVNWd7Qg5T6v8nC4zBu2HK_K2hSIpdJcUy69hwDHpes?expires=1752529500&amp;signature=8f5a37faa7ff1b062814451a0cc7f2547ad87f64debc2c87d89320073f377dbd&amp;req=dSIkF855lYVaXPMW1HO4zcpDN4VTWyDPOw3u%2BloVqA1%2Bthauv4uAmSXq6ndg%0ABY3p%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231778455/b32f394a10db537dd6e12d1d3924/MWGIIWwAPCNDFUm0VX5rPl1Uu3UiNIkv9rIYEfIM5elZLgA33-2fpWQ-DulFX_xFPFVVj6eMJgpCYoLqtnI94dNlrp97YvYcM7aUSKOUVil6fVNWd7Qg5T6v8nC4zBu2HK_K2hSIpdJcUy69hwDHpes?expires=1752633900&amp;signature=9b1c6e8f3b0ef1e94842230807d6de59049945729a48a290b9d27142427218fc&amp;req=dSIkF855lYVaXPMW1HO4zcpDN4VQWirDOw3u%2BloVqA3WJYxriLXtesf4vZkB%0AAGy6%0A)
 </div>
 
 
@@ -2632,7 +2632,7 @@ Você pode acompanhar o status do boleto em *Recebimentos &gt; Boletos
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231778456/049327cf85e220551c20799e29e2/aK0QFMWITCj02TPhJlsGEXm1xu55LvTPPEHI_ccPmAAX8Fk9K4GDn-k38OofDPynVBVG8-BF_deeoXO386ymdf_HBoaus_VD3P5sG-bNvWWpTa_fZnVa-CwHyg4MsbrRYVcR8YiygFeZsVChxOe6kfo?expires=1752529500&amp;signature=1e21e505ba6ff962f687909eff15da2e949436eb206a6273262742b8934cf0fd&amp;req=dSIkF855lYVaX%2FMW1HO4zb1t5NYL5u5LgJenOYuPFVkrBZSf3yMZ13JxR7Cc%0Az0IJ%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231778456/049327cf85e220551c20799e29e2/aK0QFMWITCj02TPhJlsGEXm1xu55LvTPPEHI_ccPmAAX8Fk9K4GDn-k38OofDPynVBVG8-BF_deeoXO386ymdf_HBoaus_VD3P5sG-bNvWWpTa_fZnVa-CwHyg4MsbrRYVcR8YiygFeZsVChxOe6kfo?expires=1752633900&amp;signature=99e9947a6403ce0f21e25e25210f054d577d022b593c93d3aac80a1319aafe00&amp;req=dSIkF855lYVaX%2FMW1HO4zb1t5NYI5%2BRHgJenOYuPFVnKiAnyVaGDufj35LDx%0AW4P%2B%0A)
 </div>
 
 
@@ -2693,7 +2693,7 @@ conexão com o banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1182961983/41eb7a2b61f4c2de277c4286/bG8wHQjfIO9Xpaz35YumhkcoemyQnnEx9McgT92cpz1SO-4g6Ab3WgccPJ76zSpfqPSasiu91BFhsrz3x1SW_dnFQgxMWZ0L2Scqc-8D9kzsjngObC5fTtm0pTgPfMjn5rGsYAGdCy_JdmIJv-KxPDE?expires=1752529500&amp;signature=0bb7d908fbfa360aa7a00c7a5497d8ab9fbefa5e3c4cf733e4e03adf75ed3548&amp;req=dSEvFMB4nIhXWvMW1HO4zb8sw8Qv%2FnttHe54Bs2WrTEeida0uWUIb3ig3Tse%0A5FNk%0A)
+![](https://downloads.intercomcdn.com/i/o/1182961983/41eb7a2b61f4c2de277c4286/bG8wHQjfIO9Xpaz35YumhkcoemyQnnEx9McgT92cpz1SO-4g6Ab3WgccPJ76zSpfqPSasiu91BFhsrz3x1SW_dnFQgxMWZ0L2Scqc-8D9kzsjngObC5fTtm0pTgPfMjn5rGsYAGdCy_JdmIJv-KxPDE?expires=1752633900&amp;signature=09ec4b6719873522dc1fbfab67ad0dcda5dddbc5d1c44b876c426703bdc5b24d&amp;req=dSEvFMB4nIhXWvMW1HO4zb8sw8Qs%2F3FhHe54Bs2WrTE6DwyN%2BZ54wyEIeewC%0AAnUD%0A)
 </div>
 
 
@@ -2711,7 +2711,7 @@ em *Recebimentos &gt; Boletos &gt; Gerenciar*:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1182961984/29f11840f822b7390c23efed/SCxAeMCSlpNr-1nClpDP3xspwVCoDZvhlfg5VE8g4VsGyY5-yMIzBiMhiiPs2jpvumI6PW1FbQwTJZFg0gSVO2y1OOL7Q7BxL1R6Sz-h_JaXk9WT6RYhrMrkhBCo25-K7CTS4arPm2F5nRPvypIhZeQ?expires=1752529500&amp;signature=32ba784f3e37101669cafa55da9cdf6cd690b237295c9c18d69b7e45b42d640a&amp;req=dSEvFMB4nIhXXfMW1HO4zW7ix8ZMhgReQB9TvQQMqVy9UNPYnOjf4Lkv0sIX%0A1Bc8%0A)
+![](https://downloads.intercomcdn.com/i/o/1182961984/29f11840f822b7390c23efed/SCxAeMCSlpNr-1nClpDP3xspwVCoDZvhlfg5VE8g4VsGyY5-yMIzBiMhiiPs2jpvumI6PW1FbQwTJZFg0gSVO2y1OOL7Q7BxL1R6Sz-h_JaXk9WT6RYhrMrkhBCo25-K7CTS4arPm2F5nRPvypIhZeQ?expires=1752633900&amp;signature=4cedbc1d238c5c299d804254b1903c22ecac28daf3a0d2b4817fd19c4020f72b&amp;req=dSEvFMB4nIhXXfMW1HO4zW7ix8ZPhw5SQB9TvQQMqVxN4L92grXQ8%2Br2tIM5%0AN0Eg%0A)
 </div>
 
 
@@ -2775,7 +2775,7 @@ quiser utilizar:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175259116/b825b39d3a59f7c026099062/AD_4nXdHSMAMwSSjIRflXP7_8zzUqKSbLaYYzgkI0HESbgq1eXFNhdLmyg1_cQ7IQP7c0GFC-28JkDduyBGn5sgIrWW8LZG05ax_GHjx5zDb07q_aEhubXuoLPbETfRVtRHKWXKrVRlRrjULvdNBnFrpt5eInUor?expires=1752529500&amp;signature=bc5616e167393aabeb1a6547ae506eaeb242b9789a13a0b1906ab07b33b7f028&amp;req=dSEgE8t7lIBeX%2FMW1HO4zWznzv6clXYd%2BZnbiXv199jI9wWPHttjG1f4j7k0%0AOnc1%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175259116/b825b39d3a59f7c026099062/AD_4nXdHSMAMwSSjIRflXP7_8zzUqKSbLaYYzgkI0HESbgq1eXFNhdLmyg1_cQ7IQP7c0GFC-28JkDduyBGn5sgIrWW8LZG05ax_GHjx5zDb07q_aEhubXuoLPbETfRVtRHKWXKrVRlRrjULvdNBnFrpt5eInUor?expires=1752633900&amp;signature=babe1cd8739d389614c8e48869a0725cb90fc58148333b7ceac0bc0ffb5dbdde&amp;req=dSEgE8t7lIBeX%2FMW1HO4zWznzv6flHwR%2BZnbiXv199ifMT80EefhQqfutECA%0A6OqR%0A)
 </div>
 
 
@@ -2793,7 +2793,7 @@ em *Recebimentos &gt; Boletos &gt; Gerenciar*:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175259155/007c0742db9e1f621b4dd9c0/AD_4nXcr2hfAEEQkQ5GrxkLDwFfjYSeLY_5wjKDYDO1KLlai5uWWVBBnGJEjmR2pQbVHxEodrVn8ezmlpot-nait4zbNfWG1nOr95h4SUL5Xlo6vSgBCajbO6OUv1LnjEv0EJWvy_nrYmaz5OG7V8m6raUNFfGPl?expires=1752529500&amp;signature=e5c4e07d7296ccdd64d1a7172ea5b73a73ab0e959c95ac5e4d693a41d323e8e7&amp;req=dSEgE8t7lIBaXPMW1HO4zSm74K5gq5T3Q1TNhuBiLlFu169NUE1cJVJve%2Fxh%0AO6TR%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175259155/007c0742db9e1f621b4dd9c0/AD_4nXcr2hfAEEQkQ5GrxkLDwFfjYSeLY_5wjKDYDO1KLlai5uWWVBBnGJEjmR2pQbVHxEodrVn8ezmlpot-nait4zbNfWG1nOr95h4SUL5Xlo6vSgBCajbO6OUv1LnjEv0EJWvy_nrYmaz5OG7V8m6raUNFfGPl?expires=1752633900&amp;signature=5298b96bfbca07ba08f1da9e36a51004ab65452faeacfb175508b87bb3b368ac&amp;req=dSEgE8t7lIBaXPMW1HO4zSm74K5jqp77Q1TNhuBiLlGWQNGG6rkFnA1DV01M%0AEBKq%0A)
 </div>
 
 
@@ -2862,7 +2862,7 @@ Com os dados em mãos, acesse a plataforma da Kobana, clique em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175250561/128ff50537df6151414059dc/AD_4nXcqGiBWeOHh09pxqza35WxHtw7vLvCgUPZpA5PStplMdQ1YETeAWQHU998xNXA1xEiBiEtCiwQPPW_vnoITNHvBHkJejj9Eda3KIttsoBeCUjQ-efhQLhOoeb-xFxLA9zvcVL1UIwoJSqpFVOHx_-cznLU?expires=1752529500&amp;signature=41a9cc650f10e5938d2d0cfe592a89060273052a7383662fab821d61fc7b3624&amp;req=dSEgE8t7nYRZWPMW1HO4zcUXQM4aHAjhpTMK%2FSHysbMM4VtBwO%2F6zv6MTu4a%0ATTnt%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175250561/128ff50537df6151414059dc/AD_4nXcqGiBWeOHh09pxqza35WxHtw7vLvCgUPZpA5PStplMdQ1YETeAWQHU998xNXA1xEiBiEtCiwQPPW_vnoITNHvBHkJejj9Eda3KIttsoBeCUjQ-efhQLhOoeb-xFxLA9zvcVL1UIwoJSqpFVOHx_-cznLU?expires=1752633900&amp;signature=fcbe1d63dcded0be8a84bf53db446c6c46d9b57153c511eaf408b435fdca5a38&amp;req=dSEgE8t7nYRZWPMW1HO4zcUXQM4ZHQLtpTMK%2FSHysbMX2OKMMYSwGTvhpauW%0AXcxn%0A)
 </div>
 
 
@@ -2879,7 +2879,7 @@ sistema, com os dados que mencionamos acima.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175250573/8fbd91aabd3d83f67e695a80/AD_4nXeENCZaPq0cNx-aYVa5QEeTkX8mCtloX7J-WYr9TU1z_gEcUzC0lA5S-euTM5_ragK_veS604TCoT6rTDVLU8mkAJthOSusP9QuenZerR9eYMQVwKck_34zHkcy8a3XwvjcB13r95TtNOH0EFwy3sop7JO1?expires=1752529500&amp;signature=af394695b59e78d11f187f1536024fa7621a397624655902df7c88177b83ac75&amp;req=dSEgE8t7nYRYWvMW1HO4zW%2Bqv%2F7EO18DR8JZb3%2BpUTYis4cQCNVuUSM2ahuo%0AOsLV%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175250573/8fbd91aabd3d83f67e695a80/AD_4nXeENCZaPq0cNx-aYVa5QEeTkX8mCtloX7J-WYr9TU1z_gEcUzC0lA5S-euTM5_ragK_veS604TCoT6rTDVLU8mkAJthOSusP9QuenZerR9eYMQVwKck_34zHkcy8a3XwvjcB13r95TtNOH0EFwy3sop7JO1?expires=1752633900&amp;signature=d7dd5ee0c6a07877b7af95df750481b5d39fd68e64e29b5ac280ac3686c59976&amp;req=dSEgE8t7nYRYWvMW1HO4zW%2Bqv%2F7HOlUPR8JZb3%2BpUTYyiXEoMxI3KqTV1gLP%0AvE0R%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
@@ -2898,7 +2898,7 @@ conexão foi configurada corretamente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175250589/ee396f25d23de2a6af922ce6/AD_4nXeiQWnwJij_Hfny8lpBmeFIKgTUYNP2Oh4PwDXuCRvowRgDUQ3JDYek69mzknfpCEpZwNrosNNiwIa7n91hLvFU_id85K0ygzViLdK3q8pV8tyUShaKTEKRzZhTZ--IAoMmVA_YccCo4_jWE7moskf32_9Q?expires=1752529500&amp;signature=4f46bc64c60cc5e3a6dc19f3beb754b03fd0d8fe39e8baa93ec5f83ff8690314&amp;req=dSEgE8t7nYRXUPMW1HO4zR6pCNmDDRuiVXwSDDfSe9RtDzVnOei14XoHKQKC%0AQlxM%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175250589/ee396f25d23de2a6af922ce6/AD_4nXeiQWnwJij_Hfny8lpBmeFIKgTUYNP2Oh4PwDXuCRvowRgDUQ3JDYek69mzknfpCEpZwNrosNNiwIa7n91hLvFU_id85K0ygzViLdK3q8pV8tyUShaKTEKRzZhTZ--IAoMmVA_YccCo4_jWE7moskf32_9Q?expires=1752633900&amp;signature=90d9f53dc0b31f94fb63bc38d7b4e898742310d69bfc7f7d1758232d70b5ab4a&amp;req=dSEgE8t7nYRXUPMW1HO4zR6pCNmADBGuVXwSDDfSe9QVLqBouZUWyMvwY9RI%0AL00D%0A)
 </div>
 
 
@@ -2958,7 +2958,7 @@ usar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175240407/5d4f4439fd56d7c83ab3dd5f/AD_4nXcj3vDxG3UKY9Jbc0hsewEThRaUiFX6lVGLcXjkwNlnUCpQmJuEqNB3clOl-E4pVLbiO4sRHXJFME8Y9TCwoPdHKi4fkXOnuiDpYfeX5dnKSAYNsTYIKWN0bL7x0THN7FTOU79KR3K5-5AGrKHJY9FadEJ-?expires=1752529500&amp;signature=6d7d5a096672924d5a46d773107e76713f736e63fe9c1867f0ac1beafda242e6&amp;req=dSEgE8t6nYVfXvMW1HO4zSWZRZtu8mbUIdUNbzeKaA4%2BB2GPa0jRm0OzHIbz%0AmKj4%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175240407/5d4f4439fd56d7c83ab3dd5f/AD_4nXcj3vDxG3UKY9Jbc0hsewEThRaUiFX6lVGLcXjkwNlnUCpQmJuEqNB3clOl-E4pVLbiO4sRHXJFME8Y9TCwoPdHKi4fkXOnuiDpYfeX5dnKSAYNsTYIKWN0bL7x0THN7FTOU79KR3K5-5AGrKHJY9FadEJ-?expires=1752633900&amp;signature=41eb61c1752d35b5b2251e0c8bbbf7775ec03eeea54141abb8539be7437f1874&amp;req=dSEgE8t6nYVfXvMW1HO4zSWZRZtt82zYIdUNbzeKaA6XzIAV5mLxDNZs0UDm%0AZ8u4%0A)
 </div>
 
 
@@ -2973,7 +2973,7 @@ permissão para esse tipo de operação.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175240415/d0db3eeb6de6bf127f0292f8/AD_4nXfze6tNkETlaV8Lc1zGBLzJhE8123OIQbrm4aPoSBL6IfEH9wwbTM9_tXpXbe9vJqCsqYOtIyznvxT73q1_HzE_aSB8pMNNzlTsafDA5F8PlxuYSVepQXBKJLRvERxeRKRi42xPjqjYMjFoA_bjy_bbXIya?expires=1752529500&amp;signature=c0abb120f47d07bf73265cdfc0712bf640a68df108046ac4ea89dd5bfe6e4429&amp;req=dSEgE8t6nYVeXPMW1HO4zYTynmccixPWaf1hojQYcW8T1JBIUXLoHuK0meGW%0A3b1V%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175240415/d0db3eeb6de6bf127f0292f8/AD_4nXfze6tNkETlaV8Lc1zGBLzJhE8123OIQbrm4aPoSBL6IfEH9wwbTM9_tXpXbe9vJqCsqYOtIyznvxT73q1_HzE_aSB8pMNNzlTsafDA5F8PlxuYSVepQXBKJLRvERxeRKRi42xPjqjYMjFoA_bjy_bbXIya?expires=1752633900&amp;signature=d830b20afe6f701203d300c1744ecbc78b50a1ff1872e78f26cc78a2c77d73a6&amp;req=dSEgE8t6nYVeXPMW1HO4zYTynmcfihnaaf1hojQYcW%2FjvgL87lU8f56j5X53%0A0tFq%0A)
 </div>
 
 
@@ -3002,7 +3002,7 @@ nosso suporte.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175240428/9472b1cde6e6e50e8046cd6a/AD_4nXfsnXMWEhv0cw1r-wb8u_lFqvt_4a5eCXhzN8lnQeUflMFCbabfJrfv1j4qdcavH-VFIrwZwyYjThhfmQh6mENHOOWHEXGx3HdNvd4AiEF9-j83phEMl9UTjpVmwxUZ1mz0PxSb5cIEnBar_L__DUr4u29_?expires=1752529500&amp;signature=03cde8021c3ba8036b8f7027e1da727d5f8b046c2316c0e8937f1c483d843272&amp;req=dSEgE8t6nYVdUfMW1HO4zddjll9nrUrk6lr0oiFWBzF0wMlvlHKVYkxBsDkq%0AsqFQ%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175240428/9472b1cde6e6e50e8046cd6a/AD_4nXfsnXMWEhv0cw1r-wb8u_lFqvt_4a5eCXhzN8lnQeUflMFCbabfJrfv1j4qdcavH-VFIrwZwyYjThhfmQh6mENHOOWHEXGx3HdNvd4AiEF9-j83phEMl9UTjpVmwxUZ1mz0PxSb5cIEnBar_L__DUr4u29_?expires=1752633900&amp;signature=b74cee9295b7ba01eb0fcac25f8e4a1c3750326fa679ce4cceac47f26f3d4bd0&amp;req=dSEgE8t6nYVdUfMW1HO4zddjll9krEDo6lr0oiFWBzE4q%2B6mfzT%2FQ52g43Rg%0A%2Bwh5%0A)
 </div>
 
 
@@ -3021,7 +3021,7 @@ artigo sobre como fazer [transferências][3]{: target="_blank"
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175240439/9acc16e768f0035b6d7dbe45/AD_4nXco0wiMZ-Nq-w7opLXa06Ysp17JMb-2PvxkFzDuE75qRDEKpYnCL7tYnRwkgsVrvOqh_2N_qq4i9VsiiZ-ahNEHBM89J8jQ4rP0irv3UicfpQMWJFUumH_dbypMMjwb3kdUDUv1vy4PcODfOsy69zzXx76S?expires=1752529500&amp;signature=909254a35a779cc5943cf6c62b8e44cec4f93fe6072e36e54ee275a073d61a76&amp;req=dSEgE8t6nYVcUPMW1HO4zbe9Of%2B4zMJkuF8WJPL0Fy%2BHy3NFpoNIcvOyErOp%0Aysc%2F%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175240439/9acc16e768f0035b6d7dbe45/AD_4nXco0wiMZ-Nq-w7opLXa06Ysp17JMb-2PvxkFzDuE75qRDEKpYnCL7tYnRwkgsVrvOqh_2N_qq4i9VsiiZ-ahNEHBM89J8jQ4rP0irv3UicfpQMWJFUumH_dbypMMjwb3kdUDUv1vy4PcODfOsy69zzXx76S?expires=1752633900&amp;signature=184892212a2d3bcc5a590833fa193c30d241ca5a5bec95cc70b4fd242e598a1a&amp;req=dSEgE8t6nYVcUPMW1HO4zbe9Of%2B7zchouF8WJPL0Fy98e67BVTBXVGDO5iLY%0AHFoy%0A)
 </div>
 
 
@@ -3083,7 +3083,7 @@ Para criá-la, acesse a sua conta da Kobana e clique em *Administração
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209097/3ecfc592cab63d7377272e87/AD_4nXfmgHuCTaBid6vkAMoyWLrG1HyK2tH0y4FizmjGZv37Ncf_W4l20xHUZvqpEubrAEN93lN-l7JGfS_8zeyI5wfChJ6F3zuHhbaO9UQbli2CNFU3Go08mQIkpFOcmY56_yKIZUrUkcFCw1PkOM4S-rYesumy?expires=1752529500&amp;signature=78cf5fb0cd154528b418ffb4560e930b44e15e641f5b431d49c71cee493fda05&amp;req=dSEgE8t%2BlIFWXvMW1HO4zcseZGfTlgZ4fufiaauAkfk4Q2bAI1ZTE20%2FANdl%0AP1Cz%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209097/3ecfc592cab63d7377272e87/AD_4nXfmgHuCTaBid6vkAMoyWLrG1HyK2tH0y4FizmjGZv37Ncf_W4l20xHUZvqpEubrAEN93lN-l7JGfS_8zeyI5wfChJ6F3zuHhbaO9UQbli2CNFU3Go08mQIkpFOcmY56_yKIZUrUkcFCw1PkOM4S-rYesumy?expires=1752633900&amp;signature=b1f56d7a6041c176fcf3dd0b26cb43b90f3f28b12c993948e06fcd436ed1f6f8&amp;req=dSEgE8t%2BlIFWXvMW1HO4zcseZGfQlwx0fufiaauAkfmicNK5mdle0LOJoh21%0AUNvh%0A)
 </div>
 
 
@@ -3097,7 +3097,7 @@ opção da QI Tech como origem de solicitação.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209112/7d993a8e7685415128e5b9df/AD_4nXdoUniEpW76yEi8GOXt4_u53y8qBLTfTbGO7fmx3cm95kvGjHeeCpVQJDqj2zu0hxll1hpgFQYCNuprFZqiDLOupRzULY5GIj_4qivETWWA_pgm4jBfVBWDUSMsEUO0l3JmH_Qp5WqrtVQD0IFh1hSJXUx1?expires=1752529500&amp;signature=285b50f4b54aeca55cc70cb7f34342825c0b0002fa85fffc7badd176fd46a9d5&amp;req=dSEgE8t%2BlIBeW%2FMW1HO4zePr1tbwmkhJFh3tE6Um9qHgp0JBo7ycdw8ZxySl%0AdPu1%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209112/7d993a8e7685415128e5b9df/AD_4nXdoUniEpW76yEi8GOXt4_u53y8qBLTfTbGO7fmx3cm95kvGjHeeCpVQJDqj2zu0hxll1hpgFQYCNuprFZqiDLOupRzULY5GIj_4qivETWWA_pgm4jBfVBWDUSMsEUO0l3JmH_Qp5WqrtVQD0IFh1hSJXUx1?expires=1752633900&amp;signature=299034dcb5068336d0dd4c4a639ba7fc84d7775b95b94d6d0090fe4bfbc55e2c&amp;req=dSEgE8t%2BlIBeW%2FMW1HO4zePr1tbzm0JFFh3tE6Um9qHcCLL0U2MzgQhLAjDT%0A7BY4%0A)
 </div>
 
 
@@ -3111,7 +3111,7 @@ que contém a informação.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209120/709a4b3a66a838aa856d1273/AD_4nXePYRizLcOyAlR38FLkYGC6ZDx57W5G-TfdkVYz-Rfp2BTocH-iU1Y_PoSP67f9X0Wqi5Gc7rggbtg4eidJUbaUpYMS3lB5c75H6qxRQRcgs1zqrKDJI5UyPdkVFkOWoMVM59UqmOj2DABAfO6fAXmlsRhK?expires=1752529500&amp;signature=d7d640c6064a684988ecfc5eaaac37ceccdef64676f3e91fd507722f003d7ff1&amp;req=dSEgE8t%2BlIBdWfMW1HO4zc36Bcq8z1n9m%2F2znpBcPgx7GOxZVHvXa%2F72M%2BRf%0AoRyi%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209120/709a4b3a66a838aa856d1273/AD_4nXePYRizLcOyAlR38FLkYGC6ZDx57W5G-TfdkVYz-Rfp2BTocH-iU1Y_PoSP67f9X0Wqi5Gc7rggbtg4eidJUbaUpYMS3lB5c75H6qxRQRcgs1zqrKDJI5UyPdkVFkOWoMVM59UqmOj2DABAfO6fAXmlsRhK?expires=1752633900&amp;signature=1477be3870b6e4817acf4f4e58b01e4d80dab1229ef2a65d937446d180f2c359&amp;req=dSEgE8t%2BlIBdWfMW1HO4zc36Bcq%2FzlPxm%2F2znpBcPgysPdF1aMJ%2BIb%2F%2FsdZw%0AKMDm%0A)
 </div>
 
 
@@ -3125,7 +3125,7 @@ formato é este:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209133/0423b6456c0aeb1aad8fdf98/AD_4nXdBC1wE2CL4A9w9xRBcSlysboJS_nD8jnTbJIpMGt85VnUteaK22PlMk4ZL6W2z4-ad3WkHKEIbZbLY9C_NqTjCuAisHup1dy57lkvSqd2Z1ffr8bMosa_AlUgPz84vTPMlVFJXZ__FTFdm9p1gg6gPK7O1?expires=1752529500&amp;signature=11d81de1380545d7f7b6d3334db904b075665ea3a2d496155e74fc6fb7271e98&amp;req=dSEgE8t%2BlIBcWvMW1HO4zYW%2FQ5GacbUserGv3pbJaDx%2BGpsU73l7FL4XJOfB%0ANkPp%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209133/0423b6456c0aeb1aad8fdf98/AD_4nXdBC1wE2CL4A9w9xRBcSlysboJS_nD8jnTbJIpMGt85VnUteaK22PlMk4ZL6W2z4-ad3WkHKEIbZbLY9C_NqTjCuAisHup1dy57lkvSqd2Z1ffr8bMosa_AlUgPz84vTPMlVFJXZ__FTFdm9p1gg6gPK7O1?expires=1752633900&amp;signature=f50684e2c88e5fd88f3249db24ff339d5f9c25c344e24dfb272db242e5819caf&amp;req=dSEgE8t%2BlIBcWvMW1HO4zYW%2FQ5GZcL8gerGv3pbJaDySYg14C%2BeUWbSp2rjt%0Aq%2FBi%0A)
 </div>
 
 
@@ -3148,7 +3148,7 @@ cliente*”:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209153/a214fb5156dbf60178a3cf66/AD_4nXc2culQ3M9d_gqxq3rGadK21f0zwz4oPhfCrAHTVtTJiEpVWCdbCl2Wdofvg99FQF8BeTY6AAKIRTWZJxZBiNnshc1u9TvB3o6-0MXcuEHZVEF5dudMi2wSMIfyOaW_BSPs6mgfajf3UMZyffeCGZ_LkX0?expires=1752529500&amp;signature=d93a2ecda6cf5268a6fc9f413830fab8f4e3a49cc15a7012ae2b57bd8dad7e10&amp;req=dSEgE8t%2BlIBaWvMW1HO4zd4%2BDQPf9llw%2FbxeUlWADrM0cwXSEAOWJKHTsL5p%0A1uP7%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209153/a214fb5156dbf60178a3cf66/AD_4nXc2culQ3M9d_gqxq3rGadK21f0zwz4oPhfCrAHTVtTJiEpVWCdbCl2Wdofvg99FQF8BeTY6AAKIRTWZJxZBiNnshc1u9TvB3o6-0MXcuEHZVEF5dudMi2wSMIfyOaW_BSPs6mgfajf3UMZyffeCGZ_LkX0?expires=1752633900&amp;signature=d3687bd57de69d85d76c189326bd474142f5fa71b2826ca3c87785e91bb484a7&amp;req=dSEgE8t%2BlIBaWvMW1HO4zd4%2BDQPc91N8%2FbxeUlWADrP1ub0%2BsTZIekyzO4Lr%0A%2F%2BDO%0A)
 </div>
 
 
@@ -3164,7 +3164,7 @@ da imagem abaixo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209168/89d9b93b33fd96eac3d925a6/AD_4nXe6vPG8d66KdlPGlqcWK4EDv3gvOM0Unki4gS284CbW0dfbLg2hS1tbr7Pb4GxAdSJYyxJonUd4F_0WdiOjYS4i9p4cc7jc2UheU1W-IDB53CnOTbvvy5jC8_sZR-Uh3PHhO8OuYmtraJszrb0HqtolVRJv?expires=1752529500&amp;signature=35cba4504792e9fde49a3819867fba17739897afef0e7992cf44d2889a451c97&amp;req=dSEgE8t%2BlIBZUfMW1HO4zfViGTYdYd1BaOImJ%2FLJZ9j9CeqmKGc%2Bwp%2FOrQky%0AvbDP%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209168/89d9b93b33fd96eac3d925a6/AD_4nXe6vPG8d66KdlPGlqcWK4EDv3gvOM0Unki4gS284CbW0dfbLg2hS1tbr7Pb4GxAdSJYyxJonUd4F_0WdiOjYS4i9p4cc7jc2UheU1W-IDB53CnOTbvvy5jC8_sZR-Uh3PHhO8OuYmtraJszrb0HqtolVRJv?expires=1752633900&amp;signature=d60dc745f4205f55d7478fb3e468e2b917bbbcbf584dfa5f15ddb047c4073e82&amp;req=dSEgE8t%2BlIBZUfMW1HO4zfViGTYeYNdNaOImJ%2FLJZ9iN4Rn9DL16EmvzQzeW%0A7uyV%0A)
 </div>
 
 
@@ -3182,7 +3182,7 @@ QI Tech.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209183/d4f268331db857b253cc6c3b/AD_4nXeqGyhfns-yZlBmpSPWQFMBNE_wxg7_yWM-y4mMhDPrBEIA0kHGb-tKJ6hk_yaCrPrlsy_eyZ6p-lbyoTnm3Vu5LomCEUPYzv6POJ2wVwjKEgQbhByMxiOC9j7e7pnermmVpVFonBUSU0JslHVqjVO10WP3?expires=1752529500&amp;signature=c84538d3e764b320c9668a6d28a72679775727be896fc54e4b7323ef8032f43c&amp;req=dSEgE8t%2BlIBXWvMW1HO4zaRNibbN3chZhhuvI8rhc4XWvn1bXleNP7js72zL%0AMqUP%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209183/d4f268331db857b253cc6c3b/AD_4nXeqGyhfns-yZlBmpSPWQFMBNE_wxg7_yWM-y4mMhDPrBEIA0kHGb-tKJ6hk_yaCrPrlsy_eyZ6p-lbyoTnm3Vu5LomCEUPYzv6POJ2wVwjKEgQbhByMxiOC9j7e7pnermmVpVFonBUSU0JslHVqjVO10WP3?expires=1752633900&amp;signature=ef519045b71641e5f3764f1ee0ac2f25cc897584828ddd60e0218d5b90c62743&amp;req=dSEgE8t%2BlIBXWvMW1HO4zaRNibbO3MJVhhuvI8rhc4XVuZ9WRi7PdnkRukLA%0AOygx%0A)
 </div>
 
 
@@ -3211,7 +3211,7 @@ futuramente, não será preciso criar uma nova conexão.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209199/ed0ee2042745b916154b28c0/AD_4nXcqNZfByL4vNPh7qJDfdBPGo9rmjJ11h6kAQPfvWqxvXRlUs7PHv-HpJVjLdnBUN0ibvyPJLEKF3HNv22lpKItLgGo5xh4rCzQpHIyC1KJGuEqoBSl3SfssipZBAM2kv6GrgghNDNtFQAhmEniL-uiCMHq3?expires=1752529500&amp;signature=b5788b8b776312413257d0a26a6018bf25047681669049f2a400a34cddf9eeb0&amp;req=dSEgE8t%2BlIBWUPMW1HO4zRmFAr63jGQVUto%2FGKjdOu%2BOsBdhT2%2BuG3BdxtQB%0A7ABP%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209199/ed0ee2042745b916154b28c0/AD_4nXcqNZfByL4vNPh7qJDfdBPGo9rmjJ11h6kAQPfvWqxvXRlUs7PHv-HpJVjLdnBUN0ibvyPJLEKF3HNv22lpKItLgGo5xh4rCzQpHIyC1KJGuEqoBSl3SfssipZBAM2kv6GrgghNDNtFQAhmEniL-uiCMHq3?expires=1752633900&amp;signature=0b4c0fff603d7885af499b35d0fa2b86043c42de9d5b0304e84bc91464970e00&amp;req=dSEgE8t%2BlIBWUPMW1HO4zRmFAr60jW4ZUto%2FGKjdOu%2F7ZohVZy3OUTqsTxf5%0Amax9%0A)
 </div>
 
 
@@ -3224,7 +3224,7 @@ Para finalizar, você também precisa inserir as chaves que criamos acima.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209211/73d3d0daf3ade7746d536db4/AD_4nXe4kmWja5MQsUIAyjOJGJ-pcrlEaxiyYGrxRphCx9F_9nzDYwOJut3RTBIxYBSycsWWCUthdrBrllAXy64VaWgj1yvSTvFT1TpJlxnnLbzcyC3cK9ZCgqwUi-9iocxCbZBOh1at1Ijbdl-WAaBxk6R6SHS0?expires=1752529500&amp;signature=0d7d09ec1b2210426c4a10d5d727eff9ddc9257ae7cd54c746e75750ebedb09f&amp;req=dSEgE8t%2BlINeWPMW1HO4zUI0qNGWuTXaSyNJ6M5QOaN6qUyqvhvPR21brnEU%0AXCmh%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209211/73d3d0daf3ade7746d536db4/AD_4nXe4kmWja5MQsUIAyjOJGJ-pcrlEaxiyYGrxRphCx9F_9nzDYwOJut3RTBIxYBSycsWWCUthdrBrllAXy64VaWgj1yvSTvFT1TpJlxnnLbzcyC3cK9ZCgqwUi-9iocxCbZBOh1at1Ijbdl-WAaBxk6R6SHS0?expires=1752633900&amp;signature=ce72c8e4cce3ccb79218759c903d208afec8aca9ecd34eaa60bf355fee9f93f4&amp;req=dSEgE8t%2BlINeWPMW1HO4zUI0qNGVuD%2FWSyNJ6M5QOaPMmNg9Lc5AUlajRnts%0Amn8L%0A)
 </div>
 
 
@@ -3238,7 +3238,7 @@ funcionamento ideal da integração.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1175209222/4b8ef38449dc6f38d69e68be/AD_4nXc2vLvgCtL1W2oJj_iXjSVlaCxiRZ7YSNbVvWYkGjgccnsU9zzHVpMbOT16Z6DSnvEZJ_jn09FFpfsDYoQ7Oeii9lJnckd_xiAnQGZXlhwf4jkGtvnBUFm0wLx2aKztmXdj5qKJLfh0UPe-1qLm53-eXk1d?expires=1752529500&amp;signature=08548eb081ef90eeb71d477cb91086ffef88277c018c9bb9a7139283eca5138a&amp;req=dSEgE8t%2BlINdW%2FMW1HO4zXY7swVZAm9NW%2F2qhx67OA1QBfkwPB80ohFZ5JXk%0Adxr0%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1175209222/4b8ef38449dc6f38d69e68be/AD_4nXc2vLvgCtL1W2oJj_iXjSVlaCxiRZ7YSNbVvWYkGjgccnsU9zzHVpMbOT16Z6DSnvEZJ_jn09FFpfsDYoQ7Oeii9lJnckd_xiAnQGZXlhwf4jkGtvnBUFm0wLx2aKztmXdj5qKJLfh0UPe-1qLm53-eXk1d?expires=1752633900&amp;signature=7a450b32da04e94936c966794e794e8f51fd3f329ac0887d3da825d16d310ec0&amp;req=dSEgE8t%2BlINdW%2FMW1HO4zXY7swVaA2VBW%2F2qhx67OA15eSJrORq7KGi1lfBc%0ARJPa%0A)
 </div>
 
 
@@ -3314,7 +3314,7 @@ precisa criar a sua conta no <b>Portal Developers do Banco do Brasil,
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179393/c3279de6e25f48de69b300a9/image.png?expires=1752529500&amp;signature=1a4d79cef3de4533d72d41d2c88019faa3f0811e158e37589a4c23f7e03d9b13&amp;req=fSMhF853nohcFb4f3HP0gHVQNsO8Z0vLSIFNZTnSQ400ZU7NzNAy0UXSp5hE%0ATbE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179393/c3279de6e25f48de69b300a9/image.png?expires=1752633900&amp;signature=0ce64aee8dabfc9f6d8a3009c7152e02447d1f8fc7e0802e93a2b7a3d4d6b9bb&amp;req=fSMhF853nohcFb4f3HP0gHVQNsC9bUfLSIFNZTnSQ412DtCABQBTOfzdNYA2%0A0Mw%3D%0A)
 </div>
 
 
@@ -3339,7 +3339,7 @@ direito. Clique no sino.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179402/b07ba878d9baf435c5dd20c4/image.png?expires=1752529500&amp;signature=5cbbbf39495572ac98537078329cac13c3d39606431a9c539e71c286940ebce5&amp;req=fSMhF853mYFdFb4f3HP0gD7fMe2FYa2I8%2FoInFn0PN%2BkDxfnu%2Fvlo86hqmH%2B%0ARLQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179402/b07ba878d9baf435c5dd20c4/image.png?expires=1752633900&amp;signature=26cf9953b4e2244d61fb27ef1c1d32507c8c4300937fdef984e65165d3f81acb&amp;req=fSMhF853mYFdFb4f3HP0gD7fMe6Ea6GI8%2FoInFn0PN%2BDQssDMxlQKdnEF%2FIl%0A2fA%3D%0A)
 </div>
 
 A pendência que deve aparecer é a de assinatura dos termos de utilização
@@ -3375,7 +3375,7 @@ Aplicação* e, então, deverá preencher:
   {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179415/070f9dd8b1d2137d53b6e999/image.png?expires=1752529500&amp;signature=39512507a489447983352ddfae0e5a1440564136d6b70edba5ba6bf5e888c5b9&amp;req=fSMhF853mYBaFb4f3HP0gMpfwJ5Sq17TTOtJ9RvxfppGTLBTLqYgGE2DOEAs%0ADfI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179415/070f9dd8b1d2137d53b6e999/image.png?expires=1752633900&amp;signature=0d8c1978612f62cfdd145b01084d57b1f6eba549714fd343b3deb096eb76c03c&amp;req=fSMhF853mYBaFb4f3HP0gMpfwJ1ToVLTTOtJ9RvxfpqQ9%2FEkbZ3dIq2EP6WI%0ADp4%3D%0A)
 </div>
 
 
@@ -3405,7 +3405,7 @@ lateral esquerda para enviar seu app para produção.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179425/42800701fb0cdb61c0c32cb3/image.png?expires=1752529500&amp;signature=df05c81c7c8eb1ebaf5f68e397499061bfcee53a99292082ef4fd97e11d758a0&amp;req=fSMhF853mYNaFb4f3HP0gM8AE6R3aoozcetznhebY49nxMnShwJILR0yxbUn%0AiKM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179425/42800701fb0cdb61c0c32cb3/image.png?expires=1752633900&amp;signature=60eeeb01d43e8b0b1d2382606f77425241f3ed022970750908eb800e63ea7abb&amp;req=fSMhF853mYNaFb4f3HP0gM8AE6d2YIYzcetznhebY49P0tRU1%2B46N7M1JjEo%0AZsA%3D%0A)
 </div>
 
 
@@ -3420,7 +3420,7 @@ selecionada. Confira se a informação está correta e clique em *Próximo*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179432/04a2f7c5a88bb868c2c04658/image.png?expires=1752529500&amp;signature=dc4cb97218fbe89d32aad7669cc97a974702a7590a311b975c0c75ddea21a7ea&amp;req=fSMhF853mYJdFb4f3HP0gDEyGgIH08Lz1Nnd6dt496FmXa0MDJBoe4FTA2Xj%0AKOU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179432/04a2f7c5a88bb868c2c04658/image.png?expires=1752633900&amp;signature=0513c7623a83fc05ac039bccfebafcd7728db64b53b53d8f72453bb9fb54bfea&amp;req=fSMhF853mYJdFb4f3HP0gDEyGgEG2c7z1Nnd6dt496E%2F4H347g0QBcX4b2p3%0A8m0%3D%0A)
 </div>
 
 
@@ -3456,7 +3456,7 @@ você perdê-las, será necessário criá-las novamente. </i>
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179438/fae9075ce5878a66e452f8c5/image.png?expires=1752529500&amp;signature=c94951bb5626c98b5f7cdf6d85d3326e0e3e04a27d6edd5aec3a10e01c9e28d8&amp;req=fSMhF853mYJXFb4f3HP0gBTanXqi6VdJ4cXlFFVQvKsLPbiy99inIWyyCr1a%0AF7s%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179438/fae9075ce5878a66e452f8c5/image.png?expires=1752633900&amp;signature=d50e30333de02bee5c3694bdf70071ab7836fc56d1de1ce533f6029ba63f4cf7&amp;req=fSMhF853mYJXFb4f3HP0gBTanXmj41tJ4cXlFFVQvKvUXNwu1MWHxOTlq1L0%0AeHQ%3D%0A)
 </div>
 
 
@@ -3482,7 +3482,7 @@ Nova* e selecione o Banco do Brasil.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1167588978/19ef569ef084c4aba30cd5f6/image.png?expires=1752529500&amp;signature=b53087ddfbc84cc5cd6b6139bb40b36766b2f555c07116751bc3711d50636822&amp;req=dSEhEcx2lYhYUfMW1HO4zV8MYCbO9aVvYNNTrarghs6JkoMI2ORfX5pZTmVJ%0A4Q9C%0A)
+![](https://downloads.intercomcdn.com/i/o/1167588978/19ef569ef084c4aba30cd5f6/image.png?expires=1752633900&amp;signature=42e4c687d4fe66884e52e5ecbf1c21e5ea54c846d8b9836a99922d6d7c23269a&amp;req=dSEhEcx2lYhYUfMW1HO4zV8MYCbN9K9jYNNTrarghs7p7hT65awoykDfQArx%0A6HUm%0A)
 </div>
 
 
@@ -3507,7 +3507,7 @@ refazer o processo em produção.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1167595964/bfe352a5162c3c394b734495/image.png?expires=1752529500&amp;signature=81757e5aadaf6cd4469b19bd692c14bc8ee7457483ea41d9092d690f46de676d&amp;req=dSEhEcx3mIhZXfMW1HO4zRKljNY71%2BGqmtS8%2FpQP3Q9OTbSH7H4VkQEtVjx2%0AWUqt%0A)
+![](https://downloads.intercomcdn.com/i/o/1167595964/bfe352a5162c3c394b734495/image.png?expires=1752633900&amp;signature=6f049fd59198e6192e0e3fee28b139e29c6f5ddcedf4ff939603d8db8e9d57ea&amp;req=dSEhEcx3mIhZXfMW1HO4zRKljNY41uummtS8%2FpQP3Q%2BRAmBXyfe6b0gDxzt8%0A7Dou%0A)
 </div>
 
 
@@ -3523,7 +3523,7 @@ certificado, escolha o mesmo que você usa no Banco do Brasil. Clique em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1167643153/ab09cb68c7845e424a700921/image.png?expires=1752529500&amp;signature=fc1480993d535a61e830a65f15f40649c1ed19bb1e9f20189c0f077edca229d8&amp;req=dSEhEc96noBaWvMW1HO4zcF%2BLaktcw05CnLuxyVKxZIs67wbHGqNEs9kCxzR%0A2h86%0A)
+![](https://downloads.intercomcdn.com/i/o/1167643153/ab09cb68c7845e424a700921/image.png?expires=1752633900&amp;signature=a4f16ddd7cd394708aeb84e19375de7840b53e9a7d4b01f4d3f027d66d8f7b53&amp;req=dSEhEc96noBaWvMW1HO4zcF%2BLakucgc1CnLuxyVKxZI0HNXVcxEN6GP3GD50%0AXO%2FZ%0A)
 </div>
 
 Para finalizar, na próxima tela, clique no botão <i>Validar conexão
@@ -3534,7 +3534,7 @@ Para finalizar, na próxima tela, clique no botão <i>Validar conexão
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1167646970/dfc561c6320f2c153cbb8680/image.png?expires=1752529500&amp;signature=54411d7e1fa295292e206afa986c5750974daae38fda4b19bd466c47676f051a&amp;req=dSEhEc96m4hYWfMW1HO4zTi%2BGjGe2Zx5Z0xw1W57mTlI5WQiwEHEm2qPFFjT%0A4a5d%0A)
+![](https://downloads.intercomcdn.com/i/o/1167646970/dfc561c6320f2c153cbb8680/image.png?expires=1752633900&amp;signature=fc27cd3555ed083606a353d5eb917fff58952344df06078c715d55da47e550ab&amp;req=dSEhEc96m4hYWfMW1HO4zTi%2BGjGd2JZ1Z0xw1W57mTlNJt7ISzhMcmh6zfb8%0AEs%2FQ%0A)
 </div>
 
 
@@ -3690,7 +3690,7 @@ Acesse o menu *Meus Aplicativos* e *Nova Aplicação*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126332/6dda96cf9dc303f35afc6176/AD_4nXcP9jhWikL2-Z50kDBVdg4bYUnYGqpdy_7AGg_hSnA9LwuG7_634yOMNYR0AuwDpfBihXkcEiC4vCU_g_blGjhskadlOV5F4WnfaHy96tUxfyaPqAtAxlLwi8aGQQ2rju_qOOFIHVNvq42SGmliAo7QtX0Q?expires=1752529500&amp;signature=3bd16a21e60e2a2a69a676bcf2c1e2c15b80f5b3d3ed2147498e5b185774ea30&amp;req=dSEiF8h8m4JcW%2FMW1HO4zTlxPj8Qb%2F4vop9XHxoJB8vVupiWCjNBtSDIHgE1%0AwMJB%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126332/6dda96cf9dc303f35afc6176/AD_4nXcP9jhWikL2-Z50kDBVdg4bYUnYGqpdy_7AGg_hSnA9LwuG7_634yOMNYR0AuwDpfBihXkcEiC4vCU_g_blGjhskadlOV5F4WnfaHy96tUxfyaPqAtAxlLwi8aGQQ2rju_qOOFIHVNvq42SGmliAo7QtX0Q?expires=1752633900&amp;signature=50a67f3f07bcb858a542aecff3fb761331478134b87e2921e8a3dfe77ea358ea&amp;req=dSEiF8h8m4JcW%2FMW1HO4zTlxPj8TbvQjop9XHxoJB8tMOqVnUfl%2FxhDhi31i%0Ac7h8%0A)
 </div>
 
 
@@ -3704,7 +3704,7 @@ login do Sicoobnet.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126346/f55fceddee5687aef78bbcfc/AD_4nXd1LBXj5GvxesY5QWJaJ0BlDxtt7Qzccx09rsAWyQqN1RwkFVGIivnj3QREhA4dOfj9lxNhdrhXaRb46q6Pz5kDqI9_g50So3MG-4GT0UcZJi47Af2schugGK8io7b3ljncZIy8zm9nyDPYYc5FoKd06B7j?expires=1752529500&amp;signature=a1d9fb44d2ce55006a73b0e3e615c7aa39df1a8be392b991ff7a20fb860d8fa3&amp;req=dSEiF8h8m4JbX%2FMW1HO4zXd4FGxurf7c8Fsoeo6MUInAfgeEP2O80SEg0yOH%0A9YLm%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126346/f55fceddee5687aef78bbcfc/AD_4nXd1LBXj5GvxesY5QWJaJ0BlDxtt7Qzccx09rsAWyQqN1RwkFVGIivnj3QREhA4dOfj9lxNhdrhXaRb46q6Pz5kDqI9_g50So3MG-4GT0UcZJi47Af2schugGK8io7b3ljncZIy8zm9nyDPYYc5FoKd06B7j?expires=1752633900&amp;signature=1ef3d82e49a674f4cac3b1583be8fc0d509ef7e2f058b8249949d2106b8cbeb3&amp;req=dSEiF8h8m4JbX%2FMW1HO4zXd4FGxtrPTQ8Fsoeo6MUIl9dGBOUP8d81XxRIrt%0ATDCh%0A)
 </div>
 
 
@@ -3717,7 +3717,7 @@ Autorize a autenticação da conta clicando em *Aprovar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126356/64f48fbccc99b987c1f6528a/AD_4nXcChJnfLeHcZrRggdgm6TBL2-iT4HLvY6GasKpFCdKNkf37gyBxdq-IwIJudllbtfqmAOU2NRwwB36CXdjn2Btwe9DlDC2dHpizfX5jOKqika7R95Czcpto6iqHrkRCyeCI7z1xTFXh7qplQfsU7MAQhegA?expires=1752529500&amp;signature=d90bac599a0fbfc0b4be2dff8728648ed9078f89c061b69cf9d712ae821d3256&amp;req=dSEiF8h8m4JaX%2FMW1HO4zRT7DXExhSXYkc8IPS5X2ogAGsEyRjYeQHqQTTUw%0Az%2BEh%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126356/64f48fbccc99b987c1f6528a/AD_4nXcChJnfLeHcZrRggdgm6TBL2-iT4HLvY6GasKpFCdKNkf37gyBxdq-IwIJudllbtfqmAOU2NRwwB36CXdjn2Btwe9DlDC2dHpizfX5jOKqika7R95Czcpto6iqHrkRCyeCI7z1xTFXh7qplQfsU7MAQhegA?expires=1752633900&amp;signature=1e4b6701abd107548441d58ece36f7b9ee5b0b7c04cf1e08fae9e579af8ab6e7&amp;req=dSEiF8h8m4JaX%2FMW1HO4zRT7DXEyhC%2FUkc8IPS5X2ojyVTvk55yTdVmA7BSv%0A4nBv%0A)
 </div>
 
 
@@ -3733,7 +3733,7 @@ Kobana).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126364/320fd5acb43260abd7715683/AD_4nXcMl-xXZOwKoZDTE-toMq_eyMc0eUtg_c_W8nt9pMO_te6PrCDOiGH_6v2OydbahhTRht0I5SsOTHp8NIlVX2VOOP4QR2rIwg4CBMhxszzyoZv6zHI1FRAWnXdEfOoSIgpM9wBVHaySqxwMi4eCcfnSHWNR?expires=1752529500&amp;signature=77131a964b0b75aeb18d7441855da7683e0c0a3e4d4e48b8cd72f3ad6a2e41d3&amp;req=dSEiF8h8m4JZXfMW1HO4zWZn7aJnjNp0%2BnHHZD2P63hgC4MMSHX00FYkp5JB%0A1cza%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126364/320fd5acb43260abd7715683/AD_4nXcMl-xXZOwKoZDTE-toMq_eyMc0eUtg_c_W8nt9pMO_te6PrCDOiGH_6v2OydbahhTRht0I5SsOTHp8NIlVX2VOOP4QR2rIwg4CBMhxszzyoZv6zHI1FRAWnXdEfOoSIgpM9wBVHaySqxwMi4eCcfnSHWNR?expires=1752633900&amp;signature=ec4ba1c40d83f1e47895a8209f2037cb1a9d67171dc729e97d4fa6f253ff1261&amp;req=dSEiF8h8m4JZXfMW1HO4zWZn7aJkjdB4%2BnHHZD2P63gOy%2Fxp8998i0%2BpV4bN%0Azwiu%0A)
 </div>
 
 
@@ -3752,7 +3752,7 @@ cadastrada na Kobana.</i>
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126374/84e528a537952cd527530694/AD_4nXcKbvFuiuLG8H87DOWtorkXP3qODJTgGNyg_uSRMZuEnHcEB0w2Kdvzdt-60lPvjtjtKTQc7MNr2dLU0hJP72YIW5G0HPkiguwF8eC3HO1AbaGyUwZNbuKzVRiHM5u2p7_5B6x04gGYU86dOElYJlH3xcMH?expires=1752529500&amp;signature=7a1abae77cadb73cb075bd701c5b59fe3bcda919159d5e3933271fd8735a9b2e&amp;req=dSEiF8h8m4JYXfMW1HO4zTEgxytBcLyVuIeiin0x5gLPE89ywHZsTdLoeOBX%0AsvaJ%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126374/84e528a537952cd527530694/AD_4nXcKbvFuiuLG8H87DOWtorkXP3qODJTgGNyg_uSRMZuEnHcEB0w2Kdvzdt-60lPvjtjtKTQc7MNr2dLU0hJP72YIW5G0HPkiguwF8eC3HO1AbaGyUwZNbuKzVRiHM5u2p7_5B6x04gGYU86dOElYJlH3xcMH?expires=1752633900&amp;signature=c46d7c5f3b747e349fdd3dc768287692a62d05ef58e2bfaa36e448c7379e9354&amp;req=dSEiF8h8m4JYXfMW1HO4zTEgxytCcbaZuIeiin0x5gI%2Fa%2FWJKdTm%2FOQsnpcQ%0AjSDN%0A)
 </div>
 
 
@@ -3767,7 +3767,7 @@ para o seu CNPJ.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126385/68361b8fce7a64b1f34f3295/AD_4nXdJU9Uc6lDZM2See_6tXO9ujDxKvXeLgBBOfDwzx33aG-76Fx5oZQ1Yl14cvNqpBmcfkqdhG1EvAoZrtqeLhzLM1BHEWRFJXGKByaXd7HBW7aGSC6_JshD29KC2kZwOsqrKM3ikMkAMu_x_g2W4EdMiq31y?expires=1752529500&amp;signature=fca804295fbeb5c51833c5150bf10da1bdcd9121173afd895043708bc4956a1f&amp;req=dSEiF8h8m4JXXPMW1HO4zTBsc30jZtcAvBiUmEyssAUiB4SRJK5Wf6iloQxb%0At96s%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126385/68361b8fce7a64b1f34f3295/AD_4nXdJU9Uc6lDZM2See_6tXO9ujDxKvXeLgBBOfDwzx33aG-76Fx5oZQ1Yl14cvNqpBmcfkqdhG1EvAoZrtqeLhzLM1BHEWRFJXGKByaXd7HBW7aGSC6_JshD29KC2kZwOsqrKM3ikMkAMu_x_g2W4EdMiq31y?expires=1752633900&amp;signature=82c65c317e958a5041c595f6e09c4dc16157fc84b2cd1ac521764d0c6d582696&amp;req=dSEiF8h8m4JXXPMW1HO4zTBsc30gZ90MvBiUmEyssAU0TuoPfj4P06iXX9m8%0A0p6b%0A)
 </div>
 
 
@@ -3786,7 +3786,7 @@ ambiente de Produção.</i>
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126394/236dd0784e02e543c8e21061/AD_4nXdoUfoYpJUxoIw7D6z9jhYOroiTU-Hx5gApLQld10JSbvKNAqnjPOwnpdsF15TH-0_MnGKaGSlxyA8-66Wr3I2vWzw-H0_QDyV-N5rA9DwGZlYOexmn0qZdMc6tdF6Chu2EQnYJbtOF1Zr4G_4zemkGg7cU?expires=1752529500&amp;signature=a9ea074b618e6d1a6593e20795e5b9da44607cf2c25b3d3e6b4632d33c34a202&amp;req=dSEiF8h8m4JWXfMW1HO4zQuj445r7Yw9llsJvpaCqJlmgBpAlLv3KMiW%2BFav%0AoCpT%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126394/236dd0784e02e543c8e21061/AD_4nXdoUfoYpJUxoIw7D6z9jhYOroiTU-Hx5gApLQld10JSbvKNAqnjPOwnpdsF15TH-0_MnGKaGSlxyA8-66Wr3I2vWzw-H0_QDyV-N5rA9DwGZlYOexmn0qZdMc6tdF6Chu2EQnYJbtOF1Zr4G_4zemkGg7cU?expires=1752633900&amp;signature=9936aa4e1ba39fa9b0542331ff8266a430c939fec87dc89c96277dd464aebe20&amp;req=dSEiF8h8m4JWXfMW1HO4zQuj445o7IYxllsJvpaCqJnSIJ82eEECt4%2B%2F2DEG%0AufIe%0A)
 </div>
 
 
@@ -3813,7 +3813,7 @@ Serviços &gt; API &gt; Configurar nova* e selecionar o Sicoob.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126403/bfea1eab649b826562b03911/AD_4nXcTpxCKPILTj-MY0FaEJv10gThVY0doWrc7RRf0byf67mEFJ8r3Y1-itoPzXO52XNTYUhJ9zWIkeLjugLjA4H2ovZW6VVqqAWBa3FL2e7Qj35xM93j5cLnZr6pKtF46inRAY09AC2nDR-hQ3s0MwJNL1fE?expires=1752529500&amp;signature=7202964fb0a1779fa08595b126020b2ecf129a5971e1f6324df36f59afb969eb&amp;req=dSEiF8h8m4VfWvMW1HO4zX2%2F2Wd3fEEZ5UIZpSw5y6cB%2F3vZtdWf2XfbTmrt%0AB0yD%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126403/bfea1eab649b826562b03911/AD_4nXcTpxCKPILTj-MY0FaEJv10gThVY0doWrc7RRf0byf67mEFJ8r3Y1-itoPzXO52XNTYUhJ9zWIkeLjugLjA4H2ovZW6VVqqAWBa3FL2e7Qj35xM93j5cLnZr6pKtF46inRAY09AC2nDR-hQ3s0MwJNL1fE?expires=1752633900&amp;signature=3a207a1cb5321913f589ce14bc815a3ea43a466c136015f1c5501c0bcf9a53d7&amp;req=dSEiF8h8m4VfWvMW1HO4zX2%2F2Wd0fUsV5UIZpSw5y6ePF65%2BNp6mgeughTu2%0Aq3Tx%0A)
 </div>
 
 
@@ -3834,7 +3834,7 @@ produção. </i>
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126415/619078a6a546f8a6f9a78103/AD_4nXdVuOU_6vfTdEztgSEX8blqy8Ws7izVXZGvZg8z1_KoT8Fv8L_TiFg23EFDYaBQfA8mbODSC9pw1cB_5uI68-CJKrLzcYELI74xdNNNFNpCw7jtCeSeXiwBNyWwCXGOFDigQenUpkevEYqLJIRcwA7rGd8g?expires=1752529500&amp;signature=3060f296ada3d936b0240dc6b45477d8e32e490572c3e1cc4e73f6747501f0c5&amp;req=dSEiF8h8m4VeXPMW1HO4zQOOpvH56On7wOe%2Bwx48S5Qc%2FXjaFf%2B2JBeEKe9l%0ATGfp%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126415/619078a6a546f8a6f9a78103/AD_4nXdVuOU_6vfTdEztgSEX8blqy8Ws7izVXZGvZg8z1_KoT8Fv8L_TiFg23EFDYaBQfA8mbODSC9pw1cB_5uI68-CJKrLzcYELI74xdNNNFNpCw7jtCeSeXiwBNyWwCXGOFDigQenUpkevEYqLJIRcwA7rGd8g?expires=1752633900&amp;signature=ddc4261273aaf418e709dad366198923db92ed543a5aa01853122ecdcedc08fc&amp;req=dSEiF8h8m4VeXPMW1HO4zQOOpvH66eP3wOe%2Bwx48S5QLj6eRLqKBeozlAyYP%0Axnw6%0A)
 </div>
 
 
@@ -3871,7 +3871,7 @@ Acesse <i>Financeiro &gt; Contas &gt; Gerenciar </i>e clique no botão
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126424/16b948c6e9e8fa50ddd654f5/AD_4nXeyuXNxX9pT_3EIw0h8_2ZW81XxEMVrcZgAFRoIkwoQnrXMpEMje__ijRhAvkrB_BYFCDIz7gdQ4Dhsi_PTdygKd5Exoab69EZGHqmmSa6okQe2cuedweAFXd7EW8dqNO-IsHnQmYceQF9oa0QFuisnWKwI?expires=1752529500&amp;signature=87b31d638ce81bfb20d5d0ae4497a3ee70f764600908ec3a2e993fee7550c804&amp;req=dSEiF8h8m4VdXfMW1HO4zfgTDp%2FV2X3aWY8647ZaQlxlLUWvd9h10obpnOBZ%0AkuMR%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126424/16b948c6e9e8fa50ddd654f5/AD_4nXeyuXNxX9pT_3EIw0h8_2ZW81XxEMVrcZgAFRoIkwoQnrXMpEMje__ijRhAvkrB_BYFCDIz7gdQ4Dhsi_PTdygKd5Exoab69EZGHqmmSa6okQe2cuedweAFXd7EW8dqNO-IsHnQmYceQF9oa0QFuisnWKwI?expires=1752633900&amp;signature=f44835c244c183a229e2ac016d1d2f4aacd3a57b6595b8ddd89d66b264af3f0e&amp;req=dSEiF8h8m4VdXfMW1HO4zfgTDp%2FW2HfWWY8647ZaQlziINvKJYQbiM0FvdMP%0Atkws%0A)
 </div>
 
 
@@ -3885,7 +3885,7 @@ conexão de pagamento </i>e escolha a conexão que criamos acima.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1151126428/18a6538696177c893bd07705/AD_4nXfUHBeYb4_bCQXF8dTYxJo5O06dIepPfxC8B14qEj9PV0tJO0JF0wt0-qSFoq0wMSUD61nIR1xumWzb26BIYBGuo40tanU5v9pJpEYog12rjjbfnhtUseK086nqy3DtwMcAxuC5WUNcesjRrr_MQM6Brds?expires=1752529500&amp;signature=4e1573ccf35354afe9f6cf6cdef424cfa9dd6b373e939a66eaaf54c397e47640&amp;req=dSEiF8h8m4VdUfMW1HO4zS6NwwzMtSIME%2BQD3XoGJefXzYej9ogCFUhORf1R%0AwoR9%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1151126428/18a6538696177c893bd07705/AD_4nXfUHBeYb4_bCQXF8dTYxJo5O06dIepPfxC8B14qEj9PV0tJO0JF0wt0-qSFoq0wMSUD61nIR1xumWzb26BIYBGuo40tanU5v9pJpEYog12rjjbfnhtUseK086nqy3DtwMcAxuC5WUNcesjRrr_MQM6Brds?expires=1752633900&amp;signature=f3b1146f51cd66ca0343d5fd3fb3006f2686da9f71d72d62be6c8f47f59f735a&amp;req=dSEiF8h8m4VdUfMW1HO4zS6NwwzPtCgAE%2BQD3XoGJeeS7Sp4TtPBu2mBOgc7%0AQphG%0A)
 </div>
 
 
@@ -4019,7 +4019,7 @@ correta.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126064/f847457fb303cda638e37541/AD_4nXfDyA3Kb7-WefoAinFGvNwwvZZ21eEu4Rb3a8cPOUMAcrTS01GfSqOFaPyycFHwi7D7svaX3ANYZaoavbyPKbImqCxYScWZuzTzUrldYna3mbQF8W8rDrdpT7VvIdnSIV4kXiNICfr5EysH4zvl8hrwgaSg?expires=1752529500&amp;signature=1701b863b553c427aee996f727bbcce0b4c2d6ea3607f2c8090403a9bb35cb4e&amp;req=dSEnHsh8m4FZXfMW1HO4zRMYLgm%2BAVjRaK9114SlL264i3DEHNOWwVOFOOPm%0AyWSY%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126064/f847457fb303cda638e37541/AD_4nXfDyA3Kb7-WefoAinFGvNwwvZZ21eEu4Rb3a8cPOUMAcrTS01GfSqOFaPyycFHwi7D7svaX3ANYZaoavbyPKbImqCxYScWZuzTzUrldYna3mbQF8W8rDrdpT7VvIdnSIV4kXiNICfr5EysH4zvl8hrwgaSg?expires=1752633900&amp;signature=e93644539d5a3f76d235df3c3ffde97de7227b431d52c8a2fc39b773e8db6a3e&amp;req=dSEnHsh8m4FZXfMW1HO4zRMYLgm9AFLdaK9114SlL26vB39y2oDPAoIEEEQo%0As4Ap%0A)
 </div>
 
 
@@ -4035,7 +4035,7 @@ pedidas na plataforma.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126070/807714aff70f0b71d863ad01/AD_4nXeExklCXp6mLMQWsDqy6g4H55YsFlTnoGndoskVpInTaI70B8bmZZuY1QpnvVsme0rMQ6cmakvuAXyio3CfF1koAMAMJEEVtlqLrvV-ay-IruyGnyQTyuLQKVV8N3jecEufzOzhsa4mmRdSlhOg0yYBk3B4?expires=1752529500&amp;signature=89291c8e18457870bbdd9b4bbfbcba88c1cc6d5335fbf2f23df40fb8b7dec9aa&amp;req=dSEnHsh8m4FYWfMW1HO4zfCjE9TItWiPaf2QXXqyfCKvtV5DzCv1XdvQOjAx%0Alr0O%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126070/807714aff70f0b71d863ad01/AD_4nXeExklCXp6mLMQWsDqy6g4H55YsFlTnoGndoskVpInTaI70B8bmZZuY1QpnvVsme0rMQ6cmakvuAXyio3CfF1koAMAMJEEVtlqLrvV-ay-IruyGnyQTyuLQKVV8N3jecEufzOzhsa4mmRdSlhOg0yYBk3B4?expires=1752633900&amp;signature=02041bacdb7d6b42844b4d33bf66750d7e636eaa5ed8cd0a7255f95b3cf53339&amp;req=dSEnHsh8m4FYWfMW1HO4zfCjE9TLtGKDaf2QXXqyfCLfsvvNKMKXq0OjpfVU%0At6Ed%0A)
 </div>
 
 
@@ -4060,7 +4060,7 @@ Associar conexão de transferência* para associar essa conta a um banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126079/75eab2ffa0adf87896306493/AD_4nXfvBE_47nQ80pMQ0jcHWdqxmzhtWnxC0aRK949iiCG5ExYk49LoOdmG212ie5K6bUDG-lWC3Lujm28DxxS87hWZsRCvv6DLU0E9W9Ho7OVpldZ-V3Jy2oHWfpwvXQACD3IcXEg1hK2xRoxu4VhaSGhhTM7-?expires=1752529500&amp;signature=af342a2b8b80e959847c08662e4d476234b0a634a619f3cbcfe18bd89037f5c8&amp;req=dSEnHsh8m4FYUPMW1HO4zda%2FA5Xcge%2BgxjHicz%2BufyjXM73K%2BcRcJfdC1CDK%0AyOQK%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126079/75eab2ffa0adf87896306493/AD_4nXfvBE_47nQ80pMQ0jcHWdqxmzhtWnxC0aRK949iiCG5ExYk49LoOdmG212ie5K6bUDG-lWC3Lujm28DxxS87hWZsRCvv6DLU0E9W9Ho7OVpldZ-V3Jy2oHWfpwvXQACD3IcXEg1hK2xRoxu4VhaSGhhTM7-?expires=1752633900&amp;signature=81fa864a019d7bb83d1d573ac2681edff53b9ebf51c147bcd391a9596a2b81ec&amp;req=dSEnHsh8m4FYUPMW1HO4zda%2FA5XfgOWsxjHicz%2BufyiwzLHS%2F52eaKbobgie%0ARw9D%0A)
 </div>
 
 
@@ -4094,7 +4094,7 @@ abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126129/edf8fd3dd63aad9db193a9a1/AD_4nXfzp0p2qOYezjxTDhNWX6nW8xdVjTUZJXRuw2i1c7svxkz6OkXT5iA1sr63KPgjgOGAmUAcR-kRJcMpJxY7ON99JmRpkS6KY_TWXau-csJ8gsRjeuNiaAuDnvf0oU1FPjo0GN6Z3d-9cGibka9U0MdZAmNK?expires=1752529500&amp;signature=6cc215ee4a6d779d826a85bacd366d1530fa6731f69ec42acf5f480ae6d56833&amp;req=dSEnHsh8m4BdUPMW1HO4zUuCuY6CB6I0x9UFOGEXBNyJRYWq9Eg7HqYMWOtr%0AcrYb%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126129/edf8fd3dd63aad9db193a9a1/AD_4nXfzp0p2qOYezjxTDhNWX6nW8xdVjTUZJXRuw2i1c7svxkz6OkXT5iA1sr63KPgjgOGAmUAcR-kRJcMpJxY7ON99JmRpkS6KY_TWXau-csJ8gsRjeuNiaAuDnvf0oU1FPjo0GN6Z3d-9cGibka9U0MdZAmNK?expires=1752633900&amp;signature=05411a1933a65c22333c9e8f65748482e618c616f840b67b6a9a87931fad4883&amp;req=dSEnHsh8m4BdUPMW1HO4zUuCuY6BBqg4x9UFOGEXBNzGGe9zhxY0XkcCBKeC%0AYCXa%0A)
 </div>
 
 
@@ -4118,7 +4118,7 @@ csv. No Google Sheets, é como no exemplo abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126137/da1728ef1a613b4e618f6980/AD_4nXf94CQnaq8xuSEYo_o5LpWj7JQucELWFhaSfvTWrHrM2AZpBUo-Wc0UBDRCCBYLi2Tfs1khJBU20cYUM2guE8nj6ljJrHrj-QfgPtbYjoNYi3zEbfKiq0wxYfPOI6J3c_0Z_FzvWU38oMGpHe45JVP4XF_F?expires=1752529500&amp;signature=2a9f3f12b524fa5c595cfde6af0437ee7279b2834fa111a15ec78e26df246ef6&amp;req=dSEnHsh8m4BcXvMW1HO4zfU1ninbghOdB2JtAvLakAvLlojNEMV6HL01FyoV%0AkXau%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126137/da1728ef1a613b4e618f6980/AD_4nXf94CQnaq8xuSEYo_o5LpWj7JQucELWFhaSfvTWrHrM2AZpBUo-Wc0UBDRCCBYLi2Tfs1khJBU20cYUM2guE8nj6ljJrHrj-QfgPtbYjoNYi3zEbfKiq0wxYfPOI6J3c_0Z_FzvWU38oMGpHe45JVP4XF_F?expires=1752633900&amp;signature=441e613ead28a65f948291b557c29c9aeaab76f716152fa60fdca19b09f3bc23&amp;req=dSEnHsh8m4BcXvMW1HO4zfU1ninYgxmRB2JtAvLakAv1tuff531il0b7eZcq%0A1LrV%0A)
 </div>
 
 
@@ -4150,7 +4150,7 @@ acesse *Pagamentos &gt; Gerenciar* e clique no botão da imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126145/e0c6f1fca5621a01af1b503c/AD_4nXexuQec7HL2nCyGLeTh5iOTlpjFVMm3xW_hexbV1iaCeVRrKNKQS8rOo_8aL4JKzqWvDVASYGiija5qqNy1qLDdRL2d1LAFcuhWcEcDGmgEbmQKZxHjfIe3ebeiJFLhLLBpL7NaqohpMaTUmnGG2NOfmvhj?expires=1752529500&amp;signature=3995eab57bac40334a6663d196698ebf84f647ba261eea329fabbf8800ad6b66&amp;req=dSEnHsh8m4BbXPMW1HO4zbE8DUggZKrXNC%2BmsjGeG1paYn%2FsEafQdPggmWN6%0AdYPg%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126145/e0c6f1fca5621a01af1b503c/AD_4nXexuQec7HL2nCyGLeTh5iOTlpjFVMm3xW_hexbV1iaCeVRrKNKQS8rOo_8aL4JKzqWvDVASYGiija5qqNy1qLDdRL2d1LAFcuhWcEcDGmgEbmQKZxHjfIe3ebeiJFLhLLBpL7NaqohpMaTUmnGG2NOfmvhj?expires=1752633900&amp;signature=dea9557b079763cdd8a87d86e65bb29ac5fcf6b1e0437d64c92e74cbd88c7f14&amp;req=dSEnHsh8m4BbXPMW1HO4zbE8DUgjZaDbNC%2BmsjGeG1p3dn9UrPnEkZDbDN75%0AdJAn%0A)
 </div>
 
 
@@ -4165,7 +4165,7 @@ finalizar a operação.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126150/bfd98158b41e8931476a0390/AD_4nXdY2R5xHYmbdQVizhDRpEr3JkeQonkdPn1zGtoAEWgv-pvAJFRguC19-vNh4Tmo1r13PeCZabqcTXYPZhvK2oO5SYYMNGdDuAxMWBVGQXQ-jJgOfSJWDZxZs9BH_dADqwydGvDh7Fa3r_YGewSPgSlpoBs?expires=1752529500&amp;signature=7573deb43da416d0ed24e04ed1b2b009092d63b471e5682da282ef6e2fd8f4a2&amp;req=dSEnHsh8m4BaWfMW1HO4zfbG1fcUrwwFYtGHLOUMF2BKYcpGxHdi2%2BpXt7mA%0Ayf01%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126150/bfd98158b41e8931476a0390/AD_4nXdY2R5xHYmbdQVizhDRpEr3JkeQonkdPn1zGtoAEWgv-pvAJFRguC19-vNh4Tmo1r13PeCZabqcTXYPZhvK2oO5SYYMNGdDuAxMWBVGQXQ-jJgOfSJWDZxZs9BH_dADqwydGvDh7Fa3r_YGewSPgSlpoBs?expires=1752633900&amp;signature=f712e419ce2431d9615536acea47d292ed8eb5f7d67e5e3ad8b7a00f26ebe7e1&amp;req=dSEnHsh8m4BaWfMW1HO4zfbG1fcXrgYJYtGHLOUMF2DGzbApujWhADO%2Fg41s%0AO0HP%0A)
 </div>
 
 
@@ -4183,7 +4183,7 @@ como na imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126157/0f6a37aa04f4f2025be41fe6/AD_4nXeUPSV2uFwliqBQ2xTBdYJpnL8xWSKj7ggiqsMra6u7IN6pJ2pUE8dBV0o_9pgWwOyk7H5dfz42XcucTQfxcIvH_zIo_ybsAYGepWK4DWvaR81Y9dum7StpC7ya8MgimdJhkz6LKVnny18a4GzV-bliwkS9?expires=1752529500&amp;signature=1681d8ca3415d80111db60254013672da5e1a0955f5e7da776879e85893ff330&amp;req=dSEnHsh8m4BaXvMW1HO4zWwlpRE1RoayYGkWC3l2hhWgmqFzMqAFzcGUKGAH%0Agudk%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126157/0f6a37aa04f4f2025be41fe6/AD_4nXeUPSV2uFwliqBQ2xTBdYJpnL8xWSKj7ggiqsMra6u7IN6pJ2pUE8dBV0o_9pgWwOyk7H5dfz42XcucTQfxcIvH_zIo_ybsAYGepWK4DWvaR81Y9dum7StpC7ya8MgimdJhkz6LKVnny18a4GzV-bliwkS9?expires=1752633900&amp;signature=872970986118fbddd81c58386dbda8afb54ec58c21544b146de998d7cc9332ad&amp;req=dSEnHsh8m4BaXvMW1HO4zWwlpRE2R4y%2BYGkWC3l2hhWAhosbJD%2FppmpHf6pA%0AI5CN%0A)
 </div>
 
 
@@ -4215,7 +4215,7 @@ como na imagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126168/18cfa3ba6c333953adeafc8b/AD_4nXdAGj4ajNtoKF_qSF4xI_MlqVVjDCxi4QquTkWmbRGC1Gfg88629EjEudVwz0z_wBhKxNLQeYqux9Fdzxr4xN6akEssjTCOMx8YfjkIJKjDtvXctceDr5QfiVNagtKbSAV0DHc-VQMsDuul5kzMlYIahs9H?expires=1752529500&amp;signature=4bfe9d30d06822e29d0c76771c7c0fc6e5a2b52ca32d9be380081d6a8f2d937b&amp;req=dSEnHsh8m4BZUfMW1HO4zUHn7oKj7XZDzqGEYjLK4c9035Kk7jnxqn4ZpJGi%0AXFWq%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126168/18cfa3ba6c333953adeafc8b/AD_4nXdAGj4ajNtoKF_qSF4xI_MlqVVjDCxi4QquTkWmbRGC1Gfg88629EjEudVwz0z_wBhKxNLQeYqux9Fdzxr4xN6akEssjTCOMx8YfjkIJKjDtvXctceDr5QfiVNagtKbSAV0DHc-VQMsDuul5kzMlYIahs9H?expires=1752633900&amp;signature=8607c393b834ca8b90177366fb4478c0cf726145f99cdcba76c76984a740379d&amp;req=dSEnHsh8m4BZUfMW1HO4zUHn7oKg7HxPzqGEYjLK4c%2FXgUgCJ4aNyoA0%2FGQH%0AoWuL%0A)
 </div>
 
 
@@ -4268,7 +4268,7 @@ Mas, para liberar os pagamentos manualmente acesse a sua conta em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126181/ddca97e39d70605e89055a8f/AD_4nXccNKaeVKoPxdCPR20w1EPw6zYqYphOCg_0fBgCOGWca6Ugnm1jHxBZQiw3g8rVVg7yv7fjFANu2vECtyf6rlDZbgnMtVcdhy4OtDk1OjCAWbCiNylduuKSoZYEWxTWgfnvR54n8iVTuDR4yVhWN8xJRCSB?expires=1752529500&amp;signature=ce815f3a6444b447deea75b1aa75ed732cfef37d7f0df0229bbeb06ca93b80cd&amp;req=dSEnHsh8m4BXWPMW1HO4zWxWjmzizafIa9uoLUu3nIV%2BAtLwJtEcfIMQpXsb%0AOv5e%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126181/ddca97e39d70605e89055a8f/AD_4nXccNKaeVKoPxdCPR20w1EPw6zYqYphOCg_0fBgCOGWca6Ugnm1jHxBZQiw3g8rVVg7yv7fjFANu2vECtyf6rlDZbgnMtVcdhy4OtDk1OjCAWbCiNylduuKSoZYEWxTWgfnvR54n8iVTuDR4yVhWN8xJRCSB?expires=1752633900&amp;signature=064b250e311330c487ffd165ef39c082edfb448cab99de43bd06e159d5f7f75c&amp;req=dSEnHsh8m4BXWPMW1HO4zWxWjmzhzK3Ea9uoLUu3nIXLtc9770CxNa7QE5m2%0AvzHO%0A)
 </div>
 
 
@@ -4283,7 +4283,7 @@ quadrados do lado esquerdo e clique no botão para aprovar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126192/3b7168d9a1cfa9c4ee4c805b/AD_4nXfo-j_tPzMS8RjlU4c5Q6zvBExBNdQHuEGlCKaaKoQo-axYKzdoQKv8DQ1RJN7y9KVxBgLKr8iOKI23I6r5iZl059GOz6x0fX1uV0A0QNGh4BP4W1w4x_D7xOEoZeMr4JhZ2982Zl-ZN75c_EnOZZLqHOR0?expires=1752529500&amp;signature=ba4b826abafe8859b459fab7ce7fce55ad7035bbb6f53a5d690396f0f7b6b71e&amp;req=dSEnHsh8m4BWW%2FMW1HO4zcRdLKBWPSvk58FEVNMnpWSTMR58wAK6LYJxyBLG%0AAbjE%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126192/3b7168d9a1cfa9c4ee4c805b/AD_4nXfo-j_tPzMS8RjlU4c5Q6zvBExBNdQHuEGlCKaaKoQo-axYKzdoQKv8DQ1RJN7y9KVxBgLKr8iOKI23I6r5iZl059GOz6x0fX1uV0A0QNGh4BP4W1w4x_D7xOEoZeMr4JhZ2982Zl-ZN75c_EnOZZLqHOR0?expires=1752633900&amp;signature=3e6d5ccb13246ac822aca325a5b71550d41cfe1f1ec7112b5020bff3088fe78e&amp;req=dSEnHsh8m4BWW%2FMW1HO4zcRdLKBVPCHo58FEVNMnpWTziaqOTVY7Wt8vpaxB%0Aohmc%0A)
 </div>
 
 
@@ -4297,7 +4297,7 @@ valor.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126205/d2a76416ce73b1056e79c8c4/AD_4nXdHWe-q3ErXJSJB0uZh1VVU8LK1cIxbDYtDFPPwMfj4VFIRFc5Mu-lYK1IGlp7jRR9ZkisP0CqFFn6pxRefOHbbGOJV2tCmZYxtAR7CRquIYie8H6RUTMtBTpXT6CtRxS-cER9z3-1XZfPqUi6TRgOORWIx?expires=1752529500&amp;signature=9a68d06f232330388187a15d671a2b8f13568b1b93494c2e70d145930ae348df&amp;req=dSEnHsh8m4NfXPMW1HO4zYITXxP6WN%2FctMZU5f6yzVuCcDpsPx9PjAjNlTCL%0AsIO3%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126205/d2a76416ce73b1056e79c8c4/AD_4nXdHWe-q3ErXJSJB0uZh1VVU8LK1cIxbDYtDFPPwMfj4VFIRFc5Mu-lYK1IGlp7jRR9ZkisP0CqFFn6pxRefOHbbGOJV2tCmZYxtAR7CRquIYie8H6RUTMtBTpXT6CtRxS-cER9z3-1XZfPqUi6TRgOORWIx?expires=1752633900&amp;signature=c83c29b5dd8b50aea860834672f93748d643918babf0023d4b1b13ffe05749f8&amp;req=dSEnHsh8m4NfXPMW1HO4zYITXxP5WdXQtMZU5f6yzVse%2F4x0%2FufXwLb%2Fnfif%0AvKlh%0A)
 </div>
 
 
@@ -4310,7 +4310,7 @@ Uma vez aprovado, o status é atualizado e o pagamento é liberado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108126218/1e9877d7a71365131b036016/AD_4nXdsEVvG0jdtCezESNagjZf-LvfRnXidyKdP8FlMOhxK2nSjY_-UL5-mY8_swV895U0oYpzTu97ZWexVT4MGmNfP7snIOiY2CnoFgkEvYzRupRPyqkVudOKYU6X0FDiBLlovHp94ipqRgrPO3aIJ1zE5qnRE?expires=1752529500&amp;signature=0583468d369ea0140865d17a21585a1cab9c6b205c0f8c6e1ffcd0c3db6aadd3&amp;req=dSEnHsh8m4NeUfMW1HO4zXuWlNcTZ%2FWA1rQrTMYtLAtoukvfOJ878dzTYAm7%0AQhTD%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108126218/1e9877d7a71365131b036016/AD_4nXdsEVvG0jdtCezESNagjZf-LvfRnXidyKdP8FlMOhxK2nSjY_-UL5-mY8_swV895U0oYpzTu97ZWexVT4MGmNfP7snIOiY2CnoFgkEvYzRupRPyqkVudOKYU6X0FDiBLlovHp94ipqRgrPO3aIJ1zE5qnRE?expires=1752633900&amp;signature=8b95c0b5cc92dc43b7d3688e05c2edc951746685c515dc6183d4e89206c30a4a&amp;req=dSEnHsh8m4NeUfMW1HO4zXuWlNcQZv%2BM1rQrTMYtLAu6eZnUCAOFIVqyF4aN%0AE2FI%0A)
 </div>
 
 
@@ -4379,7 +4379,7 @@ correta.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108104884/d4f7b904b264985e2b74a26c/AD_4nXe96wgtHisxWOcZE2fy5LZJiCkLoqpzBBl9IH7SNn1QIHwGt3bRtL-DVK_e2F8sa_tcurzq-deLZeSlH8x3iVvllC4dPxCBxhRNvwZSp3DzsQFLJQRbfH322jzXVEmX2-CYLzf0bSwpVxzIURy7n0K4hBqq?expires=1752529500&amp;signature=4f8d0a38f950203ab0700c9dc53048169f88902ef3777bf9944ed7fe6fa41607&amp;req=dSEnHsh%2BmYlXXfMW1HO4zW46OkVGREEaQidcJLCv2fqtzMtveRJA6l46YvjZ%0AL4nN%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108104884/d4f7b904b264985e2b74a26c/AD_4nXe96wgtHisxWOcZE2fy5LZJiCkLoqpzBBl9IH7SNn1QIHwGt3bRtL-DVK_e2F8sa_tcurzq-deLZeSlH8x3iVvllC4dPxCBxhRNvwZSp3DzsQFLJQRbfH322jzXVEmX2-CYLzf0bSwpVxzIURy7n0K4hBqq?expires=1752633900&amp;signature=81868787dec299f4e6849d9f830407768b8dd62eddeb1a9077eb3f61775ccdd9&amp;req=dSEnHsh%2BmYlXXfMW1HO4zW46OkVFRUsWQidcJLCv2fq1wzHxKvTgf8pRqtY4%0ANb1u%0A)
 </div>
 
 
@@ -4395,7 +4395,7 @@ Brasil e preencha as informações pedidas na plataforma.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108104897/a1c990639bce4f197fcbc8b2/AD_4nXd-evfqvhJW1oZclXJv4gmeeb4WXk1FucCQGIXQBtXKzPub6qtFAgwMp2YbpV7JBTcW127BQtAINUTNNyjDMBllY9m5-Z0BQJihICxjDiVWPIOyExRNrqnSbtQm7a7ITynCL7I4Bb5tKem9TDGovifv5wQ?expires=1752529500&amp;signature=de0cfe8ac69361d242c4f81e8add97a1d301b23d544ba0fb6cf8f503ea889277&amp;req=dSEnHsh%2BmYlWXvMW1HO4zVyZX6ItFH9tiejMsjy8mNBocA2wJiqmmcMp4XAv%0ADOhR%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108104897/a1c990639bce4f197fcbc8b2/AD_4nXd-evfqvhJW1oZclXJv4gmeeb4WXk1FucCQGIXQBtXKzPub6qtFAgwMp2YbpV7JBTcW127BQtAINUTNNyjDMBllY9m5-Z0BQJihICxjDiVWPIOyExRNrqnSbtQm7a7ITynCL7I4Bb5tKem9TDGovifv5wQ?expires=1752633900&amp;signature=eeb869a4778e76055c136a515703f3b003914d1e0f694c4337b50ed202cf6d1f&amp;req=dSEnHsh%2BmYlWXvMW1HO4zVyZX6IuFXVhiejMsjy8mNBIhEz8WYNxntBgusSm%0AfHqK%0A)
 </div>
 
 
@@ -4420,7 +4420,7 @@ transferência* para associar essa conta a um banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108104910/ae7c358254975ac55d18b22b/AD_4nXeHpaYwvaHE3HpmTf2GlElyQSHb5Jj0bdVLGwQEXe4CRr8bEqZ42oEHa9CZXLZG75UTmkKFh1-qoi-nAP7KRsgw4oNAos50WLYFQrPy5EsQMZRI4h6Nwjsji2XC_riFda-mHxe2JuKRNBOZtg7CuHs4RQG2?expires=1752529500&amp;signature=aa4f5c7551a70304a5715fced8066f87a4ca7a00d947aa02b288608a50e2cac7&amp;req=dSEnHsh%2BmYheWfMW1HO4zb4Kb26CVOBwei%2FNb2FTin0jAa0GzJXs83vbIT0Q%0Ap9Y0%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108104910/ae7c358254975ac55d18b22b/AD_4nXeHpaYwvaHE3HpmTf2GlElyQSHb5Jj0bdVLGwQEXe4CRr8bEqZ42oEHa9CZXLZG75UTmkKFh1-qoi-nAP7KRsgw4oNAos50WLYFQrPy5EsQMZRI4h6Nwjsji2XC_riFda-mHxe2JuKRNBOZtg7CuHs4RQG2?expires=1752633900&amp;signature=e65df6e46c1dc718a6bac22fcb62d7b397093ad28a1f17efc5fa2ff9a31fc349&amp;req=dSEnHsh%2BmYheWfMW1HO4zb4Kb26BVep8ei%2FNb2FTin3eO2G991fKcYSpr6iM%0Aaw8U%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
@@ -4450,7 +4450,7 @@ abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108104966/b45e61040022ac54fc05dd34/AD_4nXdp8PU2yty2GBBO0XZSxPYUt3jRyxMvUi3wbH9NvMroyhzcr4paijaRCG3YRtro0PgNIFzyEkHn7HCciu6d-ugqs3mDVvAU1dmgCoAdyePD7p52rKZimMA9KlHj4G1Ie_8yUR0Y3umsB_OW1wJa-uvWkyhx?expires=1752529500&amp;signature=95e1ad8f41337b150c3ddcbf58c11968d484a43a03d70aef7ceb2e7b866dbcc4&amp;req=dSEnHsh%2BmYhZX%2FMW1HO4zegW7mbSxKGGfBQdYR0IZqB4k4npHWb0AqtnzrWy%0AFHOD%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108104966/b45e61040022ac54fc05dd34/AD_4nXdp8PU2yty2GBBO0XZSxPYUt3jRyxMvUi3wbH9NvMroyhzcr4paijaRCG3YRtro0PgNIFzyEkHn7HCciu6d-ugqs3mDVvAU1dmgCoAdyePD7p52rKZimMA9KlHj4G1Ie_8yUR0Y3umsB_OW1wJa-uvWkyhx?expires=1752633900&amp;signature=1771c5807d8dd367ffb46febc32583315ead68f228cd26034a3109ecf1569e23&amp;req=dSEnHsh%2BmYhZX%2FMW1HO4zegW7mbRxauKfBQdYR0IZqDpW7mVzLjBCWFAXvmU%0AxCls%0A)
 </div>
 
 
@@ -4474,7 +4474,7 @@ csv. No Google Sheets, é como no exemplo abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108104977/f51af96d98613adfefe41814/AD_4nXcxhclYx966zHndPjAgxTC3z9DialO0HOM4jb9dZ6h4kc43kyhJs-0WLptlDWwQDR9aqXmLUcIH96D7FRp25z4is26w3u42K1dLfcxALQ-C9kKxlUK4lJR1u3YavHQKNosRyCT-SXKV3c4MwY7mtFt4LPsH?expires=1752529500&amp;signature=c6807be775d584eb9db9537b76aeacfd7f50cd435842c2111b3c50c6a082369d&amp;req=dSEnHsh%2BmYhYXvMW1HO4zWHtsHxm8t2rw1CQGpqClFsV3Ejge07etB42ppHP%0AEKtS%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108104977/f51af96d98613adfefe41814/AD_4nXcxhclYx966zHndPjAgxTC3z9DialO0HOM4jb9dZ6h4kc43kyhJs-0WLptlDWwQDR9aqXmLUcIH96D7FRp25z4is26w3u42K1dLfcxALQ-C9kKxlUK4lJR1u3YavHQKNosRyCT-SXKV3c4MwY7mtFt4LPsH?expires=1752633900&amp;signature=55491c96eb3645743967113cff1f894c655bf5db863d82bc0e523fc140bf0931&amp;req=dSEnHsh%2BmYhYXvMW1HO4zWHtsHxl89enw1CQGpqClFtevwXNy0VboctB5EOV%0AAj2B%0A)
 </div>
 
 
@@ -4506,7 +4506,7 @@ acesse *Pagamentos &gt; Gerenciar* e clique no botão da imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108104987/f9b3797a7541869e43ed1071/AD_4nXdi_Ust6dGiMdJw2XvkcZnnzK4Rea9AH7iOXcqPSYTv9jr2DFp5ZAsXzoaP8uYwlHUL62mrD8gokne8IHTs0AMm4_9gBrQDM-xLWXn4CYGiU1iEsf0ylnMrH_oJpLd-g90rOFlo7R3mSuORRVauKssSyzE?expires=1752529500&amp;signature=4f2e3567f233d023866f2226211647ecd3b55c1fcdb3be77d05ae40f551d7053&amp;req=dSEnHsh%2BmYhXXvMW1HO4zb1Vy2E6xsEQV0vNfMoWro0eeL%2BLWE5oMxRFPUdW%0As1N6%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108104987/f9b3797a7541869e43ed1071/AD_4nXdi_Ust6dGiMdJw2XvkcZnnzK4Rea9AH7iOXcqPSYTv9jr2DFp5ZAsXzoaP8uYwlHUL62mrD8gokne8IHTs0AMm4_9gBrQDM-xLWXn4CYGiU1iEsf0ylnMrH_oJpLd-g90rOFlo7R3mSuORRVauKssSyzE?expires=1752633900&amp;signature=87273f958ada43fcbd017bf6536894ae8e0d130cea6b53ea6a2fe616d8fa8c2c&amp;req=dSEnHsh%2BmYhXXvMW1HO4zb1Vy2E5x8scV0vNfMoWro3NV4bTjNkxL51lQqAT%0AXHOD%0A)
 </div>
 
 
@@ -4521,7 +4521,7 @@ finalizar a operação.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108104998/9db5b90425a2112a9f75b85b/AD_4nXfiwKui5qAWoYD02iwP03ZwKMw5UAIKExNQBNo2YFSGh6GuF3R66PnJqTVDee1dyZOFMiMm4Al5GvY3vJvyzGmEKKKqw8-327kpdpnVj83uRfMO2JtTPJTp9Osywjq6X-i9iTx8W7cTHeGI6O9FrNPBe9Y-?expires=1752529500&amp;signature=df0231c558d70782bc78e39de52d19c378f8f1e73641685261893efeef233fe1&amp;req=dSEnHsh%2BmYhWUfMW1HO4zZoSFjNTTFP4FJ86HjV2Ev5eK%2FamlGgH%2BcasT%2FPn%0AfPqW%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108104998/9db5b90425a2112a9f75b85b/AD_4nXfiwKui5qAWoYD02iwP03ZwKMw5UAIKExNQBNo2YFSGh6GuF3R66PnJqTVDee1dyZOFMiMm4Al5GvY3vJvyzGmEKKKqw8-327kpdpnVj83uRfMO2JtTPJTp9Osywjq6X-i9iTx8W7cTHeGI6O9FrNPBe9Y-?expires=1752633900&amp;signature=04308723bd2ed9624187b640282eb464387094d1fd393fd0309797ec180b63a8&amp;req=dSEnHsh%2BmYhWUfMW1HO4zZoSFjNQTVn0FJ86HjV2Ev6ssSvzfEJO0ewjFMPo%0ARaQa%0A)
 </div>
 
 
@@ -4539,7 +4539,7 @@ como na imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108105024/68b240ff88b739e59b02215a/AD_4nXcBdauS_-WLsQH8bxyJAyfbxZJnoSgJJrhDcnEPMaA4tURicNPmRHaIR-5RGYth80cVCKqIUfAeoDZHo8Je-ehkJ3Ttq9Sy9kKfksJxUhvXUPwe9tEsZuBekBMDiLSx7pEWavhu727YX_dRgbnvo88FK1h3?expires=1752529500&amp;signature=9da2ddaa2b845c34fab4e502c2cedce5d90f7ca88c0a7a8cbff6be0e2c558e6f&amp;req=dSEnHsh%2BmIFdXfMW1HO4zRj74oubzMh7Ekn887%2BCR%2FuNszW%2F8vjXpuE08FqH%0AhfZs%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108105024/68b240ff88b739e59b02215a/AD_4nXcBdauS_-WLsQH8bxyJAyfbxZJnoSgJJrhDcnEPMaA4tURicNPmRHaIR-5RGYth80cVCKqIUfAeoDZHo8Je-ehkJ3Ttq9Sy9kKfksJxUhvXUPwe9tEsZuBekBMDiLSx7pEWavhu727YX_dRgbnvo88FK1h3?expires=1752633900&amp;signature=de04b32777a2d619255417e1985f4d9db8f19757907fd931deffe7d1e7907f64&amp;req=dSEnHsh%2BmIFdXfMW1HO4zRj74ouYzcJ3Ekn887%2BCR%2Fv5cqvIEFga6AOd%2Fbiy%0ANPPz%0A)
 </div>
 
 
@@ -4571,7 +4571,7 @@ como na imagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108105053/2ecfd08967eb6e5192266e5f/AD_4nXfI7KIm6u-0frZjviIRhERp1VMVI5HkhDJEc3dMdvOokhkABkuzZ9HgbHovefchCwOsZ2pjZ1Gaqf9CodkKD5m6kic9Q0PuKA6Yl5W-JbRHEKDj_dirdeZgxUYLy-g6qRVPjVbEUlGXaMUdrtK7C5rq3KhF?expires=1752529500&amp;signature=50288e0b8ddebbe4655191b9c7c1d873b4107a12c56c33e9b7296d6e85c1d370&amp;req=dSEnHsh%2BmIFaWvMW1HO4zSPlLaD10eEZnz7xzFNcubdN1gp1y5w3ZqvQ0eaQ%0AGv3Z%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108105053/2ecfd08967eb6e5192266e5f/AD_4nXfI7KIm6u-0frZjviIRhERp1VMVI5HkhDJEc3dMdvOokhkABkuzZ9HgbHovefchCwOsZ2pjZ1Gaqf9CodkKD5m6kic9Q0PuKA6Yl5W-JbRHEKDj_dirdeZgxUYLy-g6qRVPjVbEUlGXaMUdrtK7C5rq3KhF?expires=1752633900&amp;signature=b83766a2d50cb6e192495642372cf9fa262fb80f7f97456c197fd6bb236a478b&amp;req=dSEnHsh%2BmIFaWvMW1HO4zSPlLaD20OsVnz7xzFNcubfWCih6P8j%2BZ5FNDL29%0AmNAd%0A)
 </div>
 
 
@@ -4634,7 +4634,7 @@ opção para liberar o lote:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1108105067/179644d843481b2895fde84e/AD_4nXcPlNxJyHBYLjdmwuXDC9wlEqcwhI60sD0YkTUEcIJejFHscmJS6EqiE-8yVnKe3V0bFfmeORNswdL0mz87I4XvM7zDLQiN-6WYdmiYIDzHwGEbTiVHYEsXLgH9x-zi8tgF6yjQ923Ygo1g-3Jwk7iILtJc?expires=1752529500&amp;signature=58b9045f6ab3a53859f7f705bad9314e2b65de6fa338d72f6778a28177bf4569&amp;req=dSEnHsh%2BmIFZXvMW1HO4zd%2FqwctqaPoVlr%2FOWopxUc4EseJ2utMSUpWchkVv%0AsGLO%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1108105067/179644d843481b2895fde84e/AD_4nXcPlNxJyHBYLjdmwuXDC9wlEqcwhI60sD0YkTUEcIJejFHscmJS6EqiE-8yVnKe3V0bFfmeORNswdL0mz87I4XvM7zDLQiN-6WYdmiYIDzHwGEbTiVHYEsXLgH9x-zi8tgF6yjQ923Ygo1g-3Jwk7iILtJc?expires=1752633900&amp;signature=6192bdb91e431219bb21ee1fb06d8b451725a8989913d808e479344004688b80&amp;req=dSEnHsh%2BmIFZXvMW1HO4zd%2FqwctpafAZlr%2FOWopxUc7aQwmPkl6wuYhQj9LN%0Aouem%0A)
 </div>
 
 
@@ -4686,7 +4686,7 @@ clique na opção <i>Conta </i>e em <i>Integrações via APIs. </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529435/efb3a80bd7750f274d0a9e1c/-2L6YdcePpNTAKhDBaC27bCLq_ihjSJ-53WVXYBfRNAInuLHAkHLTZMbMIoBthm-kB5T2HGuNN9r2nq5hGTGhACfqACKgw3SC9tcgKfbIponpPNd863cWPmJuGvJ_8UH5AeSwWCwa44O1cBIRv0K0nE?expires=1752529500&amp;signature=05e9457173e2cb6e959659735770ba7ed5cb193c952389053c68b06e392f4bb9&amp;req=dSAhFcx8lIVcXPMW1HO4zcnU04x5mFoWBaofFG9pd%2BdKnaFUKmYBakMjYu4B%0A%2FpFO%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529435/efb3a80bd7750f274d0a9e1c/-2L6YdcePpNTAKhDBaC27bCLq_ihjSJ-53WVXYBfRNAInuLHAkHLTZMbMIoBthm-kB5T2HGuNN9r2nq5hGTGhACfqACKgw3SC9tcgKfbIponpPNd863cWPmJuGvJ_8UH5AeSwWCwa44O1cBIRv0K0nE?expires=1752633900&amp;signature=896fa1ceeb5cf0e16385602538b3a586edac056a35ddb509b358e55b414b37fb&amp;req=dSAhFcx8lIVcXPMW1HO4zcnU04x6mVAaBaofFG9pd%2BcORIMyL8C6QNZQJ3Bo%0ABDRD%0A)
 </div>
 
 
@@ -4699,7 +4699,7 @@ Em seguida, clique no botão <i>Acessar Integração Direta. </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529446/791299f010f29ff1dcc578d2/7XuGawRFuGwaxXhYpJJJqIPu4T0Uy5LcV8VhJYo5qjR6BoayyIbGi-R0g6PB2QNYEVw5IcFo6-qQkET5wSiWQN4tHybxxUyZVzaGEzrI4-Sgdd7zHTHCrNxjzyxCEY-phf4GcTdGpgxVTYMGr6-DXWQ?expires=1752529500&amp;signature=aa6a7400d725ae949852f33e7beb733c4c8e0b53aa4cd614837cfc04802b90d5&amp;req=dSAhFcx8lIVbX%2FMW1HO4zUnlsO%2BVjGFKQWpG8Idvk%2BC3voJiNeE1kyK3OvRf%0AQvgz%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529446/791299f010f29ff1dcc578d2/7XuGawRFuGwaxXhYpJJJqIPu4T0Uy5LcV8VhJYo5qjR6BoayyIbGi-R0g6PB2QNYEVw5IcFo6-qQkET5wSiWQN4tHybxxUyZVzaGEzrI4-Sgdd7zHTHCrNxjzyxCEY-phf4GcTdGpgxVTYMGr6-DXWQ?expires=1752633900&amp;signature=e6384fdfc13eff83cefc8c5405dc9b55c916ad00833e28dd6d09371ec043e97a&amp;req=dSAhFcx8lIVbX%2FMW1HO4zUnlsO%2BWjWtGQWpG8Idvk%2BB5pYvRdnbPtDH6ATNt%0AY9SD%0A)
 </div>
 
 
@@ -4712,7 +4712,7 @@ Na próxima tela, escolha o *Ambiente de produção*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529455/a0a5933fda8bc3b236a53051/nleU8FYITglPNhkJkFY66jAf6Bo6Owhe16o_AKxi1n2HBz36dsUhsF2dM07NG_Uzit6HQNgSuepIzodZEWPymPYRklbzupu8zLOUik8Dlu_mMQHOL_DlcMomBjYpI9pPIzQkk8rMHu3PinHbLH-jwgs?expires=1752529500&amp;signature=62a09ec03d48a38a47f49d41ea355b225396f9266c6cc13e27856f49e93bbf5c&amp;req=dSAhFcx8lIVaXPMW1HO4zaRZ4tBbqAQAlGOyLc0mUh8vKHGutOhV76vxQRQl%0ACI1S%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529455/a0a5933fda8bc3b236a53051/nleU8FYITglPNhkJkFY66jAf6Bo6Owhe16o_AKxi1n2HBz36dsUhsF2dM07NG_Uzit6HQNgSuepIzodZEWPymPYRklbzupu8zLOUik8Dlu_mMQHOL_DlcMomBjYpI9pPIzQkk8rMHu3PinHbLH-jwgs?expires=1752633900&amp;signature=7b089d0b020a1074e9dd667e0263503c93f4cd7ab3bc1821161457b3ba11857e&amp;req=dSAhFcx8lIVaXPMW1HO4zaRZ4tBYqQ4MlGOyLc0mUh9e9vM85mgTJON8%2F92g%0AeWdE%0A)
 </div>
 
 
@@ -4758,7 +4758,7 @@ a chave é o *.key* e deve ser subido no segundo campo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529462/695d2b8102cb2ccc6a296b67/3b3TtDJv_6dGGw_W1j8lZtC_bvgEyYWiVPFWRw84_KBDtTOADvRGXxfUj78FA-DnwAoIjXXDsiTONeOKTR_uMSjhEuGAmKGrqWLwMDK5iBmbCYzxKQ0kXUELDJ0B1bxWry15Rg7hKzVucMqCiECfeC4?expires=1752529500&amp;signature=c241f4f6333dee95402a0f75a5c1e4cde69b95cbe4e684096f292b7e3ac58775&amp;req=dSAhFcx8lIVZW%2FMW1HO4zV5TkYyEGDbE%2BuY99ihmq5H8Yecd5OqY97NxpCYG%0ASD12%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529462/695d2b8102cb2ccc6a296b67/3b3TtDJv_6dGGw_W1j8lZtC_bvgEyYWiVPFWRw84_KBDtTOADvRGXxfUj78FA-DnwAoIjXXDsiTONeOKTR_uMSjhEuGAmKGrqWLwMDK5iBmbCYzxKQ0kXUELDJ0B1bxWry15Rg7hKzVucMqCiECfeC4?expires=1752633900&amp;signature=91282ae978288017ae06581156f8ec6f8204216b7833a4fad3bbfc968dc657fc&amp;req=dSAhFcx8lIVZW%2FMW1HO4zV5TkYyHGTzI%2BuY99ihmq5HCapdJKwkjID8Zp5SK%0APPhE%0A)
 </div>
 
 
@@ -4785,7 +4785,7 @@ iniciar o cadastro. Dentre os bancos disponíveis, escolha o Cora:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529469/80fd1fe3304f6c6c971aa397/YVpHeBzp1VK8CuxEm58btJOlqllqIpxOH1bEI4eXwSE33R3CXHV2AHEhT3Yz0w9qIB9ZAdytZXnmVUw-iNDohcqQkmvCeY7YBtxAIi-L5pRD0bZlYKrMkK3RgDTnW_iKON0vk4j8XvKu4kRx0LmR58Y?expires=1752529500&amp;signature=10927d4deef1240e6fd8f62c0c87de67e83fdd476102fed99b815d6084e80c66&amp;req=dSAhFcx8lIVZUPMW1HO4zbuE%2BipKZ%2FO1F9d3KowqSfZa4zYroo340TJXUiT%2B%0AIuWK%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529469/80fd1fe3304f6c6c971aa397/YVpHeBzp1VK8CuxEm58btJOlqllqIpxOH1bEI4eXwSE33R3CXHV2AHEhT3Yz0w9qIB9ZAdytZXnmVUw-iNDohcqQkmvCeY7YBtxAIi-L5pRD0bZlYKrMkK3RgDTnW_iKON0vk4j8XvKu4kRx0LmR58Y?expires=1752633900&amp;signature=ff3a08eee8d83d8f9518356099e28d7363804d8c8e43f2f289d5364aec7369e1&amp;req=dSAhFcx8lIVZUPMW1HO4zbuE%2BipJZvm5F9d3KowqSfZneij4yywWyug5A%2BWo%0AYIQ1%0A)
 </div>
 
 
@@ -4824,7 +4824,7 @@ conexão.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529482/fb98fad4e1ac912db4dca105/tKuAADa2QVOfSn1FVKnKRzz28IKna7fg4gs1A_INhFnOfSZwSvTbfwczVz2oCkowx801Un7gygdB6G0kW2DFpokFusIkSpRoqBK-83YHFhzJWvMvIgqYn3hdsOEyl3cP9AreXnNa-1Zwhuq-k2SY7Mo?expires=1752529500&amp;signature=28e8fb485c4b820b0c055ed87646e30878b8fecb0e4771f4fd18b768fd36fe52&amp;req=dSAhFcx8lIVXW%2FMW1HO4zbXp025UlNXs6GrVgaROMvWt2WpXy8ocWcWx5q4V%0A5LGa%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529482/fb98fad4e1ac912db4dca105/tKuAADa2QVOfSn1FVKnKRzz28IKna7fg4gs1A_INhFnOfSZwSvTbfwczVz2oCkowx801Un7gygdB6G0kW2DFpokFusIkSpRoqBK-83YHFhzJWvMvIgqYn3hdsOEyl3cP9AreXnNa-1Zwhuq-k2SY7Mo?expires=1752633900&amp;signature=4cb6cf81d31dde0d5886bc5df2a39e7178cd33a70afcd1f6a7ab1ad9494bde72&amp;req=dSAhFcx8lIVXW%2FMW1HO4zbXp025Xld%2Fg6GrVgaROMvUv1yud4AksLOk9W3VR%0AXfuz%0A)
 </div>
 
 
@@ -4837,7 +4837,7 @@ Em seguida, escolha a conexão da Cora.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529488/e8134e44a7f91f8907c25f48/I5I8ujgtuc-ReKyitQDKvlVqj28xK5S5NwrVedKRBCwlpJCp-KYbOrvSwY39QmNZS9T6xDlA4hBYlwVWwq5Tecp5G9JrSmhP7eKhi7tEeVxFEII9jhVOQwPEJJ4rRJGo5mFcjwk3Cn_7Ho8Jy71UCH0?expires=1752529500&amp;signature=837c8596d943c6f61cb314c2c1f2b9bd9de2fe3782b3f9a9a51da6553cfdb69c&amp;req=dSAhFcx8lIVXUfMW1HO4zdsXlvs5wWYYn%2FYi4NAjTqivc%2B4k9588YAWL5Ppg%0AOloJ%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529488/e8134e44a7f91f8907c25f48/I5I8ujgtuc-ReKyitQDKvlVqj28xK5S5NwrVedKRBCwlpJCp-KYbOrvSwY39QmNZS9T6xDlA4hBYlwVWwq5Tecp5G9JrSmhP7eKhi7tEeVxFEII9jhVOQwPEJJ4rRJGo5mFcjwk3Cn_7Ho8Jy71UCH0?expires=1752633900&amp;signature=b3f4eb3443f45e355c3253cfb1acdcd610205c0d1b988fb5a0dca338e2f77728&amp;req=dSAhFcx8lIVXUfMW1HO4zdsXlvs6wGwUn%2FYi4NAjTqhJ22vmvPrC1XmQWsfo%0Ap%2BC1%0A)
 </div>
 
 
@@ -4852,7 +4852,7 @@ deve dar um nome para essa conexão.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529494/97ebe44570320cb11beb8069/CdKOfTBrn44ad7Z_DPT59SM0jBelseM5RN6WI55gTd964Ft4pbcXZkqXiiuHRr_WjRXAzXQ5-Ij2IPRiGe2qw-F1KKELEmjETrH-LkTyXW2hDQ7WcLUYBojqkCxyuocNA-dois-4hlDHEW3gQhmNeNE?expires=1752529500&amp;signature=a95f5db820301f9f33b63d3b1b8b0578a34574e6c433f0f66b1d4ccfb1aa5a3f&amp;req=dSAhFcx8lIVWXfMW1HO4zZFW3Hs8cOalSlR8JjUG%2FLrH%2FcHfS%2FaceBMdOnQf%0A4%2BPb%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529494/97ebe44570320cb11beb8069/CdKOfTBrn44ad7Z_DPT59SM0jBelseM5RN6WI55gTd964Ft4pbcXZkqXiiuHRr_WjRXAzXQ5-Ij2IPRiGe2qw-F1KKELEmjETrH-LkTyXW2hDQ7WcLUYBojqkCxyuocNA-dois-4hlDHEW3gQhmNeNE?expires=1752633900&amp;signature=b79398cd5b36b8d93e601901870755c04989cfb4fc2c5b0af8ceea45060f4379&amp;req=dSAhFcx8lIVWXfMW1HO4zZFW3Hs%2FceypSlR8JjUG%2FLqKavI%2BN4lbf6VtjtGx%0Akq%2B8%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
@@ -4870,7 +4870,7 @@ que o sistema possa verificar que está tudo funcionando perfeitamente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529505/cdcc26dc9091b9c1b3c11f51/8lfEaxkahOOuhvwJLhEz3rTvu7Mq6-oh0Cji78HKySYIz92Ab0lGKPQ206DoL6I5LgOB74BGTIoe0fl5tNWHLPVerv_uZYV2pJziKdyGyIrS0IDJeGQwa5EFDwqXAp6GTQeIiMzQb7q2AL6G9HfoMgA?expires=1752529500&amp;signature=a95d14d4c17ef7d0640a10ea08f2ffa93cda7346253d3dc0a3e43a52aef11947&amp;req=dSAhFcx8lIRfXPMW1HO4zWp244e3XtbigTtW6ls3s77QCKSxp2kbhWtAHmzd%0AazTH%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529505/cdcc26dc9091b9c1b3c11f51/8lfEaxkahOOuhvwJLhEz3rTvu7Mq6-oh0Cji78HKySYIz92Ab0lGKPQ206DoL6I5LgOB74BGTIoe0fl5tNWHLPVerv_uZYV2pJziKdyGyIrS0IDJeGQwa5EFDwqXAp6GTQeIiMzQb7q2AL6G9HfoMgA?expires=1752633900&amp;signature=33773b8f43f39e03034c34430a675a3bad700ad678614293296df43d5203fec2&amp;req=dSAhFcx8lIRfXPMW1HO4zWp244e0X9zugTtW6ls3s7498FPCM3KgZQghDSRw%0ACL4a%0A)
 </div>
 
 
@@ -4889,7 +4889,7 @@ imagem abaixo e escolha a conexão criada anteriormente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529515/affef89511061b2f9373184b/8sDavod5YkGpAgUo-7IAa7HRCZJTEO8Il0EeCXh5N1yVeaJhw0LD-fq1mRV_uQSpv3doxqrB7N6pS34dpeCkj81X1PrtSEVVCHthJ2FEJIzeLN7cI0mEAoODNu8QUmW49bxXS7cropLJIskIUIcO21w?expires=1752529500&amp;signature=7527d076626fb1d26284795066d8e5e95a159d90055af9d98b88f066aa0efee5&amp;req=dSAhFcx8lIReXPMW1HO4zTfXwFzbnw8Ikn%2FAuKrfkosM9tUT5DCMRDr3HwWh%0AgCsj%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529515/affef89511061b2f9373184b/8sDavod5YkGpAgUo-7IAa7HRCZJTEO8Il0EeCXh5N1yVeaJhw0LD-fq1mRV_uQSpv3doxqrB7N6pS34dpeCkj81X1PrtSEVVCHthJ2FEJIzeLN7cI0mEAoODNu8QUmW49bxXS7cropLJIskIUIcO21w?expires=1752633900&amp;signature=235b834660690eb4b27a2e1ecda0408fc1b8139850ee54bbe56a9e96900ea333&amp;req=dSAhFcx8lIReXPMW1HO4zTfXwFzYngUEkn%2FAuKrfkosS19qtaWlfdTBHI4dk%0A5%2FJB%0A)
 </div>
 
 
@@ -4915,7 +4915,7 @@ em *Recebimentos &gt; Boletos &gt; Gerenciar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063529522/5ef56bf01d00429b49c87eb2/27vUgrBRILOE-iMN905BI3MdKQCMg_EVHv9i46j7gYkBhjMuud5925UpOWkP9KK1xx4lCUgVnNV2vWggCIHauwLkYphACNNXwN2T6pngQJCz86eN98fjZ4NJ0splwg7yWZUJ2Kgu51WVV07nqlMrxqg?expires=1752529500&amp;signature=9067226070fb7af4b9b200746555add7aff9cce5ccaea44751efb44ca4d26329&amp;req=dSAhFcx8lIRdW%2FMW1HO4zSfv90up%2BSz2PzF0E6PPwznt7bqeAm%2Bkv7dXOJin%0AwDji%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063529522/5ef56bf01d00429b49c87eb2/27vUgrBRILOE-iMN905BI3MdKQCMg_EVHv9i46j7gYkBhjMuud5925UpOWkP9KK1xx4lCUgVnNV2vWggCIHauwLkYphACNNXwN2T6pngQJCz86eN98fjZ4NJ0splwg7yWZUJ2Kgu51WVV07nqlMrxqg?expires=1752633900&amp;signature=5ccf1cc9aa204ff4224f838acc3303ff538c963056c514289db6845cdd912c4e&amp;req=dSAhFcx8lIRdW%2FMW1HO4zSfv90uq%2BCb6PzF0E6PPwznZpscHJ3UZdMZXvUy%2F%0AIoKy%0A)
 </div>
 
 
@@ -4972,7 +4972,7 @@ no botão *Acesse com sua conta PJ.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358553/c22f96550dab51cbb44de87a/JBxhKqgMSmS_1H6U1UsVld0UousrODVWncowQc82BdAodc10cSXOZL7d149jSf5rPHL49-UvEPtZ0l7nkhHHJNko0_2mMIMBFElEiFuU_3-a-QMBd8i5cHrryc9dKb6Xj-D7_UtyHW2-Q4xb4bRjkL4?expires=1752529500&amp;signature=d1f67eea330b530976fed9f9ca77a7ac28807ef3d91bc7cea1402a5ec2a5c932&amp;req=dSAhFcp7lYRaWvMW1HO4zd7nFk6vKUG7PEG9ncN%2BggHimPJlS0mbukeReRK0%0AqevI%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358553/c22f96550dab51cbb44de87a/JBxhKqgMSmS_1H6U1UsVld0UousrODVWncowQc82BdAodc10cSXOZL7d149jSf5rPHL49-UvEPtZ0l7nkhHHJNko0_2mMIMBFElEiFuU_3-a-QMBd8i5cHrryc9dKb6Xj-D7_UtyHW2-Q4xb4bRjkL4?expires=1752633900&amp;signature=f6c4d8a7ab90a6d05ff6910778fd1cccabe83cb624e79f974ec7c0b83b92d2c0&amp;req=dSAhFcp7lYRaWvMW1HO4zd7nFk6sKEu3PEG9ncN%2BggHLTcI1tjlecQ3yT69j%0AtHzv%0A)
 </div>
 
 
@@ -5015,7 +5015,7 @@ mas será necessário refazê-lo completamente em produção.</i>
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358580/9f5b662bd3c9b9e1b6b5cf0a/OqOwEPQoTh_7y_WIBdYzMbc07VNynRHTs3uCoUsNytQKAZwUNDv53NaunFlGQnM_GT_d3amMYeov4sCiEDSIyOhlvimFXOBD6MIjwFeqVDNai3Je5Q2kqGuK-8wHoocFeWuNvO-n_2nxGJ6ZFhgGJlc?expires=1752529500&amp;signature=b99e91c01a8d815106913ff53624561fa93a04a43c92cb606f95c6ed999f07c5&amp;req=dSAhFcp7lYRXWfMW1HO4zROFTPXspROGjZYptnF3nezUa55pP220M%2FRkIwLp%0Ar0PP%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358580/9f5b662bd3c9b9e1b6b5cf0a/OqOwEPQoTh_7y_WIBdYzMbc07VNynRHTs3uCoUsNytQKAZwUNDv53NaunFlGQnM_GT_d3amMYeov4sCiEDSIyOhlvimFXOBD6MIjwFeqVDNai3Je5Q2kqGuK-8wHoocFeWuNvO-n_2nxGJ6ZFhgGJlc?expires=1752633900&amp;signature=b2df2c73b68d23045b5b47420294ef6b95ad7978e0fe8c915396eac6ff8159c2&amp;req=dSAhFcp7lYRXWfMW1HO4zROFTPXvpBmKjZYptnF3neybl5%2FYWuRsZZrO28ki%0AoG0f%0A)
 </div>
 
 
@@ -5031,7 +5031,7 @@ produtos, escolha a opção de pagamentos de contas.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358601/cc0707ebbf5464bc7a7325bc/uFHWWvT7pTty0qf4AM_Vc3oFMHAX2oInPCzpFIl2yMItvh6bLF9PZlydAGWz_8fYgfDGyC4gdJp3twossGu4ubTprfffgT2AB1xDx42lzxsuk2KpUc-W_tziT7ZIKWcVIMD9tag4MW8YvMqJbHXgCWw?expires=1752529500&amp;signature=2a8d52e3eb57d8ed547049ddec474445957034a576d94b97adc3af3a6f3e9f2a&amp;req=dSAhFcp7lYdfWPMW1HO4zVElIJTv4QcYgfOuYeoVDzeCenGhXLISpHKsQcE0%0A%2B8PY%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358601/cc0707ebbf5464bc7a7325bc/uFHWWvT7pTty0qf4AM_Vc3oFMHAX2oInPCzpFIl2yMItvh6bLF9PZlydAGWz_8fYgfDGyC4gdJp3twossGu4ubTprfffgT2AB1xDx42lzxsuk2KpUc-W_tziT7ZIKWcVIMD9tag4MW8YvMqJbHXgCWw?expires=1752633900&amp;signature=b376e2b087347a6073ab43da3a4ce96e6e275242a71f7e41a74c0dd6ebdd94b1&amp;req=dSAhFcp7lYdfWPMW1HO4zVElIJTs4A0UgfOuYeoVDzczGo7o4YcttiEVl1ug%0A8hai%0A)
 </div>
 
 
@@ -5050,7 +5050,7 @@ o bloco de notas, uma por vez.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358629/463dcdcaf9984560c25526bc/oQ3x8cAhdhp2AeeG4PYVB7NqFIYNYBuvzoiGpAnhQqMbzuPSqTx00HX3Sr1NxVnNywahwKffubP5KFM-xFiLs58i73m4qVxO91FuvAI4iutqS_y-CifZ7wAM2umNs1yBi4HtCyrgaSznl9Qg5jtKu1s?expires=1752529500&amp;signature=9105cced7e4709bc19ad4c8eeeca0d1e9100df464f2bb21615f972fa3cd62d57&amp;req=dSAhFcp7lYddUPMW1HO4zYB84sEjtO2zPjbnRCDVYF3JfN%2Bb%2F2OzqMXWaIDm%0AoeO%2B%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358629/463dcdcaf9984560c25526bc/oQ3x8cAhdhp2AeeG4PYVB7NqFIYNYBuvzoiGpAnhQqMbzuPSqTx00HX3Sr1NxVnNywahwKffubP5KFM-xFiLs58i73m4qVxO91FuvAI4iutqS_y-CifZ7wAM2umNs1yBi4HtCyrgaSznl9Qg5jtKu1s?expires=1752633900&amp;signature=54561674d5b60cf38d8d7e4ecafd92b52ef655ca6ffe50c471e57f6e3973a276&amp;req=dSAhFcp7lYddUPMW1HO4zYB84sEgtee%2FPjbnRCDVYF3zpckQmDxgzF7etyQd%0AS0t%2F%0A)
 </div>
 
 
@@ -5076,7 +5076,7 @@ a sua conta PJ, clique em Aplicações para ver uma imagem como a abaixo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358653/7b4ef84d7b1089c7d4f09049/kjrlK8taMpfUXtdYJBLAB-zUrvpkiO0ghE4_p5BBG9GqMJM-QMkMoCQwxwtwvGDKIuyJY6-EWe8hTBoB3wxG7OCIaxwaxb2ggHlLIQkFLDEqo86HnoflbiM9LxtV2K4V6uaLexz7rXkVDAKf-36CAkc?expires=1752529500&amp;signature=364a0c3b73905f49758d705f276824af4a2886bfd0d3849b76059f303658805d&amp;req=dSAhFcp7lYdaWvMW1HO4zf3fvA%2BNuM%2FAekFoNDRfDVG06hqw5n2dbkISyNEB%0AXzpu%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358653/7b4ef84d7b1089c7d4f09049/kjrlK8taMpfUXtdYJBLAB-zUrvpkiO0ghE4_p5BBG9GqMJM-QMkMoCQwxwtwvGDKIuyJY6-EWe8hTBoB3wxG7OCIaxwaxb2ggHlLIQkFLDEqo86HnoflbiM9LxtV2K4V6uaLexz7rXkVDAKf-36CAkc?expires=1752633900&amp;signature=7e91d2e2b0dafa7247019d695c7399b44ba334eca320643c1eac264346650c0d&amp;req=dSAhFcp7lYdaWvMW1HO4zf3fvA%2BOucXMekFoNDRfDVEGxgtR%2FfDz0w%2F5A79i%0ABtpt%0A)
 </div>
 
 
@@ -5090,7 +5090,7 @@ novo certificado de acordo com as regras do banco:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358680/469dba2c4cf555dfb0de8e0b/0A0mDM2ElaU5zsgamqkJ7xdwbGXdCsDIklqwLqPZnnWRb_szLdWAifmJG-Y2vOt92VLk7VM2eRM6NxAbeUCZMr5fkCAcw73g2ZxJC9wrYrRTa8HH2TPkxsbu3rjzyhMDLIMMCXwAKu1MF-LeWhL-wrU?expires=1752529500&amp;signature=fa41fd6496cda255ba9a43e7ae49d7db0ac0eb0c2d1b6b6c47f2c85238bff0a5&amp;req=dSAhFcp7lYdXWfMW1HO4za657%2BegG1MDR%2FxogiAx8HktTqHVNunqWXPnw7eN%0AbAM7%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358680/469dba2c4cf555dfb0de8e0b/0A0mDM2ElaU5zsgamqkJ7xdwbGXdCsDIklqwLqPZnnWRb_szLdWAifmJG-Y2vOt92VLk7VM2eRM6NxAbeUCZMr5fkCAcw73g2ZxJC9wrYrRTa8HH2TPkxsbu3rjzyhMDLIMMCXwAKu1MF-LeWhL-wrU?expires=1752633900&amp;signature=c8eb382f185c16d59890cade289611bd9c0c50f0bfe456c76dfb14a7a5d06b53&amp;req=dSAhFcp7lYdXWfMW1HO4za657%2BejGlkPR%2FxogiAx8Hl%2FcQhcBT9ouA8StCjJ%0A8TG1%0A)
 </div>
 
 
@@ -5116,7 +5116,7 @@ botão *Ver Conta* do lado direito da tela.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358707/15f398d653c3b7c7a34cd3d6/XP446PGCDt6LVnkNn0VgDVGJY6okVSmIZO9oN7ICjdLDDznrsFnG-j_X6MR9SkN6TCpQer1pegL1o-jf3M1UwSIo-dHHFAak1IGdKVs41edFmtbxlD6e4JNmcw9CLoSVdq98DL9j-uXi5Tl6NrJS9Ww?expires=1752529500&amp;signature=42b1591baa10989be5cb7d5cb2cf1307538e3d780278b5c61b51d95397218b2a&amp;req=dSAhFcp7lYZfXvMW1HO4zWmBGrgupVcjXFT9Z3PsEP6y1Uy3mobAPL0X7xjf%0A0TXX%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358707/15f398d653c3b7c7a34cd3d6/XP446PGCDt6LVnkNn0VgDVGJY6okVSmIZO9oN7ICjdLDDznrsFnG-j_X6MR9SkN6TCpQer1pegL1o-jf3M1UwSIo-dHHFAak1IGdKVs41edFmtbxlD6e4JNmcw9CLoSVdq98DL9j-uXi5Tl6NrJS9Ww?expires=1752633900&amp;signature=6d9b8990a034af3262d39885922ecfee666e62701aca7be784cdebbde27080fe&amp;req=dSAhFcp7lYZfXvMW1HO4zWmBGrgtpF0vXFT9Z3PsEP7gum16usBkUv9E2vCK%0AHmdK%0A)
 </div>
 
 
@@ -5141,7 +5141,7 @@ Santander para iniciar o processo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358726/db0593b91ee6902e5fac071c/Z-ySoutCrjU-UUDWkhP4dQLPiZtRJsJGDPOOi37utJO-E9hvuU--3KEsx5urnUeNuzm2WzFCTkalge9c5SGTEdLYYD6pOiJ56R3JT7rq8qJ8gTkgR2UG-JqyGbXJwMEWY9k1OiT41Z0GolTqjXZsqM0?expires=1752529500&amp;signature=90c52db8ed4bebd81042b466b52b2515b4c14c53fedf69bcd8d33f19025a90bb&amp;req=dSAhFcp7lYZdX%2FMW1HO4zWTFS4%2Be1k39bb80KOvfiWT79f9hrjzoZ2xaTygg%0ATc7d%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358726/db0593b91ee6902e5fac071c/Z-ySoutCrjU-UUDWkhP4dQLPiZtRJsJGDPOOi37utJO-E9hvuU--3KEsx5urnUeNuzm2WzFCTkalge9c5SGTEdLYYD6pOiJ56R3JT7rq8qJ8gTkgR2UG-JqyGbXJwMEWY9k1OiT41Z0GolTqjXZsqM0?expires=1752633900&amp;signature=c30058073675caf35f43053c37ca4713313f8b5b53d15d7ffa5798220718e49c&amp;req=dSAhFcp7lYZdX%2FMW1HO4zWTFS4%2Bd10fxbb80KOvfiWQs00nAivb0Hd9B7Cai%0AW3UI%0A)
 </div>
 
 
@@ -5159,7 +5159,7 @@ você conferiu anteriormente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358744/3ad56ddd9548ad614d0f94e2/xX_wPAwdL2OgX7MGjvj8lM5noEx8vCylZRJBsUAZXrxsR10KorXozN2vSlx9ZWEadVaTSpNK_z0JIXhNfuHO8niwOVV2a5F0Ni_LTDPAmYxVJ1QS9RlaV8Wh6BcmlLSt8nUcftT0GFDR0ulolrRtHPQ?expires=1752529500&amp;signature=58b134c909fd5f602d1924bd245d3f650fb28dfaa4553ca53feb160a381332fd&amp;req=dSAhFcp7lYZbXfMW1HO4zTTun%2FRpS4Uz1cAVJ953%2FQyTuoolmm8b8az971ZZ%0AmXFZ%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358744/3ad56ddd9548ad614d0f94e2/xX_wPAwdL2OgX7MGjvj8lM5noEx8vCylZRJBsUAZXrxsR10KorXozN2vSlx9ZWEadVaTSpNK_z0JIXhNfuHO8niwOVV2a5F0Ni_LTDPAmYxVJ1QS9RlaV8Wh6BcmlLSt8nUcftT0GFDR0ulolrRtHPQ?expires=1752633900&amp;signature=9002e2e264dafb4a8dd010443fc3d732d5d212b13731b3ed93e9bfc1956a0785&amp;req=dSAhFcp7lYZbXfMW1HO4zTTun%2FRqSo8%2F1cAVJ953%2FQzJC4PMnljkG90AG2wV%0AvRC5%0A)
 </div>
 
 Após inserir os dados, clique no botão *Validar Conexão* para que o
@@ -5170,7 +5170,7 @@ sistema possa conferir as credenciais.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358771/2bc985c01b179271b735bb10/SIvqvyG5fn2oyh2XwB_cGv8OViKq5ui7-nRhQvPbdoCv8HopNK_RI940yxWS2XBIZbHp8Qby9bpak9vMomanUwb8UeX7lCUs7HjDRNBuTpCChl9OjCVCNzFHEX19dtJ_TrR4bZr_4wl951fRrhKfojM?expires=1752529500&amp;signature=192a9bcf449180df61cf205e5d4eabae8c3cabde3f4b2001c9c8fec26a4437cf&amp;req=dSAhFcp7lYZYWPMW1HO4zVK6O3LdFvywLrsIFuU%2BW5kWr0Eq8dlHP9Eo1q4v%0AM4vN%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358771/2bc985c01b179271b735bb10/SIvqvyG5fn2oyh2XwB_cGv8OViKq5ui7-nRhQvPbdoCv8HopNK_RI940yxWS2XBIZbHp8Qby9bpak9vMomanUwb8UeX7lCUs7HjDRNBuTpCChl9OjCVCNzFHEX19dtJ_TrR4bZr_4wl951fRrhKfojM?expires=1752633900&amp;signature=165cf7203572fa692813a13d571de2686561afacb1a801f38170461883dcaf2c&amp;req=dSAhFcp7lYZYWPMW1HO4zVK6O3LeF%2Fa8LrsIFuU%2BW5lBUsVlwZKomt2y2SrX%0Almjn%0A)
 </div>
 
 
@@ -5187,7 +5187,7 @@ clicando no botão *Ver Conta* do lado direito da tela
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358796/20c58cb2575cbee573537053/iAHAtZ5NQhtZoXjKeOueOszkRDAgsBuTHwlFs-J3YCAyvpzHFAt5sB5XWS41OHvBlohkh1W1lFaixYlKE3j_807vLu5dEmpn9Mtit3Sx3ZWBOwq3yDbYjuKSbUXG6-IrUUPbdh8vxrDC4qcQfxs9w5Q?expires=1752529500&amp;signature=d708de3732cd7a25b639dd0cff4d59f65b90de072e144148d929032aad083aef&amp;req=dSAhFcp7lYZWX%2FMW1HO4zeZy3sSWatMfKgkw36NHUcQdsrOm8L3Rm%2FbpHNZ%2B%0AcfLN%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358796/20c58cb2575cbee573537053/iAHAtZ5NQhtZoXjKeOueOszkRDAgsBuTHwlFs-J3YCAyvpzHFAt5sB5XWS41OHvBlohkh1W1lFaixYlKE3j_807vLu5dEmpn9Mtit3Sx3ZWBOwq3yDbYjuKSbUXG6-IrUUPbdh8vxrDC4qcQfxs9w5Q?expires=1752633900&amp;signature=08a1d117b60670bde9a53204e80f06fabfd93938ed5104ffe6f9d6836419d617&amp;req=dSAhFcp7lYZWX%2FMW1HO4zeZy3sSVa9kTKgkw36NHUcQ9UK5gDAeYMOkw50cE%0ABLkf%0A)
 </div>
 
 
@@ -5219,7 +5219,7 @@ abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358824/3dec2e10b6abb0ba54441f43/6S8tTU-yvXLf7s-eChgGQ7N8w5kcVtkqpa2F7NbVpbabqgMjPFgFBCoUz77KR-SnzAOiH30j3jAq0RBSpeCdCSw6MYpnJi4MuaRavugmpKke2kEJ3mGlfitv9Kwc0Iewr73qXZd2dj1v995D5OFkVNk?expires=1752529500&amp;signature=76a55be4ab4e7bc4b8bb0fae685c3167ced95d66a364e6438812065b78d9d2b4&amp;req=dSAhFcp7lYldXfMW1HO4zUoH0u8wsQH5p%2FGPWuDYF5T06NeeQ2EJmc%2FN1NgA%0A5kxA%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358824/3dec2e10b6abb0ba54441f43/6S8tTU-yvXLf7s-eChgGQ7N8w5kcVtkqpa2F7NbVpbabqgMjPFgFBCoUz77KR-SnzAOiH30j3jAq0RBSpeCdCSw6MYpnJi4MuaRavugmpKke2kEJ3mGlfitv9Kwc0Iewr73qXZd2dj1v995D5OFkVNk?expires=1752633900&amp;signature=d641fd950b716d2f9d343f000284e1e0fdff02a00c118232da317d72045f5dc3&amp;req=dSAhFcp7lYldXfMW1HO4zUoH0u8zsAv1p%2FGPWuDYF5Sy0P0bxF5SZZFk4T82%0AoSTq%0A)
 </div>
 
 
@@ -5245,7 +5245,7 @@ abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358845/48fce1ce684ec0c0d2b29d33/tydSKrSTF0S4zuOvtGbQXRxY8jG9G3xNKsrhFBInEGlRqkNrpZ5YMKRWeSdnGD2Hj2KjpiYp9RvNBSIRjWFe3VaTSd9NW3bLlEcmY8vlpGgbDEJRNVwcQJUto_n0kJrI-T7oI3qdfUqycqCa_5EESgE?expires=1752529500&amp;signature=6e658f2a7dde2c1b22e395dd16f2155e98c45be218e11aebf4806549d610bfec&amp;req=dSAhFcp7lYlbXPMW1HO4zTdeSZ3RfhLs%2FwS0bEWVVRyu%2FZfyDbU3EMAe19cd%0AdVSc%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358845/48fce1ce684ec0c0d2b29d33/tydSKrSTF0S4zuOvtGbQXRxY8jG9G3xNKsrhFBInEGlRqkNrpZ5YMKRWeSdnGD2Hj2KjpiYp9RvNBSIRjWFe3VaTSd9NW3bLlEcmY8vlpGgbDEJRNVwcQJUto_n0kJrI-T7oI3qdfUqycqCa_5EESgE?expires=1752633900&amp;signature=462671776b28c85181348d9701c424b002e36aebc5a1dc4bb1c75620dc380805&amp;req=dSAhFcp7lYlbXPMW1HO4zTdeSZ3Sfxjg%2FwS0bEWVVRxU%2BT4kmOkdquNNF1JR%0A9nu8%0A)
 </div>
 
 
@@ -5278,7 +5278,7 @@ abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358869/7a4e1d3521c78ff4dc6e2841/nc5GDLXHB3319TcOGSMfczfeauxRFA74sLGo5n2ap1jDnYK7d3SyKciN1s_CjrUfwc8alZ1ELjhH-2ObXdRH8QjGOF974RsyLQmV1xvVAJ76EF83fUGaMlPq_YbtF1sJMq3Q0ZvHFItbW6a7L2mliAs?expires=1752529500&amp;signature=afd87bcb5b7d3b2b7a76d075e2fb20594cf64a9677203b842b6a097312154ba5&amp;req=dSAhFcp7lYlZUPMW1HO4zQv1A4m%2FjPyO9PzJt%2BALZxAMaghzG1yKHGUdrnFF%0ApSmv%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358869/7a4e1d3521c78ff4dc6e2841/nc5GDLXHB3319TcOGSMfczfeauxRFA74sLGo5n2ap1jDnYK7d3SyKciN1s_CjrUfwc8alZ1ELjhH-2ObXdRH8QjGOF974RsyLQmV1xvVAJ76EF83fUGaMlPq_YbtF1sJMq3Q0ZvHFItbW6a7L2mliAs?expires=1752633900&amp;signature=239b60bf0eeab6abf531af9a010d1011428c4bff9dcd0827bd6560e45f5281e3&amp;req=dSAhFcp7lYlZUPMW1HO4zQv1A4m8jfaC9PzJt%2BALZxAm4aKVv%2BZDytE4cm8b%0Auz52%0A)
 </div>
 
 
@@ -5293,7 +5293,7 @@ operação.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358887/81c6a67e50e14bfaa6140128/NcsLLGKTu28gKxUFalrnCMxSRMmSEXjHGab6PLtPigUlVG8-6PB15Vbdm5f5r9YA2FUmD4ZQXtDxPNGDXsClBZNAKeCN7sMj7JPFb8sq0HE7vr_Kbt29wVIxO-YnDm5ZJjC797WHW_Zmrxv9kdXU8kk?expires=1752529500&amp;signature=56347d74205379b5428a84dd73bbf25155be4874b7414a771ed29cd0bcd15309&amp;req=dSAhFcp7lYlXXvMW1HO4zYxAZPK%2FirhWVZc00JTyVJbMA3xe9KiN2ZkjAVPb%0AMDBT%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358887/81c6a67e50e14bfaa6140128/NcsLLGKTu28gKxUFalrnCMxSRMmSEXjHGab6PLtPigUlVG8-6PB15Vbdm5f5r9YA2FUmD4ZQXtDxPNGDXsClBZNAKeCN7sMj7JPFb8sq0HE7vr_Kbt29wVIxO-YnDm5ZJjC797WHW_Zmrxv9kdXU8kk?expires=1752633900&amp;signature=7a6e5294544541d6a477fedf885fe33a9dbb4a0003256b9892ccfeabcd95d7bb&amp;req=dSAhFcp7lYlXXvMW1HO4zYxAZPK8i7JaVZc00JTyVJYMSHuynmWEBOMANaCD%0Au6FG%0A)
 </div>
 
 
@@ -5311,7 +5311,7 @@ imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358910/157052f4b55641511552018f/GIIZ08xig8vJM9XMtEu8XvFhQZQr7XB1yHrJOVpWPqbcdkLjRZe2_mldlG6IsS8rYd2sgIoKesFSh8JYqvUx2P0t-zZm1ybs1ED0NCN-r1p-svjRPafvkfKMRnMoXoh9ZaUTFM3n4-KSIC9Owxvls1Y?expires=1752529500&amp;signature=dabe51606711fda2ea4717292f59a9ede4b6e5674db4feb4ef6df590f6bfbc18&amp;req=dSAhFcp7lYheWfMW1HO4zYtoFkU%2FSsauCwJ8sEut8x717fLdPxnCFQ2ALL67%0AJRHu%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358910/157052f4b55641511552018f/GIIZ08xig8vJM9XMtEu8XvFhQZQr7XB1yHrJOVpWPqbcdkLjRZe2_mldlG6IsS8rYd2sgIoKesFSh8JYqvUx2P0t-zZm1ybs1ED0NCN-r1p-svjRPafvkfKMRnMoXoh9ZaUTFM3n4-KSIC9Owxvls1Y?expires=1752633900&amp;signature=f59f496efb77a00796e29711aa9fa25961f7cacd71d849cba454efdabaa613cc&amp;req=dSAhFcp7lYheWfMW1HO4zYtoFkU8S8yiCwJ8sEut8x4JkOl7JWhulizXNqrO%0AnfCX%0A)
 </div>
 
 
@@ -5346,7 +5346,7 @@ como na imagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063358938/4a6aae006c7e3d69d1044c1b/ZKgvsaHjZ4Y8yP3cDqke2L88xipXHlcwfVqJ45EBaFFaqoc9kP_P8m9ocOCmy2GWn9YCbg3vmyarw9RMXnfUMscCUMli8yJMlNj0c1J9f9DqFfzyi09LIWYsfuwWCct4IQAajPJ958dpsbPfQeb2SlA?expires=1752529500&amp;signature=b084ec14b79eb283f193edfb21d0cd5704edf0f907b21600245c35830f7c4604&amp;req=dSAhFcp7lYhcUfMW1HO4zZDnfALsN6Aja4hxAAoTWUmvlbaj4CPvGU2iRd4x%0A6K95%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063358938/4a6aae006c7e3d69d1044c1b/ZKgvsaHjZ4Y8yP3cDqke2L88xipXHlcwfVqJ45EBaFFaqoc9kP_P8m9ocOCmy2GWn9YCbg3vmyarw9RMXnfUMscCUMli8yJMlNj0c1J9f9DqFfzyi09LIWYsfuwWCct4IQAajPJ958dpsbPfQeb2SlA?expires=1752633900&amp;signature=9702ad96b434c793198ae88d3da54f01ef2eb50d1f7bf96aa9551edd568992cc&amp;req=dSAhFcp7lYhcUfMW1HO4zZDnfALvNqova4hxAAoTWUmLSnX%2FWL0ZXQhHbCmY%0AX4S%2F%0A)
 </div>
 
 
@@ -5444,7 +5444,7 @@ em vigor. Para finalizar, clique em <i>Salvar alterações. </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057545666/6399858dda28195b3031e727/wDGaoFCE1vhMbfHBqL3s_bI22JqH34wJ9CLJLJKUwWx6gDQ2YqL90JXAyRtnn8kVS8MDSTJheMnd7mTAIDfJn_e-LjrCfdvdWJFbzcKuRS5ViqOFXhk3a1kGaq_p2IKyQbo4Ph_NfMRQiO-UDxBTqao?expires=1752529500&amp;signature=799f069085c2bf75a4dadb84b43b2ad4c7a6b4fcb8cb3dd9d76daf9423ba7ae2&amp;req=dSAiEcx6mIdZX%2FMW1HO4zRA0b4hiOauKS8tvm3LDeK%2B1iRAqCTlpXaLGPwYd%0Anw%2Bh%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057545666/6399858dda28195b3031e727/wDGaoFCE1vhMbfHBqL3s_bI22JqH34wJ9CLJLJKUwWx6gDQ2YqL90JXAyRtnn8kVS8MDSTJheMnd7mTAIDfJn_e-LjrCfdvdWJFbzcKuRS5ViqOFXhk3a1kGaq_p2IKyQbo4Ph_NfMRQiO-UDxBTqao?expires=1752633900&amp;signature=9b38dfcb96836c0b92e4dd4f0a7749218b43bf059c65afed3d22ad37f15235ba&amp;req=dSAiEcx6mIdZX%2FMW1HO4zRA0b4hhOKGGS8tvm3LDeK8CHHWsKlH%2FoyXY1gxI%0As5H8%0A)
 </div>
 
 
@@ -5469,7 +5469,7 @@ todas as instruções:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057545680/6a5ed1f7c203bc66e0a3bbe1/R01vqlnQVozGM5Dhgl1HDnUBvKKkUWE7HQSGzPrcyU3f9PNld7Y-rjt1h-24ULMmbxn5aAaPhzPPRk1UsJxtngyvs-z7pHosNO16JGmxKgptG1MiFi30j-JSQ8fRRrPEF5E09Cc78xTLNhkH8S4ofxk?expires=1752529500&amp;signature=08f20c8f2c4d5685a4f0db825f5271d7c0e895078c5f9d2764a3bed8f9d4f79f&amp;req=dSAiEcx6mIdXWfMW1HO4zXWKLnMBKDOiJjQIDrPhUKJrpu5QfJYmB%2BdWFhAw%0A0AaI%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057545680/6a5ed1f7c203bc66e0a3bbe1/R01vqlnQVozGM5Dhgl1HDnUBvKKkUWE7HQSGzPrcyU3f9PNld7Y-rjt1h-24ULMmbxn5aAaPhzPPRk1UsJxtngyvs-z7pHosNO16JGmxKgptG1MiFi30j-JSQ8fRRrPEF5E09Cc78xTLNhkH8S4ofxk?expires=1752633900&amp;signature=575d0699e52cf9376690eac0af3b43b5262a420beee012e00f48206191d04305&amp;req=dSAiEcx6mIdXWfMW1HO4zXWKLnMCKTmuJjQIDrPhUKItuUq2tzBalNLbfwLH%0A%2Fq%2B1%0A)
 </div>
 
 
@@ -5533,7 +5533,7 @@ escolha a opção do SPC:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057533728/460ab8efaa6e338e5a5aef72/tVFlbeGaQKeJTId2LUuNg2jn_TUw-eihxDwsZSmj07iLbo1AioJd5YdiCQlakdCoqSkt7B5ZQxmONem0NsKFgK6dp1u_Sjp7QwvnMFhD6xa-2YSJ2BStiyKV-vLwAxfEgI3uupHgDgE6_FPjMZKtNFw?expires=1752529500&amp;signature=78c2a5e9ba593824e3ec277c8ab64ee3bbf0aa134b92518b7285f1d831630433&amp;req=dSAiEcx9noZdUfMW1HO4zTq1rm%2Fjtxw0ybMHD7z8%2Ff0%2FvQTpzWpPmBwEd4SM%0AbUFY%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057533728/460ab8efaa6e338e5a5aef72/tVFlbeGaQKeJTId2LUuNg2jn_TUw-eihxDwsZSmj07iLbo1AioJd5YdiCQlakdCoqSkt7B5ZQxmONem0NsKFgK6dp1u_Sjp7QwvnMFhD6xa-2YSJ2BStiyKV-vLwAxfEgI3uupHgDgE6_FPjMZKtNFw?expires=1752633900&amp;signature=dc71a7016e5a2c2d93c2ae71a826c20250a2a193d508a64101187dbb29d65776&amp;req=dSAiEcx9noZdUfMW1HO4zTq1rm%2FgthY4ybMHD7z8%2Ff2dwCvQOv9yKu6T%2BjBB%0AflVA%0A)
 </div>
 
 
@@ -5547,7 +5547,7 @@ e senha), dê um nome para a conexão e clique em *Salvar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057533747/41a91d0d9e1dcb5d6121b06c/h2p7-YwOOzRXA9x1FLZKh6oz0qFZ5HyM0XIF_WLXfz6eT5L569rTaUH4vOKJA4eViXvT5W2csfwPFijARyEUF3epxk2FJZ9FFF9PelpoyEJhGpnzvskEMyFA_otimRt2kbvII9t9Z4P9VP926doeys0?expires=1752529500&amp;signature=9ae94b0593dc90b2e007524f4a05ecf01c61cf4e2edaae3ba2367a6ed126530b&amp;req=dSAiEcx9noZbXvMW1HO4zYdChDkeYTNAGCpX3gD3PgoH9q0zm%2FrgFSoOyhcz%0A0dsu%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057533747/41a91d0d9e1dcb5d6121b06c/h2p7-YwOOzRXA9x1FLZKh6oz0qFZ5HyM0XIF_WLXfz6eT5L569rTaUH4vOKJA4eViXvT5W2csfwPFijARyEUF3epxk2FJZ9FFF9PelpoyEJhGpnzvskEMyFA_otimRt2kbvII9t9Z4P9VP926doeys0?expires=1752633900&amp;signature=5afea230677fe5610c01c015d63594dd7ded62d1737b64ca23677935d279340e&amp;req=dSAiEcx9noZbXvMW1HO4zYdChDkdYDlMGCpX3gD3Pgq67K3umsQyHsJX2fDy%0At2Lf%0A)
 </div>
 
 
@@ -5561,7 +5561,7 @@ verificar que está tudo correto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057533759/23f02f9a64405bf6a5babcb8/8i4lKEra4dwwyYJuUfOHo53-on56ZLgWU5qplZHOHIPrJCQ6Fo5uqVmIxNFhkn9KeFfBF5Pt0TIiaNIx6GTShVS6SGCeHRMbnqWLmPVuXXd43Ss-FocXA2yDO_WDZnbpPjVwL9pX47QNadHWmeeBB28?expires=1752529500&amp;signature=f2bf185da616a1b0d19d56528ce3c00610f63568cc04d7f12205360116016152&amp;req=dSAiEcx9noZaUPMW1HO4zc8XrO%2BTSF8ATYuP8%2FLeLiXzA30K5CfoHqhBRaBI%0ASwGh%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057533759/23f02f9a64405bf6a5babcb8/8i4lKEra4dwwyYJuUfOHo53-on56ZLgWU5qplZHOHIPrJCQ6Fo5uqVmIxNFhkn9KeFfBF5Pt0TIiaNIx6GTShVS6SGCeHRMbnqWLmPVuXXd43Ss-FocXA2yDO_WDZnbpPjVwL9pX47QNadHWmeeBB28?expires=1752633900&amp;signature=448aca5e2c05e03a62a69e62bbbca597a012cd006e3bcae73d27c7a93103b100&amp;req=dSAiEcx9noZaUPMW1HO4zc8XrO%2BQSVUMTYuP8%2FLeLiVmD5UmnPf%2FsBJAXISb%0AjkCC%0A)
 </div>
 
 
@@ -5577,7 +5577,7 @@ pode definir um número máximo de restrições por cliente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057533775/ccbf95acb1d6159f3338ea95/dIbBinjBiyUJH1re4m1QNbM9rxazIJYsuZN9skpqkixarOaMdHJdOy9atNuNiZ4LrtjzQKbRbhA861OMcT4UWwfpKnoWFIQTXp9kRcKhqZathVZLXlEKtvfhSFWyYAqiSXCfodX75pqOJqlLJqUTmJo?expires=1752529500&amp;signature=d5239b6020aa18a6e7feb1781aad56ba5898b03dfe0b94415fe54a787e370224&amp;req=dSAiEcx9noZYXPMW1HO4zTxynuY8PpvzVqEmZ62ZMsP4YNaPqd8xUdupdbey%0Aij7J%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057533775/ccbf95acb1d6159f3338ea95/dIbBinjBiyUJH1re4m1QNbM9rxazIJYsuZN9skpqkixarOaMdHJdOy9atNuNiZ4LrtjzQKbRbhA861OMcT4UWwfpKnoWFIQTXp9kRcKhqZathVZLXlEKtvfhSFWyYAqiSXCfodX75pqOJqlLJqUTmJo?expires=1752633900&amp;signature=62ffc28319aaeef1b2b9e9978e71aabc1317a087ce92814aa09cee0753996bef&amp;req=dSAiEcx9noZYXPMW1HO4zTxynuY%2FP5H%2FVqEmZ62ZMsMLEjd96aL4yrB6JNVZ%0AH3YB%0A)
 </div>
 
 
@@ -5603,7 +5603,7 @@ negativação para um boleto 30 dias após o vencimento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057533786/e1c88d69eaf7dd2d6823a948/pOFFVQH_hsKgBWst5CuidIenc2mtL08Gfo-DGySqOAz_OQ01mhYtwSNuX0S_-ma5D6BWpf1V-3BYq25TFErpXenIfv5Xw86Nk21rGBCoCBaoAkmE6Wyv66PucsRfk_J3aPbmQJSYAwtQgoIR0VKIfTI?expires=1752529500&amp;signature=c4621e12c8a7260b684ecc3ecf3fa9b70bba63884c727a78d23a0af5afc2a911&amp;req=dSAiEcx9noZXX%2FMW1HO4zcdn6cuqNMAaGRsJMtoJE6tKHNnDbtdEz33qQ4KR%0Atmoj%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057533786/e1c88d69eaf7dd2d6823a948/pOFFVQH_hsKgBWst5CuidIenc2mtL08Gfo-DGySqOAz_OQ01mhYtwSNuX0S_-ma5D6BWpf1V-3BYq25TFErpXenIfv5Xw86Nk21rGBCoCBaoAkmE6Wyv66PucsRfk_J3aPbmQJSYAwtQgoIR0VKIfTI?expires=1752633900&amp;signature=65dc196895afdc50ef02321ee5f8eb81f196b61e13d83327c04de8ad1b895323&amp;req=dSAiEcx9noZXX%2FMW1HO4zcdn6cupNcoWGRsJMtoJE6vh%2FvwlY73cqwbAdDDJ%0ATHu1%0A)
 </div>
 
 
@@ -5622,7 +5622,7 @@ possibilidade de jamais restringir o seu crédito.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057533798/84b5a06b2038c05ed6d8b593/lpUODHLU5sm2Txn1kAUr0z7YO3KDF8gEOlu9HV2D2JzvfL3D1LqkLf_iirON1cONLGdhxzrVVPfwHJOuLDEUFeP2aFIDSvbgQP_BwWDXf0dC16E7UFcw2ccSpF_VyfrnYuCEV9tcWidn6DYJZ9uT35M?expires=1752529500&amp;signature=a10f6309f18903102450751586a9b84c5785763fc33211b0c1ea9ad9ded32adf&amp;req=dSAiEcx9noZWUfMW1HO4zaxE6D0N8nMEVVPJslWY9vp%2FiLqN09RmyqdD4JUc%0ATcGV%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057533798/84b5a06b2038c05ed6d8b593/lpUODHLU5sm2Txn1kAUr0z7YO3KDF8gEOlu9HV2D2JzvfL3D1LqkLf_iirON1cONLGdhxzrVVPfwHJOuLDEUFeP2aFIDSvbgQP_BwWDXf0dC16E7UFcw2ccSpF_VyfrnYuCEV9tcWidn6DYJZ9uT35M?expires=1752633900&amp;signature=5cb59266ae677ddb315f3d9beb9b07f452868bc60a7a7d272322664dea50a31e&amp;req=dSAiEcx9noZWUfMW1HO4zaxE6D0O83kIVVPJslWY9voGsWyvBEvG02D5MYS0%0Aiy6z%0A)
 </div>
 
 
@@ -5675,7 +5675,7 @@ criar uma nova restrição.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057533804/3df72ab5625c9b8bcc034311/8AXYfUD0EA6mJaFt1Uut4LIP7ACYyBc39iEnR7c263S4TS0TfXLaGKTFZkK6sk1DIOmgWIgKp1TCsWwpEZMP2DCO0pP4V9MSpS4j9ATCb62wHZ-g55B42rWy-4FUlZwMG9JJR1XT85KqjpSxa2YN6Nw?expires=1752529500&amp;signature=67d8cabdc2a55b17d1fdd5fd531e080219c57ddfdd0f05ba94a8de73961c5d7c&amp;req=dSAiEcx9nolfXfMW1HO4zU8aM4iZbvHYBWkEwMocDbBiNHxCjils8d8xzYUl%0Ay0uG%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057533804/3df72ab5625c9b8bcc034311/8AXYfUD0EA6mJaFt1Uut4LIP7ACYyBc39iEnR7c263S4TS0TfXLaGKTFZkK6sk1DIOmgWIgKp1TCsWwpEZMP2DCO0pP4V9MSpS4j9ATCb62wHZ-g55B42rWy-4FUlZwMG9JJR1XT85KqjpSxa2YN6Nw?expires=1752633900&amp;signature=5b0b7c24454aecd7f8ed6b21a16f010339fea2eba8d93577a08ccf7939f05119&amp;req=dSAiEcx9nolfXfMW1HO4zU8aM4iab%2FvUBWkEwMocDbBwuvTSEdDI53e9Phga%0Aviye%0A)
 </div>
 
 
@@ -5717,7 +5717,7 @@ acesse a Kobana e clique em <i>Recebimentos &gt; Restrição de Crédito
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1057533817/48c48a686d9c16a8417d47a3/hldWFOdzAz9fN_Rhhc9saGsQyCkL-68Uq-LeOncDM7-LJ0xVHNWQDtynQcxD-2ZfjI8P4grKrMOUJ2cjq9SRTXT4fP8g8Y1iv_pSf79PXFRTAbLRRD72F4EJOSm0zqvzqTMsvyDwb8bncl3OyE7sxIg?expires=1752529500&amp;signature=cfb460e7540aa2c3588d18cf96a41b95c975842f00396da0e3df6e0c7b3053c0&amp;req=dSAiEcx9noleXvMW1HO4zdOVzLPFbZfRf2QmMESyVfNqLEHh31m2jws0gCOk%0ArC77%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1057533817/48c48a686d9c16a8417d47a3/hldWFOdzAz9fN_Rhhc9saGsQyCkL-68Uq-LeOncDM7-LJ0xVHNWQDtynQcxD-2ZfjI8P4grKrMOUJ2cjq9SRTXT4fP8g8Y1iv_pSf79PXFRTAbLRRD72F4EJOSm0zqvzqTMsvyDwb8bncl3OyE7sxIg?expires=1752633900&amp;signature=03d4a5ec159eca122a2f22873521c32d9b97fcd0e1a1b810a839c14ddef53427&amp;req=dSAiEcx9noleXvMW1HO4zdOVzLPGbJ3df2QmMESyVfPnbjEBk%2FGpKDGtXQfp%0AHOBb%0A)
 </div>
 
 
@@ -5880,7 +5880,7 @@ clicando no botão <i>Ver Conta </i>do lado direito da tela.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046519298/31865ee6618a18111f9b6a5c/sVMa9DzznAkUT8I1ilXNl4hEXJO2V9cbaUxSiy9FVe4MZO876eW23ITqEieqw1z9ByH3LCNbi8prn95PCc1FaHqGJyCDsU4U5kZKTPBM-1a60MZ0v_Hjhs2xup9f-AMBFMm_7Q9uS3wo5eWNcwPSl7o?expires=1752529500&amp;signature=93c7a7a45a96c1de3ecbb6c3ed71fd6f0a507532e3620f9ed3c254fed259a741&amp;req=dSAjEMx%2FlINWUfMW1HO4zSWOU71NJNVQ7VwGrInIcSuxFJkGeCkwdYcagVYp%0AxKR4%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046519298/31865ee6618a18111f9b6a5c/sVMa9DzznAkUT8I1ilXNl4hEXJO2V9cbaUxSiy9FVe4MZO876eW23ITqEieqw1z9ByH3LCNbi8prn95PCc1FaHqGJyCDsU4U5kZKTPBM-1a60MZ0v_Hjhs2xup9f-AMBFMm_7Q9uS3wo5eWNcwPSl7o?expires=1752633900&amp;signature=2b3f5012f6933b53067b755002ae214939e83a7602033cee18eb0ed5ee0137e0&amp;req=dSAjEMx%2FlINWUfMW1HO4zSWOU71OJd9c7VwGrInIcSsJYdF4oZMczsiojiPf%0A1N6i%0A)
 </div>
 
 
@@ -5899,7 +5899,7 @@ feita, e você só deve trocar caso queira usar outro banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046519316/02ee3870c59102bc0c8a0175/pZWr7iwgYYqZxvpmqLZgqomz3Oqqb2FyW9STYD6mJ1BP8H_ent3fl47QL-DIm-pxiTv0gBWzPVnS5nokgkFpJG4JJ5iCfo6IcjUuDx8FgZAS_u_vGfELS8h8C0TV_sO_5LmS3PtuGnuprKGuApZjoOU?expires=1752529500&amp;signature=42c28729de6e735e8ef91c66fd8534ce7355858fad91ef988043e8b671917ea7&amp;req=dSAjEMx%2FlIJeX%2FMW1HO4zclSzZGNRUqWuTC3%2FXp7CUBh8yGuJEa2YwtmE4zO%0A7MUq%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046519316/02ee3870c59102bc0c8a0175/pZWr7iwgYYqZxvpmqLZgqomz3Oqqb2FyW9STYD6mJ1BP8H_ent3fl47QL-DIm-pxiTv0gBWzPVnS5nokgkFpJG4JJ5iCfo6IcjUuDx8FgZAS_u_vGfELS8h8C0TV_sO_5LmS3PtuGnuprKGuApZjoOU?expires=1752633900&amp;signature=f2e81ab3dcd23e8222cd027ebc58f0138f42b254d5bb26876059f80f6ace2fda&amp;req=dSAjEMx%2FlIJeX%2FMW1HO4zclSzZGORECauTC3%2FXp7CUBeiJva%2BOpiApj45Ssr%0At3nV%0A)
 </div>
 
 
@@ -5927,7 +5927,7 @@ inserir o número de convênio de pagamento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1252127361/a7e9454e98b61a240ca16da49783/image.png?expires=1752529500&amp;signature=791d8b22d033feeefaf772ec7a5fc45446e26e08c30c1151e6fbaeaeda1f527e&amp;req=dSIiFMh8moJZWPMW1HO4zR8y3AssRelg4RuoNKQtlfkaeLCn0AadzqPBLRcR%0Adimy%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1252127361/a7e9454e98b61a240ca16da49783/image.png?expires=1752633900&amp;signature=aad9bef2ba4bf4bb256bd2a449bee3727467828a1e83aeef49cef8f4201c9e1a&amp;req=dSIiFMh8moJZWPMW1HO4zR8y3AsvRONs4RuoNKQtlfm7GyX8ndI4t6lNTN0O%0AYZfJ%0A)
 </div>
 
 
@@ -5951,7 +5951,7 @@ exemplo abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046519344/9444ae73c80bd92f30ed00c9/Ou59PC_dFftqRu_tSZEOgcwK0Q-mjzguItJ08MKW0MKTFrNEEPnICNW-cIoJx2MQaT6FoOXUYaZC9UDI2aGI-o2ZrtX63-n0sIdjhvtN1rJ1Nm5wYU2DFbTt1qwuaM8H_O6QDIji8CLN8HJz4PTZVwU?expires=1752529500&amp;signature=0fdc0470cce59f80dc2af94a3754ec1fd5af1ca021be9986d28ead3ce6dfc026&amp;req=dSAjEMx%2FlIJbXfMW1HO4zXvwjgqi9qQU9b4gBozL1gZkf8DZfYIhU63wLckf%0Azfdw%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046519344/9444ae73c80bd92f30ed00c9/Ou59PC_dFftqRu_tSZEOgcwK0Q-mjzguItJ08MKW0MKTFrNEEPnICNW-cIoJx2MQaT6FoOXUYaZC9UDI2aGI-o2ZrtX63-n0sIdjhvtN1rJ1Nm5wYU2DFbTt1qwuaM8H_O6QDIji8CLN8HJz4PTZVwU?expires=1752633900&amp;signature=42d2fc1e7a648b48fd7bfc34161f517d789eb7dc0c9fd9d7fabd2027a78e7e8c&amp;req=dSAjEMx%2FlIJbXfMW1HO4zXvwjgqh964Y9b4gBozL1gZdYAu8ElW%2FiryvQHQW%0AfoZK%0A)
 </div>
 
 
@@ -6012,7 +6012,7 @@ exemplo abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046519353/740c35d0515cc79a5575a5d7/tNmMfFChkIImU-XO_PL03VQ0UqwWEcUIL2sialgJwFw9Ay2xMdjtR0xW2eBKl2yNdL7nseCjkzG1N_24x1nSuLstecgh_eIDku99PHUlf3YpWMkwZor2ZNOyoWXvXRwXgbjRrz_bNpGvy3zKJcMCGcc?expires=1752529500&amp;signature=24312b6ac33fdc5960f2d34d36f9cbe3440b2b55e42ff555d01f16093a3fef17&amp;req=dSAjEMx%2FlIJaWvMW1HO4zSWfDj6a8nishV2s%2F1J%2B%2B7jbi76Tw9bHeMiLoA9c%0A9k05%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046519353/740c35d0515cc79a5575a5d7/tNmMfFChkIImU-XO_PL03VQ0UqwWEcUIL2sialgJwFw9Ay2xMdjtR0xW2eBKl2yNdL7nseCjkzG1N_24x1nSuLstecgh_eIDku99PHUlf3YpWMkwZor2ZNOyoWXvXRwXgbjRrz_bNpGvy3zKJcMCGcc?expires=1752633900&amp;signature=378a87464e298958d5fe37245d7820541fbb97d6efb6a779d9e21cb3614ee20c&amp;req=dSAjEMx%2FlIJaWvMW1HO4zSWfDj6Z83KghV2s%2F1J%2B%2B7g2C6gXeTGkaiD9Z5HA%0AjAQG%0A)
 </div>
 
 
@@ -6047,7 +6047,7 @@ transferência.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1316074954/8d66aa83b62587b29b009070508c/image.png?expires=1752529500&amp;signature=1399c4b345ac27a53f5ce35db40b19c10e6276888426cd8e9eca5edb356e1bf3&amp;req=dSMmEMl5mYhaXfMW1HO4zYjz0urCaPCHfZTbJJycPn8yMYj%2FRezF%2F6vbmhr1%0AGmn1%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1316074954/8d66aa83b62587b29b009070508c/image.png?expires=1752633900&amp;signature=6db91efdd9e1a44206d398d008bc4c7f96d797a02769252197078474f13efc9b&amp;req=dSMmEMl5mYhaXfMW1HO4zYjz0urBafqLfZTbJJycPn%2FfiW%2BK7xjYB6OjIMVS%0Aj7jT%0A)
 </div>
 
 
@@ -6072,7 +6072,7 @@ importação. Se isso não ocorrer, você pode achar essa informação em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046519368/029719154ecd0703ae772f0c/oBPrBi8M2ySI1RyAiYEwUClrjAqReNupH7v_h-dsyQEioAsqAxusBm2L9zWYpZ89ktbv2gvHIH8N4gYx9gPfV_pOiVUYFsgsYg6fyB8s_xzleojLNaljKZOQLqU9RYqzPEP1m3vdwRpqcdceG-Hx72o?expires=1752529500&amp;signature=beca48ad6eb51a7a68233d0dd8675394af77e2c3ed10ddb21d37639ba7f0d9fa&amp;req=dSAjEMx%2FlIJZUfMW1HO4zfUpW0%2FQXuLXozE1NMcw4D2a8Bgw80WhzLuMGPSi%0AwZPN%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046519368/029719154ecd0703ae772f0c/oBPrBi8M2ySI1RyAiYEwUClrjAqReNupH7v_h-dsyQEioAsqAxusBm2L9zWYpZ89ktbv2gvHIH8N4gYx9gPfV_pOiVUYFsgsYg6fyB8s_xzleojLNaljKZOQLqU9RYqzPEP1m3vdwRpqcdceG-Hx72o?expires=1752633900&amp;signature=941258a880ad959c503fe6d2a44107a64a26d87039d5876ff9b2518ec2fb44e6&amp;req=dSAjEMx%2FlIJZUfMW1HO4zfUpW0%2FTX%2BjbozE1NMcw4D3ce1uAbNcDtwYFnLSw%0Aj0jS%0A)
 </div>
 
 
@@ -6098,7 +6098,7 @@ seguida no botão para *adicionar a um lote*, como na imagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046519376/f81467c19bdbfa3a842b6b92/72atHQlqsHKJNnHwtmxtVdDAEHhYL6lF6Q01gasl0mjW7iWjuvUT-bheIb3jx6OJgG0mNDmF1zdFYXbis6Geg2yARHR-P3fcGvbpFLimopxf2Gpb1vnGavPLhhkWb0sa4n-1lcsdE_eBlavPpkTJIaA?expires=1752529500&amp;signature=4709d3ff2ea85b99c93a5f3871420fa5f5fe29edefee6c88e863ca1d204bf812&amp;req=dSAjEMx%2FlIJYX%2FMW1HO4zfWcdHwJKDFDm4icT4a4B8b0ZusCxDHxwH3RWAtP%0AS8o%2F%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046519376/f81467c19bdbfa3a842b6b92/72atHQlqsHKJNnHwtmxtVdDAEHhYL6lF6Q01gasl0mjW7iWjuvUT-bheIb3jx6OJgG0mNDmF1zdFYXbis6Geg2yARHR-P3fcGvbpFLimopxf2Gpb1vnGavPLhhkWb0sa4n-1lcsdE_eBlavPpkTJIaA?expires=1752633900&amp;signature=573a748f41427439d3c4e563cef8b01a813fdc98bd2d8c23dbd6defb9714469c&amp;req=dSAjEMx%2FlIJYX%2FMW1HO4zfWcdHwKKTtPm4icT4a4B8YbzcXAZ05E7PvboNtY%0ACmIC%0A)
 </div>
 
 
@@ -6263,7 +6263,7 @@ clicando no botão <i>Ver Conta </i>do lado direito da tela.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523504/c1763f01890c68043c33cf0d/1kNd8YHVGC2AszODzVE3-DZsTllWRls5IRwmOoyH8AcTsaLvZAT9dS4_EBW-vnM6_PnTRhoJa0RmO3PwfuL1hMiWu250vnBrLcml0insZKnehrHa_RXbsNRUOhhbcOQUGNzOTrUS6YS0_rUc7oCgtYU?expires=1752529500&amp;signature=930d8ebf03ec02c174e329bdacedc24ccf8d877c84bc54d4c9368a72dbbdb29b&amp;req=dSAjEMx8noRfXfMW1HO4zX%2BISft0R9sa6KEXlKQYHD9FFF5iCWdKkbHVoMM6%0ACHuP%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523504/c1763f01890c68043c33cf0d/1kNd8YHVGC2AszODzVE3-DZsTllWRls5IRwmOoyH8AcTsaLvZAT9dS4_EBW-vnM6_PnTRhoJa0RmO3PwfuL1hMiWu250vnBrLcml0insZKnehrHa_RXbsNRUOhhbcOQUGNzOTrUS6YS0_rUc7oCgtYU?expires=1752633900&amp;signature=3a5d50a8c83ffd63468f3cc71e4e6b4388b2881c647f1be9d62006492924de97&amp;req=dSAjEMx8noRfXfMW1HO4zX%2BISft3RtEW6KEXlKQYHD8jxJ96hIBxkZJnAAYG%0A%2FqsF%0A)
 </div>
 
 
@@ -6279,7 +6279,7 @@ feita, e você só deve trocar caso queira usar outro banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523522/b9288adbe002925c39f0f6e2/Smblw3J1ZIyNwzgfO-OOl9c4qzM-XjFBzqpIb43ggduUXCNRIuwH8RpnmCA-Kn8dH2EHui3-WnQlMTqD9SFIMY3NN5dpXg-7BHcXlu35H6grYlhIBEqyGf1lyblRpVPYea6aX0Z9fAU2w7PFQtUA1C0?expires=1752529500&amp;signature=f4e20dfe96ba7fed2afeeac6e8df1c40b9f8f373552f36e412fa0b7b4f890acc&amp;req=dSAjEMx8noRdW%2FMW1HO4zS8qF%2BHiciEyVAjRlm42rjcjRRtuSPh0G%2FbcTfHZ%0AYxFv%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523522/b9288adbe002925c39f0f6e2/Smblw3J1ZIyNwzgfO-OOl9c4qzM-XjFBzqpIb43ggduUXCNRIuwH8RpnmCA-Kn8dH2EHui3-WnQlMTqD9SFIMY3NN5dpXg-7BHcXlu35H6grYlhIBEqyGf1lyblRpVPYea6aX0Z9fAU2w7PFQtUA1C0?expires=1752633900&amp;signature=f21975745189d3af242f9bb2172756c23d1fef36e3dded97ea94a1c69d0a6fd2&amp;req=dSAjEMx8noRdW%2FMW1HO4zS8qF%2BHhcys%2BVAjRlm42rjc8GxBuAp68IkgtzWRY%0A8DbK%0A)
 </div>
 
 
@@ -6304,7 +6304,7 @@ inserir o número de convênio de pagamento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523537/0e66fdde3a8b840cdee503ab/oi90vEHSwE5iJxB58407SJIbR0dTaF4uG0So6TCEQdEEBavrZx2DFBJLild_ZIOk9QSKLEj5A7h7MX6QM8Yvt3YHDARgfTOFh6zRcUxu-WR4G3PDGYcZwjusoxP9XWgpmt3j72tndN1g9gmyOvcoNvU?expires=1752529500&amp;signature=4fe82534d62ed8a9857bafaa957b6b55dbb3b70e9b8cb24a8d93f05ccbdcac75&amp;req=dSAjEMx8noRcXvMW1HO4zdY99szperSlJnq%2FgoufsqTVtDTcQEjhjaBl8PqO%0As1Av%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523537/0e66fdde3a8b840cdee503ab/oi90vEHSwE5iJxB58407SJIbR0dTaF4uG0So6TCEQdEEBavrZx2DFBJLild_ZIOk9QSKLEj5A7h7MX6QM8Yvt3YHDARgfTOFh6zRcUxu-WR4G3PDGYcZwjusoxP9XWgpmt3j72tndN1g9gmyOvcoNvU?expires=1752633900&amp;signature=964ca0f8ac3e2252592fdd14aeb67e88647b0d2f9bdd3c39bb2249cc049e3329&amp;req=dSAjEMx8noRcXvMW1HO4zdY99szqe76pJnq%2FgoufsqRZtDSeOCslV4uAsayC%0AgwQA%0A)
 </div>
 
 
@@ -6329,7 +6329,7 @@ exemplo abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523560/5e28c7c834edb7724cf767b9/0_QfDbL1M92rV-KOm5LdIH8hiVeJAHLJFqgdQkve_R9I2QEPYMl3_5NWAdinxBSj2V3QwEQFhtMlNEpUKvwbWtAck1bdNRWAn_FgWcYE1e2yqwNnNsLzbQK-tryCos6h5Pb0z3dqp2ODUAT_auhKEgg?expires=1752529500&amp;signature=c34f6dbe0031954642410095c7bf96b589457239f94d6191ffd8ff53adebcb45&amp;req=dSAjEMx8noRZWfMW1HO4zQPbdzPDUCwVwl%2FEhUXWfQTa%2BaNjHC1Pz9OAVW56%0AM4oa%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523560/5e28c7c834edb7724cf767b9/0_QfDbL1M92rV-KOm5LdIH8hiVeJAHLJFqgdQkve_R9I2QEPYMl3_5NWAdinxBSj2V3QwEQFhtMlNEpUKvwbWtAck1bdNRWAn_FgWcYE1e2yqwNnNsLzbQK-tryCos6h5Pb0z3dqp2ODUAT_auhKEgg?expires=1752633900&amp;signature=d8c9976ec0dcdd3f8998ad31e10332e7c09fc2ecffb27d0680428cd03eae226c&amp;req=dSAjEMx8noRZWfMW1HO4zQPbdzPAUSYZwl%2FEhUXWfQTW35FTx3pPxdWNzk19%0ApNdQ%0A)
 </div>
 
 
@@ -6354,7 +6354,7 @@ exemplo abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523571/ae403cd2dbeffb03a03f9bf2/r3h40jSWfuZfaeDmbIBaNLAwDPmi4HG83hq87pzwv0PC--uRaJ_oU-xatCKiwUGfVDD9dtNBYQd5AaMpEyGu19cMOsLoMjs8VUyJetw8CzwvVcWISO10rp3eUtPw1zo2tdYVFkPLP20KvA6t-Mn6n8Q?expires=1752529500&amp;signature=470b5802c106a7d6a898479529b89504151bf2d919200073e9f0b2c6672cec7f&amp;req=dSAjEMx8noRYWPMW1HO4zeRZBNoVcYRa65EHzwyblPEcTrh%2FOBXMmJPZT809%0A3wpB%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523571/ae403cd2dbeffb03a03f9bf2/r3h40jSWfuZfaeDmbIBaNLAwDPmi4HG83hq87pzwv0PC--uRaJ_oU-xatCKiwUGfVDD9dtNBYQd5AaMpEyGu19cMOsLoMjs8VUyJetw8CzwvVcWISO10rp3eUtPw1zo2tdYVFkPLP20KvA6t-Mn6n8Q?expires=1752633900&amp;signature=317ad57fceb6252252ab28b92f9fa719d0a71991c714ca4ec623fda61fcf5f10&amp;req=dSAjEMx8noRYWPMW1HO4zeRZBNoWcI5W65EHzwyblPF8DfKQgxCPDS1FUndg%0AGPZM%0A)
 </div>
 
 
@@ -6387,7 +6387,7 @@ abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523584/244c086bfac1918a4b8d5f67/9P4pm6N4XTDm6EY2xDkv4jxZPnp_A95rzKWQbHV6gCNYQB1uBt0hndY8-0YnF29aZSJl8VneISYb8Eo8Y3LDYtouLwOt_ZnJcL8f2klAX60tkN9Tmh4u5R6JD7MFUxetO2UOtkci4zWCAoQ7q2XHJ6k?expires=1752529500&amp;signature=3d29004f40063d11336c08fce7f7bfa38dcf0e1f8b2f044f7ce54cc135059382&amp;req=dSAjEMx8noRXXfMW1HO4zXsh84u6EKuwdnjzDHtMMWvpp4RKgG1S88o3Qbxj%0AS3z3%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523584/244c086bfac1918a4b8d5f67/9P4pm6N4XTDm6EY2xDkv4jxZPnp_A95rzKWQbHV6gCNYQB1uBt0hndY8-0YnF29aZSJl8VneISYb8Eo8Y3LDYtouLwOt_ZnJcL8f2klAX60tkN9Tmh4u5R6JD7MFUxetO2UOtkci4zWCAoQ7q2XHJ6k?expires=1752633900&amp;signature=916038da7b8da7c5ad196ed829152b13251ac8315f6de3b5a9d6542a72144927&amp;req=dSAjEMx8noRXXfMW1HO4zXsh84u5EaG8dnjzDHtMMWvvS3wJRBwMWPM2owDv%0AoqvK%0A)
 </div>
 
 
@@ -6402,7 +6402,7 @@ finalizar a operação. </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523595/4d703eea8482a67c3f43a1a6/g4bzk4IJkDsurx54FYdOuoB03b7aVV0PUflSp2Pt97nLiLrMafx2A5bmMPkCJ6aFoXKRDYe_ShkxdIjwjeMBG6Yx49yMwaJ4AEY9YJmE0hoJxW-n1q0AKPriqcgIKod4cWbCuauQzCilHKXpnH-QhpY?expires=1752529500&amp;signature=db50d54f2376f907865c1e70c5b69bcf92e1e847ef29873d518fa88a1e696e8b&amp;req=dSAjEMx8noRWXPMW1HO4zXzddtctnaV%2BgBGQVmprSi2Sa3xyvBUOcbRFulFz%0AVZ2t%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523595/4d703eea8482a67c3f43a1a6/g4bzk4IJkDsurx54FYdOuoB03b7aVV0PUflSp2Pt97nLiLrMafx2A5bmMPkCJ6aFoXKRDYe_ShkxdIjwjeMBG6Yx49yMwaJ4AEY9YJmE0hoJxW-n1q0AKPriqcgIKod4cWbCuauQzCilHKXpnH-QhpY?expires=1752633900&amp;signature=fc5974f75ef4b7575529a0d0093ddbff39f528bd60e76ad5d5cfb02dfb068259&amp;req=dSAjEMx8noRWXPMW1HO4zXzddtcunK9ygBGQVmprSi0E9Q%2FaposLnUKXwNRO%0ALJ%2BY%0A)
 </div>
 
 
@@ -6420,7 +6420,7 @@ imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523609/2f27f36975d356c3d1888b2f/nUXH-rG4QRBL1GSbGQvk_cVEz0LExp3JnxKExmrxvZ24hjZOlgtklDVpPfuFbW2fFXPIQxRjzuG0ITH7abZ02uC_8asbGFxCZ10Cpk-DWbKes8dZkfZ3_-PZqeCv4BfQLLINjjJO-pq3Lew2irczbO4?expires=1752529500&amp;signature=516c795ca125200f9cd2dffcf6761feb207d29e54a5b8e8c001f1dcc82fb0c94&amp;req=dSAjEMx8nodfUPMW1HO4zbN3QyWwrlJGcrs17j8PW%2F6h3Nu3wtqvkju008CY%0AiqGB%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523609/2f27f36975d356c3d1888b2f/nUXH-rG4QRBL1GSbGQvk_cVEz0LExp3JnxKExmrxvZ24hjZOlgtklDVpPfuFbW2fFXPIQxRjzuG0ITH7abZ02uC_8asbGFxCZ10Cpk-DWbKes8dZkfZ3_-PZqeCv4BfQLLINjjJO-pq3Lew2irczbO4?expires=1752633900&amp;signature=e504d5bdc3cf7de8bf9b66ba9dfb8be31a83a13736257cce4d6c3cfca002d909&amp;req=dSAjEMx8nodfUPMW1HO4zbN3QyWzr1hKcrs17j8PW%2F5Tjx7AeR5T2O9dqnk2%0AZPzh%0A)
 </div>
 
 
@@ -6453,7 +6453,7 @@ como na imagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1046523619/b4832d79796b231867278491/hSR0xT9FteNOlODu5gvQcsxpIqgG1jstuxKmnepljkKghsaIAMd4x3vAT_eVs5HGS8pG2gc38XGk68B6-2fku-xq1PN026rTu86G3Stgm10DvEHJRjwGbS48oaAKOsRgUTovtGZBnWPri1EtN6fcc-s?expires=1752529500&amp;signature=65f6187772aaad6a1fc721f2fa8b9ad12eee25fb5e2291833f55b2adda7147c5&amp;req=dSAjEMx8nodeUPMW1HO4zZaWA9P17fq%2F2NYID7akCvKIVXZwOYx4RutRvpCR%0A4wMJ%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1046523619/b4832d79796b231867278491/hSR0xT9FteNOlODu5gvQcsxpIqgG1jstuxKmnepljkKghsaIAMd4x3vAT_eVs5HGS8pG2gc38XGk68B6-2fku-xq1PN026rTu86G3Stgm10DvEHJRjwGbS48oaAKOsRgUTovtGZBnWPri1EtN6fcc-s?expires=1752633900&amp;signature=fc40bb946f0ec0534b5c5c115aa4d9ef9d6f56a8c430132e101a23697d8a3630&amp;req=dSAjEMx8nodeUPMW1HO4zZaWA9P27PCz2NYID7akCvKuppUP%2BacDLf9IJkvV%0ANs%2BE%0A)
 </div>
 
 
@@ -6610,7 +6610,7 @@ proprietário:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1044282208/7e21591209a7ae3cd37c7ac7/5mZLPnHWotbVYySGq-udr-z_e1SNDeXK0AcIyTPTog5bpfuBJ3HlD5JO1eZERAnisNpfNWQ9MemIic3XsIj3GCOP7ICiPTKjw1oI5r57dPsk7nuRq_Isw8SP4ZSuJzEo7o8AuJJQgorYzOXga0yLp1w?expires=1752529500&amp;signature=684d58e30106dfe24bd30bb569e5279262da595d6d05e21972607d2b50473db5&amp;req=dSAjEst2n4NfUfMW1HO4zSp5pF94%2BgxDQ5%2BlS0nXdHwDWoym7F0ESdOwLmVS%0ASFx%2B%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1044282208/7e21591209a7ae3cd37c7ac7/5mZLPnHWotbVYySGq-udr-z_e1SNDeXK0AcIyTPTog5bpfuBJ3HlD5JO1eZERAnisNpfNWQ9MemIic3XsIj3GCOP7ICiPTKjw1oI5r57dPsk7nuRq_Isw8SP4ZSuJzEo7o8AuJJQgorYzOXga0yLp1w?expires=1752633900&amp;signature=658adff3d5d6184bd44851989d2a4b670000d00be7607531b132a23463f37af9&amp;req=dSAjEst2n4NfUfMW1HO4zSp5pF97%2BwZPQ5%2BlS0nXdHywfzVe1J89bYiNaB%2FY%0ACUcb%0A)
 </div>
 
 
@@ -6628,7 +6628,7 @@ aceitar a alteração e agora o usuário escolhido é o novo proprietário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1044282222/d030011eb72258667e83aa8f/szBQEwkuEvZaOqEznVdLGPIv34JPj8y3mZ_k6zDq8ntjTNxt5uwJLV9zBuGPJJi9rdO4DU8ErtVgymskqb610hw8SsXaGgGaRZd_I511N-_OO3tqG9qIQgaXq55bGwtmfYx9TkkmE2rZRCdriHHXp5o?expires=1752529500&amp;signature=e95b11bb7da9a842e16ddf57bc78bcb6d9800a7ce467e8857f5eec6e7cd86e63&amp;req=dSAjEst2n4NdW%2FMW1HO4zW7N12KQbqz2gpSX17vm7AMTc%2BJMS0tSRJRp1Ep5%0AyBx0%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1044282222/d030011eb72258667e83aa8f/szBQEwkuEvZaOqEznVdLGPIv34JPj8y3mZ_k6zDq8ntjTNxt5uwJLV9zBuGPJJi9rdO4DU8ErtVgymskqb610hw8SsXaGgGaRZd_I511N-_OO3tqG9qIQgaXq55bGwtmfYx9TkkmE2rZRCdriHHXp5o?expires=1752633900&amp;signature=e2d5d483fbc0ceb3bbcd6f94c4687d7272fec8d983cc1d174bacaa1c74988a27&amp;req=dSAjEst2n4NdW%2FMW1HO4zW7N12KTb6b6gpSX17vm7AMh4t4n3F4OajeTLeXW%0ACJEE%0A)
 </div>
 
 
@@ -6644,7 +6644,7 @@ Avatar, no canto superior direito da tela, <i>Meu Dados &gt; E-mail.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1044282231/a56514517c6590d7a34d0f01/a_D39RA3O0_rbo6797Mb9EoUUtPYvf9TQbROFZsdEcUgEqcQxAR2q5DZ3FprIJKZhUdvn3hgkLzd-Q-BZQq6GfB8QALD-Kjr-m88X7_xLPUikcNTaIW-4f7aoRfPswbOyuDJUDESFqwss_oM06RVXT4?expires=1752529500&amp;signature=78463436843f87b8ccef6437c7141360e96f72544d9886724d1e41103eb9c293&amp;req=dSAjEst2n4NcWPMW1HO4zXJrYOQgQ2Ug9GMwrrDt7PHBKXF3GdmZtGlzxa2m%0ANVZ%2B%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1044282231/a56514517c6590d7a34d0f01/a_D39RA3O0_rbo6797Mb9EoUUtPYvf9TQbROFZsdEcUgEqcQxAR2q5DZ3FprIJKZhUdvn3hgkLzd-Q-BZQq6GfB8QALD-Kjr-m88X7_xLPUikcNTaIW-4f7aoRfPswbOyuDJUDESFqwss_oM06RVXT4?expires=1752633900&amp;signature=7a21894e9252f5047c68c60440e747f9952f381cb5941eaac74ef1e5db646cad&amp;req=dSAjEst2n4NcWPMW1HO4zXJrYOQjQm8s9GMwrrDt7PGuhW6e%2FRrzpkImJJNJ%0AoYGD%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
@@ -6683,7 +6683,7 @@ de permissões:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1044282239/eff4029fb85cf4a5fc8d2a8e/wJhCz6kOVP31inJr5C_IaA7BZpRxcOriq4KUaafLiHdF2Iw3nK7Fq5O-bRn9GOj-zCtrO8xWZwzlz3c42GOx0NSl4ESQAopQXIYDUATf54UN32ABvq5aCrSDIOdZ4NDAmi9_xnyeJXWFAIzz_MSqvgk?expires=1752529500&amp;signature=8faa53b528a27241fe8864e4fb1abdd0d8e488ee917718be2c2f40c16531ee6e&amp;req=dSAjEst2n4NcUPMW1HO4zZRbGI3erW1133oNldM1N7Smbd%2Bir17rHi8hRj9q%0A0HOq%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1044282239/eff4029fb85cf4a5fc8d2a8e/wJhCz6kOVP31inJr5C_IaA7BZpRxcOriq4KUaafLiHdF2Iw3nK7Fq5O-bRn9GOj-zCtrO8xWZwzlz3c42GOx0NSl4ESQAopQXIYDUATf54UN32ABvq5aCrSDIOdZ4NDAmi9_xnyeJXWFAIzz_MSqvgk?expires=1752633900&amp;signature=e0242d844daec1275133842de3debad725ae5e90a698e2b17677139fe9e66ab9&amp;req=dSAjEst2n4NcUPMW1HO4zZRbGI3drGd533oNldM1N7Tb%2Ba3bUC43cKMn0mUl%0A0bJ%2F%0A)
 </div>
 
 
@@ -6770,7 +6770,7 @@ abaixo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270753150/9787a702d92debffbebefb603d47/image.png?expires=1752529500&amp;signature=196d9eca483c8c7ab8f4ebe0e61f6b1e0a2086251e29373abd3857a3486fb1cd&amp;req=dSIgFs57noBaWfMW1HO4zRUBdhR%2BsVwgmWq61jZBgYTQd1T%2BuLdGcZavtIEH%0AV4ej%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270753150/9787a702d92debffbebefb603d47/image.png?expires=1752633900&amp;signature=8725a48b3eaf3192a961e648b890fba763d05a2e3a2d03c18de29541a5bbadb4&amp;req=dSIgFs57noBaWfMW1HO4zRUBdhR9sFYsmWq61jZBgYTzUyW00NSXNT%2FDoZ7g%0AYn5w%0A)
 </div>
 
 
@@ -6795,7 +6795,7 @@ usuário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270761372/5a008ba1baadb741aa78dbe0dccb/image.png?expires=1752529500&amp;signature=ece5ea6874e821645bcad70c5d6ad208181be6b4a05eb897ace21377d43735d8&amp;req=dSIgFs54nIJYW%2FMW1HO4zcdwRJSn8gJmnXukLL%2F0XtgfTVPoxgE3QfgZRZYn%0AWxRF%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270761372/5a008ba1baadb741aa78dbe0dccb/image.png?expires=1752633900&amp;signature=58a5c30acdb304458575d2d359a8f3dd8a0b03fa039182a4fe91307678c97daf&amp;req=dSIgFs54nIJYW%2FMW1HO4zcdwRJSk8whqnXukLL%2F0XtgQIzETgPCUGpJXTOgx%0ActX1%0A)
 </div>
 
 
@@ -6812,7 +6812,7 @@ e credenciais. </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270766822/e4b8581be6ef7bae4f07de99e459/image.png?expires=1752529500&amp;signature=a65dd89e0664966397c0c98bea77916557134ab762fd3d96ce46cde204e1ec68&amp;req=dSIgFs54m4ldW%2FMW1HO4zdbOf7NPGAA%2BQiMOdj55z076JZobAO9Ti0AsJ4L1%0AeE6D%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270766822/e4b8581be6ef7bae4f07de99e459/image.png?expires=1752633900&amp;signature=2d2ae9ddd6b057a1c1cc8fbeecd2f8c1273019b12a352e18c1975613f463574e&amp;req=dSIgFs54m4ldW%2FMW1HO4zdbOf7NMGQoyQiMOdj55z04wBNvS7LwHBqwbwV5b%0AgGHN%0A)
 </div>
 
 
@@ -6825,7 +6825,7 @@ Em seguida, faça a requisição do CSR clicando no botão destacado abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270767718/34662892f8a0f0b9a613d38db06e/image.png?expires=1752529500&amp;signature=70d0ddedfa7ff212528c363d4a41df7a5afaf2d610bfed4d8c9a14664758ea75&amp;req=dSIgFs54moZeUfMW1HO4za2tw2DZNMKlrqP18NKaY7CqJ4NRS4lqaxZD95n6%0AdVau%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270767718/34662892f8a0f0b9a613d38db06e/image.png?expires=1752633900&amp;signature=9adf9e361d1066caaa6cd6f809fb0c5fd3e368fd99da177ab4f7f6d16f166df5&amp;req=dSIgFs54moZeUfMW1HO4za2tw2DaNciprqP18NKaY7B60u9%2FxmuARhUwMfXj%0ASoKc%0A)
 </div>
 
 
@@ -6838,7 +6838,7 @@ Para finalizar a requisição, preencha as informações:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270768547/d3ef25fe3b3a46ea622214ff32ad/image.png?expires=1752529500&amp;signature=90b28dd49daa427652dc4cd9378dae428163a6a2057d04f1898bad487147a5d9&amp;req=dSIgFs54lYRbXvMW1HO4zQ%2Bpouo7PIihVbahlUmspziLW4cxa8BA3nHCNX6X%0AfMyH%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270768547/d3ef25fe3b3a46ea622214ff32ad/image.png?expires=1752633900&amp;signature=7438fac0bcedc7c0a5e98b43005e1ee0d60d20cce29d20616e27160c5260245c&amp;req=dSIgFs54lYRbXvMW1HO4zQ%2Bpouo4PYKtVbahlUmspziFl0VDAO4IN%2BYGAz6h%0AU6co%0A)
 </div>
 
 
@@ -6851,7 +6851,7 @@ Na próxima tela, você já pode baixar o CSR, caso queira.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270769091/63fbf1cbd739b91c7790e43140b4/image.png?expires=1752529500&amp;signature=aa2cd96fc62ffb7034840a0413b50dc66bc103c23238e980ba09a378f6592eef&amp;req=dSIgFs54lIFWWPMW1HO4zVelGeLzjL0d%2FbXPoVgF6FOIiOT00qvf1UhtoLru%0AcNbn%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270769091/63fbf1cbd739b91c7790e43140b4/image.png?expires=1752633900&amp;signature=56b2e961de55ecca34cfe6bdc69bc774022270a90e8e87b810cedb17a26cc5e0&amp;req=dSIgFs54lIFWWPMW1HO4zVelGeLwjbcR%2FbXPoVgF6FMTgyfTFZ3VELN65V1K%0AxVjt%0A)
 </div>
 
 
@@ -6876,7 +6876,7 @@ precisar para criar o certificado na Kobana, a <b>chave privada (.key).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270923765/4a81f72ab3c2922e9586a44a85e0/image.png?expires=1752529500&amp;signature=80a962ea81b5692f2424a9a6ecfb7a3582de1a2743e7b77acd4ca229a113aa79&amp;req=dSIgFsB8noZZXPMW1HO4zfXXtRIGc8%2BJ47%2B7D%2FNpTmFZRexjJXPe%2BYmcnx2A%0AVz9L%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270923765/4a81f72ab3c2922e9586a44a85e0/image.png?expires=1752633900&amp;signature=bdb0be87d83766dc97fcabd7460c2f7362df6b1cc803650ec317daf1e92907f7&amp;req=dSIgFsB8noZZXPMW1HO4zfXXtRIFcsWF47%2B7D%2FNpTmGN3DwraGr%2BC5zQALNC%0A493v%0A)
 </div>
 
 
@@ -6890,7 +6890,7 @@ credencias necessárias a <b>client_id </b>e o **client\_secret.**
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270914864/6b5dee34b67ef53ab555ed556eb3/image.png?expires=1752529500&amp;signature=19246313f80b468316b8016e981c024681d4057471c01a31b841ae78353fbe8b&amp;req=dSIgFsB%2FmYlZXfMW1HO4zbhhsJiNOatD%2FoWwtSA0rhW8ynfep6zi58g7BoBR%0Ap00i%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270914864/6b5dee34b67ef53ab555ed556eb3/image.png?expires=1752633900&amp;signature=89c0a4001cd878772ab4f9ce4dd84c30d50b1f3bb098b17328250d0cfc4cd579&amp;req=dSIgFsB%2FmYlZXfMW1HO4zbhhsJiOOKFP%2FoWwtSA0rhWhuhhLQyjAYWtL4ZNN%0AtsoJ%0A)
 </div>
 
 
@@ -6905,7 +6905,7 @@ Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270929498/53063b36340029070afdeb77b985/image.png?expires=1752529500&amp;signature=f075a0a617da137c09ab5724f7043efe851c5deb498100db091a81c29e0f9b8c&amp;req=dSIgFsB8lIVWUfMW1HO4zf7tYJJe2UGHxAYlyaFmMWlMObSzi9G8SI60Z7JF%0AX4Zb%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270929498/53063b36340029070afdeb77b985/image.png?expires=1752633900&amp;signature=5dd1da4298606a3a6d8a81b6d6465a378d18e8805fedb99b2ae9a48b3765af56&amp;req=dSIgFsB8lIVWUfMW1HO4zf7tYJJd2EuLxAYlyaFmMWmPu831nlQlKCWv8n9S%0AjNuj%0A)
 </div>
 
 
@@ -6933,7 +6933,7 @@ baixou no Sicredi.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270927839/a64c7ad1f0960422100e589735de/image.png?expires=1752529500&amp;signature=6604bd436857871165b374427da5d035ec4c655627005845a7246953695757a8&amp;req=dSIgFsB8molcUPMW1HO4zTABwynSm7XN7aWYCHYYP%2BHm4zA2lnbjoLguF4U4%0Amgs7%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270927839/a64c7ad1f0960422100e589735de/image.png?expires=1752633900&amp;signature=6e76003d94aefd3d46ceab20c7bff995e2c551315368e78a30b0313603de5ca9&amp;req=dSIgFsB8molcUPMW1HO4zTABwynRmr%2FB7aWYCHYYP%2BEHs2%2Ble%2BEYRFBFmR0C%0AZwyT%0A)
 </div>
 
 
@@ -6950,7 +6950,7 @@ opções de conexão, escolha o Pix do Sicredi:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1042768295/fc3ee6b05f402ad06dde1963/ABuOkJYJ_OT3_uCsHE57QuAzfr-yVspblSJh0A_WLiLg5nb3i6-r47hCFuam9j_8AwdsD9oc5E3WfOcdgNAj8Q3AHUMnczAQUWiGHDuLHMpir7_j8hmsrLqYp8J4du4a4XMHpcraebzLvUFNIrmO0Oc?expires=1752529500&amp;signature=1703db1c94d8c39e1800e8fc29b0e379578247265ae31d8458eb4d86dfecb7e6&amp;req=dSAjFM54lYNWXPMW1HO4zScJV0XJdXiosB3YZwDQfHh1mu8t%2BSt9WmpEJTJh%0AvsyW%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1042768295/fc3ee6b05f402ad06dde1963/ABuOkJYJ_OT3_uCsHE57QuAzfr-yVspblSJh0A_WLiLg5nb3i6-r47hCFuam9j_8AwdsD9oc5E3WfOcdgNAj8Q3AHUMnczAQUWiGHDuLHMpir7_j8hmsrLqYp8J4du4a4XMHpcraebzLvUFNIrmO0Oc?expires=1752633900&amp;signature=abc7e797857d6e87f7c2fccbdf23207d980d8bcf154c16986ede66c950a7659d&amp;req=dSAjFM54lYNWXPMW1HO4zScJV0XKdHKksB3YZwDQfHhM%2BUm9nS3b8XOQwFf0%0AGWMt%0A)
 </div>
 
 
@@ -6965,7 +6965,7 @@ que você acabou de criar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270931232/03b1737a6fcddb3e3eb4ae1c9c68/image.png?expires=1752529500&amp;signature=219377264fdb4691acbc683dc0726d8dd3e851da41df43d85470c72972f377ed&amp;req=dSIgFsB9nINcW%2FMW1HO4zeyPwSr65mTxsqnUzvH5TpVx0dSUDQdV0uPMdfW%2F%0A07xg%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1270931232/03b1737a6fcddb3e3eb4ae1c9c68/image.png?expires=1752633900&amp;signature=7ff85396f345a80e693b0d75824b1c5db19831f0f9c8a74b129a6fbc93b55d6c&amp;req=dSIgFsB9nINcW%2FMW1HO4zeyPwSr55279sqnUzvH5TpU2oHIZNsplupI2sZ46%0A%2BPbq%0A)
 </div>
 
 
@@ -6980,7 +6980,7 @@ correto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1042768317/057700475bd886edaffd5b8e/9p-drDpZHl9ajt3_7F5Xj2t_UbwRYMSMTDiOIB5-QgUHSbrEku0sI4q9a2_0qhUP9VKGdud1ZtQsZd7hl-bqBBlyg3NQenLDotHDYy5RQyNhfWXwlJKOB1mAsByZVJ9h5DXSYkgKipBquX-kay88YH4?expires=1752529500&amp;signature=70923c510baea61572ea3aaaae717a4c6a7e75f1eadfdeba69e92d6b1ee2311c&amp;req=dSAjFM54lYJeXvMW1HO4zTn%2FlMKjAu2om0bDwOQ3y5U7pJPq7Je3Lo0Gdrk9%0AtOVH%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1042768317/057700475bd886edaffd5b8e/9p-drDpZHl9ajt3_7F5Xj2t_UbwRYMSMTDiOIB5-QgUHSbrEku0sI4q9a2_0qhUP9VKGdud1ZtQsZd7hl-bqBBlyg3NQenLDotHDYy5RQyNhfWXwlJKOB1mAsByZVJ9h5DXSYkgKipBquX-kay88YH4?expires=1752633900&amp;signature=fffd84d227eb4287883630e41b60e55470fbffee1b260a9a27bc963cf3c56f7a&amp;req=dSAjFM54lYJeXvMW1HO4zTn%2FlMKgA%2Bekm0bDwOQ3y5WP2JvBHQOPMzq2wH0J%0AVE5Y%0A)
 </div>
 
 
@@ -6998,7 +6998,7 @@ escolha o Sicredi.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1042768331/352cc376a376997b664c61ee/IU4shNYbUXtjaPus0fyjw18i9sTEy4Ilk0HkDaVVZNmyLOPQpzhbsqGd0x9gQbEZZFpMa-C1H2Mzk9M77mXNIFkNtcf_wwq2g7QhEbVoQin5LlLV0TbeRVrnbQcLEP6QjPnvyM8okknXvuavJ-3dsPc?expires=1752529500&amp;signature=7881ae4c74bf689b2dcca6ee02b36ce12904802dd8e004c445401902f6c38bcb&amp;req=dSAjFM54lYJcWPMW1HO4zcHSCLmdgzpugu%2F3CnoeYbESjuTbUZI01s7B84ch%0AMi7b%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1042768331/352cc376a376997b664c61ee/IU4shNYbUXtjaPus0fyjw18i9sTEy4Ilk0HkDaVVZNmyLOPQpzhbsqGd0x9gQbEZZFpMa-C1H2Mzk9M77mXNIFkNtcf_wwq2g7QhEbVoQin5LlLV0TbeRVrnbQcLEP6QjPnvyM8okknXvuavJ-3dsPc?expires=1752633900&amp;signature=8c8ca2bc6c8c8fdda9ec843337c18589278f9100f9af7b04f2aa4b49c2ec886f&amp;req=dSAjFM54lYJcWPMW1HO4zcHSCLmegjBigu%2F3CnoeYbG3BerjcEve9KpmMI6w%0AoQIt%0A)
 </div>
 
 
@@ -7013,7 +7013,7 @@ campo <i>Conexão, </i>escolha a conexão que criamos no passo anterior.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1042768351/678c24c80a405c130ce6bd10/C4RRbrX0ez3qS7k7L6v7-hrw8aysVGPsQJs5WO_3bkht9Xc7A_cOBWpJQYyGJmgrWbfqg_uSxbX6hxypcTHnGGCx2wYurSRQ0QQZG7Exix6tHa-hkHwr1lqVvbOnGD-9bXB9xmqZQvv8t877LgYSZiY?expires=1752529500&amp;signature=0fdf8c98a397a501637c3596a9011eeb457a9b86d5432bbb78513d757fc5b4f2&amp;req=dSAjFM54lYJaWPMW1HO4zZC1XBlzU%2BWQkCeQ9GVUbVTrQrjYvyyMr7TmXXuR%0AEoat%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1042768351/678c24c80a405c130ce6bd10/C4RRbrX0ez3qS7k7L6v7-hrw8aysVGPsQJs5WO_3bkht9Xc7A_cOBWpJQYyGJmgrWbfqg_uSxbX6hxypcTHnGGCx2wYurSRQ0QQZG7Exix6tHa-hkHwr1lqVvbOnGD-9bXB9xmqZQvv8t877LgYSZiY?expires=1752633900&amp;signature=c49a620d19cef34590770549bba662143bd312969eab86487fd686940d874179&amp;req=dSAjFM54lYJaWPMW1HO4zZC1XBlwUu%2BckCeQ9GVUbVSObjSyhDexr87XH7Ms%0At2HM%0A)
 </div>
 
 
@@ -7068,7 +7068,7 @@ Alterações*:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037356846/3e116b9770a2d99ed3ad38f6/v2aw43BPeGwd3CnjMKU1OnmsYwdilNKh1nyNhPv8mJVX8Hs-1Srw73mD111nbeVZfN3ZJqJVhJUgc_hwsNzFAyo_Yvfmhs5wQyM1F9_Kpfb-yqQNYmBQzW2ZwRE5P96zqz4aEG3jjLt-N4_KemIZOFw?expires=1752529500&amp;signature=220c62170e6df6515b1f1d7d2c6fe82f28d06ab9f67db720d1f1e95366178aef&amp;req=dSAkEcp7m4lbX%2FMW1HO4zZHEpL16MXETFu2ubWNdYWfBpfv%2F7jnjAQRLPO%2B7%0AEyrp%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037356846/3e116b9770a2d99ed3ad38f6/v2aw43BPeGwd3CnjMKU1OnmsYwdilNKh1nyNhPv8mJVX8Hs-1Srw73mD111nbeVZfN3ZJqJVhJUgc_hwsNzFAyo_Yvfmhs5wQyM1F9_Kpfb-yqQNYmBQzW2ZwRE5P96zqz4aEG3jjLt-N4_KemIZOFw?expires=1752633900&amp;signature=5571d94a5d11165e8da1f614fa97f3193001a3d9a5f0b59b9ad88c47f4c96ff1&amp;req=dSAkEcp7m4lbX%2FMW1HO4zZHEpL15MHsfFu2ubWNdYWdC27nocmYVPzkEjGKZ%0AWD9%2F%0A)
 </div>
 
 
@@ -7111,7 +7111,7 @@ encontrar a opção <i>Integrações. </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348437/c3c998347001b60158c17b4b/EiBw4KuxMtcBGMD_ozUBW8W8WsZ-yxHZpWMaKGl3c0_UY8YT57R3BIxblr9IwNL4_WyjKz5Gu2msSIASjSMU4QiE6n0-UuWgfz-2GlxtLAjgIlKLl8VJ1QCfeK_kmbys_9isGiLcxtnKCIH-lZO7PwU?expires=1752529500&amp;signature=a17700923c237209a2a0fbb77d77361254cb6a9c8a1297216c3a5f1c9b51ec3c&amp;req=dSAkEcp6lYVcXvMW1HO4zaKCljXcZwyof2X6lkC3wDosrB9bLIDRlQJ6kaHt%0Anvit%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348437/c3c998347001b60158c17b4b/EiBw4KuxMtcBGMD_ozUBW8W8WsZ-yxHZpWMaKGl3c0_UY8YT57R3BIxblr9IwNL4_WyjKz5Gu2msSIASjSMU4QiE6n0-UuWgfz-2GlxtLAjgIlKLl8VJ1QCfeK_kmbys_9isGiLcxtnKCIH-lZO7PwU?expires=1752633900&amp;signature=f28cc43404c859bf343bfcb878505a55f01b5512afdd9c8d7871c7f6f232d86a&amp;req=dSAkEcp6lYVcXvMW1HO4zaKCljXfZgakf2X6lkC3wDoNs34ErZh53vyN9lCm%0AC2v%2F%0A)
 </div>
 
 
@@ -7124,7 +7124,7 @@ Em seguida, acesse a opção, *Ir para developers.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348453/25a545681a14eb35e8462c25/PfiwRxZ3s2uPlKbvDZj5DEZIbMo7giCGdlLG59r2wZg-KBVtKufob7BE-y6tRDk6a9KxIoOyK3QjOd5IBDvvsKQn0axxwL0sKcA2xqhFnEPNIXKeXHsm23dlI8OtAmuXBxZfDPoKh8pZrDQbHejaX6k?expires=1752529500&amp;signature=ee4fad6c27eed45fada2a667a0de7ca0b16ed1d98974494b7981eb5da3512d51&amp;req=dSAkEcp6lYVaWvMW1HO4za%2B%2FvPTWKbnVXYNdvs3rBn6iOH4hW2WpS1UtM1Eg%0Al8vN%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348453/25a545681a14eb35e8462c25/PfiwRxZ3s2uPlKbvDZj5DEZIbMo7giCGdlLG59r2wZg-KBVtKufob7BE-y6tRDk6a9KxIoOyK3QjOd5IBDvvsKQn0axxwL0sKcA2xqhFnEPNIXKeXHsm23dlI8OtAmuXBxZfDPoKh8pZrDQbHejaX6k?expires=1752633900&amp;signature=1010cf246f86dc05b7f67c04964d564a83d519aa4e97efd7edfb536e820fbcec&amp;req=dSAkEcp6lYVaWvMW1HO4za%2B%2FvPTVKLPZXYNdvs3rBn5e5ie%2Fc0PuMBFFCEF8%0ArAhr%0A)
 </div>
 
 
@@ -7137,7 +7137,7 @@ Por fim, clique na opção *Criar aplicativos.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348464/4dd7d18a2a3eda54936514ac/9lAY7BTPaFXmsiw3XbJ6E8c9pjIaDGF5T0PCRs4OEnmnIFmcZxFLlHWKotlH-mG4AMZ8qugJYS4UhBOq8RRuptnfHt7cgOZOVExAXTO-1VHZV_vqrvvTuun-fnZnYe2Hcw3tPJwNeqCQa0EDvBDiSbk?expires=1752529500&amp;signature=5018f139d1574bee2c0b38919c84035b9b60180c05903cc28ba8685698527936&amp;req=dSAkEcp6lYVZXfMW1HO4ze6ydnaUqMmv55K3P%2FHdtR1kF0jT97d%2F46pqJ2az%0AgaFZ%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348464/4dd7d18a2a3eda54936514ac/9lAY7BTPaFXmsiw3XbJ6E8c9pjIaDGF5T0PCRs4OEnmnIFmcZxFLlHWKotlH-mG4AMZ8qugJYS4UhBOq8RRuptnfHt7cgOZOVExAXTO-1VHZV_vqrvvTuun-fnZnYe2Hcw3tPJwNeqCQa0EDvBDiSbk?expires=1752633900&amp;signature=e74136b571c17cab8edb0c6c91ecbee518087f5f804479e9b7b82a567fa0f2cf&amp;req=dSAkEcp6lYVZXfMW1HO4ze6ydnaXqcOj55K3P%2FHdtR1KRFZ6TuENjVBTJm2W%0AHClS%0A)
 </div>
 
 
@@ -7160,7 +7160,7 @@ direito está em Produção.*
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348484/4bb31be6bd286e415a8e6187/Qceo8PkjY3L94grklLdrIOlJdvEdyG7p253OFEnLCPIvEezdtnZfm7OSG1fAAbd4Pyq11kja8X2z2n1o37uVAUTmorA2il0oMcVv4IPp5g8GHJXS_5t8c-6r9_mvDz_6rsMC4qXeFi-u7wxsVayi2Fo?expires=1752529500&amp;signature=86bad94ae3b1d0433019184071c19d8223ef2d87a870d65b95b0a18c5680e5c3&amp;req=dSAkEcp6lYVXXfMW1HO4zRhdDdKCrMYBr0BYGA7jyuXzTKuYl%2BgcuePdY4LY%0AkCH0%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348484/4bb31be6bd286e415a8e6187/Qceo8PkjY3L94grklLdrIOlJdvEdyG7p253OFEnLCPIvEezdtnZfm7OSG1fAAbd4Pyq11kja8X2z2n1o37uVAUTmorA2il0oMcVv4IPp5g8GHJXS_5t8c-6r9_mvDz_6rsMC4qXeFi-u7wxsVayi2Fo?expires=1752633900&amp;signature=161df5facf6d9fbdcd36998dcfbdff5eed8d183ff76c24450c25bd88a3b65ad8&amp;req=dSAkEcp6lYVXXfMW1HO4zRhdDdKBrcwNr0BYGA7jyuU4vctCuw2XVYNU2lh1%0Axm7x%0A)
 </div>
 
 
@@ -7206,7 +7206,7 @@ funcionalidades.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348506/76584f0f389872d8170f4c0d/cGLFotgku06c28SqMWLWirP1faS6q7QAV_xB5PRMKczRxEpiyClrg6B4_Eljsdldnp2UZ-eprY1_GGehoy4thfH3zCibQkDROIj2g21GoWZTRhdAf_-TOwlnGuYpHKTIxlMtQdmCaqYZ18wleVrMbq0?expires=1752529500&amp;signature=58e1d024a6d1457580c938b7a6324f05190a3e3fdd41d080a2319274953f9783&amp;req=dSAkEcp6lYRfX%2FMW1HO4zcZ%2BFEi1BFMvnhabR26ZvwGjzYSCRCS%2BQxQbna1m%0ACCUv%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348506/76584f0f389872d8170f4c0d/cGLFotgku06c28SqMWLWirP1faS6q7QAV_xB5PRMKczRxEpiyClrg6B4_Eljsdldnp2UZ-eprY1_GGehoy4thfH3zCibQkDROIj2g21GoWZTRhdAf_-TOwlnGuYpHKTIxlMtQdmCaqYZ18wleVrMbq0?expires=1752633900&amp;signature=6dcf1300702591aeb7633238bd461d302fab96f2369a98f63fdf2af3c7250469&amp;req=dSAkEcp6lYRfX%2FMW1HO4zcZ%2BFEi2BVkjnhabR26ZvwFm8Z19K245cvcPI4dT%0AAt0P%0A)
 </div>
 
 
@@ -7235,7 +7235,7 @@ nos três pontinhos do lado direito para ver os detalhes da aplicação.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348518/a77a56132240370af3d17640/N7gxuMMnzwroMZdPuInl6YSJbHYS7yrVnR5XFsCigkMO96fSpv2s97b3CZ2AMHhgMsyj8hoepSjLFObtwo0g2QWb5WNq1Fz8nGER9WR599eDwIIJfD5858B1UP2E2ztJXlEK2nSY8fCkUdGRH0bDfbs?expires=1752529500&amp;signature=98fea9825c07c7439f5248a6a56c8266d2dcd0af36aa33096a21f59997231948&amp;req=dSAkEcp6lYReUfMW1HO4zRKVNOyF4ruk18bQr7b6NiUTw8QnMs17Qa07s5Bb%0Av4j0%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348518/a77a56132240370af3d17640/N7gxuMMnzwroMZdPuInl6YSJbHYS7yrVnR5XFsCigkMO96fSpv2s97b3CZ2AMHhgMsyj8hoepSjLFObtwo0g2QWb5WNq1Fz8nGER9WR599eDwIIJfD5858B1UP2E2ztJXlEK2nSY8fCkUdGRH0bDfbs?expires=1752633900&amp;signature=a86b106e89e3699a9fe47064fe2a6e08f38fab89d7e1e020dce1944e4109ce61&amp;req=dSAkEcp6lYReUfMW1HO4zRKVNOyG47Go18bQr7b6NiV9O6%2B0Md1QNLgq3qlH%0ARF8e%0A)
 </div>
 
 
@@ -7253,7 +7253,7 @@ notas.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348535/644b44f848054d0052746f01/eaXIp4C_lv1KJxBfseBxgm1PndjCJozLU1myI1JdrpqGrzooJD5T0XJX6B02ok51qsEETJmIqdkSYR27Lfgkje7aqeEcojdnY8yDS59DNu9zN8nZLSPkAWQzGsOintYHdjrOracaUYoZxN8pGhRB8Yk?expires=1752529500&amp;signature=f7496c9e9495f2ffaf0f470ba95d3fa47108157de20e981ce5f6b98526885d58&amp;req=dSAkEcp6lYRcXPMW1HO4zb9vo%2BoIG1JDuW8%2F9VXVLMVWYQuQ%2FCFwnuKO74Nf%0APYv3%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348535/644b44f848054d0052746f01/eaXIp4C_lv1KJxBfseBxgm1PndjCJozLU1myI1JdrpqGrzooJD5T0XJX6B02ok51qsEETJmIqdkSYR27Lfgkje7aqeEcojdnY8yDS59DNu9zN8nZLSPkAWQzGsOintYHdjrOracaUYoZxN8pGhRB8Yk?expires=1752633900&amp;signature=9dbd9ce7551f9d5681c862a4b214accbefaa1ebecce95cd10fa92d698276d0ef&amp;req=dSAkEcp6lYRcXPMW1HO4zb9vo%2BoLGlhPuW8%2F9VXVLMVcGheaYZOtnJJj2sgS%0AaX2e%0A)
 </div>
 
 
@@ -7273,7 +7273,7 @@ API &gt; Configurar nova, </i>em seguida escolha a opção do BTG.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348576/25cf828737a8780200061fe7/hak8r8yxTFiuG-OMkYuTij1HHAxRLRsb2ExswU1ZRQzVR7T1tCQj1YA7tdMg6aMS_X4fAEOgg8Oek7ftAsnC8wm9-BkWmJQQxseNWpCthVB06ZzNT0if7GNv8gxHZ2im09U5x1E2DRksrIvOyLngMao?expires=1752529500&amp;signature=aceb9a8d6606a9dc82e4005e9c143327e2db70b5826d462beaa971e4976bb491&amp;req=dSAkEcp6lYRYX%2FMW1HO4zdChpnSI%2Fu1e9dfKhxVNSZz3wQCLqxn65EsptyRp%0AKJMr%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348576/25cf828737a8780200061fe7/hak8r8yxTFiuG-OMkYuTij1HHAxRLRsb2ExswU1ZRQzVR7T1tCQj1YA7tdMg6aMS_X4fAEOgg8Oek7ftAsnC8wm9-BkWmJQQxseNWpCthVB06ZzNT0if7GNv8gxHZ2im09U5x1E2DRksrIvOyLngMao?expires=1752633900&amp;signature=c780eaec09a2d7a85ca7b9733bf8ac5e0aa5a8c439e7938a61c735e91aa8a46b&amp;req=dSAkEcp6lYRYX%2FMW1HO4zdChpnSL%2F%2BdS9dfKhxVNSZytEq2guxdVsq5yE9zB%0AxGoJ%0A)
 </div>
 
 
@@ -7290,7 +7290,7 @@ sistema, além de escolher o ambiente e as permissões da API.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348601/69acecf250ddd6cfb0681e85/1vMdaYmYB9JSyLdHZYxML4LChxFwZz3erZdHjnWrFSD4d4hUT8S8-yZUgL8_VEK4FOeInkTwjSPsJFrHEP_mj_LkEh0eA6I0URq0nSnyaY6zkBpegk_uQSV7KYTy7wMux5zZY3NGR2HZIF6UuUfsMI4?expires=1752529500&amp;signature=b41e62df8ed860ac039d4f613be03a8e4bd8c513583f2796e724b16635d90605&amp;req=dSAkEcp6lYdfWPMW1HO4ze2GnrK0yulMu1GWHAKZ%2BsRNAgkpAt%2BqKIwIf%2BT9%0AViU5%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348601/69acecf250ddd6cfb0681e85/1vMdaYmYB9JSyLdHZYxML4LChxFwZz3erZdHjnWrFSD4d4hUT8S8-yZUgL8_VEK4FOeInkTwjSPsJFrHEP_mj_LkEh0eA6I0URq0nSnyaY6zkBpegk_uQSV7KYTy7wMux5zZY3NGR2HZIF6UuUfsMI4?expires=1752633900&amp;signature=6c158a17dad2707d5f45e83a1986d806089e2c2224ae31df2d5f00c1638ae3ed&amp;req=dSAkEcp6lYdfWPMW1HO4ze2GnrK3y%2BNAu1GWHAKZ%2BsSK78ZENDptkt1%2BPwhv%0A4%2F1P%0A)
 </div>
 
 
@@ -7323,7 +7323,7 @@ que a conexão foi configurada corretamente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348623/0f91205a6ae11ea2490d5ad2/iHEmU4snfDzZ-tsLg47sSSpH_B9D3CIWjya-m3dVZwWZMnBxsn3aUvAnNrhNL12TpiUp-NGESir1xwIxoY4rv4-XikHUUXWkQyfBV4oduvAt3s6VsOnIBIanGFAcjCq_2J2xzaUnFJGnJBlzRm4e4o4?expires=1752529500&amp;signature=996416da8175bde05da4ed807561e74d2f9c922f9280379fa62fd19fecf52648&amp;req=dSAkEcp6lYddWvMW1HO4zcloKbRcrt2Upi7cu98jY5HKVx84voCpOJZ4WSiN%0AC10X%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348623/0f91205a6ae11ea2490d5ad2/iHEmU4snfDzZ-tsLg47sSSpH_B9D3CIWjya-m3dVZwWZMnBxsn3aUvAnNrhNL12TpiUp-NGESir1xwIxoY4rv4-XikHUUXWkQyfBV4oduvAt3s6VsOnIBIanGFAcjCq_2J2xzaUnFJGnJBlzRm4e4o4?expires=1752633900&amp;signature=8e8a05a1ecfda17a3b92d86c365621182554560d6fc945dd63c6532dbf8cbe3f&amp;req=dSAkEcp6lYddWvMW1HO4zcloKbRfr9eYpi7cu98jY5GRCTgdirfIuUSEgO1a%0Aq%2Feb%0A)
 </div>
 
 
@@ -7337,7 +7337,7 @@ verá a tela abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1037348641/8f055d033177bf33f1282150/e807uSZCIe7ld3p5Ycuc6shfV1Lqc8bvd_4AUUqJKZzhm71VtWr6k1-6VSmSG6oW5OaRhG3JXtDbo8SB0Yq-ERBuEtZK2XnbNr6TUNKKf8SbREaJSMWtADleCi7hUlxGXDNgACoTCPByB4Bxes-AFTc?expires=1752529500&amp;signature=330950a2b2db61244228af41d0881bbe0f3b9cdf2d68f525cd56b2f823956f34&amp;req=dSAkEcp6lYdbWPMW1HO4zeuirOFJWSCg0zyDml%2BuGHVTCxYSJI8%2FMGR5Z%2FS0%0An5yg%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1037348641/8f055d033177bf33f1282150/e807uSZCIe7ld3p5Ycuc6shfV1Lqc8bvd_4AUUqJKZzhm71VtWr6k1-6VSmSG6oW5OaRhG3JXtDbo8SB0Yq-ERBuEtZK2XnbNr6TUNKKf8SbREaJSMWtADleCi7hUlxGXDNgACoTCPByB4Bxes-AFTc?expires=1752633900&amp;signature=debcca8c3deeaae017862c00f366472da4f97562cae37246a81354e8f0041362&amp;req=dSAkEcp6lYdbWPMW1HO4zeuirOFKWCqs0zyDml%2BuGHWHwkaMIGPUnEPOqhSr%0AY9zI%0A)
 </div>
 
 Clique em continuar para permitir que o app da Kobana possa trocar as
@@ -7350,7 +7350,7 @@ nome da empresa, destacado na imagem abaixo, e clique em continuar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1182960829/9a7c4f83b634f275d8c90bc0/image.png?expires=1752529500&amp;signature=4c7796aa817e6b1626433b322b30b961a50e9ee4de6182de3d2882731d18c106&amp;req=dSEvFMB4nYldUPMW1HO4zfkbx7CE3x12MdGF6RIAu%2BGxw3%2BJ78OXLMLfUuYf%0AyOMI%0A)
+![](https://downloads.intercomcdn.com/i/o/1182960829/9a7c4f83b634f275d8c90bc0/image.png?expires=1752633900&amp;signature=432e599287ff98b6fb1ce6b0a43d622d1581653bd53a11bb0c8eca6cecdfc281&amp;req=dSEvFMB4nYldUPMW1HO4zfkbx7CH3hd6MdGF6RIAu%2BErxro3oqpBUBFsuL3u%0Afj19%0A)
 </div>
 
 
@@ -7544,7 +7544,7 @@ tela, na parte sobre o servidor da Kobana:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1029145731/6e1eb68e454abbd07b52bc59/9zQ4xPqAwAbRo78hCA55ZWTfk6DIQUh7fc3qDEbYJkf2S3CdcXEEoBIJ5i8pktupnlyzTU1Ug4IvjSMIuE3knpwGqlOfZAr_JcONLtqqpQQglNVp21s2W85w-mkvO6Brzn4FJptU8oFI9dM2noYzeO8?expires=1752529500&amp;signature=89e52e244b71db9c908db25dfc4fa3f43a4b22e341f703dfcc473a393c662a9d&amp;req=dSAlH8h6mIZcWPMW1HO4zYQsnTjrcSkoLdVjPxKj17PIV9UMgaCiZ2BnwxO8%0AKW0H%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1029145731/6e1eb68e454abbd07b52bc59/9zQ4xPqAwAbRo78hCA55ZWTfk6DIQUh7fc3qDEbYJkf2S3CdcXEEoBIJ5i8pktupnlyzTU1Ug4IvjSMIuE3knpwGqlOfZAr_JcONLtqqpQQglNVp21s2W85w-mkvO6Brzn4FJptU8oFI9dM2noYzeO8?expires=1752633900&amp;signature=6f5021a164a541dd0488c0e541b649d37ad4965be9e2bcd54a1e75a645ad6caf&amp;req=dSAlH8h6mIZcWPMW1HO4zYQsnTjocCMkLdVjPxKj17OO1iSnCqk84ijHZXWl%0AJwMv%0A)
 </div>
 
 
@@ -7562,7 +7562,7 @@ Na tela seguinte, preencha as informações pedidas pelo sistema:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1029145742/fee91be1a581e12fac1a6d5d/sD339r4s0Q5hBGeB8Rs9JN3U-Nvj_KjZaQfgLcKYwyQti4R6OFDOCNQPfv6xSsCpMX0VjxP_ErGjPF9amQZYgUpOFPxd-81zz1ZPYQbL82Sh0CzaJ1AnN1vlXfSjT8Kc5wpTDWcuGrvs4TkIE9WbZsA?expires=1752529500&amp;signature=7b1e30eeb719715a5d99d0e73ee0e48338295260cc942603b5dc55aca9d0207f&amp;req=dSAlH8h6mIZbW%2FMW1HO4zcDwkmJxjsLOTR6N4PqhB%2Fx6iMniIppurkM%2B%2BgpZ%0Ayzo3%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1029145742/fee91be1a581e12fac1a6d5d/sD339r4s0Q5hBGeB8Rs9JN3U-Nvj_KjZaQfgLcKYwyQti4R6OFDOCNQPfv6xSsCpMX0VjxP_ErGjPF9amQZYgUpOFPxd-81zz1ZPYQbL82Sh0CzaJ1AnN1vlXfSjT8Kc5wpTDWcuGrvs4TkIE9WbZsA?expires=1752633900&amp;signature=c56d9114b862a1e27688a1735e2e7591e04c16c111a5b2f42f328ffb42c9a154&amp;req=dSAlH8h6mIZbW%2FMW1HO4zcDwkmJyj8jCTR6N4PqhB%2Fwa4KxsavkxTTwLECfy%0AMgGs%0A)
 </div>
 
 
@@ -7596,7 +7596,7 @@ inferior direito da tela:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1029145752/a001e01f4c2398e0d5b67664/bZJraYQvlx0appx3MnQiTDaKdQsP8AhuMmq7WBi8lZvTZqzigZ-E14CAZ_ZhRJfKCJRwb1EA99smnrHDpzX1lo1xgfsrRu3gNbFWOX4R97vzK1oryIuLeKUgSdF2m7FF4TzOcs9ZsHlYwRvROetKZ1k?expires=1752529500&amp;signature=dfcc6043b694d655cf93ca31dd1c0fd93f5615b846eb1cd33156b9baaee755d3&amp;req=dSAlH8h6mIZaW%2FMW1HO4zZB3pktVtqzShaeCpB%2BG9ERW2DEHArfZFMxaYlr3%0AANSg%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1029145752/a001e01f4c2398e0d5b67664/bZJraYQvlx0appx3MnQiTDaKdQsP8AhuMmq7WBi8lZvTZqzigZ-E14CAZ_ZhRJfKCJRwb1EA99smnrHDpzX1lo1xgfsrRu3gNbFWOX4R97vzK1oryIuLeKUgSdF2m7FF4TzOcs9ZsHlYwRvROetKZ1k?expires=1752633900&amp;signature=ca83b674aacd630b510cd942570bce59da4a585c130746d1531228f6ca1485f1&amp;req=dSAlH8h6mIZaW%2FMW1HO4zZB3pktWt6behaeCpB%2BG9ERxjv4Unr4JDifdxng0%0AwITC%0A)
 </div>
 
 
@@ -7796,7 +7796,7 @@ quer excluir.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1028780798/5642f664f41d8aca0a662276/fSNIb1qWKVom4LGsrL4ugUz_nmp2y2glHsINsWONPCI4FrhCTVBr-VOmofi66fNusx0b16z8gnUwsjThtVZ3IBbMIHJdFNySyUgGJmPIdNKHqyC0etY_kekx1w7JjsAJNKZblWvid1TtE13PD0Sm22A?expires=1752529500&amp;signature=a5513d3b601f04f13a300927e2a85155a13f78eac2ca3a8f9fccc06bbf663a30&amp;req=dSAlHs52nYZWUfMW1HO4zapIWS0uPNVCr4BhJBKVO4F%2FZCawIUTCsdAMIUsM%0A1WVY%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1028780798/5642f664f41d8aca0a662276/fSNIb1qWKVom4LGsrL4ugUz_nmp2y2glHsINsWONPCI4FrhCTVBr-VOmofi66fNusx0b16z8gnUwsjThtVZ3IBbMIHJdFNySyUgGJmPIdNKHqyC0etY_kekx1w7JjsAJNKZblWvid1TtE13PD0Sm22A?expires=1752633900&amp;signature=6bede3ab8ae64a461b32b13b69223f5272ecb79a6726be0f332ab0a864ac0879&amp;req=dSAlHs52nYZWUfMW1HO4zapIWS0tPd9Or4BhJBKVO4EyRWBlLv4sPJEBzZuy%0A8GRY%0A)
 </div>
 
 
@@ -7813,7 +7813,7 @@ para apagá-la permanentemente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1028780817/ddedee73084a2be226f6f122/QkYmA245qaegXwrgXj-JFBtweUKNe0rdb1faNlA5MxmZsNpptXnzWHPK5ZDStp47H4youMP6nNkFGztPbEhtWQPGJ6YCCADeh-I5EqctI-I7HlhHFHqN_ZPAjpw_iso-MxzhgHgHhx-MppUa_NwGPyQ?expires=1752529500&amp;signature=5577c8478ba22cb9674280272bfefb22cc0e099998f1a5eea7b24fabb4934292&amp;req=dSAlHs52nYleXvMW1HO4zVF9Vh7hfIoACZg18k7aM%2FQEKW%2BLjEuEWRR4zEIQ%0Avx9V%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1028780817/ddedee73084a2be226f6f122/QkYmA245qaegXwrgXj-JFBtweUKNe0rdb1faNlA5MxmZsNpptXnzWHPK5ZDStp47H4youMP6nNkFGztPbEhtWQPGJ6YCCADeh-I5EqctI-I7HlhHFHqN_ZPAjpw_iso-MxzhgHgHhx-MppUa_NwGPyQ?expires=1752633900&amp;signature=afe7cddc7ff78cb6e83f2a269b84bb3babe6015551ebf076ea561b5688f01495&amp;req=dSAlHs52nYleXvMW1HO4zVF9Vh7ifYAMCZg18k7aM%2FTWVjqHcKbJ6itxmrTc%0A8CNF%0A)
 </div>
 
 
@@ -7828,7 +7828,7 @@ como na imagem a abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1028780845/edd9ceebd23518d410341288/0VNEDWfOyZ5Z9dj2HfyvZJGxF4sWSVgRz8in5lF2qT8c9RtHlDmz2Bjc7gxfRth0EDPgcwMjmxkq3hxN3tWjA2uG6eingWM_VMphkmXpoklPX6R35oQ4sMfBcYbVo09OqEwNEUCI3WnHrJU0l9n8nfg?expires=1752529500&amp;signature=c5d6a2c7afbdf3b2b03d6b1ad5a9204a2e29c4082abf9266b9af0a1c437a4062&amp;req=dSAlHs52nYlbXPMW1HO4zUPh9tEY1odHsWvM4hoBJhEJ%2BWzJcp3Qdds3ZSOZ%0ApW6g%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1028780845/edd9ceebd23518d410341288/0VNEDWfOyZ5Z9dj2HfyvZJGxF4sWSVgRz8in5lF2qT8c9RtHlDmz2Bjc7gxfRth0EDPgcwMjmxkq3hxN3tWjA2uG6eingWM_VMphkmXpoklPX6R35oQ4sMfBcYbVo09OqEwNEUCI3WnHrJU0l9n8nfg?expires=1752633900&amp;signature=4ff9fbb4d58b04b05c6d7e071c3f4a1fcedac91f6e1a5f6467a87fbee8a572ac&amp;req=dSAlHs52nYlbXPMW1HO4zUPh9tEb141LsWvM4hoBJhGn9VDnx6DU0s28tWp0%0ASoPZ%0A)
 </div>
 
 
@@ -7860,7 +7860,7 @@ da conta.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1028780860/6ad41621455df5de667feb9c/XYEBMVZUUrh9LEez9hyhgZAmzOORbAdNTJU-msdNNrcjCEVhCm1J11S25XaHWkoEWbNdzmthkhxPUO1-U0pFb4WtQ6_aCRzFTWtiTqr5lvk5q7XW-RVjmx9VnvW2tro6wY7iPY296bwMstpf887PM7k?expires=1752529500&amp;signature=324f53cbee5beb0e1bdb0a21ab2f1feb047f785242383a30ccb0cf5097c3530b&amp;req=dSAlHs52nYlZWfMW1HO4zUa2PJd9GqZ3LVCp1VdzW1r5XFtZeq798aK0jX4T%0A7IQI%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1028780860/6ad41621455df5de667feb9c/XYEBMVZUUrh9LEez9hyhgZAmzOORbAdNTJU-msdNNrcjCEVhCm1J11S25XaHWkoEWbNdzmthkhxPUO1-U0pFb4WtQ6_aCRzFTWtiTqr5lvk5q7XW-RVjmx9VnvW2tro6wY7iPY296bwMstpf887PM7k?expires=1752633900&amp;signature=3ac2f27a8690cf228a6c32250f52972b20e06c8cb5f8786f2431abcef25487f5&amp;req=dSAlHs52nYlZWfMW1HO4zUa2PJd%2BG6x7LVCp1VdzW1otSy1sOPshUuJB0ukd%0A4JB8%0A)
 </div>
 
 
@@ -7954,7 +7954,7 @@ arquivos </i>dentro da seção <i>Transferências de arquivos: </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1024251451/2a5ce00ac73a9769eda2ae45/image.png?expires=1752529500&amp;signature=995414f4234009a6db1649aae0408a892956d7603a46036e3756b5839b51f323&amp;req=dSAlEst7nIVaWPMW1HO4zSAEoKuYwfmdR5DE0eRhjURBDPtvlM8jjdnu%2FP3S%0Akbul%0A)
+![](https://downloads.intercomcdn.com/i/o/1024251451/2a5ce00ac73a9769eda2ae45/image.png?expires=1752633900&amp;signature=7230cb50b9010ee4724720609032f6bfd8f694b735a8801e9dddb9e3491e9956&amp;req=dSAlEst7nIVaWPMW1HO4zSAEoKubwPORR5DE0eRhjUQ2LjHld2aE7U8ABBaL%0A39H7%0A)
 </div>
 
 
@@ -7971,7 +7971,7 @@ Na próxima página, você deve clicar na opção <i>Selecionar arquivo
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1024258546/e33b97d20067792878b6449c/image.png?expires=1752529500&amp;signature=f28c749d7f3fcd9cdeff3749434ffd91613bf7143ff4d8ff5c7a4e8289e38c6a&amp;req=dSAlEst7lYRbX%2FMW1HO4zbVK3TD%2BHh8mz7n6lJrC%2FAnwqo3kg0IGO4WbAiyD%0A5EKa%0A)
+![](https://downloads.intercomcdn.com/i/o/1024258546/e33b97d20067792878b6449c/image.png?expires=1752633900&amp;signature=53c61eed6b389bd542880334a4aeccf8da42f499637c8799f20f04408aa386d9&amp;req=dSAlEst7lYRbX%2FMW1HO4zbVK3TD9HxUqz7n6lJrC%2FAmDPmQH%2BMi2NAzCAgBR%0AEEYJ%0A)
 </div>
 
 
@@ -7986,7 +7986,7 @@ processo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1024261689/24f9a027be8bc808a903639a/image.png?expires=1752529500&amp;signature=2e31134b5b1d2b1fdda7bb754306de9060bac6d3aa98eed5be3ffdfb31fd76a0&amp;req=dSAlEst4nIdXUPMW1HO4zSvtxvgaKsOTOR4ZPR1Z0GZYTWPVqG2oILtV%2F6l%2F%0A9JF6%0A)
+![](https://downloads.intercomcdn.com/i/o/1024261689/24f9a027be8bc808a903639a/image.png?expires=1752633900&amp;signature=46a88819339f72d003371b60baed756cb7a04fbd728c32ec6cf8d9d6a1390f44&amp;req=dSAlEst4nIdXUPMW1HO4zSvtxvgZK8mfOR4ZPR1Z0GZIx8ij1joCsZiiJukY%0ATDze%0A)
 </div>
 
 
@@ -8039,7 +8039,7 @@ canto superior direito da tela.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1024206804/1c5cc1d01e252ace878b062f/image.png?expires=1752529500&amp;signature=4db324ba5c4177289f04d595be511eecdfc8e9941b2e242f83a5f97305b1c327&amp;req=dSAlEst%2Bm4lfXfMW1HO4zeswrWQ8EvL2fnQK0A3Q9yk9k3v8ZteCy4bxwF6G%0Ah1T6%0A)
+![](https://downloads.intercomcdn.com/i/o/1024206804/1c5cc1d01e252ace878b062f/image.png?expires=1752633900&amp;signature=76cd41b944cb906307d4ab56fc61d8dae503dd62774de71da253bd37b4e59968&amp;req=dSAlEst%2Bm4lfXfMW1HO4zeswrWQ%2FE%2Fj6fnQK0A3Q9ylcJw8XQUCg4uVPaRJM%0Abl2k%0A)
 </div>
 
 
@@ -8066,7 +8066,7 @@ CNAB de remessa </i>e em seguida no botão <i>Gerar remessa para...
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1024197479/609349adc6cf626424f577f1/image.png?expires=1752529500&amp;signature=d1c07e80780f1266f505fd48b885ef61853f087ca39e0d59886c181083c4eb32&amp;req=dSAlEsh3moVYUPMW1HO4zQKrusT55OL2e0RhGk6HkmTCQqyjrnT8EJ0nt3b6%0Aejgn%0A)
+![](https://downloads.intercomcdn.com/i/o/1024197479/609349adc6cf626424f577f1/image.png?expires=1752633900&amp;signature=6d5cdedf66f17ecd4c268b39a493ad6668831f5061e338b083d964c636ca5172&amp;req=dSAlEsh3moVYUPMW1HO4zQKrusT65ej6e0RhGk6HkmT2TxYJjLIQMGhPFC3v%0A0Nc8%0A)
 </div>
 
 
@@ -8138,7 +8138,7 @@ quiser usar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1012058489/d9534982b2d7af7562a349c7/zIeElDiPMa5v9wAqeRlRolw1ma8T5FMp5Xctek6vLc4Kr8fwiRhisg0T0EoTWfY37olZxv6IyV-YyWixKQcZ1IoonkTLR3Bo_nM5ZhhpfH8MenyVKDw1Wzkx3J1vJJQETKlD9SKAj-_9nny8ONSZB1M?expires=1752529500&amp;signature=135b60d39938b968f7f32ae3b73042d2ad1833bc36d2522f948bab7cb2d44583&amp;req=dSAmFMl7lYVXUPMW1HO4zbj4DhiHfTLZdUCc0bjhg0WbMrhgudbec7aWOaYD%0A7Wd1%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1012058489/d9534982b2d7af7562a349c7/zIeElDiPMa5v9wAqeRlRolw1ma8T5FMp5Xctek6vLc4Kr8fwiRhisg0T0EoTWfY37olZxv6IyV-YyWixKQcZ1IoonkTLR3Bo_nM5ZhhpfH8MenyVKDw1Wzkx3J1vJJQETKlD9SKAj-_9nny8ONSZB1M?expires=1752633900&amp;signature=145046b9d4d6b827f541da59e1e10874c35f557869d7a7cfa8b1543b751de1a1&amp;req=dSAmFMl7lYVXUPMW1HO4zbj4DhiEfDjVdUCc0bjhg0UT%2BhkJ4i3f2Qbg8Hzh%0Ar0K3%0A)
 </div>
 
 
@@ -8171,7 +8171,7 @@ o nosso suporte. </b>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1012058507/f54725d96d08c9f581e3d9c3/CBL14mFiVTRwkwNTK6WPD6F7rAO2lH25MwFWvgUMFzcx1c0bni6pUZOHfgRq8KlyHoMDMVSQt4QL2PogfTGzCyZHEAiZbapu9rsUpGu0ohaqwQRA-HC6p8DqMqZUvuDp1Q30OUSJTvgDmfuUyIkrGOY?expires=1752529500&amp;signature=ff34109e8a285f16d6b43602719effa9a4df5ccf02bd8187a778394d512bcdf2&amp;req=dSAmFMl7lYRfXvMW1HO4zZgwR1poPNTwKlZx6ERfT%2BSQqywV%2FhxozdlZmAZz%0A3Exd%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1012058507/f54725d96d08c9f581e3d9c3/CBL14mFiVTRwkwNTK6WPD6F7rAO2lH25MwFWvgUMFzcx1c0bni6pUZOHfgRq8KlyHoMDMVSQt4QL2PogfTGzCyZHEAiZbapu9rsUpGu0ohaqwQRA-HC6p8DqMqZUvuDp1Q30OUSJTvgDmfuUyIkrGOY?expires=1752633900&amp;signature=9778194066ab851848c160869f0602ac6c71146fe9e1e4f85e21417a3a2b76e7&amp;req=dSAmFMl7lYRfXvMW1HO4zZgwR1prPd78KlZx6ERfT%2BSfsxXQq3DoaJlwDzO1%0AnUFL%0A)
 </div>
 
 
@@ -8192,7 +8192,7 @@ Boletos &gt; Gerenciar.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1012058515/1eb11cc312de9887075898f8/nR1cbepD6D4e8LIhpQA3dENb7EmCpAUAptFxBHD9h2VPRmlXVGelR7y3PJi1LA6jSY5mVSaorkSleqAh4__19-uURdEuzw1n4QSQZYWvUjw6hjXHMng61xtBL6zLjbyxLpvU4GNxjM_kNp0Vo6MT3nw?expires=1752529500&amp;signature=ed76724dd41ce26cbeed567c4ce14a7c3f6a8d563b1da7e1aceb8260bd910ef5&amp;req=dSAmFMl7lYReXPMW1HO4zWRmzbaHH%2B1N%2FQQZNBKTabnmmAWOlKwB5VGDTRVF%0AMLjR%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1012058515/1eb11cc312de9887075898f8/nR1cbepD6D4e8LIhpQA3dENb7EmCpAUAptFxBHD9h2VPRmlXVGelR7y3PJi1LA6jSY5mVSaorkSleqAh4__19-uURdEuzw1n4QSQZYWvUjw6hjXHMng61xtBL6zLjbyxLpvU4GNxjM_kNp0Vo6MT3nw?expires=1752633900&amp;signature=d53dd3682f74742969a41f2a6126398f5464d51c50dca7845a63327635d2ea3e&amp;req=dSAmFMl7lYReXPMW1HO4zWRmzbaEHudB%2FQQZNBKTabn7SGiuxanUS4frURHE%0AvSWO%0A)
 </div>
 
 
@@ -8266,7 +8266,7 @@ aberta:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951698997/0b170f309df183de3be29ec1/as-1.png?expires=1752529500&amp;signature=814ad3e91f4b4149c7a8a829f3e727b8424e180b11430447799d182dcc35d86d&amp;req=fSUmEMB2lIhYFb4f3HP0gKKfeFhqjNUC9WCiCK7jaCs3MJB%2Bh0%2F5up9trwdT%0Af7Q%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951698997/0b170f309df183de3be29ec1/as-1.png?expires=1752633900&amp;signature=03804dcca4ddd4f7aa871a742967a5d8ba4bfc84744250678f20159b6336d985&amp;req=fSUmEMB2lIhYFb4f3HP0gKKfeFtrhtkC9WCiCK7jaCvLWt1iHF98YTR3YU8i%0AufU%3D%0A)
 </div>
 
 
@@ -8293,7 +8293,7 @@ opção com o logo da Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951699012/058d6a12ff05bba356f09426/as-2.png?expires=1752529500&amp;signature=7cd2b25b469d6ca238bf33efb48dfd436f98e4f6864812378a75192bfa710991&amp;req=fSUmEMB3nYBdFb4f3HP0gIV5SqBr4eZ8fuoqmTL7DEy40oXWjMMbx7o0J%2FMj%0AV18%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951699012/058d6a12ff05bba356f09426/as-2.png?expires=1752633900&amp;signature=417c6174a14b6f0170b06637b9cc6799b491857561af11050dc1e9247a414cf2&amp;req=fSUmEMB3nYBdFb4f3HP0gIV5SqNq6%2Bp8fuoqmTL7DEwhEC9j9khdIBGnSHGh%0ACQc%3D%0A)
 </div>
 
 
@@ -8316,7 +8316,7 @@ pedir o CPF ou CNPJ dele, que deverá estar cadastrado na Kobana:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951699022/68cb02c1f0c028249d675a4d/as-3.png?expires=1752529500&amp;signature=b97a144519e8562e8438c2f7ab3d233c09b2adc045f312353d9ae29728911326&amp;req=fSUmEMB3nYNdFb4f3HP0gFbietRWHzb1yUJBM0DNmfmejOMGCU65HqazqG6I%0Af4k%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951699022/68cb02c1f0c028249d675a4d/as-3.png?expires=1752633900&amp;signature=c560c13be77621f8a07ba2e18ed60c1a218b5b6fc87a89a8a1c40990ed89679e&amp;req=fSUmEMB3nYNdFb4f3HP0gFbietdXFTr1yUJBM0DNmfmhKqxNiO40dmQt6cPO%0Aijo%3D%0A)
 </div>
 
 
@@ -8370,7 +8370,7 @@ Integrações &gt; API Kobana &gt; Token de API</i>**.**
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1085448494/75f3aa92f45ad8ee0ad194f3/image.png?expires=1752529500&amp;signature=7906a99148ea814a509413c6672af5fbb799c845a0c0c71fe88830df898ef2d9&amp;req=dSAvE816lYVWXfMW1HO4zVzOZn3hf7fycafj0eDe6HtJqSa9C5P1Y4y33IYc%0AUP6F%0A)
+![](https://downloads.intercomcdn.com/i/o/1085448494/75f3aa92f45ad8ee0ad194f3/image.png?expires=1752633900&amp;signature=f5ceca5173c1509c664d411446d59f8b6c311b431db854e05b769029813f2a9a&amp;req=dSAvE816lYVWXfMW1HO4zVzOZn3ifr3%2Bcafj0eDe6HvfBfMF3vPM%2B%2BmLiNVX%0AkxR2%0A)
 </div>
 
 
@@ -8385,7 +8385,7 @@ aparecerá uma mensagem apontando a integração como validada.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951699029/0b6909e58031724f82cb873a/as-5.png?expires=1752529500&amp;signature=6397560832965e05dec4ad4e095aaa29d46540c68dd010b454d0099057d23415&amp;req=fSUmEMB3nYNWFb4f3HP0gETyowKydiU%2Fl9cGj%2B5KOydWMeoXAXZnEVCQihSg%0Adxc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951699029/0b6909e58031724f82cb873a/as-5.png?expires=1752633900&amp;signature=632ad81c8071f06001cb1bfbbb6a3c7e1957f88eb3eac999371a6764dead244a&amp;req=fSUmEMB3nYNWFb4f3HP0gETyowGzfCk%2Fl9cGj%2B5KOydTlC0uZ5yM3kXxihSP%0AoXo%3D%0A)
 </div>
 
 
@@ -8401,7 +8401,7 @@ dia da ligação, o boleto gerado irá vencer.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951699040/ae79f5a2433fae52ecbc5221/as-6.png?expires=1752529500&amp;signature=914dafab23b841c1cefd6512f40f38ffea8fd46360a6ca28970639a3a4ab60f4&amp;req=fSUmEMB3nYVfFb4f3HP0gKqBaxmob7HlbeaRWRhgimoaI2MQmCdJrxi6LwzD%0AQMA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951699040/ae79f5a2433fae52ecbc5221/as-6.png?expires=1752633900&amp;signature=0a35cd446dd6145916dab11e7a93896b717ef38cb20b61f0b89c3f7bbbfa03d2&amp;req=fSUmEMB3nYVfFb4f3HP0gKqBaxqpZb3lbeaRWRhgimoxfsJqeSZqMp8jBL7u%0AmdE%3D%0A)
 </div>
 
 
@@ -8440,7 +8440,7 @@ Abaixo, veja alguns exemplos do que você pode escrever:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951699044/145b0ab8f3ccce648be3671c/as-7.png?expires=1752529500&amp;signature=17e2324501a0ab5b93c37858896b77a99b158dc042d5ba2379127eb8a7d1c0aa&amp;req=fSUmEMB3nYVbFb4f3HP0gAAjM6GP8vFO7et1ftcbwXPHPX8BAAfRTG7I6s25%0AMDE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951699044/145b0ab8f3ccce648be3671c/as-7.png?expires=1752633900&amp;signature=0e393a3a3020b289a089270a957cd24911479dabff80ed8f3f1d11769bb9b47c&amp;req=fSUmEMB3nYVbFb4f3HP0gAAjM6KO%2BP1O7et1ftcbwXPaglKHmiO3QdZDoBFy%0AQjI%3D%0A)
 </div>
 
 
@@ -8481,7 +8481,7 @@ notificação automática com o evento **Boleto Gerado**.
 ## Conteúdo
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951571435/10281ae14cea5c79aa143718/boleto-simples-whmcs.png?expires=1752529500&amp;signature=63ba61d20987d5ab8f75745daa046e9e3733f96e48108672e7ed19fe32ba4691&amp;req=fSUmE85%2FmYJaFb4f3HP0gLUgh4IteDmADWN2XcNz%2Bf%2FoR%2F9kfKUZzWtOPUvi%0A1wY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951571435/10281ae14cea5c79aa143718/boleto-simples-whmcs.png?expires=1752633900&amp;signature=1861297d9b2ee4496de3d6d4f75ead69c49740fa06d797cb817bc1db27b19ca0&amp;req=fSUmE85%2FmYJaFb4f3HP0gLUgh4EscjWADWN2XcNz%2Bf%2FZu7oeg8gq7FIJPxrv%0AHD8%3D%0A)
 </div>
 
 O [WHMCS][1]{: target="_blank" .intercom-content-link} é um sistema de
@@ -8620,7 +8620,7 @@ Para configurar essa automatização, siga os passos:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951477634/2d851c98656ae5a92075914c/image.png?expires=1752529500&amp;signature=4fed199ccce6f1b2cc8d6d88a6294aad831ef67058fcec07b662eb794e5d2607&amp;req=fSUmEs55m4JbFb4f3HP0gO4x2153vF5QLKWE3caSx924FzBI1aPzyGIDQuyj%0Ar0s%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951477634/2d851c98656ae5a92075914c/image.png?expires=1752633900&amp;signature=b45414613e07eb69f258c9f870fcadb70d334af29b87bcc7054a178b343d7598&amp;req=fSUmEs55m4JbFb4f3HP0gO4x2112tlJQLKWE3caSx935CNNYCQpBaGvBgR2r%0ASDk%3D%0A)
 </div>
 
 
@@ -8633,7 +8633,7 @@ Para configurar essa automatização, siga os passos:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951477644/24995a478c9cba62c0210fa4/image.png?expires=1752529500&amp;signature=7a6474f782ca2eb4bc5c97a83ae6215ef803e76b80926288dcc04d4477214d5e&amp;req=fSUmEs55m4VbFb4f3HP0gDiqm89hTBzBAuT6tsjTeFQjJrYEtieI8aoAk0lu%0A0Nk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951477644/24995a478c9cba62c0210fa4/image.png?expires=1752633900&amp;signature=0b5193b519ca0634683fc47793c8c45ded8982c49b1f057f28081974743097b2&amp;req=fSUmEs55m4VbFb4f3HP0gDiqm8xgRhDBAuT6tsjTeFRT809HHNNRN%2BT2f6mE%0A7SU%3D%0A)
 </div>
 
 
@@ -8648,7 +8648,7 @@ tiver um valor maior ou igual a R$ 1.000,00.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951477648/5bb5cddcb5e87229831dd480/image.png?expires=1752529500&amp;signature=fd2e3a48c7d7dc46f8926a840f5eb3c3915aaaae70c44ea95f8f1bbce9abbcf7&amp;req=fSUmEs55m4VXFb4f3HP0gAMxuq56Xzb%2BeKbiQKyo7R75t0Y1QZA4Qlnx9xT9%0Aafk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951477648/5bb5cddcb5e87229831dd480/image.png?expires=1752633900&amp;signature=60c132531989d01678ed8cefad5f920db52fa3675f4e96d6c0b43151d4a16c7c&amp;req=fSUmEs55m4VXFb4f3HP0gAMxuq17VTr%2BeKbiQKyo7R69Zj56PnB%2BICI8KQle%0ABVo%3D%0A)
 </div>
 
 
@@ -8662,7 +8662,7 @@ adicionado:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951477656/258086d6b8a1070876f34263/image.png?expires=1752529500&amp;signature=96adad3f610058f21797f108f3a46c164782febce2590c1169d39e36f24c97d7&amp;req=fSUmEs55m4RZFb4f3HP0gEr9gPsyMfZqFSf86LTLIOe3QzHoW9jfWiSAf%2FiJ%0AKLQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951477656/258086d6b8a1070876f34263/image.png?expires=1752633900&amp;signature=9421a194136ae861ab884fc7cd5188a0ff5009ddb221c4da3f8aff0921b58d2c&amp;req=fSUmEs55m4RZFb4f3HP0gEr9gPgzO%2FpqFSf86LTLIOfwyuu9ILEycIFX5j8Z%0AT%2F0%3D%0A)
 </div>
 
 
@@ -8677,7 +8677,7 @@ possível com informações que você possa trabalhar com facilidade.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951477672/bf12756087dfd7849e229cf3/image.png?expires=1752529500&amp;signature=0a189826f68b59328c0930c594ae1fda74a129a993e20e28d438b14020e33d9a&amp;req=fSUmEs55m4ZdFb4f3HP0gNmBvJTOnlypxXVylSOa7yh2ImpdJrAi9fu4a0My%0AD%2BY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951477672/bf12756087dfd7849e229cf3/image.png?expires=1752633900&amp;signature=ce4e2a7f99844e7244a8e35587d1d74ad0fbbc35b955db1a36d1ad1ace6cb3b5&amp;req=fSUmEs55m4ZdFb4f3HP0gNmBvJfPlFCpxXVylSOa7ygL8q9A9rtG0ULEljOK%0ARR8%3D%0A)
 </div>
 
 Em seguida, clique em finalizar automatização e receba a mensagem de
@@ -8759,7 +8759,7 @@ ação é \"Salvar PDF\". Siga os passos abaixo para criar esse Zap:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951464008/d1123b0bd72f41e8ccaa1dd7/image.png?expires=1752529500&amp;signature=0d3d1ca0bc5026747ab210c618c3c2cc81f85d70083f69e61b8ec416cea6dce9&amp;req=fSUmEs96nYFXFb4f3HP0gMYhuzHNlS6YwauWlxBozzAdcec4tjocUGKGEBMf%0AyYw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951464008/d1123b0bd72f41e8ccaa1dd7/image.png?expires=1752633900&amp;signature=927a517c27256ee21718ced815ef2242711739ec390b04f40c103794587ce34c&amp;req=fSUmEs96nYFXFb4f3HP0gMYhuzLMnyKYwauWlxBozzDeYYbcoecC0tu2qD5r%0A8bM%3D%0A)
 </div>
 
 
@@ -8773,7 +8773,7 @@ será a Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951464019/9c8246d47aefc720fec64a4f/image.png?expires=1752529500&amp;signature=0a2eca5271ff687fe019ed37567f6553e6534929e8797ad4dd7096e430fa5ea8&amp;req=fSUmEs96nYBWFb4f3HP0gM%2FBhEtHfDOrojzMF%2BbdM6n6ChUumh1%2B1H4aOS6A%0AXzM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951464019/9c8246d47aefc720fec64a4f/image.png?expires=1752633900&amp;signature=a1718bdfac5f5d8dadca3ca7ef9c9498144a2f9b425d877524ffb6c08f2e6775&amp;req=fSUmEs96nYBWFb4f3HP0gM%2FBhEhGdj%2BrojzMF%2BbdM6kyOziItuqWsh%2F4e95n%0ABgQ%3D%0A)
 </div>
 
 
@@ -8787,7 +8787,7 @@ será PDF do Boleto Gerado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951464026/1ffdff742164541352ef5efd/image.png?expires=1752529500&amp;signature=f294e85fc36898918425bdf13abb8518d30bbce644d4c70ace3916f9f0aadf1a&amp;req=fSUmEs96nYNZFb4f3HP0gNvYm7vl%2BHrlHyFecXvGWEdz22du4cf08JhOrbiO%0ACOQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951464026/1ffdff742164541352ef5efd/image.png?expires=1752633900&amp;signature=5704bab89391084c080cc3a3b9a8b41b75a886f8483295add4f6c7fea4c1f5d5&amp;req=fSUmEs96nYNZFb4f3HP0gNvYm7jk8nblHyFecXvGWEdAw7T1fT7naig6n1Ed%0A4jc%3D%0A)
 </div>
 
 
@@ -8821,7 +8821,7 @@ informações do último boleto gerado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951464033/6d0436db2a2ae29926f61a9c/image.png?expires=1752529500&amp;signature=a32de4a2b15f0d359a673f27438b407b116408b98c2b906c21064552e3ac9cff&amp;req=fSUmEs96nYJcFb4f3HP0gFOk5i%2Bok86rrYgtznChj7NXNp%2BLhFbK3aUdEBWw%0Aejc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951464033/6d0436db2a2ae29926f61a9c/image.png?expires=1752633900&amp;signature=630b5c4a3df9a0d53027b2b95d275379ede1d62da3eb950de368704a7d452197&amp;req=fSUmEs96nYJcFb4f3HP0gFOk5iypmcKrrYgtznChj7PuPGRskGWS4zG7dfW6%0Av%2BY%3D%0A)
 </div>
 
 
@@ -8841,7 +8841,7 @@ arquivo dentro do Dropbox.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951464037/1509596bf3b6c8d55b5e7c68/image.png?expires=1752529500&amp;signature=af86d634ba8cba6101d70369de956cb6428d7df50b20c9327b6b4ac8a79d1bb9&amp;req=fSUmEs96nYJYFb4f3HP0gIUCpi8NI0UMmAZqnPx2mwrLJ8ONYlNcxFS%2BmrK1%0ABv8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951464037/1509596bf3b6c8d55b5e7c68/image.png?expires=1752633900&amp;signature=5f5f88e4d477e8019a590c77a62fd9899338fffc1173dd314b6a9a08cba9463d&amp;req=fSUmEs96nYJYFb4f3HP0gIUCpiwMKUkMmAZqnPx2mwouZ7Nz0BOatKQp8alz%0AlXw%3D%0A)
 </div>
 
 
@@ -8862,7 +8862,7 @@ neste caso é o *Object Formats Pdf*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951464038/0629bc9eb6ff124d8918f247/image.png?expires=1752529500&amp;signature=68007afe80249228a22a9496d0642dd7dc4b70e5d2590ee26239c69b8de7fe4f&amp;req=fSUmEs96nYJXFb4f3HP0gC4nUMhmLF0r4uP%2FmMbFVhZO%2FtI52KNl4UOKQxLk%0AnCQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951464038/0629bc9eb6ff124d8918f247/image.png?expires=1752633900&amp;signature=84ce0e30d1c97b7d518a33f0f259efa12672b413e79659f2ca617ae99611f707&amp;req=fSUmEs96nYJXFb4f3HP0gC4nUMtnJlEr4uP%2FmMbFVhYxr8zQQHwxIWH7rPZr%0ADCs%3D%0A)
 </div>
 
 
@@ -8951,7 +8951,7 @@ em uma pasta no Google Drive.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951427628/01cc0b3e66eae9679a735a10/image.png?expires=1752529500&amp;signature=559a00064e731466b1d4effeb33a894ffa7383ae4d71dcdc07d1879338eb1ebd&amp;req=fSUmEst5m4NXFb4f3HP0gGRPDK8x42vkwwfZi1ZxjpSB6KfEMCgjxP5n5SGo%0Au34%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951427628/01cc0b3e66eae9679a735a10/image.png?expires=1752633900&amp;signature=32267bbdb37cea8e6f6c3d3d5094c63c3467fad413716ff8f8763ea7ff9d1465&amp;req=fSUmEst5m4NXFb4f3HP0gGRPDKww6WfkwwfZi1ZxjpSx%2BfxbLFXa9OUeduYE%0Ans4%3D%0A)
 </div>
 
 
@@ -8965,7 +8965,7 @@ será a Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951427640/e014ccff37e6a7ece9034a79/image.png?expires=1752529500&amp;signature=badc4c6b8293a905ad9cd2aba02f8a9c30714926f1d72ec112c6d197d6a82ea4&amp;req=fSUmEst5m4VfFb4f3HP0gPpIA1tyvnpIO1BGibxkNaI5w0zV7MgKsJj2I7rA%0ALNw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951427640/e014ccff37e6a7ece9034a79/image.png?expires=1752633900&amp;signature=d123cd29d75f8ab22d1238a5911fa1d6ae9b47f48c4168cc7039053ccd014ca4&amp;req=fSUmEst5m4VfFb4f3HP0gPpIA1hztHZIO1BGibxkNaIBCHH0wQtzYlXP8Bo4%0A1Qc%3D%0A)
 </div>
 
 
@@ -8979,7 +8979,7 @@ selecionaremos o evento *CNAB Remessa Processado*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951427654/89864aafb298ea61a6d9abf6/image.png?expires=1752529500&amp;signature=b4548ddad1f271b73f4e52b3de583a14328c6f6828db7c1fbb97a56ee086dcdc&amp;req=fSUmEst5m4RbFb4f3HP0gDVDwkBiXKu7ZhiFR8iQsFNgMc6GVYTz6LlHw8to%0AFlI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951427654/89864aafb298ea61a6d9abf6/image.png?expires=1752633900&amp;signature=212e39ca6b6b018c24fd501a647dc1611b82d9785409216aa0cc40ccb98d4a42&amp;req=fSUmEst5m4RbFb4f3HP0gDVDwkNjVqe7ZhiFR8iQsFN7gXy3Ca07K9uAdjib%0Asdg%3D%0A)
 </div>
 
 
@@ -9013,7 +9013,7 @@ informações da última remessa.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951427672/197f088b52fa7f3f6e7f678a/image.png?expires=1752529500&amp;signature=60b8751d6ed8dc6a189c094f32322ee83412c5f1c3fb26ee96cbdea0ee39ee3f&amp;req=fSUmEst5m4ZdFb4f3HP0gECplF7p3H4IKgMKBEmp9SaJwPcCsIcIOVY3S%2BhK%0AQuk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951427672/197f088b52fa7f3f6e7f678a/image.png?expires=1752633900&amp;signature=70064b19e34a5e20fa509b50d3fc21428a143560765fe27e9378d42942bb7a26&amp;req=fSUmEst5m4ZdFb4f3HP0gECplF3o1nIIKgMKBEmp9SYokfsjd1FYjn5%2BbWsC%0AW20%3D%0A)
 </div>
 
 
@@ -9028,7 +9028,7 @@ escolheremos o evento *Upload File*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951427683/ec94b1058cf22961d6370e9b/image.png?expires=1752529500&amp;signature=8578c1f15df271c633c3e501ff323dbae8c398399cb0f8494985b8a1318187fb&amp;req=fSUmEst5m4lcFb4f3HP0gOHVG0O7uW5M2P80AD92ZT6Slk0YLQCCBa6uQwF%2F%0AM4o%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951427683/ec94b1058cf22961d6370e9b/image.png?expires=1752633900&amp;signature=50fd12d32279de98d6deab78a2eb1d43ec80ff897511b3788dfa0683c8985583&amp;req=fSUmEst5m4lcFb4f3HP0gOHVG0C6s2JM2P80AD92ZT4ow2c3fOJKHdbbAdXK%0A9hA%3D%0A)
 </div>
 
 
@@ -9055,7 +9055,7 @@ Aqui é importante que no campo File, você selecione o *Object URL*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951427691/2aefb5f693d1f0e998f36c56/image.png?expires=1752529500&amp;signature=ba77489afaf544a522dcc14212c3aeeb6aea8becc0f66b5f7ae575a4489a9ebc&amp;req=fSUmEst5m4heFb4f3HP0gCXtqzSQzdt93kbzGjW2EavrsoWTzfhBH2aeq4TH%0A17o%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951427691/2aefb5f693d1f0e998f36c56/image.png?expires=1752633900&amp;signature=3dec99cf6451528327e590c45bfcab6cb8283bc012875aa618ccd147ac697320&amp;req=fSUmEst5m4heFb4f3HP0gCXtqzeRx9d93kbzGjW2EasoT0vU8q%2Bx9DpUsNOb%0AD3U%3D%0A)
 </div>
 
 
@@ -9281,7 +9281,7 @@ então, continuar. Confirme que você deseja integrar as contas.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951413892/a3d96ea369bbc51f3bd30994/image.png?expires=1752529500&amp;signature=bf7d488c230a4734264aaedf138187155ca972512126ee34326dcba83d1618f7&amp;req=fSUmEsh9lYhdFb4f3HP0gKLhlwone8K8tzAu7rx6CLkLB9eDQAKOJT4gVsn6%0AyQc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951413892/a3d96ea369bbc51f3bd30994/image.png?expires=1752633900&amp;signature=0dc79994091480dafc60a5a29c011e95b802a7f94a1f4d94601d937781681dc7&amp;req=fSUmEsh9lYhdFb4f3HP0gKLhlwkmcc68tzAu7rx6CLmxkC%2F00IWWzhYbgK%2FM%0Afqw%3D%0A)
 </div>
 
 
@@ -9314,7 +9314,7 @@ sejam trazidos ao sistema de protesto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951413906/5a537ef10282ce912578b6f7/image.png?expires=1752529500&amp;signature=7589e2020812b61daf847b624429693f7bb3652bc2ceed57c9b73d6c687af5aa&amp;req=fSUmEsh9lIFZFb4f3HP0gPRev21M%2Blc7AZxgInO3p0jn9MWTWJCCdamvFYf9%0A%2F9E%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951413906/5a537ef10282ce912578b6f7/image.png?expires=1752633900&amp;signature=c6ff9876a03ed1015cf03849995cedaa14a2794b511b8b309d6cf654251b86a1&amp;req=fSUmEsh9lIFZFb4f3HP0gPRev25N8Fs7AZxgInO3p0g4gXeYqEK%2B50hlKymX%0Agzc%3D%0A)
 </div>
 
 
@@ -9329,7 +9329,7 @@ clicar em *Enviar títulos*, conforme imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/951413916/cd86a6ff15917a31f895fb14/image.png?expires=1752529500&amp;signature=f2d42f788a72f9228e45b0e4d2e66bedb485045e1effa19c5e8765feb2c289c9&amp;req=fSUmEsh9lIBZFb4f3HP0gFvpjZF4Un7qA83OQpw1eye2Siu1Uw7SMJ%2FQf43F%0AHXw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/951413916/cd86a6ff15917a31f895fb14/image.png?expires=1752633900&amp;signature=10495abbbebc8c962e0be878109aa0102ccdd2393c0a0767e0703b80c5783d51&amp;req=fSUmEsh9lIBZFb4f3HP0gFvpjZJ5WHLqA83OQpw1eydd4pXolYzAujVYYqnC%0AUdA%3D%0A)
 </div>
 
 
@@ -9403,7 +9403,7 @@ No exemplo abaixo, inserimos na mensagem da notificação por e-mail:
   {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950794926/8518bcdb69e600610f550b8e/image.png?expires=1752529500&amp;signature=76dbbda53065c8543f16ea525cbe55910c9380f4c87c224a49e8838eedb552c0&amp;req=fSUnEcB6lINZFb4f3HP0gCuXKaXN0M6yfYusH8MyvdpHEtyETNKBo2dpoG%2Bm%0Ax0M%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950794926/8518bcdb69e600610f550b8e/image.png?expires=1752633900&amp;signature=1e074a98d4beea2c56b582a451df0f2d10eda99b50368efa5af3b457e962ad55&amp;req=fSUnEcB6lINZFb4f3HP0gCuXKabM2sKyfYusH8MyvdqEut%2Fiolu1vdPC3tDx%0AeR0%3D%0A)
 </div>
 
 
@@ -9417,7 +9417,7 @@ o e-mail com as informações e o link para acesso da nota fiscal:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950794935/bd6bd94d8f560b66285bb722/image.png?expires=1752529500&amp;signature=fb23da25848ae40c4433a8da39d0c13e59e58bea9ac20e2770b8b28b1b962406&amp;req=fSUnEcB6lIJaFb4f3HP0gIyxvDKuA2vlhr6XGEEEYYZUoyO5loUjcWSWPKQ3%0At%2BY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950794935/bd6bd94d8f560b66285bb722/image.png?expires=1752633900&amp;signature=cf9aa67711ccbf09305cc93a7104c1357a0574262bb8dee9dbc4ee563dafd79b&amp;req=fSUnEcB6lIJaFb4f3HP0gIyxvDGvCWflhr6XGEEEYYYuwqxVcq0dGBNLDBcG%0A3iw%3D%0A)
 </div>
 
 
@@ -9513,7 +9513,7 @@ Na imagem abaixo, demonstramos como deve ser apresentado na planilha:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950789554/de660c5c51d11432391d05bb/image.png?expires=1752529500&amp;signature=e4d13dda0df2ce94a35edb1fc67cdf939bda2f7052e39c3f1a7abe6da6da6ec3&amp;req=fSUnEcF3mIRbFb4f3HP0gH6SZ52sRpOFruUEgrcaolI1D6kygZCvFErRsCOQ%0AF4g%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950789554/de660c5c51d11432391d05bb/image.png?expires=1752633900&amp;signature=a31036349a4f729c366e8aec4740a95c80608d25004bf2d0b8cee5976bbb1b50&amp;req=fSUnEcF3mIRbFb4f3HP0gH6SZ56tTJ%2BFruUEgrcaolKpYdB4cF3bTMo3mwgx%0ACpg%3D%0A)
 </div>
 
 
@@ -9648,7 +9648,7 @@ Sandbox de testes.*
 ## Conteúdo
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950763369/6b861394d42d6ff2480f0f82/boleto-simples-hotza.png?expires=1752529500&amp;signature=ec4f33fe55402c0f3de9092b0185cc3968bf0c435c2f1cd65613dee09f0f624c&amp;req=fSUnEc99nodWFb4f3HP0gI%2BUy9TlcM%2BBpvI7BVgrHuGRomMG7yiW%2FdGdPU9I%0AlmM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950763369/6b861394d42d6ff2480f0f82/boleto-simples-hotza.png?expires=1752633900&amp;signature=034ce751e690bd325c2aa8c87a86bcf96daae7b07199f1efe4383e1150a54c08&amp;req=fSUnEc99nodWFb4f3HP0gI%2BUy9fkesOBpvI7BVgrHuEyeKVixWxqWwnTMTdp%0A%2F4s%3D%0A)
 </div>
 
 O [Hotzapp][1]{: target="_blank" .intercom-content-link} é uma
@@ -9689,7 +9689,7 @@ Adicionar Loja.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950763374/8f128838dea14f66664ae0ab/criando-loja-boleto-simples-hotza.jpg?expires=1752529500&amp;signature=d4f98429fd21940ceb07039f623d90970f72e8cad63d3cfe18d35c012bd897ab&amp;req=fSUnEc99noZbFb4f3HP0gDXjpxAWnvccFg5Y%2F3%2Bjvw5%2FJDJQNtJErls1jeso%0AAsM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950763374/8f128838dea14f66664ae0ab/criando-loja-boleto-simples-hotza.jpg?expires=1752633900&amp;signature=35b889cc19584dce764e47cf6e4fff24e1f6dc37d6a371e22aff0036431c8aea&amp;req=fSUnEc99noZbFb4f3HP0gDXjpxMXlPscFg5Y%2F3%2Bjvw60o7CPRd%2B7TKEjVc3K%0A5zs%3D%0A)
 </div>
 
 
@@ -9717,7 +9717,7 @@ Pagos**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950763379/58cb26627ee3f476ebe6f3d9/image.png?expires=1752529500&amp;signature=6f633e818ca7b5661f27f9f03ddb1c949b9e03b2f1ab7974916f788b5a80360a&amp;req=fSUnEc99noZWFb4f3HP0gCJuURzdSBkz1GS77nZUTHltwBPFTZ4GdEAUUXpx%0AmxE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950763379/58cb26627ee3f476ebe6f3d9/image.png?expires=1752633900&amp;signature=3e0d715cc748fb3b55a280a8f3eeab6ba495201591f8215e6af8a1afe0f99bab&amp;req=fSUnEc99noZWFb4f3HP0gCJuUR%2FcQhUz1GS77nZUTHkIp63gw0iONQMWd9j5%0AfL0%3D%0A)
 </div>
 
 
@@ -9746,7 +9746,7 @@ Copie a URL gerada (circulada em azul na imagem abaixo).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950763388/e00e7fa9aad21e02980284b8/boleto-simples-hotzapp-instru-es-de-integra-o.jpg?expires=1752529500&amp;signature=80bd950cdf397311d35064fd85a48ff8097c66d61f7277d622917fcef11a0caa&amp;req=fSUnEc99nolXFb4f3HP0gPP6N8ijtf5Kx5ZvNB5%2Bpfkr1%2Frx4nP1ejYZCxWB%0AGe4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950763388/e00e7fa9aad21e02980284b8/boleto-simples-hotzapp-instru-es-de-integra-o.jpg?expires=1752633900&amp;signature=8913a3eab0e85c60707650ee68c54f28cb52e6a6fa75ec540395361fe79b15b9&amp;req=fSUnEc99nolXFb4f3HP0gPP6N8uiv%2FJKx5ZvNB5%2Bpfk0InT%2Fa%2B8hmqDwJBE9%0APvc%3D%0A)
 </div>
 
 
@@ -9774,7 +9774,7 @@ API Kobana &gt; Webhooks*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1082465560/aed027ae7beaebd7ea3566c1/image.png?expires=1752529500&amp;signature=622188c9e4ebc7581d74c7e8c76525a1d31afc948013bea318f5e67c083efd16&amp;req=dSAvFM14mIRZWfMW1HO4ze9KhajtBVcTjpr%2FQ0PAYp6YMhqw%2FULHuqNyyoul%0AA7CD%0A)
+![](https://downloads.intercomcdn.com/i/o/1082465560/aed027ae7beaebd7ea3566c1/image.png?expires=1752633900&amp;signature=003fe1e084707dc6c0a9a876cea430d4d0c43aad70589597c02e06586bad60b9&amp;req=dSAvFM14mIRZWfMW1HO4ze9KhajuBF0fjpr%2FQ0PAYp6HIwkbwLhUq1kJzQXH%0Ax7vR%0A)
 </div>
 
 
@@ -9795,7 +9795,7 @@ Na página que abrir, você deverá colar a URL que copiou lá do Hotzapp no
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950763404/a5a6958583728278c52fab2c/image.png?expires=1752529500&amp;signature=ec80afd35e30d1acae20f69f459b381f35e9c817660ddadfc626bf00d6faa132&amp;req=fSUnEc99mYFbFb4f3HP0gBjpS1lmRgvDEm3Tq%2FfguuKQNx2AP3ucR72DHzd9%0AM88%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950763404/a5a6958583728278c52fab2c/image.png?expires=1752633900&amp;signature=4a57dad803d5c8b6f48badccf7fae12f5dd8e4b55b3228428b7e2ee0da8d516a&amp;req=fSUnEc99mYFbFb4f3HP0gBjpS1pnTAfDEm3Tq%2FfguuLoMsEg25XQ7c%2FEtbNE%0AJtI%3D%0A)
 </div>
 
 
@@ -9832,7 +9832,7 @@ eventos:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950763408/3afe89c179af3eb667478deb/image.png?expires=1752529500&amp;signature=a7271eadcfae1271b4530e25bb000e3c22df22d3d09587df651321a4ad23c9b7&amp;req=fSUnEc99mYFXFb4f3HP0gMCBdJ7MJF6ILWBWZpYHwBu6HfKcsW2%2BsmsNklWE%0ACA4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950763408/3afe89c179af3eb667478deb/image.png?expires=1752633900&amp;signature=80b02da8637ae121c0a385fbe4f800b79749e3834e8c721ef347d22cf8a3c23f&amp;req=fSUnEc99mYFXFb4f3HP0gMCBdJ3NLlKILWBWZpYHwBtzmNUd8vOEt65yqZRP%0AFmg%3D%0A)
 </div>
 
 
@@ -9855,7 +9855,7 @@ clientes.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950763415/be691aac0fa0de45b7c18fe7/painel-hotzapp-boleto-simples.jpg?expires=1752529500&amp;signature=efb6223bdfb9692beff6b8f858d7583da2adbbee0ec14ed6d89f4e993296a080&amp;req=fSUnEc99mYBaFb4f3HP0gK%2Bzggm%2F3Goa06bd2POxdV%2FjJMfUnotJGrGi79we%0ATbs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950763415/be691aac0fa0de45b7c18fe7/painel-hotzapp-boleto-simples.jpg?expires=1752633900&amp;signature=70aeb949d6e30a2388f49924ff96f7f999278cd15af9821d0a4074c71348addb&amp;req=fSUnEc99mYBaFb4f3HP0gK%2Bzggq%2B1mYa06bd2POxdV9ggGr53oHXZAkyhQh7%0AmyI%3D%0A)
 </div>
 
 
@@ -9912,7 +9912,7 @@ que a Kobana possui conexão direta pela interface, como por exemplo, a
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1082452364/554972e90277b03dc0701bad/image.png?expires=1752529500&amp;signature=9f5944c969891bdab054ea63f160369eab5819ecb0c5ad2173a417824c4b4b35&amp;req=dSAvFM17n4JZXfMW1HO4zZj66t1S0mw6loYhbL9loTSxSFDVAiRvjFafSWHQ%0AgHkR%0A)
+![](https://downloads.intercomcdn.com/i/o/1082452364/554972e90277b03dc0701bad/image.png?expires=1752633900&amp;signature=7f29a9a2d48414f4027ef8b9673d7c328eb9d037ef7e57026fc61b226aec2f0f&amp;req=dSAvFM17n4JZXfMW1HO4zZj66t1R02Y2loYhbL9loTSH0hmyLmsvPHR6Dt3i%0AZSKg%0A)
 </div>
 
 Dê um nome para a sua conexão, por exemplo: \"Cobrança WhatsApp\" e
@@ -9951,7 +9951,7 @@ No DigiSac, clique no seu **avatar** e em **Conta**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950757951/113beda0fe4a573fc589463d/image.png?expires=1752529500&amp;signature=0d04e5d6746311e16e47fc75e19ca5097d4e6bc4bd926fc640380eb4b00b2ba7&amp;req=fSUnEcx5lIReFb4f3HP0gFk2uldWqKuphrV2gtVtNhTmWlReeFaOpnEZ3SMj%0Acp8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950757951/113beda0fe4a573fc589463d/image.png?expires=1752633900&amp;signature=cfcd6c49ddf2dfe5cdc0d9edd4e5e1d137c7260f25faec369673625e99eef4c6&amp;req=fSUnEcx5lIReFb4f3HP0gFk2ulRXoqephrV2gtVtNhRaWQ2FQGSmySrQ7jgK%0APRI%3D%0A)
 </div>
 
 
@@ -9966,7 +9966,7 @@ clique em Criar Token.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950757959/48e84c2e952580c58bcbb111/image.png?expires=1752529500&amp;signature=bc360e5fdab3b3d07d16d8a67b696873e6f336c57b106d832ed62a2ba1df27e7&amp;req=fSUnEcx5lIRWFb4f3HP0gAYO8n7nePJvZF1w6qTW%2B5RnxX5sF5nZgpdLwbUe%0AMQc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950757959/48e84c2e952580c58bcbb111/image.png?expires=1752633900&amp;signature=05b7479bdefba9714eb0f06022542cf0d4f2672dbfddb3a8d6a1dc893bc53e3d&amp;req=fSUnEcx5lIRWFb4f3HP0gAYO8n3mcv5vZF1w6qTW%2B5TMYbCDRKZUIPL1NTEM%0A1MM%3D%0A)
 </div>
 
 
@@ -9983,7 +9983,7 @@ vai utilizar para enviar os boletos aos clientes, clique nos 3 pontos
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950757963/24bb57e4924b406cd7de3616/image.png?expires=1752529500&amp;signature=e68256dc80382fc276abf6ca38f0b9b9cd9aac61ddf86b0aeba72582726c41e8&amp;req=fSUnEcx5lIdcFb4f3HP0gAFl6BfVmq0j1rb%2Bwwb85rFWsePShwmUu8hxQpmp%0AOHI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950757963/24bb57e4924b406cd7de3616/image.png?expires=1752633900&amp;signature=b596044f9dd7f3aff72541f53883d33180f8b1d6f0989e95071b0abff120a5a5&amp;req=fSUnEcx5lIdcFb4f3HP0gAFl6BTUkKEj1rb%2Bwwb85rF2EE7%2FWcMW3qshW7WT%0Anx8%3D%0A)
 </div>
 
 
@@ -9997,7 +9997,7 @@ O ID será o código final da URL exibida no seu navegador, logo após a
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950757968/0c5ded1504533c82262864c1/image.png?expires=1752529500&amp;signature=f669f7df1fa7dda497232eeb05428264ba8b5da96085e0fe629a2721474f319a&amp;req=fSUnEcx5lIdXFb4f3HP0gOjrCzYinUA6EZnyEYOM00X43jyjlnEDHRrtDKWr%0Asho%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950757968/0c5ded1504533c82262864c1/image.png?expires=1752633900&amp;signature=a63bf3b9190539cb942c1e2483bc28d016f37148b6417dbc342bf8003a4fc15c&amp;req=fSUnEcx5lIdXFb4f3HP0gOjrCzUjl0w6EZnyEYOM00WqWL3IYKjSi90uqpew%0AgaA%3D%0A)
 </div>
 
 
@@ -10013,7 +10013,7 @@ Agora você pode inserir as credenciais de acesso na Kobana e clicar em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1082459041/6a7f9cf9f7f98135ee2adf20/image.png?expires=1752529500&amp;signature=4271f97cff47eef6ed1756dd96d25b91fd9a2dc0d6def62a8a41c4f21f268d46&amp;req=dSAvFM17lIFbWPMW1HO4zaVfqabHiUU7UzhQfcDB5bMXod6Rg8mMXO%2Bwckr%2B%0Akr0K%0A)
+![](https://downloads.intercomcdn.com/i/o/1082459041/6a7f9cf9f7f98135ee2adf20/image.png?expires=1752633900&amp;signature=9a38a9a91ccbddedf2db2612bd2730d51c026cb27b548c168b6c14c8c6192193&amp;req=dSAvFM17lIFbWPMW1HO4zaVfqabEiE83UzhQfcDB5bM%2Be57b2yjrmJk7gyyn%0Ai2f5%0A)
 </div>
 
 
@@ -10038,7 +10038,7 @@ do DigiSac, sem precisar passar pelo WhatsApp Web.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950757975/e7b4f01b4984e6b7acccb16c/image.png?expires=1752529500&amp;signature=5cf5aaebfd8533db4193ba89e86f1bed3b1afea9c7c79d802c0f7f889afc5f6b&amp;req=fSUnEcx5lIZaFb4f3HP0gK3hedzp7wkhUIi5R3XfZJwLtL%2F77JMQ85vh4Xi0%0AOVE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950757975/e7b4f01b4984e6b7acccb16c/image.png?expires=1752633900&amp;signature=cd9061889e4f9e1a4780721580c853349b00139430ed168468142205d6882267&amp;req=fSUnEcx5lIZaFb4f3HP0gK3hed%2Fo5QUhUIi5R3XfZJwo7z2pttGAK%2B5eNm6e%0AwqI%3D%0A)
 </div>
 
 
@@ -10076,7 +10076,7 @@ deve copiar o Token.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1082432492/be73b254c4830a8498b0325b/image.png?expires=1752529500&amp;signature=b38212c003c5c949e68def33abeea1e3d9a7a6cbffc27170971f202de68805da&amp;req=dSAvFM19n4VWW%2FMW1HO4zcJwlKVDLShkDIqK1zi%2Fp4JmkrhU4tLpKRih0EEk%0AIvjO%0A)
+![](https://downloads.intercomcdn.com/i/o/1082432492/be73b254c4830a8498b0325b/image.png?expires=1752633900&amp;signature=f47de72ab7c0530196f0443d99a7dcbfd25e11587538f56578bdde9668819d33&amp;req=dSAvFM19n4VWW%2FMW1HO4zcJwlKVALCJoDIqK1zi%2Fp4IPm4q%2FGI6%2BTSMAfyjj%0AkXa%2F%0A)
 </div>
 
 
@@ -10093,7 +10093,7 @@ Dentro do sistema Operand, acesse o Menu *Configurações* &gt;
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/950743157/893597926d4aa9297700b35e/image-png?expires=1752529500&amp;signature=9b4a74a510e059148c21379ebf273f0d4e8d72d9217cb3ba0c52c8e662103a6e&amp;req=fSUnEc19nIRYFb4f3HP0gN4T9W%2FEMVJ4I9vynpWmqpNFYhD9afNbBMcXDp3D%0AicI%3D%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/950743157/893597926d4aa9297700b35e/image-png?expires=1752633900&amp;signature=15d26d3ae505ba2bc21106ca640e34fd4176d7f38fa943e8b190c1a06790f016&amp;req=fSUnEc19nIRYFb4f3HP0gN4T9WzFO154I9vynpWmqpMEpD7e29B31tN88KLx%0AFwU%3D%0A)
 </div>
 
 
@@ -10108,7 +10108,7 @@ carteiras de recebimento cadastradas na Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/950743173/0b3ac644fc64a3cb3dd87911/image-png?expires=1752529500&amp;signature=2d81b806763d52f72c75dc351638cae0a1b9e0aad78d261b76107b3c019a4e27&amp;req=fSUnEc19nIZcFb4f3HP0gGsoEcXTEX4HBVS3M2NMHlFQI7ir%2FFbMP%2BPN4D9V%0ADkY%3D%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/950743173/0b3ac644fc64a3cb3dd87911/image-png?expires=1752633900&amp;signature=135b539d25884daf757ad8315d1f364892dbdd982ff9c28514ca620b1c2fed7a&amp;req=fSUnEc19nIZcFb4f3HP0gGsoEcbSG3IHBVS3M2NMHlHUsQDVL9YPFyCRnuaq%0AaO4%3D%0A)
 </div>
 
 
@@ -10175,7 +10175,7 @@ arquivo: [KOBANA\_TOTVSRM.TotvsMD][1]{: target="_blank"
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/950722741/c0ee15d2f343605c88b22805/bI-v7TgLTH2D4MiVf0vWrpEbodOm7XmK0PVslcji0Agda88Fg-CizbxwOVi9w_elQgWx_C7lHrqJmXgaNIthmvJBnU0cRgZ3q0Dftj3XiIavA8krG7XKaXexzdgRCu_jyiBtrrmSpCh-8XzDIraV4JpGyhOiMlh-?expires=1752529500&amp;signature=861b82b6d7e0c0a58f09f897e907e9bc96e6b417d1d6c7d218f480cd85696435&amp;req=fSUnEct8moVeFb4f3HP0gPRc%2BVTEuLo%2Bn7mrhatE1Vf93uH37SWveP0FY3ms%0AFeA%3D%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/950722741/c0ee15d2f343605c88b22805/bI-v7TgLTH2D4MiVf0vWrpEbodOm7XmK0PVslcji0Agda88Fg-CizbxwOVi9w_elQgWx_C7lHrqJmXgaNIthmvJBnU0cRgZ3q0Dftj3XiIavA8krG7XKaXexzdgRCu_jyiBtrrmSpCh-8XzDIraV4JpGyhOiMlh-?expires=1752633900&amp;signature=f2b0de659a2bb053e134a0fad6653db838701a8cb9c85138f8c9030fe2afd98a&amp;req=fSUnEct8moVeFb4f3HP0gPRc%2BVfFsrY%2Bn7mrhatE1VcCZeC%2BC3umzlnAoCOf%0AMgk%3D%0A)
 </div>
 
 
@@ -10189,7 +10189,7 @@ de Metadados* e faça a ação para cada um dos projetos importados.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/950722747/b24b244fde581bf9a4cdd8f9/TXKfRHdrtGFFCgDxdBV-kjE5iR7K837DAqjYen_VhPrhbtlvkk7flAVungRZQ2-hBgHVFhThZjduvGPh5eUAabfuWoVXAKYvY3vZFqLBpEj-VjumJSYraQaop6UrFbLOagWz6B51c7Jqsd048ypgaL-aYG_WJpyf?expires=1752529500&amp;signature=07879631f42ecf1176502951ebc2b18a1c91c93b36cfec76c394614476896569&amp;req=fSUnEct8moVYFb4f3HP0gOitlG%2Fg%2FBQ5Rowl4WReCPdnwsdEQFSdwFrzkVTH%0AKxU%3D%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/950722747/b24b244fde581bf9a4cdd8f9/TXKfRHdrtGFFCgDxdBV-kjE5iR7K837DAqjYen_VhPrhbtlvkk7flAVungRZQ2-hBgHVFhThZjduvGPh5eUAabfuWoVXAKYvY3vZFqLBpEj-VjumJSYraQaop6UrFbLOagWz6B51c7Jqsd048ypgaL-aYG_WJpyf?expires=1752633900&amp;signature=185cb516856c9c929befa5dca3adf964ff72d99500605ae00761f9b9a5dd4a7f&amp;req=fSUnEct8moVYFb4f3HP0gOitlGzh9hg5Rowl4WReCPdBTHLTxf5snciDHBFE%0AFOQ%3D%0A)
 </div>
 
 
@@ -10223,7 +10223,7 @@ campos:
   {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/950722756/12d81cd06fc2d23215ce74ad/tNOT4jIdRB8H_ZBPJEJ8GijXH4Glb9ULQ1RpnmOasgtRbijJGRgBR8_JiU-OOIDuzh5pamJLZrPsbcMW65b2V0eVKbbsMxch9AzhrD-3-oFMuUInQOnonGpxqdtKnKvVKrB5anWNtm62O7B8tUdCS6Mrpm8NOaHM?expires=1752529500&amp;signature=5cf0305bd8320015f747ff1aeecf5dbc789370a657f62bf2a84cd25c7d3e1c8f&amp;req=fSUnEct8moRZFb4f3HP0gHKKKYwmJi3K8EvPWlggSeQUHdtefGBjMJcOnQvE%0ASjU%3D%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/950722756/12d81cd06fc2d23215ce74ad/tNOT4jIdRB8H_ZBPJEJ8GijXH4Glb9ULQ1RpnmOasgtRbijJGRgBR8_JiU-OOIDuzh5pamJLZrPsbcMW65b2V0eVKbbsMxch9AzhrD-3-oFMuUInQOnonGpxqdtKnKvVKrB5anWNtm62O7B8tUdCS6Mrpm8NOaHM?expires=1752633900&amp;signature=783de69d1db1301fb0ab433f91e8ae35fa69b5ff5143d4195840efb625bf4dc1&amp;req=fSUnEct8moRZFb4f3HP0gHKKKY8nLCHK8EvPWlggSeTbKWXEvw4ydN5a%2B%2BGU%0AwNI%3D%0A)
 </div>
 
 
@@ -10250,7 +10250,7 @@ com a Kobana, disponibilizadas no arquivo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/950722763/cbdd66180bc285581c9d7262/yddELY6mY1twEnJrE0HmuOaNXoybcTsHcNUpdSpSwLihu_T86uh3gNS6U7EunoDo4uXwGJ3FeG2aJWjkSLPckesqRpXmCR3eNqdyCqfH8acObqbUlABHaLblwL1-lQwVQiPQeOk1qQgh5PBHVaUROJ5AbgKb8FNi?expires=1752529500&amp;signature=b13778c9988a4d0170e50400fb7bb708cf9a0dfc9daabbe2c520bcfbf73df72a&amp;req=fSUnEct8modcFb4f3HP0gEmUSz0AHcdCuj3yIa0aUF6WrcD3DQeH%2Br1O82PB%0AKQk%3D%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/950722763/cbdd66180bc285581c9d7262/yddELY6mY1twEnJrE0HmuOaNXoybcTsHcNUpdSpSwLihu_T86uh3gNS6U7EunoDo4uXwGJ3FeG2aJWjkSLPckesqRpXmCR3eNqdyCqfH8acObqbUlABHaLblwL1-lQwVQiPQeOk1qQgh5PBHVaUROJ5AbgKb8FNi?expires=1752633900&amp;signature=8bf5c7b10812d558fd759c2a54e9462e6a55fe8c0215544a849384474675d2ed&amp;req=fSUnEct8modcFb4f3HP0gEmUSz4BF8tCuj3yIa0aUF4QX6x3LF%2BQvvYSK%2Fml%0Ar8c%3D%0A)
 </div>
 
 
@@ -10264,7 +10264,7 @@ cada uma das fórmulas visuais.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950722768/aeec8512de22eb015238c4d2/image.png?expires=1752529500&amp;signature=dc1e1e10248f21dbc6e1510b94a424b57110c1862d6002963839039a5a254489&amp;req=fSUnEct8modXFb4f3HP0gMX0quoO2HOcXdPXYi3nAOkUBPYklW2CoHW9Cc3i%0AU8M%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950722768/aeec8512de22eb015238c4d2/image.png?expires=1752633900&amp;signature=3f32de65bc190cb12e8d9fdb368de2ae5f477fe1aba1ecf71c840050b79468f9&amp;req=fSUnEct8modXFb4f3HP0gMX0qukP0n%2BcXdPXYi3nAOlyaVQB1mfBoqf8uCI1%0ADBs%3D%0A)
 </div>
 
 Para integração dos boletos do sistema da TOTVS, o convênio do boleto
@@ -10521,7 +10521,7 @@ a ação.
 ## **Exemplo**   {#h_009bed763d}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950714633/6c2918a5cd02cb55a8744804/image.png?expires=1752529500&amp;signature=60196414c1c8d1fd6f6b8eb4345f343abb84fb4f798410071d0b86f9ab3266f2&amp;req=fSUnEch6m4JcFb4f3HP0gKm21POEKuw1C9JdHQg0s7lFvJ5LZKxCQxBkC3rP%0AopU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950714633/6c2918a5cd02cb55a8744804/image.png?expires=1752633900&amp;signature=388a06cbb0868a28f49ca43f80180376ab7221f71a696e062f3934a3b6d510ff&amp;req=fSUnEch6m4JcFb4f3HP0gKm21PCFIOA1C9JdHQg0s7mi52NEDw9SzKkL5hKJ%0Am9c%3D%0A)
 </div>
 
 No exemplo acima, quando seu cliente preencher um formulário criado pela
@@ -10580,7 +10580,7 @@ parte de baixo do menu lateral.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705877/05dde82256ff06b32cc223e0/image.png?expires=1752529500&amp;signature=e533d83b6c48a2fff8efeb988e8c12a9105b69eaca606e9f836a2512aced5208&amp;req=fSUnEcl7lYZYFb4f3HP0gPJKwrhTcmOUxQ4qvmghI%2BVqdqc0ByLVjAjdYI%2BW%0Azlg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705877/05dde82256ff06b32cc223e0/image.png?expires=1752633900&amp;signature=9b5567e0d270672eddd84bf9bb68f2d234003a8505cfd812a2c11f64d81372eb&amp;req=fSUnEcl7lYZYFb4f3HP0gPJKwrtSeG%2BUxQ4qvmghI%2BUvhD3G995qBkxfrmzD%0AS%2F4%3D%0A)
 </div>
 
 
@@ -10593,7 +10593,7 @@ Na próxima página, clique em *Payments*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705882/f592985db1ee27a795040b56/image.png?expires=1752529500&amp;signature=acfe04fc047097337ae83b0434433480b9989138b8c186eb2e76917230985750&amp;req=fSUnEcl7lYldFb4f3HP0gPaf1Py0xNld02tRADSGxIlv5qw0FWqHp4w0jvY7%0AqFM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705882/f592985db1ee27a795040b56/image.png?expires=1752633900&amp;signature=3b4c4d7d6f0f78e777c8d532c53427275b05c7226423d137518e1077fe21d5ca&amp;req=fSUnEcl7lYldFb4f3HP0gPaf1P%2B1ztVd02tRADSGxIknqpHQF27wmjQ4f5RU%0AUfU%3D%0A)
 </div>
 
 
@@ -10610,7 +10610,7 @@ instruções de pagamento. Ao finalizar o preenchimento, clique em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705884/5128dcbc85034976d7bbbf17/image.png?expires=1752529500&amp;signature=2039bc536dab92b40baca5646e132f32216a6ad0e1e4f65afdaaee34e0a7be16&amp;req=fSUnEcl7lYlbFb4f3HP0gDIqr1pd1WICCm%2FxwuLLpU6CSxLlhOvPMlcgdMlx%0ACaE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705884/5128dcbc85034976d7bbbf17/image.png?expires=1752633900&amp;signature=61148175c32f5d901dc2168812f4e2cad7d5ea82aa1e898b1b0fd83026925198&amp;req=fSUnEcl7lYlbFb4f3HP0gDIqr1lc324CCm%2FxwuLLpU7XcKhDFnsCa8AuIeyy%0Af5o%3D%0A)
 </div>
 
 
@@ -10636,7 +10636,7 @@ No menu lateral, clique em *Notifications*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705888/8b95e204214de40eea48139a/image.png?expires=1752529500&amp;signature=1c3ffb22b1696b26a1288fc944d8493b5185b23baba1c9b37c80a8d57996786d&amp;req=fSUnEcl7lYlXFb4f3HP0gNGmxcnMeBBsAvCh6BRzn%2FIuY%2FuUSsk0NLPigKKq%0AaCI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705888/8b95e204214de40eea48139a/image.png?expires=1752633900&amp;signature=c52dfe0f97e0dd5311861095fd5f2e54a24bb9dea5a96e185f1353fde8bd6fa5&amp;req=fSUnEcl7lYlXFb4f3HP0gNGmxcrNchxsAvCh6BRzn%2FJ7rgwacWMWyGcBCU7o%0A43o%3D%0A)
 </div>
 
 
@@ -10649,7 +10649,7 @@ No final da página, na área de webhooks, clique em *Create webhook*:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705891/9b68ed86e1ceb30d233086f6/image.png?expires=1752529500&amp;signature=c858794c218a880cfbf75eaaec00e779a03bffb404d11e42613b0aa48a956e6f&amp;req=fSUnEcl7lYheFb4f3HP0gNIJc0vcb05fcbD%2FW13iY82FjFQ1J1foXeVHk6An%0ApVM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705891/9b68ed86e1ceb30d233086f6/image.png?expires=1752633900&amp;signature=05aef3a2a62cbbb87ca6d261d5b86e34263617078a9208822bf8c529175eb4e3&amp;req=fSUnEcl7lYheFb4f3HP0gNIJc0jdZUJfcbD%2FW13iY83W7jrm3gF%2FMLcsugg1%0A%2F%2Fk%3D%0A)
 </div>
 
 
@@ -10699,7 +10699,7 @@ exemplo, Shopify.
 ^
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705895/d92cad0f0bfc81fb44f50f2e/image.png?expires=1752529500&amp;signature=f218a4061853c327ed515632b42c2d3cbe0e2f9bc8a1529116a24c3875f98ce6&amp;req=fSUnEcl7lYhaFb4f3HP0gK4NqSoIxcHqxMlbbl4WiEJ1JHkyJr9iOAXyq2SK%0AKqM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705895/d92cad0f0bfc81fb44f50f2e/image.png?expires=1752633900&amp;signature=e6035d4eaffac6fa5c0a0ced8c9666fcc3d3139319aadd4af0a1969aad3614b8&amp;req=fSUnEcl7lYhaFb4f3HP0gK4NqSkJz83qxMlbbl4WiEIi%2BjuVT3c%2Fv%2FBawMu8%0A6Ww%3D%0A)
 </div>
 
 
@@ -10713,7 +10713,7 @@ pedido. A única diferença será colocar no evento *order cancellation*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705899/77a94a28fc9c21b0e8b425a5/image.png?expires=1752529500&amp;signature=bf6e1d20cc710c6e84009f651c91efb52a5d9ddf6b02a0a90da68d90ba35ee90&amp;req=fSUnEcl7lYhWFb4f3HP0gDhg0EPcFeXE0AoRFB%2BI%2F1h8az%2FAZNv%2BoQ68vWoA%0Abe4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705899/77a94a28fc9c21b0e8b425a5/image.png?expires=1752633900&amp;signature=668c2f89d5eae6a2fd0a22fd952a67ec84640fd5d896e5a329c5c850bcfe0ff3&amp;req=fSUnEcl7lYhWFb4f3HP0gDhg0EDdH%2BnE0AoRFB%2BI%2F1iklMC%2B9vNTqOYRguR9%0Ar00%3D%0A)
 </div>
 
 
@@ -10736,7 +10736,7 @@ habilitá-lo na sua loja. No menu lateral, clique em *Checkout*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705905/0457a1a27361d81ad47c1a16/image.png?expires=1752529500&amp;signature=dde52b09f4e6bcdf93d7499e3fca97733b45321d3b54be0663fd3210f1322635&amp;req=fSUnEcl7lIFaFb4f3HP0gOwPZM%2Bm3QCCLhwiqbwkynMcJjOwsiJXmuOLFOET%0AGKM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705905/0457a1a27361d81ad47c1a16/image.png?expires=1752633900&amp;signature=e69c643ebba06fe7feec679e7515666b190568e32c2b8600bdef3f4ada5fb98b&amp;req=fSUnEcl7lIFaFb4f3HP0gOwPZMyn1wyCLhwiqbwkynO2Yuj%2BBb5w8%2FjcZAt5%0ACDU%3D%0A)
 </div>
 
 
@@ -10750,7 +10750,7 @@ Encontre a área Customer Information e configure o *Company Name* como
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705915/85f81bb9b04817aa8b431b9f/image.png?expires=1752529500&amp;signature=226bf50647f53e3a1bc6fcc349eb430d9e7e28ab44752afa77c73fcb7e35cc7e&amp;req=fSUnEcl7lIBaFb4f3HP0gKX3Z085x2XTru47zJeCxaOBdD2drNl1YG8LjJMz%0AV9o%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705915/85f81bb9b04817aa8b431b9f/image.png?expires=1752633900&amp;signature=3d94adf8c485d8ac7dcaaaa60948c69e3873d73387b421b59537f0bc1c7f33aa&amp;req=fSUnEcl7lIBaFb4f3HP0gKX3Z0w4zWnTru47zJeCxaPA57LzBeCC8lljrBWH%0AoN8%3D%0A)
 </div>
 
 
@@ -10764,7 +10764,7 @@ da página.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705925/5be52dab31be42aae9215a6d/image.png?expires=1752529500&amp;signature=e36d85d9f88d1abcf4b01f494c7a22f35af7d49574581d493f7dd5afbcf3ba3b&amp;req=fSUnEcl7lINaFb4f3HP0gEoVQPBX4gjg4ahjMpV%2FxdX9k3M3O5jlycVYzfdV%0Aj7U%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705925/5be52dab31be42aae9215a6d/image.png?expires=1752633900&amp;signature=7a105e7464e1e4b1e38140bb53407583b306bb1365b5304efd58c2931a1f7b7b&amp;req=fSUnEcl7lINaFb4f3HP0gEoVQPNW6ATg4ahjMpV%2FxdV2PNGbJhGpmz1uMBnV%0A8NM%3D%0A)
 </div>
 
 
@@ -10777,7 +10777,7 @@ Acesse *Online Store* no menu lateral.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705936/591d1695cc5955ea064d0720/image.png?expires=1752529500&amp;signature=34e8bfb90f96c453e6d93ca6e3f5ea8173269094268fd42cab481402c51f8f23&amp;req=fSUnEcl7lIJZFb4f3HP0gN%2B%2Bi%2F%2BMLbgdrj7id5zgRhPJgkuYpAvect0kJlXa%0AEWc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705936/591d1695cc5955ea064d0720/image.png?expires=1752633900&amp;signature=f2f5da7408d35b4286298ee0402fac2bc9828767db27a0214a24cbcbff2c1166&amp;req=fSUnEcl7lIJZFb4f3HP0gN%2B%2Bi%2FyNJ7Qdrj7id5zgRhOSQyl2SqBpCifDANnA%0AuxY%3D%0A)
 </div>
 
 
@@ -10790,7 +10790,7 @@ Na área de<i> Current Theme</i>, clique em *Customize*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705938/95512489c9d0b015424463a4/image.png?expires=1752529500&amp;signature=507bf025a2de6d3e36e093af2de0d1e6a10395f5f67b6bb4ed82da223e421bdd&amp;req=fSUnEcl7lIJXFb4f3HP0gHvOmaCFD7r9E1VQurLQxe0ut7Mzs3TTtleX0QIo%0AS60%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705938/95512489c9d0b015424463a4/image.png?expires=1752633900&amp;signature=b3f8f82f4ebc0d5565e70cc56d86470ef24f0e675b13cd7c37f0c9e411704f1a&amp;req=fSUnEcl7lIJXFb4f3HP0gHvOmaOEBbb9E1VQurLQxe2jMMPHYiHXmX3AdLQm%0AGyw%3D%0A)
 </div>
 
 
@@ -10804,7 +10804,7 @@ No canto esquerdo superior da tela, clique nos três pontinhos
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705944/ff0bd50c09e17e3bf32ce41b/image.png?expires=1752529500&amp;signature=bc8f601bbbb07d10b04e278c3a554bd91a1da8a2b9b5dfa033a17e4058a6e312&amp;req=fSUnEcl7lIVbFb4f3HP0gJXFxRzdFcpVzy7ebO2nleYR6nLEbWWC4c5LoHqG%0AFgk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705944/ff0bd50c09e17e3bf32ce41b/image.png?expires=1752633900&amp;signature=a6d198ad35eef4dbc307fa336ad1940da1aec60126374112c0c76f31542a4131&amp;req=fSUnEcl7lIVbFb4f3HP0gJXFxR%2FcH8ZVzy7ebO2nleZUp04kcmaJJJSC8yCV%0Au50%3D%0A)
 </div>
 
 
@@ -10818,7 +10818,7 @@ No canto esquerdo superior da tela que abrir, clique nos três pontinhos
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705947/73fd5b4cb036c470900e8a31/image.png?expires=1752529500&amp;signature=bf7f20462889b0efa445918bb7d7a27519b19f68f4f788c71426f4ed30d7707a&amp;req=fSUnEcl7lIVYFb4f3HP0gAuJJcJ2Le54L9TxhF7cKf4t%2FnEflmNmjhj8Ptf7%0AMIw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705947/73fd5b4cb036c470900e8a31/image.png?expires=1752633900&amp;signature=a2a2036c53dbdabad73fa4a74c3e6baa4b9567d5e29e8cb9c13be7bb43550e01&amp;req=fSUnEcl7lIVYFb4f3HP0gAuJJcF3J%2BJ4L9TxhF7cKf7eWEp77cAAV4D3UF81%0AWY8%3D%0A)
 </div>
 
 
@@ -10833,7 +10833,7 @@ selecionados abaixo. À direita de cada um deles, digite CPF. Clique em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705948/be6f4b587fc612c788026c55/image.png?expires=1752529500&amp;signature=3545fe54f8a3d6ad761986718b25ff105653f30d3636f3b8579d21a202c12594&amp;req=fSUnEcl7lIVXFb4f3HP0gJt2v9K2t8Vnqe2tUR0%2BDMWiuX2bC%2FNKfCQjcMGR%0AlLQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705948/be6f4b587fc612c788026c55/image.png?expires=1752633900&amp;signature=0bd6e2e010a8940f0823ce3ce6aecedaa3b4a285393c007190cf74dd856d8943&amp;req=fSUnEcl7lIVXFb4f3HP0gJt2v9G3vclnqe2tUR0%2BDMVDlv%2FUYV8z97EviKy9%0AGYQ%3D%0A)
 </div>
 
 
@@ -10864,7 +10864,7 @@ do Shopify, clique em *Apps* e depois em *Develop Apps for your store*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705954/fa893fca7ea4dfd6a4758386/image.png?expires=1752529500&amp;signature=ff4c1d5b1848e105a5af6766b7b43e444ba5d93960f17d7e3c3a8dffc72b431e&amp;req=fSUnEcl7lIRbFb4f3HP0gAYWRTA4B4h%2FxtlDno7NqAm5ArCvzVqdCgpkFBV5%0AZwI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705954/fa893fca7ea4dfd6a4758386/image.png?expires=1752633900&amp;signature=5e7c49e988c3b761652322dfc56d7d0e46a9c4e1702ae472a3666864cba9875c&amp;req=fSUnEcl7lIRbFb4f3HP0gAYWRTM5DYR%2FxtlDno7NqAlYlL%2FDnQbXbyrf6BtN%0A6EM%3D%0A)
 </div>
 
 
@@ -10877,7 +10877,7 @@ Clique em *Create an app*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705957/ae8268f9f5a3b19238d3dae5/image.png?expires=1752529500&amp;signature=b9a7c9a5a803ceb60d15f4ede513bf62177abda5d602a280b62970895a2e289e&amp;req=fSUnEcl7lIRYFb4f3HP0gAflKQXWalrcguV7cZGnVilkGXNfWjOY%2BFuuL43T%0AGwk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705957/ae8268f9f5a3b19238d3dae5/image.png?expires=1752633900&amp;signature=0b43fc959121b2e3b08a88c8db5dd55c896649a37d30b212f45e200954ab07bf&amp;req=fSUnEcl7lIRYFb4f3HP0gAflKQbXYFbcguV7cZGnVilZYwpTr2GtziGA0Aks%0A7Qc%3D%0A)
 </div>
 
 
@@ -10891,7 +10891,7 @@ clique em *Create app*. Agora clique em *Configure Admin API Scopes*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705963/3066bd811250a0310fd903fd/image.png?expires=1752529500&amp;signature=47311b995769582d8c6c5717b3f42751a5c34813c3d0fed83892009fc9d2226c&amp;req=fSUnEcl7lIdcFb4f3HP0gMRgVuY4abW5LhwG24QOyvHudYQsW26FrWbZZZG6%0AZTc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705963/3066bd811250a0310fd903fd/image.png?expires=1752633900&amp;signature=95e3e22e1dff53bbdd33776f5edf24bf6280d8b713cb02ddf217def9255765ba&amp;req=fSUnEcl7lIdcFb4f3HP0gMRgVuU5Y7m5LhwG24QOyvENWE0PzptF5u2rcx%2Fh%0ALHk%3D%0A)
 </div>
 
 
@@ -10906,7 +10906,7 @@ fulfillments, and abandoned checkouts)* e marque o quadradinho para
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705968/23809b8cb477546b3c34b3c9/image.png?expires=1752529500&amp;signature=e3f45c4d53a893c31fc92851ce1fbeaeaf54f026729156f495d54890f040b777&amp;req=fSUnEcl7lIdXFb4f3HP0gAPXqpuGdA76jdB%2FcLhGeUjeSd77MX56B4Sdp1Bs%0A%2B%2BE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705968/23809b8cb477546b3c34b3c9/image.png?expires=1752633900&amp;signature=044eced81fc62b759e1b124e850df311f9b6540b86e3618c7c05bd8a24740718&amp;req=fSUnEcl7lIdXFb4f3HP0gAPXqpiHfgL6jdB%2FcLhGeUi8%2FzzHPrSNYMzsehK5%0ABTU%3D%0A)
 </div>
 
 
@@ -10920,7 +10920,7 @@ Agora clique na aba *API Credentials* e, em um local seguro, salve a
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705973/70610394016ee0cd4936a3c5/image.png?expires=1752529500&amp;signature=aab8e86177062ea4f5b5658fc8fe3e5d10938124c6dcaff1bdaa11f74fa494aa&amp;req=fSUnEcl7lIZcFb4f3HP0gNIXWTLiCdZ3TA6zwRrigB17YkkxnR7CDYy3E77n%0A3i8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705973/70610394016ee0cd4936a3c5/image.png?expires=1752633900&amp;signature=b12c10a26b2fcae8d45b43f71b82d14425d3eac66527c106656e4302ad446db6&amp;req=fSUnEcl7lIZcFb4f3HP0gNIXWTHjA9p3TA6zwRrigB103vwzE06N2%2BAMgT48%0AgjQ%3D%0A)
 </div>
 
 
@@ -10965,7 +10965,7 @@ conta da Shopify. Explicamos mais abaixo como ter acesso a isso.*
   {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950705986/80648c819625a9ef643cb7bc/image.png?expires=1752529500&amp;signature=e910fca88550c4e912162c1c1590e5de302963cab27ecd7412dab1a8e78d3f5d&amp;req=fSUnEcl7lIlZFb4f3HP0gFwLPFTUvxIlkyPoJEk7u6MCys%2FpZp5xwIOpuNk2%0A8iY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950705986/80648c819625a9ef643cb7bc/image.png?expires=1752633900&amp;signature=59a2b081adcb13c5f6235162f4d354ba58184c210b6795034f8b2a0fd6dc955f&amp;req=fSUnEcl7lIlZFb4f3HP0gFwLPFfVtR4lkyPoJEk7u6PmgpgXiM9XHZFS6F8R%0AZqQ%3D%0A)
 </div>
 
 
@@ -11253,7 +11253,7 @@ junto à opção desejada.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/950678018/8830cebd2c968dde6272a614/image.png?expires=1752529500&amp;signature=5a8bae9ad37861aae794100e0ca816855e3bca2e68f878b57b3cdbe6e8845239&amp;req=fSUnEM52nYBXFb4f3HP0gHQ5Cnfoj537jSggAQvMBDevrPvuIXpITu0AZ9R%2B%0A9VE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/950678018/8830cebd2c968dde6272a614/image.png?expires=1752633900&amp;signature=1c068bccd84cbcc625fe4a2eab5f079a42df61eda1ceda633023cc6d48084fc3&amp;req=fSUnEM52nYBXFb4f3HP0gHQ5CnTphZH7jSggAQvMBDcPjpvxEpfrtw9T7uGa%0AkLA%3D%0A)
 </div>
 
 
@@ -11296,7 +11296,7 @@ Após preencher as informações, clique no botão <i>Validar conexão
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1088094374/3eb4cc243f27d260d65d2238/image.png?expires=1752529500&amp;signature=11cbb823f546520cdcb191d9c6db626eaecd2c52e76c525dd3f15454a1d1d565&amp;req=dSAvHsl3mYJYXfMW1HO4zcZ15S1RYO7TBcKPNmeIzYQVIVmhaJHOf%2FagC5Pa%0Ah0p1%0A)
+![](https://downloads.intercomcdn.com/i/o/1088094374/3eb4cc243f27d260d65d2238/image.png?expires=1752633900&amp;signature=b648fcd3705f04acab9ac8997de35d3fd86be3aa964fe13228bce6d10c8629ca&amp;req=dSAvHsl3mYJYXfMW1HO4zcZ15S1SYeTfBcKPNmeIzYRCtNOBKVJC%2FUgFd7lX%0AhvP%2F%0A)
 </div>
 
 
@@ -11337,7 +11337,7 @@ em *Excluir.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948097807/2312c51c920ef03e25509e34/image.png?expires=1752529500&amp;signature=98a99331d2dfcd556a503c9600f63bc62ee39cd8e9205d80d7db58b96512fab5&amp;req=fSQvFsB5lYFYFb4f3HP0gA1LQ70zWEwyYTCuwggkLQR5LBHe3F2mqrjYsSnb%0A%2FEA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948097807/2312c51c920ef03e25509e34/image.png?expires=1752633900&amp;signature=17b2624730dbfed1150ab43542931db2fec8027db526938313c7d3724c459937&amp;req=fSQvFsB5lYFYFb4f3HP0gA1LQ74yUkAyYTCuwggkLQSR%2B2DjU8k4FltBDX0U%0ARxo%3D%0A)
 </div>
 
 
@@ -11352,7 +11352,7 @@ Permanentemente.**
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948097820/ad2dc4fda426b8d3ef556690/image.png?expires=1752529500&amp;signature=c89bc54b20ec79c164755ef54b1b5b0e534820448b2b581d1d6f038304b0654b&amp;req=fSQvFsB5lYNfFb4f3HP0gF%2F%2FZiAklbvhZCom4Ou2ZO2k8EqZbTIrNPO3LFcz%0A%2Fl4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948097820/ad2dc4fda426b8d3ef556690/image.png?expires=1752633900&amp;signature=029e847b3c64704fe2765cea18e5250edd0c6e34de0d4b24a1b5aece5a1ab9e6&amp;req=fSQvFsB5lYNfFb4f3HP0gF%2F%2FZiMln7fhZCom4Ou2ZO0YCw3iAy7AGJYzVjUZ%0Afps%3D%0A)
 </div>
 
 
@@ -11406,7 +11406,7 @@ basta apertar o botão \"*Nova conta financeira*\".
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1268072304/2b506eff943fcf7104b3e6357363/image.png?expires=1752529500&amp;signature=5cd4cb2375dca427d42092e5cf92535b29cea421027dfbead5c632ecaf3bbc70&amp;req=dSIhHsl5n4JfXfMW1HO4zdh1Ju9BTIKII6Gm7PhXHcoC4ZOApRAgvoiAzox5%0An287%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1268072304/2b506eff943fcf7104b3e6357363/image.png?expires=1752633900&amp;signature=62d2f9f766bb97c243588c57dde8a9fad6852eea649df6e57c7d5705265ea8b4&amp;req=dSIhHsl5n4JfXfMW1HO4zdh1Ju9CTYiEI6Gm7PhXHcrNQnR99jSs9X3QrGMc%0A1QW%2F%0A)
 </div>
 
 
@@ -11494,7 +11494,7 @@ Então, irá aparecer uma mensagem de confirmação da operação. Selecione
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![image.png](https://kobana.intercom-attachments-1.com/i/o/948090311/22ce1747d4854e8df417874c/331-af60a437b70e19a2aeee48df8ec26dc748ae1636.png?expires=1752529500&amp;signature=c8f0d0f9e5a59b532dee33cdcb3311bb85bdc21cb8512fdb8fac4a1d8e406985&amp;req=fSQvFsB%2BnoBeFb4f3HP0gMe4LgKxnvrV355d8%2BD%2Fj7LT8MWDDH8SZ4dc%2FVtQ%0A0Vo%3D%0A)
+![image.png](https://kobana.intercom-attachments-1.com/i/o/948090311/22ce1747d4854e8df417874c/331-af60a437b70e19a2aeee48df8ec26dc748ae1636.png?expires=1752633900&amp;signature=aba6d1e3aeb19ec80c5228dd21dfee36f3130a18a5159a3c24d7872d3fa6777f&amp;req=fSQvFsB%2BnoBeFb4f3HP0gMe4LgGwlPbV355d8%2BD%2Fj7IHYKB9cXV8XA87wtEt%0AUpc%3D%0A)
 </div>
 
 
@@ -11703,7 +11703,7 @@ três pontinhos e, então, *Desativar acesso*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948045008/be6a5f88b2088aff78b26334/image.png?expires=1752529500&amp;signature=197310f756da9edfd21343aae812cb78cb1425ba73b818b7a998cc998e0d9831&amp;req=fSQvFs17nYFXFb4f3HP0gI83uxLOFSp32KOFBLCoPAzUdKkw5SZ8og%2FJFeZg%0AsPc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948045008/be6a5f88b2088aff78b26334/image.png?expires=1752633900&amp;signature=4ea42b64edbd0afcd6f7c4dada7adc2c7ac877c0be5c8704a200fc98347960db&amp;req=fSQvFs17nYFXFb4f3HP0gI83uxHPHyZ32KOFBLCoPAwgSUIZ78iPGv9ZRAmq%0AFlw%3D%0A)
 </div>
 
 Caso em algum momento deseje reativar essa subconta, siga o mesmo
@@ -11726,7 +11726,7 @@ subcontas, conforme demonstrado na imagem abaixo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948045021/b7fb1729181e33299a98a1b5/image.png?expires=1752529500&amp;signature=d113a63c6b6c4f078d30c09ea1b68a1f69e39e3e07f44ac92eb0509a916dd79d&amp;req=fSQvFs17nYNeFb4f3HP0gFYywKv90X%2B1hRXUU7huqVX1a2KWqN2%2FbXIuKWLH%0AYQk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948045021/b7fb1729181e33299a98a1b5/image.png?expires=1752633900&amp;signature=5b13138b22ce9f81246dbce29d53ec03ea1be3cf8d78af646a085b44819fbadc&amp;req=fSQvFs17nYNeFb4f3HP0gFYywKj823O1hRXUU7huqVU2epnJ7v%2FI6UFxkFRy%0AmWU%3D%0A)
 </div>
 
 
@@ -11755,7 +11755,7 @@ clicar no ícone do olho (👁️).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948045036/b6b432ecf1b77547d68f27b9/image.png?expires=1752529500&amp;signature=11b05c687bb4aa14474bf2c8e302fc44b0acfa550fb6fd8c2ea1a9dcca6ad227&amp;req=fSQvFs17nYJZFb4f3HP0gECDxY6cP1f4HrL8qDG4CpPxkhlUR7Wa7tfQnWcm%0ADb0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948045036/b6b432ecf1b77547d68f27b9/image.png?expires=1752633900&amp;signature=b7d8632a61363297985b1691878eb966e4fe076e8e20e78fbf2ae22aa5271022&amp;req=fSQvFs17nYJZFb4f3HP0gECDxY2dNVv4HrL8qDG4CpOaYCUzb5UdC%2BwDvdUH%0AO08%3D%0A)
 </div>
 
 
@@ -11769,7 +11769,7 @@ registrados.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948045049/47ee53869b1b01020dd12526/image.png?expires=1752529500&amp;signature=97a82961d63312594c39e25e2bb8025ef9cba4dc1d41011ab8b1c65b1a050170&amp;req=fSQvFs17nYVWFb4f3HP0gIO2tZtZlMwWn8I8FRYKN7iJRGG5n2Au%2BGI9qpcn%0AGxE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948045049/47ee53869b1b01020dd12526/image.png?expires=1752633900&amp;signature=a2141ad3b7c5eb2fc8fdd443f4d53776b7e8da931704bae0acc1520a85c1cc8d&amp;req=fSQvFs17nYVWFb4f3HP0gIO2tZhYnsAWn8I8FRYKN7hg%2FCuqcBJpv6uajL3F%0ATBo%3D%0A)
 </div>
 
 
@@ -11824,7 +11824,7 @@ serviço.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948032778/fa0413df39899c4bd4158813/banco-bv.jpg?expires=1752529500&amp;signature=48879ec1612febe199bd605188bed4d2f56c08c156d8f97d1eff9f6985448589&amp;req=fSQvFsp8moZXFb4f3HP0gHAQ8BU4KPMSmx7GgKloXG%2BfhrkCk6%2BjvEu2RI%2Fp%0AN2o%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948032778/fa0413df39899c4bd4158813/banco-bv.jpg?expires=1752633900&amp;signature=eb224626df006424c2b2668c35d97cbd22668fdbccf6d4e8e6a53ab7fc8f1394&amp;req=fSQvFsp8moZXFb4f3HP0gHAQ8BY5Iv8Smx7GgKloXG9rPIoUkDDi8Q8yKz9h%0AG1Y%3D%0A)
 </div>
 
 
@@ -11841,7 +11841,7 @@ Service.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948032783/6c332009ff868541bcf14697/image.png?expires=1752529500&amp;signature=09bb3359e0ffd0c5dc940420240605e45ed342442d400ca4844e493f06fb44ff&amp;req=fSQvFsp8molcFb4f3HP0gALwHec4Xb4eBApfnhpo5%2BdUmcWo38wPd8ZtA3Si%0AtoI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948032783/6c332009ff868541bcf14697/image.png?expires=1752633900&amp;signature=d8af3c0a6e925268b0b0a3990f6c6b02ef1ddd4cc42f4f0c129929e87b90a3db&amp;req=fSQvFsp8molcFb4f3HP0gALwHeQ5V7IeBApfnhpo5%2Bcy9iyGygHXr9JCNOzI%0AvkQ%3D%0A)
 </div>
 
 
@@ -11883,7 +11883,7 @@ necessários e selecione o certificado que você acabou de inserir.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1084342465/49c740f5aba753639f2cea9a/image.png?expires=1752529500&amp;signature=ca039478b547b752d19ef5409e0679620cc19217fbe885a9e5749d1dd91ebbc1&amp;req=dSAvEsp6n4VZXPMW1HO4zT%2FbRnujcvvd1aMlOXsVj7E6dXj%2BYOMh6QC3O1tj%0A5%2FYl%0A)
+![](https://downloads.intercomcdn.com/i/o/1084342465/49c740f5aba753639f2cea9a/image.png?expires=1752633900&amp;signature=029776ac3568f76e9827997f304477ed0af37dfc5e806f5dd74bdfc21223b674&amp;req=dSAvEsp6n4VZXPMW1HO4zT%2FbRnugc%2FHR1aMlOXsVj7HBrIfXs1AEQXYJ1lDA%0AG02E%0A)
 </div>
 
 
@@ -11900,7 +11900,7 @@ serviço.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1084343807/9902d2bca63f8d875be0595d/image.png?expires=1752529500&amp;signature=91e0ebbac15047bcde48aa36dc646eb92bedaebc787e28cacbfb1153bb9b7846&amp;req=dSAvEsp6nolfXvMW1HO4ze1hZMbUifC5Zx5KNnGJgIvnrkB%2FR%2FpQ3GBPI6za%0ArS4i%0A)
+![](https://downloads.intercomcdn.com/i/o/1084343807/9902d2bca63f8d875be0595d/image.png?expires=1752633900&amp;signature=7547fb066d71731d9b240d2ff47f8637617b12b4300aea035298974c2ccc9890&amp;req=dSAvEsp6nolfXvMW1HO4ze1hZMbXiPq1Zx5KNnGJgItJ0Q8nfQifRpMuB9A2%0AkLeR%0A)
 </div>
 
 
@@ -11917,7 +11917,7 @@ Service.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/948030789/3f1025fd3ba75b76734cbd16/image.png?expires=1752529500&amp;signature=20f890c96dd340de316a628a1d1829f364c628544c5985ca6a72566fefa2b930&amp;req=fSQvFsp%2BmolWFb4f3HP0gNdFuEaqcRmqBupphWfrfabbnsu6NUUGlG6Muo0o%0A3ok%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/948030789/3f1025fd3ba75b76734cbd16/image.png?expires=1752633900&amp;signature=aea2ff887fa087548fc5bd5ecc9b11c690f3e5c6b1060fa2a54868758db80ba3&amp;req=fSQvFsp%2BmolWFb4f3HP0gNdFuEWrexWqBupphWfrfaZTqCYQku%2Fw9uQJjykC%0AQt0%3D%0A)
 </div>
 
 
@@ -11940,7 +11940,7 @@ perfil na parte direita superior e em **Dados da Conta**, clique na guia
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/948034798/6b3ddb0ce67e94262bc321d7/dados+da+conta+configura%C3%A7%C3%B5es.jpg?expires=1752529500&amp;signature=f91708989a2fe8c81a66275eaf77b6403c17ea9b9104c7df548a45294efc2c3c&amp;req=fSQvFsp6mohXFb4f3HP0gJG%2FwVOKEPIq1Az6riOI6PYZLOYM%2FZBn6LgGPdcM%0AlFs%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/948034798/6b3ddb0ce67e94262bc321d7/dados+da+conta+configura%C3%A7%C3%B5es.jpg?expires=1752633900&amp;signature=33bdb278677e8496a96e916342f2de3ad16446c942df8050216e8cdd746a29b1&amp;req=fSQvFsp6mohXFb4f3HP0gJG%2FwVCLGv4q1Az6riOI6PbDl6DdxhjC5nbNnIGJ%0APaQ%3D%0A)
 </div>
 
 
@@ -11955,7 +11955,7 @@ o envio de e-mails sobre cada alerta recebido.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/948037289/17f878cf156fe6fad94f9e50/true.jpg?expires=1752529500&amp;signature=62703e9c5d8c0d8d056d62772b06fc42a95b2855e7d6f70c7368ecd41a3af236&amp;req=fSQvFsp5n4lWFb4f3HP0gPNnXuedWCnTbRH6cJm7dfPzEq90TEH6rxnpsgvl%0APkk%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/948037289/17f878cf156fe6fad94f9e50/true.jpg?expires=1752633900&amp;signature=50fcffa223e306908238cf2744ac91cb221b1798897bb323cc4f3025d0543092&amp;req=fSQvFsp5n4lWFb4f3HP0gPNnXuScUiXTbRH6cJm7dfOvRg94ZMWPM0xEXDEv%0AUzg%3D%0A)
 </div>
 
 
@@ -11993,7 +11993,7 @@ Assim, se você escolher:
   {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/948040336/45043b10e0bbf722a735cc20/severifdade.jpg?expires=1752529500&amp;signature=dddd0e20e47acb7623428ef708343d99ebd569fbb39f0723ce5655935e6b58bd&amp;req=fSQvFs1%2BnoJZFb4f3HP0gNNI3kHWQIy0KY6arlHuO1g%2FZXPPReaGtFEteZGM%0Afao%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/948040336/45043b10e0bbf722a735cc20/severifdade.jpg?expires=1752633900&amp;signature=1f0e0d2bf89482891212a221136b4fa6ebc5a811796a9caa0b266d2e0aee0553&amp;req=fSQvFs1%2BnoJZFb4f3HP0gNNI3kLXSoC0KY6arlHuO1hvNBbsUJvQF4jx5EHW%0AtyM%3D%0A)
 </div>
 
 
@@ -13054,7 +13054,7 @@ fique menor do que R$ 0,01, apresentarão erro de registro no banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/947078441/7934be0ee5badf2a26409ef0/juros-de-mora.png?expires=1752529500&amp;signature=85805b1197b9f0dc4a93dcca557b7cb7e4df0d1cc68c3227e15029fa66e97d02&amp;req=fSQgFs52mYVeFb4f3HP0gBvsOy0T%2BB0yYH5pH80YKb0XtQ6h8qkk5ooyTv%2Fi%0AGN0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/947078441/7934be0ee5badf2a26409ef0/juros-de-mora.png?expires=1752633900&amp;signature=83bb772279f8f4d2460bc477766b2761eef4e875bb403e6d0c9506f21fc8a271&amp;req=fSQgFs52mYVeFb4f3HP0gBvsOy4S8hEyYH5pH80YKb271vlD%2BfKYYbUI9%2BXz%0Acrw%3D%0A)
 </div>
 
 
@@ -13885,15 +13885,15 @@ Natureza) para se tornar uma Empresa Parceira da Natureza.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/945053633/258ff6a75db3cbe8526b6432/image.png?expires=1752529500&amp;signature=4751e09b4aec341d12cccef8adac55c22e0df3cb86c439319dbd554aa0c0d31f&amp;req=fSQiFsx9m4JcFb4f3HP0gMM5eWpFxwXcX1sCFaPkgJpKJwtMTKabrejCajjq%0AK%2Fk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/945053633/258ff6a75db3cbe8526b6432/image.png?expires=1752633900&amp;signature=fb4356ffc014b5f020a721adc0a37c46dbc23a39138eacd7a1747fb0ac314beb&amp;req=fSQiFsx9m4JcFb4f3HP0gMM5eWlEzQncX1sCFaPkgJoMSN3QyB3eQ2WrClU0%0ASgY%3D%0A)
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/945053641/04b5dd0485eb26130aaa518f/image.png?expires=1752529500&amp;signature=cc528ea4a388eed740ef0763f02ee3cb2ebf263f11078b90553bce278b076c48&amp;req=fSQiFsx9m4VeFb4f3HP0gFMBYlZzvQqJxDaISQzr7WACBeFqTWHWSfJRr3Md%0Azt8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/945053641/04b5dd0485eb26130aaa518f/image.png?expires=1752633900&amp;signature=66424d49532ea02dff66981d264df722cb4d7ca58002e5bd901669fbc6d07034&amp;req=fSQiFsx9m4VeFb4f3HP0gFMBYlVytwaJxDaISQzr7WBPHXkF%2FQwsDbBb0F%2BW%0AYSo%3D%0A)
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/945053647/b4d217d5d2931050d4c9e7d2/certificado-epn-2021-2022.jpg?expires=1752529500&amp;signature=26c52ef81c3da9870d3e1ef0b23b0cda265e334f1bf940eeb49378a5036d0d6d&amp;req=fSQiFsx9m4VYFb4f3HP0gLQNtluDTIkjZJZL4gfIksk%2BlFkyp7U4%2BJuyXbqb%0A0f8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/945053647/b4d217d5d2931050d4c9e7d2/certificado-epn-2021-2022.jpg?expires=1752633900&amp;signature=8547fee76215e3d782c7cff3825d69909fcf1e99c9c9cbd587ba9900d16d2f88&amp;req=fSQiFsx9m4VYFb4f3HP0gLQNtliCRoUjZJZL4gfIksl6ZDQ2emG%2BV1Fh4mw1%0A2J0%3D%0A)
 </div>
 
 ## **Neutralização de Carbono**   {#h_2253fc778f}
@@ -13927,20 +13927,20 @@ tornou uma Empresa Neutra de Carbono.
 {: .no-margin}
 
 <div class="intercom-container intercom-align-center" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1107650547/aa4988a45cb6946e50587c49/image.png?expires=1752529500&amp;signature=1f326a8761d04c707c5f59804decdebcd3d43c3280d81a57cb4a955e84c8e91d&amp;req=dSEnEc97nYRbXvMW1HO4zahSkblgrw3pnKRj6GE%2FRty2A%2Fjh97rngEogUcza%0An29C%0A){:
+![](https://downloads.intercomcdn.com/i/o/1107650547/aa4988a45cb6946e50587c49/image.png?expires=1752633900&amp;signature=c941f459d363cecf5d501436ee37b1bf49097482cb4b2860af7f6ab5ad16dcb3&amp;req=dSEnEc97nYRbXvMW1HO4zahSkbljrgflnKRj6GE%2FRtxv0PTddUC8ESBmrzOK%0Afa9G%0A){:
 width="613"}
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/945053655/0aa4d22c833819f894af33bd/image.png?expires=1752529500&amp;signature=bacdf893f936efa0f500fcbe40c44ab6950c6316e09b4e2e2ce11004f4952608&amp;req=fSQiFsx9m4RaFb4f3HP0gFKZ5plcWVe4tS0onXTrZ86D0milH9j0SLiq%2BhNl%0A6Uk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/945053655/0aa4d22c833819f894af33bd/image.png?expires=1752633900&amp;signature=f0a73b27d3ebc416b605588f718c3ee280aa06156ed4b851a1ca136ad094fb23&amp;req=fSQiFsx9m4RaFb4f3HP0gFKZ5ppdU1u4tS0onXTrZ86cr%2BvLyZEH35JsQjgn%0A68Q%3D%0A)
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/945053660/c83713b511c8dbca4a2de961/image.png?expires=1752529500&amp;signature=c9c3f12b313d2c5358bb09bc37865b490d4eeee7eab6171ddf6f912af77f817b&amp;req=fSQiFsx9m4dfFb4f3HP0gJNPMAQuipRKNYOfXmsXdbvMFzOFW5Fs%2BBKhI8%2B9%0AYAc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/945053660/c83713b511c8dbca4a2de961/image.png?expires=1752633900&amp;signature=8042142a79696c7251bbbc700e873841c65b5dc7373b9136893eb242cdd0a193&amp;req=fSQiFsx9m4dfFb4f3HP0gJNPMAcvgJhKNYOfXmsXdbusIIO7d6ARMSlV%2FeAd%0AMGA%3D%0A)
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/945053667/33a4290641ef334c9ca68991/certificado-enc-2021-2022.jpg?expires=1752529500&amp;signature=249dd2aac3d6fb2c1282ae543f08618557411b6042356722db6d95f97764f58e&amp;req=fSQiFsx9m4dYFb4f3HP0gJprANedEzqDm0scB8IYb4wYoNGC97utlY4fOFi8%0AZUA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/945053667/33a4290641ef334c9ca68991/certificado-enc-2021-2022.jpg?expires=1752633900&amp;signature=7c5a257d09a85f1f64720712b543b41f09c9ab0b46448947fa51fd6389b943ee&amp;req=fSQiFsx9m4dYFb4f3HP0gJprANScGTaDm0scB8IYb4xLsdlAjP1F7FdE4Vpn%0AL2U%3D%0A)
 </div>
 
 ## **Informações e Dúvidas**   {#h_d192dc6278}
@@ -14960,7 +14960,7 @@ no momento que desejar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/944881080/5a34ca0da10169c10d23412e/image.png?expires=1752529500&amp;signature=b5388628d8b8a8685cce308503b75bac4d8533a4107e90ee3580e4c9e1b8ac08&amp;req=fSQjHsF%2FnYlfFb4f3HP0gKPKYUGQX5bCWOzmr39sQAQYYsKVcZnhsLp3Qkpi%0ADrs%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/944881080/5a34ca0da10169c10d23412e/image.png?expires=1752633900&amp;signature=62cb7c18b58a06355f15f9872303d8a6405279005b889145392e9d9ececfdca2&amp;req=fSQjHsF%2FnYlfFb4f3HP0gKPKYUKRVZrCWOzmr39sQASYU0LiPp12DnN7Q7N2%0ACDU%3D%0A)
 </div>
 
 
@@ -15035,7 +15035,7 @@ obrigatoriedade passará a valer.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/944789494/aad905474dd02c7e877b26c1/image.png?expires=1752529500&amp;signature=a1c5b4deb5eeea4b0e76e9510b0872a4505d9cb4f22fe00ab61288b74d29fe57&amp;req=fSQjEcF3mYhbFb4f3HP0gFu3ROYnqMQGDsJlbziYC5MNkdqSugApCxMe2lI4%0ABzY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/944789494/aad905474dd02c7e877b26c1/image.png?expires=1752633900&amp;signature=3fe6269da5f3fd71fcfefbd91ae476eda22760c52f2b9245d0c21057ae3c67dc&amp;req=fSQjEcF3mYhbFb4f3HP0gFu3ROUmosgGDsJlbziYC5NdwYLaPZerR8IjWlbI%0Abqo%3D%0A)
 </div>
 
 
@@ -15051,7 +15051,7 @@ vindos dos IPs cadastrados serão permitidos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/944789500/0e3e410a81ad9608594fd2d1/image.png?expires=1752529500&amp;signature=4fea881ac61bdc39b946bd04aaa7fdfd5ee0251cbe1ccdb49d9dfb39f7bd7f2e&amp;req=fSQjEcF3mIFfFb4f3HP0gMCPtNvPRhvTLdtTZWh1mMQ4%2BGPVHRmvFQCMRPaN%0AmRs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/944789500/0e3e410a81ad9608594fd2d1/image.png?expires=1752633900&amp;signature=5005a6a346f9e14d7bfa5ed701c558ed59171a496419bd96d7132a9d9d89528f&amp;req=fSQjEcF3mIFfFb4f3HP0gMCPtNjOTBfTLdtTZWh1mMRkFxA08uTKXvABo72s%0ALdA%3D%0A)
 </div>
 
 
@@ -15183,7 +15183,7 @@ sinal em vermelho. Clique nele para ler os alertas.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/948019112/851e9e0dff850cee9a0b7150/sistema+de+alertas+Kobana.png?expires=1752529500&amp;signature=c75447b4e01c9fe146e602c0b467357bfa53f355c65f1ce132874cc89b1ef2d7&amp;req=fSQvFsh3nIBdFb4f3HP0gEd0TeBb1vrMMX0evXVhNkcqufsP51zZ9qK4iVGa%0ACiQ%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/948019112/851e9e0dff850cee9a0b7150/sistema+de+alertas+Kobana.png?expires=1752633900&amp;signature=539b57bafd247cc9f0cab7d6e676eac8e9f6a84782c6e44c5283c7396e47cfbd&amp;req=fSQvFsh3nIBdFb4f3HP0gEd0TeNa3PbMMX0evXVhNkegnSPlahV3F520JyNb%0Ayvc%3D%0A)
 </div>
 
 
@@ -15206,7 +15206,7 @@ por título do alerta, data em que ele foi gerado e a severidade dele.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/948020776/5b6f808642181be9dd1a551c/image.png?expires=1752529500&amp;signature=ac3084a43d41a6a006bee2021b41754af376fafdcfaa191ce0d46ca51aa588cc&amp;req=fSQvFst%2BmoZZFb4f3HP0gAQMHp4aDnLPp3x7XCyeq7IEONL2DH1xoCcLtQ9P%0AZy8%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/948020776/5b6f808642181be9dd1a551c/image.png?expires=1752633900&amp;signature=e52344821ed745bcbd83f11ba6eebd9aa1cd089f79ba9894191e59d6492597b6&amp;req=fSQvFst%2BmoZZFb4f3HP0gAQMHp0bBH7Pp3x7XCyeq7KZiQKX1s0NgtrudU22%0AuhE%3D%0A)
 </div>
 
 
@@ -15240,7 +15240,7 @@ um a um no botão **Marcar como lido**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/948024236/014579652ba894264d79cf08/marcar+como+lidos.jpg?expires=1752529500&amp;signature=93d929eab9d7378353180454a1c934282d4ff6d9176d54c1828a47f9720272f6&amp;req=fSQvFst6n4JZFb4f3HP0gNp51KoRnsVwvgs58iRcKGogUAlCx%2BZRyP0ub9Nh%0AqfA%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/948024236/014579652ba894264d79cf08/marcar+como+lidos.jpg?expires=1752633900&amp;signature=dbc7a544c5c485e157a3e1b38f957360b71f1355a0c7ee7b6eb9b51df3b88829&amp;req=fSQvFst6n4JZFb4f3HP0gNp51KkQlMlwvgs58iRcKGrF6GR2lTHYZq%2FOOeOg%0A7Ag%3D%0A)
 </div>
 
 
@@ -15325,7 +15325,7 @@ ações e usuários:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943980350/6f2ca42a815b9d0a7185bdae/image.png?expires=1752529500&amp;signature=4716fd134921fe2b2fbce49bf093501fe6ece7d02d6eba276582acd8cd968204&amp;req=fSQkH8F%2BnoRfFb4f3HP0gAv7J7RlpKhcjLZb6NJrDaECsUSBadMhNSc8oNe9%0ANYQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943980350/6f2ca42a815b9d0a7185bdae/image.png?expires=1752633900&amp;signature=628574cbceda5450a78f0253162f575a1058acf1cbd82bf1efb26c478950bc8f&amp;req=fSQkH8F%2BnoRfFb4f3HP0gAv7J7dkrqRcjLZb6NJrDaHABYAe9KavKlWftHfv%0AOV4%3D%0A)
 </div>
 
 
@@ -15379,7 +15379,7 @@ será a URL (ex.: `https://portal.bole.to/sua-empresa`) e clicar em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943918953/e053010ef9154ba6cb200e4f/image.png?expires=1752529500&amp;signature=e551fc8578efe79875e52f9b87e77e8fa31ce3b1bddaea5e636f53b357159075&amp;req=fSQkH8h2lIRcFb4f3HP0gA3yS6QYzuP0XJM8Y7G0Xk7CTUgWSG62U0UYZQ6v%0Axls%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943918953/e053010ef9154ba6cb200e4f/image.png?expires=1752633900&amp;signature=5d497f25621a7fd75dbfe46cebd5c7f3e53b9523b187b79355b6e8cc290a4d71&amp;req=fSQkH8h2lIRcFb4f3HP0gA3yS6cZxO%2F0XJM8Y7G0Xk694ikM6Cc8s91gO7LO%0AMlw%3D%0A)
 </div>
 
 ## **Personalizando o Portal do Cliente**   {#h_8076b95276}
@@ -15393,7 +15393,7 @@ menu da esquerda.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943918964/889466d18d2020a5514c3308/image.png?expires=1752529500&amp;signature=28e33d68f4e75d5009dd060cfd3d7b601d707a90de89a4d37fdd0a5f45d0728e&amp;req=fSQkH8h2lIdbFb4f3HP0gFK0P8QaZMbzO%2Fp6WuQmm%2Bxg0bcq5gNvhspwWJHT%0AKeM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943918964/889466d18d2020a5514c3308/image.png?expires=1752633900&amp;signature=537c848108020814a73f48cdcdcd16d12981cc9e6162be5d73c572d22dcc2993&amp;req=fSQkH8h2lIdbFb4f3HP0gFK0P8cbbsrzO%2Fp6WuQmm%2BxBn9WPElKTApPUvEnw%0Aj1o%3D%0A)
 </div>
 
 ## **Acesso ao Portal do Cliente**   {#h_f1fe2cf6dc}
@@ -15420,7 +15420,7 @@ para que o seu cliente acesse o Portal. As opções são:
   {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943918974/bec1cb424d04cae57a34c954/image.png?expires=1752529500&amp;signature=94a5e5e4b9bcc99139406267f956f0324d0e2ce72c929f383ad8ae31e080d047&amp;req=fSQkH8h2lIZbFb4f3HP0gNf03MzS8C78efCH3Bjoo72H%2B0RbozclBI2%2B0gZt%0ALUs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943918974/bec1cb424d04cae57a34c954/image.png?expires=1752633900&amp;signature=4d94e782d6b2118aea8db5493138c97c45fb6910346bed5e4d6ed5999312b494&amp;req=fSQkH8h2lIZbFb4f3HP0gNf03M%2FT%2BiL8efCH3Bjoo73KBtMJUiSN9rKc4V9s%0AzP4%3D%0A)
 </div>
 
 ## **Compartilhando a senha com o seu cliente**   {#h_e98be3e662}
@@ -15450,7 +15450,7 @@ seu cliente quando ela for criada ou alterada.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943918980/4d7e49267100a1e37ef80837/image.png?expires=1752529500&amp;signature=ffd77d9fe3bd632165e09b3f7e659cb5aaf2f5cad79267fa9700e5c78151e1c4&amp;req=fSQkH8h2lIlfFb4f3HP0gB%2B74lpDYBDDFeK1Ty%2F90BdId7sowQc%2F4HPTKYjZ%0AFC8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943918980/4d7e49267100a1e37ef80837/image.png?expires=1752633900&amp;signature=187657ac0fa56824ada5c92af864994e61c2b3fcfcf48f8b364a05030fb73481&amp;req=fSQkH8h2lIlfFb4f3HP0gB%2B74llCahzDFeK1Ty%2F90BfMd0Xwhly%2BjTSn0FrT%0AyaU%3D%0A)
 </div>
 
 
@@ -15464,7 +15464,7 @@ na Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250746132/e60f689ca15f079409fb515e0c94/image.png?expires=1752529500&amp;signature=6a589a6772cf14834ca917f6afa6d0c2891f4f6513c1ab7a4cd27f8496491a29&amp;req=dSIiFs56m4BcW%2FMW1HO4zTZ3oZlTccaAoFEBNmGjvivKhJ65l7h%2BBWW53iII%0AYmiF%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250746132/e60f689ca15f079409fb515e0c94/image.png?expires=1752633900&amp;signature=8103d7e828c12423f4d306492c002e8946b399a449ff8f92807da9d9ca028f10&amp;req=dSIiFs56m4BcW%2FMW1HO4zTZ3oZlQcMyMoFEBNmGjvisZisFWrQ5d2JwlbI7h%0AR85h%0A)
 </div>
 
 
@@ -15518,7 +15518,7 @@ digitando o nome, CPF/CNPJ ou o ID dele.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943905192/2839881c89f3174af7487662/image.png?expires=1752529500&amp;signature=b665ab668ebcfffdd7a6cf8cb2eeb4b4f9695a9f7c9be954e5997a1cf7ee5ac8&amp;req=fSQkH8l7nIhdFb4f3HP0gKkBgh5Vu7NUNejlLGauPUWYx1nuYWE0Wl0OQjdL%0ALQs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943905192/2839881c89f3174af7487662/image.png?expires=1752633900&amp;signature=56569be84db3f781e0ddc0cb88e6df0f8b4bfae2d286106ddf0edfab06578e2f&amp;req=fSQkH8l7nIhdFb4f3HP0gKkBgh1Usb9UNejlLGauPUUof14sjGk4d5AJUVC8%0AbrA%3D%0A)
 </div>
 
 
@@ -15532,7 +15532,7 @@ Clique em *visualizar cliente* (👁️) e na página do cliente, cliquem em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943905210/27d9c4312ede0f8ae5eb0195/image.png?expires=1752529500&amp;signature=b0de77c78fffb91801e8b317f1e9ca55e242098766003bd0b4ebbdb701fa4860&amp;req=fSQkH8l7n4BfFb4f3HP0gJ1td4JE15HCJkTFphyteQs4zFnLjQ6UElUGzqTm%0A5Ys%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943905210/27d9c4312ede0f8ae5eb0195/image.png?expires=1752633900&amp;signature=f9e7ed7a5cf8665350c3e5c9ec548b65dbe8463b9cdf1a60fcdea4c972672a84&amp;req=fSQkH8l7n4BfFb4f3HP0gJ1td4FF3Z3CJkTFphyteQvgA9BQmfOTRjM0kg%2FD%0AfRc%3D%0A)
 </div>
 
 
@@ -15566,7 +15566,7 @@ desse cliente que serão atualizados:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943905222/2ae0ebd5ee319cd5613a0449/image.png?expires=1752529500&amp;signature=c8efa45b724d4c9454eef77c240c309b0b7664503160464735eb40f673a66731&amp;req=fSQkH8l7n4NdFb4f3HP0gAjP3yY5Y9Ui4QK9iYmsB4JEfntx8END5ReUSeyG%0AHcY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943905222/2ae0ebd5ee319cd5613a0449/image.png?expires=1752633900&amp;signature=19aac68e54c1915abc14adbd9b7e793389ee5fd3911fa3cceddc1c92bb6021d6&amp;req=fSQkH8l7n4NdFb4f3HP0gAjP3yU4adki4QK9iYmsB4Ls4ycTW5%2B2BQDeF9lV%0ACqY%3D%0A)
 </div>
 
 
@@ -15605,7 +15605,7 @@ do exemplo que deseja trabalhar e salve uma cópia no seu computador.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1079523036/46d052162afbab12a805ed04/image.png?expires=1752529500&amp;signature=125a685a49c9cb976e1112b3a5e17d89b6df607c7a98d9413441cfdb44a1083f&amp;req=dSAgH8x8noFcX%2FMW1HO4zb9ny8Q0ZdRiWhBMUNiCzoMluIoaICIaF%2F%2FNI%2FbF%0AauWT%0A)
+![](https://downloads.intercomcdn.com/i/o/1079523036/46d052162afbab12a805ed04/image.png?expires=1752633900&amp;signature=59218cb571120f723747b3f7fe577cc57e44f65f2e4294efb2f6a69473bfdbe3&amp;req=dSAgH8x8noFcX%2FMW1HO4zb9ny8Q3ZN5uWhBMUNiCzoPQJJy25go%2BnvO0xN3c%0AM2sy%0A)
 </div>
 
 
@@ -15687,7 +15687,7 @@ elas por vírgulas, conforme imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943883626/f1e95caf4430b6113af57965/image.png?expires=1752529500&amp;signature=5c1f765fe69a81974da965661b09d5243a24123b3b8d9cee628b55feffcee141&amp;req=fSQkHsF9m4NZFb4f3HP0gC%2BO8SpVacMLjXIedsk2s6HM6x4o43%2BT1JJDHrZ6%0Aa8E%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943883626/f1e95caf4430b6113af57965/image.png?expires=1752633900&amp;signature=7e242a7763620cde83308ef86a844fec20f5e20c4c3b2a8bb516d4024defdb74&amp;req=fSQkHsF9m4NZFb4f3HP0gC%2BO8SlUY88LjXIedsk2s6GgLlEWDcvSkMqSdo3%2F%0AyhM%3D%0A)
 </div>
 
 
@@ -15711,7 +15711,7 @@ vírgulas, conforme imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943883642/a2a8fd8385b17da9ce8c1b4d/image.png?expires=1752529500&amp;signature=61951ea4246dc66585f0973c19ef0fd52985f3e99bce4825007206edb0e384c5&amp;req=fSQkHsF9m4VdFb4f3HP0gGkqN1SywutpcukqpebpVCsLwrSqY74%2FyoMoo759%0A%2FrA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943883642/a2a8fd8385b17da9ce8c1b4d/image.png?expires=1752633900&amp;signature=77c6426d199b2b027f4fcafa79a996b63f95b480e82b9dedf1b305582ef3b3cf&amp;req=fSQkHsF9m4VdFb4f3HP0gGkqN1ezyOdpcukqpebpVCvHbbGKrBpbXxJ10swx%0Ab2Y%3D%0A)
 </div>
 
 
@@ -15795,7 +15795,7 @@ disponibilizamos na interface, conforme mostrado na imagem abaixo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943662949/e44e05bc07e0ecd9f77f81c5/image.png?expires=1752529500&amp;signature=31733e62b28bbf68319d66b340f2695c74c7649e9a40f922fac5d055c2fc318a&amp;req=fSQkEM98lIVWFb4f3HP0gC8fXjZpn18tgAxfRUsMkRWc3wwFaidPrko5D8sC%0A4qw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943662949/e44e05bc07e0ecd9f77f81c5/image.png?expires=1752633900&amp;signature=089bdc25c0335f5022645074d721e9f0b9f0de883e4bf08e761139702a4ba4da&amp;req=fSQkEM98lIVWFb4f3HP0gC8fXjVolVMtgAxfRUsMkRW20waM4iHRTpo91RSP%0A8k4%3D%0A)
 </div>
 
 
@@ -15811,7 +15811,7 @@ utilizando o Google Sheets:.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943662964/924df80065c93941251f5a0d/image.png?expires=1752529500&amp;signature=ee361b008e1071283478ba5d13bae9be398caeca19687e79e6525d3de78fc535&amp;req=fSQkEM98lIdbFb4f3HP0gC2zCJqbcvFPn4l%2FqhFye5gYe9hQ9rZYzVpzVJfa%0Av6Y%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943662964/924df80065c93941251f5a0d/image.png?expires=1752633900&amp;signature=1f1e88acba1317f91ff4856a1fd4c31511a0c0b3d0c4a79e114c39f0a6dba03a&amp;req=fSQkEM98lIdbFb4f3HP0gC2zCJmaeP1Pn4l%2FqhFye5im76wGIiocVOLdqD%2FH%0A92c%3D%0A)
 </div>
 
 
@@ -15835,7 +15835,7 @@ o arquivo para dentro do retângulo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1079556372/9683713069823312ebf031aa/image.png?expires=1752529500&amp;signature=53952d88b50c8e5b8fcefc23d2a4a4e829368cb62da95d79e58443ce216f18d9&amp;req=dSAgH8x7m4JYW%2FMW1HO4zUTG0%2BMVdHoJVWwqcd7NA8Sqk6bvLT6HwMY4PEZQ%0AS94d%0A)
+![](https://downloads.intercomcdn.com/i/o/1079556372/9683713069823312ebf031aa/image.png?expires=1752633900&amp;signature=57ab711247ed875af8687bb40bbca929b99ca1f6e025633389d5c520e43ac891&amp;req=dSAgH8x7m4JYW%2FMW1HO4zUTG0%2BMWdXAFVWwqcd7NA8TpmAyzJOYDLsIq2nbh%0AKYD%2F%0A)
 </div>
 
 
@@ -15874,7 +15874,7 @@ Você poderá revisar a importação, clicando em *Ver Importação* (👁️).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/943662832/03d43299daf23df32c9b0a94/image.png?expires=1752529500&amp;signature=e517b11aced45eac0074e8e3d3ca206d63fdd51e7f4fbe5c74abcc5d1f84aecf&amp;req=fSQkEM98lYJdFb4f3HP0gPUUgDnPhPm1P%2BbVptQ7tLWxO1ag7KiHTTrf1hcm%0AblI%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/943662832/03d43299daf23df32c9b0a94/image.png?expires=1752633900&amp;signature=5c4069c1cd18c8ca57ea53b578b0e38fec74ef7c3706400b7a312a6bef8dfb1e&amp;req=fSQkEM98lYJdFb4f3HP0gPUUgDrOjvW1P%2BbVptQ7tLURxAo8kO3b4wxEqPtp%0AmTE%3D%0A)
 </div>
 
 
@@ -15984,7 +15984,7 @@ deseja cadastrar:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1256177657/a0baaf626664a315560e70361859/image.png?expires=1752529500&amp;signature=1665ca177fbe3bc862d8536eed4c388374d56323a7ba224337878493a4ad6772&amp;req=dSIiEMh5modaXvMW1HO4zW4qh544rdlg5feVw81SaMVZM2sj4VnZdaNPYOAg%0A7oKF%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1256177657/a0baaf626664a315560e70361859/image.png?expires=1752633900&amp;signature=f838a4ed0ce975e886c4b83588d92e70bedc29fbecb5cfeb60e5e58b0befde2e&amp;req=dSIiEMh5modaXvMW1HO4zW4qh547rNNs5feVw81SaMVx8yXoowUMdAqJf5Aq%0A%2FecN%0A)
 </div>
 
 
@@ -16020,7 +16020,7 @@ os dados para encontrá-lo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943640098/bea4d0ce477c1ab80138225a/image.png?expires=1752529500&amp;signature=706fab72d925f2ce727a65b8ddbae191a5c011d537eb5f4f33b88fdae9527f08&amp;req=fSQkEM1%2BnYhXFb4f3HP0gBpjeMRf0SSO%2F2x7ki1to19DwvFiptZ2ucqhtEuK%0AKNs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943640098/bea4d0ce477c1ab80138225a/image.png?expires=1752633900&amp;signature=a6848f4364f90a5898b83968c58809db3667a9574510bf9f60f524ac522d791a&amp;req=fSQkEM1%2BnYhXFb4f3HP0gBpjeMde2yiO%2F2x7ki1to1991xGvq1043mqAq0qK%0AjxQ%3D%0A)
 </div>
 
 
@@ -16035,7 +16035,7 @@ informações de cadastro.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943640106/ed624cacda3c60ef3a11b3b4/image.png?expires=1752529500&amp;signature=21801b56f4864f30269bbfd70294ff4143ab86b3b29b74e216c3260594e3c482&amp;req=fSQkEM1%2BnIFZFb4f3HP0gOBUIjUaJ55Nkjo4u%2FpvaDlbGmg%2BNhAearX6OthB%0Ad7s%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943640106/ed624cacda3c60ef3a11b3b4/image.png?expires=1752633900&amp;signature=148905e0a48f2717571313f657ebfe0813dbe7429a18550bcc67ad62d723c253&amp;req=fSQkEM1%2BnIFZFb4f3HP0gOBUIjYbLZJNkjo4u%2FpvaDmy%2BHAZ%2BRniIMjlG156%0A2pc%3D%0A)
 </div>
 
 
@@ -16093,7 +16093,7 @@ esteja apenas como recebido.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943559119/c850ed50d28c23d569ca379f/image.png?expires=1752529500&amp;signature=0eea6e3b4cdff2c9c1722fa212af4816b1bbdb435d7d374ef5c87e7e8fc3f1d9&amp;req=fSQkE8x3nIBWFb4f3HP0gNzSM1lwNwBhEJytLRIGeocuVzPHySCC8%2FTkPnwi%0ApIc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943559119/c850ed50d28c23d569ca379f/image.png?expires=1752633900&amp;signature=6ec084b36636161380b2081b54e9787cf704640e599c41ff87190944ab142df2&amp;req=fSQkE8x3nIBWFb4f3HP0gNzSM1pxPQxhEJytLRIGeoddVWs6oaUql9keYinX%0AtUk%3D%0A)
 </div>
 
 
@@ -16117,7 +16117,7 @@ que deseja baixar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943559127/e78f7385556bd50ff9dbdf7d/image.png?expires=1752529500&amp;signature=430a9424459f6eca5b5c4209f7f479f5140537029ea775106f62cd0de32ed8a6&amp;req=fSQkE8x3nINYFb4f3HP0gLEys1Aj9fTLwEdXK5scdW7MDrdDorxAUg4MW1wZ%0AzQY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943559127/e78f7385556bd50ff9dbdf7d/image.png?expires=1752633900&amp;signature=e0e1a3e3b018b8cb0ffc441579222c227df94087026f28fe527920d826d99016&amp;req=fSQkE8x3nINYFb4f3HP0gLEys1Mi%2F%2FjLwEdXK5scdW44n8OBxWg%2BiMIuYDss%0A2oE%3D%0A)
 </div>
 
 
@@ -16158,7 +16158,7 @@ mostra o que cada situação significa e como ela é representada.
   {: .no-margin}
   
   <div class="intercom-container intercom-align-center" markdown="1">
-  ![](https://kobana.intercom-attachments-1.com/i/o/943551928/34001bdc4db141fbdc09d946/whats-app-image-2021-09-23-at-16-56-45.jpeg?expires=1752529500&amp;signature=2706d5c9c49173b071e34d1d48f86b44fda5086f795b3c1ebdb2ad1220359d97&amp;req=fSQkE8x%2FlINXFb4f3HP0gKhL8as4ZIok8%2F4gB9NXyB%2F%2FVelpPy7WP2tmLJ5r%0AAdk%3D%0A)
+  ![](https://kobana.intercom-attachments-1.com/i/o/943551928/34001bdc4db141fbdc09d946/whats-app-image-2021-09-23-at-16-56-45.jpeg?expires=1752633900&amp;signature=2fda623155f8e000aef31212cd2a56614873b22172e175bb72717637c9d16cef&amp;req=fSQkE8x%2FlINXFb4f3HP0gKhL8ag5boYk8%2F4gB9NXyB8UVqrLCuk7%2Fw%2FSZA21%0Ab%2Bg%3D%0A)
   </div>
   
   
@@ -16172,7 +16172,7 @@ mostra o que cada situação significa e como ela é representada.
   {: .no-margin}
   
   <div class="intercom-container intercom-align-center" markdown="1">
-  ![](https://kobana.intercom-attachments-1.com/i/o/943551938/a6917a4b6a6e80a4c598ca66/whats-app-image-2021-09-23-at-16-57-03.jpeg?expires=1752529500&amp;signature=a9e40eda506fbd5ea7d8b3ea4cc016cd1015459162f67f43af913dd521047b7e&amp;req=fSQkE8x%2FlIJXFb4f3HP0gI3Mkr%2Fx8%2BXnKEGmAH8FW1zLYbi864ppI15qXGMh%0AQEk%3D%0A)
+  ![](https://kobana.intercom-attachments-1.com/i/o/943551938/a6917a4b6a6e80a4c598ca66/whats-app-image-2021-09-23-at-16-57-03.jpeg?expires=1752633900&amp;signature=3dcb9aa8a52363066a1a8bd29b781aae3e6422ff42ef1bf793206d7121f4ca44&amp;req=fSQkE8x%2FlIJXFb4f3HP0gI3Mkrzw%2BennKEGmAH8FW1yy3rlFYHPPsDHQ1RTZ%0AvXk%3D%0A)
   </div>
   
   
@@ -16187,7 +16187,7 @@ mostra o que cada situação significa e como ela é representada.
   {: .no-margin}
 
 <div class="intercom-container intercom-align-center" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943551948/5d4d4e266cb50c80b26ed715/image.png?expires=1752529500&amp;signature=89182f8aa2e7a9bd74c18d6bf87ca32ae158fc0c913291d719e5180e89b2d6a8&amp;req=fSQkE8x%2FlIVXFb4f3HP0gKStoDVtQ%2BfIMkzVdSM56MF7c94zXXr0xbaj6d12%0A1zA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943551948/5d4d4e266cb50c80b26ed715/image.png?expires=1752633900&amp;signature=589b8aada943b76bf80db459f32186255d91550893a8b51cad8b267e62091eb1&amp;req=fSQkE8x%2FlIVXFb4f3HP0gKStoDZsSevIMkzVdSM56MFfFIlI1IEWTzrXeT8W%0A0Jg%3D%0A)
 </div>
 
 
@@ -16207,7 +16207,7 @@ esteja apenas como recebido.
 ^
 
 <div class="intercom-container intercom-align-center" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943551952/4a97ff4b76069cbf8c7bbcf6/image.png?expires=1752529500&amp;signature=1bb95dc6f83d49cd9d823c4e8fbb210817f92663ecda62a987c65577c5a81c6b&amp;req=fSQkE8x%2FlIRdFb4f3HP0gBEes8%2F9BRNOZ0kQVUHPURz84Qwa3qz0SeXHMt2d%0A4BI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943551952/4a97ff4b76069cbf8c7bbcf6/image.png?expires=1752633900&amp;signature=31c9059e375664beadf3e5405c27f333d73e40ea7c59c814a54f97de51b81cc5&amp;req=fSQkE8x%2FlIRdFb4f3HP0gBEes8z8Dx9OZ0kQVUHPURwG1T3IsAxBh%2BUs8jRQ%0Aeak%3D%0A)
 </div>
 
 
@@ -16297,7 +16297,7 @@ valor, link do boleto etc.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943549691/ff1b0798b20af93a52839b02/image.png?expires=1752529500&amp;signature=68fa5c2e9d31d7d4e10a96882de8f4947b34aef1e44090b79ec1fd18d6009b04&amp;req=fSQkE813m4heFb4f3HP0gOCt6cDd9oJv7H1uTOyUu6sJoMnE%2Fvi9tpMMq4L9%0AVso%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943549691/ff1b0798b20af93a52839b02/image.png?expires=1752633900&amp;signature=e2a5206f9aac414a7a8df873ace1578e9c1522182480979120f687439f454122&amp;req=fSQkE813m4heFb4f3HP0gOCt6cPc%2FI5v7H1uTOyUu6t%2FY6uJ%2FHujxOVGTiqN%0AaWo%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
@@ -16345,7 +16345,7 @@ em *Enviar notificação por SMS.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943549695/336dac39288fb5314fb81b93/image.png?expires=1752529500&amp;signature=ef7a7413adc017e2698000cb4cf9feefe860623ccd2b1f68dc02838355b8ff57&amp;req=fSQkE813m4haFb4f3HP0gPUtP3FeV5hYzPsOrM5HfrqeKkAXJu5C6dbR9in9%0Axio%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943549695/336dac39288fb5314fb81b93/image.png?expires=1752633900&amp;signature=7be59f243475f68dc10ac8d03c882e8001acc56c7d21a6a2908984e1351e39c6&amp;req=fSQkE813m4haFb4f3HP0gPUtP3JfXZRYzPsOrM5HfrqVd%2BLMmHUW6cN1jRhp%0AiOY%3D%0A)
 </div>
 
 
@@ -16438,7 +16438,7 @@ se quiser baixar qualquer nota fiscal, você tem a opção de clicar no
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1085655471/d55402deb56c133a456d6a2e/image.png?expires=1752529500&amp;signature=2b97a12f572cedd55f44eac685e05a0f86b876aafb4fd7de7e9b92a1c1302e19&amp;req=dSAvE897mIVYWPMW1HO4zVFVfX3WZPR0cWYf1GEKDuosME%2B2Uj5nxVJWx2nD%0AAo6i%0A)
+![](https://downloads.intercomcdn.com/i/o/1085655471/d55402deb56c133a456d6a2e/image.png?expires=1752633900&amp;signature=ef4b14dbd7e35242588e055bd5208da1803bf2c3bc50e3abe9757ff6b0be94f9&amp;req=dSAvE897mIVYWPMW1HO4zVFVfX3VZf54cWYf1GEKDupQJNti4DhT30VJQ1as%0ALw34%0A)
 </div>
 
 
@@ -16463,7 +16463,7 @@ acessórias, como operação excedente, envio de SMS, etc.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/943519529/dd4fd9a84c85037f5af24ad6/image.png?expires=1752529500&amp;signature=12de22bc6f73902cbe11dc3ec85f88924b3467938514b644aaa283a681a5858d&amp;req=fSQkE8h3mINWFb4f3HP0gHCo7%2BtizkIUkUPrY50gCsVDIXFWKTysXsP%2BHhXC%0Ai90%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/943519529/dd4fd9a84c85037f5af24ad6/image.png?expires=1752633900&amp;signature=d5bc69fdc1e80e1fd4115a0e22f402e8d479315578473e670116f62388b7f502&amp;req=fSQkE8h3mINWFb4f3HP0gHCo7%2BhjxE4UkUPrY50gCsUztOVs8E9zAXopUXmH%0AF2w%3D%0A)
 </div>
 
 
@@ -16516,7 +16516,7 @@ seu usuário e, então, clique em *Realizar Pagamento*:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943493436/d848dbc36a4d5be693ce0c2b/image.png?expires=1752529500&amp;signature=c133522dc10760f8e8622c1813bb7b8e039d83a778c7086f050af527a0af5fd5&amp;req=fSQkEsB9mYJZFb4f3HP0gEyg6HtWd5IJDWWF6TRhuHcpLTSkrDUC%2FZVbgXhf%0AAZw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943493436/d848dbc36a4d5be693ce0c2b/image.png?expires=1752633900&amp;signature=99ad49a686ae7ffb0eb752bfa6c5da0dda02f71a8e0e3ae4ab4adbb5dbc8fc34&amp;req=fSQkEsB9mYJZFb4f3HP0gEyg6HhXfZ4JDWWF6TRhuHc6nm%2FKLja1Fw926MuB%0AnOc%3D%0A)
 </div>
 
 
@@ -16576,7 +16576,7 @@ usuário e, então, clique em *Realizar Pagamento*:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1085667273/3f3466d62e6aa884425eed10/image.png?expires=1752529500&amp;signature=57c4f3b6c762962b711ec77e7ae8b7ecb4d9fc8114e22577ba31f6ec0bcbaafc&amp;req=dSAvE894moNYWvMW1HO4zTk%2BFgZwH70m7JkcrYPvbc3RWcjxoIfN%2FL9x0eX4%0Adn8a%0A)
+![](https://downloads.intercomcdn.com/i/o/1085667273/3f3466d62e6aa884425eed10/image.png?expires=1752633900&amp;signature=3dd5f6a835aa3047728bd99ff07c5041647ff548f26aec7660400cb5050eeea8&amp;req=dSAvE894moNYWvMW1HO4zTk%2BFgZzHrcq7JkcrYPvbc2VdZ6SYjK4iBJCtlO8%0AI93O%0A)
 </div>
 
 
@@ -16742,7 +16742,7 @@ cima do sinal, conforme abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/943003583/825e5954f37cbc961aef5ee2/image.png?expires=1752529500&amp;signature=430cca3eddc0afa4a4cdc403ab3936ea2cd4917b34ef6b4eac87769ab22be5d3&amp;req=fSQkFsl9mIlcFb4f3HP0gDisZvAaYfcW8Offd2KG4B5mvkUwn8gWCDTFi%2FM1%0Adc0%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/943003583/825e5954f37cbc961aef5ee2/image.png?expires=1752633900&amp;signature=1d084fa9d9bda66adda1508cb2ee9bb0302e48d3f7b0a051353c726d7c71cbbf&amp;req=fSQkFsl9mIlcFb4f3HP0gDisZvMba%2FsW8Offd2KG4B6irvCYZhQ6MJk5jNKP%0A%2B7s%3D%0A)
 </div>
 
 
@@ -16786,7 +16786,7 @@ você pode exportar um relatório nos formatos CSV, XSLX e ODS.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/943004488/b72910ff56da6e6bd0e419d9/image.png?expires=1752529500&amp;signature=0e8e8830ae97ffe80032aa5685cc50ade7a433a4fae173cb14be0176ffcd3bc4&amp;req=fSQkFsl6mYlXFb4f3HP0gOa%2BIsbdtuwPWpMF7Ov7EvNjpgrateLULR1Y4qtl%0Avpc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/943004488/b72910ff56da6e6bd0e419d9/image.png?expires=1752633900&amp;signature=f258badad83310022dc10e4e4561aad160a36978cebbd85a3d8d675ee3a7e518&amp;req=fSQkFsl6mYlXFb4f3HP0gOa%2BIsXcvOAPWpMF7Ov7EvMBBk9pnkcYl8j0sXfc%0AMBU%3D%0A)
 </div>
 
 
@@ -16853,7 +16853,7 @@ Selecione o cliente e vá em <i>Opções &gt; Alterar. </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/942993831/61238201f30c427ee7968322/image.png?expires=1752529500&amp;signature=83419549695c316bd6ddcbfb9f66fdb9d567104e8def9f6a724cc5c30a6099be&amp;req=fSQlH8B9lYJeFb4f3HP0gK2V%2BMIMUYjZx9b6h0uyBmt3Cr5gkzZRaU5tj%2BTL%0A%2Fls%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/942993831/61238201f30c427ee7968322/image.png?expires=1752633900&amp;signature=2bd2a2ef9cc5748a2038770f4b4c18be0b6fe3f5f1409a6d7fbe4e1b8e3ad3ed&amp;req=fSQlH8B9lYJeFb4f3HP0gK2V%2BMENW4TZx9b6h0uyBmvx3buTyDhRJsIwlv9e%0A4qM%3D%0A)
 </div>
 
 
@@ -16867,7 +16867,7 @@ e-mail para esse cliente**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1256152434/c7f578d6d9d7243667deda9ef2a0/image.png?expires=1752529500&amp;signature=e7df169f6adfcd5faefba41e21b6db788e337b3d94237e1efd65139722d841e2&amp;req=dSIiEMh7n4VcXfMW1HO4zYrhhfABpQC20A8YHmTj8hXFzI17zakP8sJ6uypG%0A8jPT%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1256152434/c7f578d6d9d7243667deda9ef2a0/image.png?expires=1752633900&amp;signature=76a77bf4df29a02f824619a07e9b64bf543d0158ab3d815c2d12e8a4f6e9ed3c&amp;req=dSIiEMh7n4VcXfMW1HO4zYrhhfACpAq60A8YHmTj8hUhdaabpaS9fMuO1bKI%0A0qK4%0A)
 </div>
 
 
@@ -16922,7 +16922,7 @@ Ao emitir o boleto, na seção de **Dados do Cliente**, selecione a opção
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/942996211/bb81295ba47f0a66d8a54090/image.png?expires=1752529500&amp;signature=f9105b726172f58f7b3a40900da0982a9ae31d9e791a43eb9e91a81fd57eefdf&amp;req=fSQlH8B4n4BeFb4f3HP0gDAW9T%2FCLW6O2USPYtzgCD6YIf7KH26S1Adluvrx%0AbAQ%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/942996211/bb81295ba47f0a66d8a54090/image.png?expires=1752633900&amp;signature=886455dd56158fc843c62799fa5218f5e7979f4636fa2b454eb07e27fc1828bb&amp;req=fSQlH8B4n4BeFb4f3HP0gDAW9TzDJ2KO2USPYtzgCD5lAVfTBV7ITSmly0mf%0Aa5Q%3D%0A)
 </div>
 
 
@@ -17000,7 +17000,7 @@ do exemplo abaixo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942971523/581de00852cda937bebf7d62/metaa-png.PNG?expires=1752529500&amp;signature=fc39446b35714d6be9a054c819f3dbfd5a68f2c202492d2625f367c6a2e56c0a&amp;req=fSQlH85%2FmINcFb4f3HP0gAVc%2B2351F%2FnqMnNAmj52ynuaqWvtsbWJQj4PJPJ%0AcK8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942971523/581de00852cda937bebf7d62/metaa-png.PNG?expires=1752633900&amp;signature=347fd51e9d49eea43a57180999e8f1f006c421719725bfae6c9a8f5041b28778&amp;req=fSQlH85%2FmINcFb4f3HP0gAVc%2B2743lPnqMnNAmj52yknwQVfzG9xT4Fkg5ne%0AOco%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
@@ -17057,7 +17057,7 @@ No exemplo a seguir, queremos incluir as variáveis ***order\_id*** e
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942971528/8efce1c4ee101c4d18e266a3/ameta-png-png.PNG?expires=1752529500&amp;signature=b011af49ce9e7644a04d8c4ed51d1584ff93beb84a666a9064dfd5c047d7008a&amp;req=fSQlH85%2FmINXFb4f3HP0gMKO%2BSOwzkdhk9kcsf0p6jcxomhNdBXgBGz6p5lJ%0A8xw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942971528/8efce1c4ee101c4d18e266a3/ameta-png-png.PNG?expires=1752633900&amp;signature=c0945154e4893ccff53224a5bc890cafad983297d123e318c01c1854064d272c&amp;req=fSQlH85%2FmINXFb4f3HP0gMKO%2BSCxxEthk9kcsf0p6jemmDejLb5s3NRIe2Yp%0A9FQ%3D%0A)
 </div>
 
 
@@ -17177,7 +17177,7 @@ pelas informações cadastradas do seu cliente e do boleto em questão.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942955571/66d59d416870c9ddd92af9ae/image.png?expires=1752529500&amp;signature=e28c9678ca155fba31f7b71ef9a0fd6bf482c84ac7fbe784b915ec978b4ae00b&amp;req=fSQlH8x7mIZeFb4f3HP0gP5VTkbWGogl%2BmFDee9ZOtotyUjVs0j9iVNVShLR%0Acfs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942955571/66d59d416870c9ddd92af9ae/image.png?expires=1752633900&amp;signature=aa70bb4a448ef3fe79b23cad651541d7c75e3b4cd6f0af2eed1d7ccec73dd1bf&amp;req=fSQlH8x7mIZeFb4f3HP0gP5VTkXXEIQl%2BmFDee9ZOtrDQ7tR11Fwdi0%2BZLwD%0AWwg%3D%0A)
 </div>
 
 
@@ -17203,7 +17203,7 @@ desejada na lista. Veja como fica:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942955572/1a743e7ceca047e757e6cf5d/image.png?expires=1752529500&amp;signature=a8e4fa70100fbf2613abf6ce0582007703c5ddf909b19a07a8efe2feaa945a78&amp;req=fSQlH8x7mIZdFb4f3HP0gL5u%2Bq28cKUUPhLU93wxQD3PuKJAa7xAmv15gaA3%0A8jc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942955572/1a743e7ceca047e757e6cf5d/image.png?expires=1752633900&amp;signature=cf02f6fd5ed2b6ffef2e5e20179d3fa7b14e6053eaa5e4f180877dac5560fef8&amp;req=fSQlH8x7mIZdFb4f3HP0gL5u%2Bq69eqkUPhLU93wxQD0dyq3hdkIv7shHeG69%0AzFQ%3D%0A)
 </div>
 
 **PDF do boleto em anexo**: dependendo do evento, você terá a opção de
@@ -17338,7 +17338,7 @@ Para criar um novo modelo de e-mail, clique no botão com o sinal de +.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1077083009/babb186747998f1a951f2043/image.png?expires=1752529500&amp;signature=23fdfac26eeba7428a87e31660ac9fcc06dec424ce664b0245b815e30fe020cf&amp;req=dSAgEcl2noFfUPMW1HO4zeaItqvmtcJEs7%2BA%2FFieMrxAAZLOvg4tBSfBqa%2BY%0ASJ3Q%0A)
+![](https://downloads.intercomcdn.com/i/o/1077083009/babb186747998f1a951f2043/image.png?expires=1752633900&amp;signature=f8113974781424265ac09d393e656426b511e7d3bc926058d3680d7292864fb1&amp;req=dSAgEcl2noFfUPMW1HO4zeaItqvltMhIs7%2BA%2FFieMrx0fiUnWznQ8MBxhb4P%0AyUzi%0A)
 </div>
 
 
@@ -17607,7 +17607,7 @@ Para finalizar, clique em *Adicionar Evento Customizado.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942841468/3866277193c6be253ddb3e54/image.png?expires=1752529500&amp;signature=598f55804220e6d9e798c65ab0810237a56947025c84a6b9e4cd54b63593a5cb&amp;req=fSQlHs1%2FmYdXFb4f3HP0gPW3YJcsxVwsE2BDInZvU6E0lof%2Fpm%2FWI8vsw89O%0A9Io%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942841468/3866277193c6be253ddb3e54/image.png?expires=1752633900&amp;signature=7a64357d32bb6e23fafa6ba8543dd8e4f5926f2fac4f71d6d15786ac64ba4bab&amp;req=fSQlHs1%2FmYdXFb4f3HP0gPW3YJQtz1AsE2BDInZvU6GeT2DL%2ByGXTHt1lQ3L%0ALLI%3D%0A)
 </div>
 
 
@@ -17658,7 +17658,7 @@ exemplo seria \"**Régua de Cobrança: 3 dias antes do vencimento**\".
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942841477/56bd93f4c682e879b0e052d8/image.png?expires=1752529500&amp;signature=f22b37780b4925e7e3f9538c5b8b9b8f54629012f5550048d5bb2786c8998485&amp;req=fSQlHs1%2FmYZYFb4f3HP0gMxd72TWXj7eWruCmI2smX2lunsehvHEqMpkj81d%0Ap08%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942841477/56bd93f4c682e879b0e052d8/image.png?expires=1752633900&amp;signature=0618ab9d30199bd778aca40a91a160ccd2dcb43626a29c3c0a2c1df3bf4f84d4&amp;req=fSQlHs1%2FmYZYFb4f3HP0gMxd72fXVDLeWruCmI2smX3QP90qFxBm8bpCcupZ%0ALpc%3D%0A)
 </div>
 
 
@@ -17751,7 +17751,7 @@ poderá criar novos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1077110166/b7c2959c61028a83a8a72dc3/image.png?expires=1752529500&amp;signature=3bcf73f1f1940dd741ace5a911b8ed8e773181db11896960b6cd9f1bc1b0b815&amp;req=dSAgEch%2FnYBZX%2FMW1HO4zTQlVdidlsHEyi4dEcNtToF3%2FTgPKI2smkEAwLLH%0Ad9dO%0A)
+![](https://downloads.intercomcdn.com/i/o/1077110166/b7c2959c61028a83a8a72dc3/image.png?expires=1752633900&amp;signature=6a7eb10bae3028e3dcdfa7904eb10b02ba5fd85bee809e93c90de0cc6d798724&amp;req=dSAgEch%2FnYBZX%2FMW1HO4zTQlVdiel8vIyi4dEcNtToE8z0qY1Cm5nqvc8lmS%0ADcCw%0A)
 </div>
 
 
@@ -17777,7 +17777,7 @@ o evento customizado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1077111625/a8aac1b2af778e7c867f222a/image.png?expires=1752529500&amp;signature=4c043a431c93ee6c565e17a23c43de6dd11808376f90da590a512cc9acfb4490&amp;req=dSAgEch%2FnIddXPMW1HO4zS9ixppVV5dzaOrb4r6KdsUZes75cYp%2B6OF9U9vt%0AKeVA%0A)
+![](https://downloads.intercomcdn.com/i/o/1077111625/a8aac1b2af778e7c867f222a/image.png?expires=1752633900&amp;signature=ef12d55ae60f020d9275a0c6551c7d070523699a2ad152135b84403e8594c523&amp;req=dSAgEch%2FnIddXPMW1HO4zS9ixppWVp1%2FaOrb4r6KdsXifAMp9kSABEnWctbr%0Aso7C%0A)
 </div>
 
 
@@ -17801,7 +17801,7 @@ para acessar o PDF do boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942793732/dc009c2c84e7543a83b3ac71/image.png?expires=1752529500&amp;signature=6f81a8c4c2fa6212bd622d02c4cb8ec7272c3a2b6494bb6941f10b2d46dfa71b&amp;req=fSQlEcB9moJdFb4f3HP0gJ%2BgHbKS7ovjUJc6piZqWEP3yV%2B4WR4Zmh4qorZx%0A8BM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942793732/dc009c2c84e7543a83b3ac71/image.png?expires=1752633900&amp;signature=24bfe2d95270d8b51056f77221f12038a9c4b7ee5c168548a1bf53990a09f2f8&amp;req=fSQlEcB9moJdFb4f3HP0gJ%2BgHbGT5IfjUJc6piZqWEOXylLegCHre21DfFc2%0AzgI%3D%0A)
 </div>
 
 Caso deseje, também é possível cadastrar um [modelo de e-mail para ser
@@ -17924,11 +17924,11 @@ não irão apresentar este menu.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942628644/c36c0f3ba94d43d0b7ad1020/sem-t-tulo-2.jpg?expires=1752529500&amp;signature=0e15bce4219dd811e5c34f8a195316baaee586379f7c3fbc8b1dfaaf5f89458b&amp;req=fSQlEMt2m4VbFb4f3HP0gBYIBRIzlpFL6U1oVlf65frefmY9lFN7LFg%2Bmxud%0AOdw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942628644/c36c0f3ba94d43d0b7ad1020/sem-t-tulo-2.jpg?expires=1752633900&amp;signature=abac47f4ff065a61d53a015e8b7660db1674ce98732b3b53c5cd55540eacc8ea&amp;req=fSQlEMt2m4VbFb4f3HP0gBYIBREynJ1L6U1oVlf65foW3ypkvUtiBOfROiKD%0Abx4%3D%0A)
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942628652/76ae9f7b5c852b03ae818494/sem-t-tulo-1.jpg?expires=1752529500&amp;signature=a98ee740f0207b06e3921befe98fa84ce8bd4976f9b621e53a70cd57fa415d8c&amp;req=fSQlEMt2m4RdFb4f3HP0gArPxtOE4pIW%2BDz3KAEth75gVBuJbe6TL1UWCBzX%0AeWE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942628652/76ae9f7b5c852b03ae818494/sem-t-tulo-1.jpg?expires=1752633900&amp;signature=fd1a88e7f6592fc537023dbf38f18104148f2c0d72aa681e930a19057951b76f&amp;req=fSQlEMt2m4RdFb4f3HP0gArPxtCF6J4W%2BDz3KAEth77h%2BU1HgADSBQb3eSRa%0AwkA%3D%0A)
 </div>
 
 
@@ -17986,7 +17986,7 @@ Aplicação*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606538/97b7ddadc7741c1aff336d38/image.png?expires=1752529500&amp;signature=7bcfd94609e589f474ab7865022603d5eae8fbf1ce008bce1b02f51a3958c2cd&amp;req=fSQlEMl4mIJXFb4f3HP0gP0%2F6Brf7L5nd0TCb2TfWFdG%2BUI56UjtmxR3ZdKw%0A9DY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606538/97b7ddadc7741c1aff336d38/image.png?expires=1752633900&amp;signature=764c5e5f987137d3a2da783375e3cc7ea8e6460ba65d7218f01ba93bfa51a4b8&amp;req=fSQlEMl4mIJXFb4f3HP0gP0%2F6Bne5rJnd0TCb2TfWFfBJM90Eu0woXlWfNmd%0A154%3D%0A)
 </div>
 
 
@@ -17997,7 +17997,7 @@ login do Sicoobnet.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606559/a02eab133ca7f68eedc4ab37/image.png?expires=1752529500&amp;signature=e2584d5eb42d3bd491db7c1e35af6f1283d514ffd434c209503d2fa3ae69921f&amp;req=fSQlEMl4mIRWFb4f3HP0gJ1kzA7xkQ62%2FvMJmgBvNmMg%2Bg573N%2BkJ8HzaIRD%0A%2BM4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606559/a02eab133ca7f68eedc4ab37/image.png?expires=1752633900&amp;signature=0a621dcec0381bb82b3bc1f0d523d52e0f8a687057844ec3a3e6a0dee036ad4e&amp;req=fSQlEMl4mIRWFb4f3HP0gJ1kzA3wmwK2%2FvMJmgBvNmPl%2B%2FxwBTr2PwwHkC8n%0A%2FSA%3D%0A)
 </div>
 
 Autorize a autenticação da conta clicando em *Aprovar*.
@@ -18007,7 +18007,7 @@ Autorize a autenticação da conta clicando em *Aprovar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606567/20d23d0fcff7994cd75c32e3/image.png?expires=1752529500&amp;signature=fd08bd800b2b2917ac7562d0d1c48d804e6f6caa2ff62dc2b9dc55bb21b614b4&amp;req=fSQlEMl4mIdYFb4f3HP0gFCCZFpYqmNXxL81gkFhCxrity8etIS7be7VFcFq%0AIWo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606567/20d23d0fcff7994cd75c32e3/image.png?expires=1752633900&amp;signature=f36d66ba90db215cd5012b1c050c1c5ab41e6ada212e396841b5add667392009&amp;req=fSQlEMl4mIdYFb4f3HP0gFCCZFlZoG9XxL81gkFhCxpiIFvUzauarE1JiUiz%0A6K8%3D%0A)
 </div>
 
 
@@ -18023,7 +18023,7 @@ Kobana).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606594/fe998c9923f78b6b0025f993/image.png?expires=1752529500&amp;signature=9a7fdaf55dbac2df92e22cb5efdac13ec517de3d9ac1c240a19325187962e152&amp;req=fSQlEMl4mIhbFb4f3HP0gBfOegBUvK07%2Fdgnes5%2B8c8gB4h54vbbQu74ELGE%0Aok4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606594/fe998c9923f78b6b0025f993/image.png?expires=1752633900&amp;signature=965c20e520503c34a6d6a1e9612635e9b76904e7ac6055ad2b7e7af2fd85b79e&amp;req=fSQlEMl4mIhbFb4f3HP0gBfOegNVtqE7%2Fdgnes5%2B8c%2FgPIqs96t9uLKUQKE5%0Anxg%3D%0A)
 </div>
 
 
@@ -18044,7 +18044,7 @@ conta seja a mesma que você cadastrou no passo 1 deste artigo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606616/19ca1ec21615c85ab6adef34/image.png?expires=1752529500&amp;signature=069611fd23062c2f84f742d2174f4124d0d4b8ffd0b3612ab26f13afa816fa81&amp;req=fSQlEMl4m4BZFb4f3HP0gB6P%2BWHyPOtQcjhYhUAyZZi4mioKski4rUDfNQ4S%0Aph4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606616/19ca1ec21615c85ab6adef34/image.png?expires=1752633900&amp;signature=41b2cb731a9f88e888ee6078b9fea120fe18143e9b891a7d60f603af264df169&amp;req=fSQlEMl4m4BZFb4f3HP0gB6P%2BWLzNudQcjhYhUAyZZhNjSHF8ROmPk1qpNah%0AnV8%3D%0A)
 </div>
 
 
@@ -18058,7 +18058,7 @@ o upload do certificado digital emitido pelo ICP Brasil para o seu CNPJ.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606630/7eccca411765593f36b4f30b/image.png?expires=1752529500&amp;signature=9574714bd3eed8912fed2c41a1105555299456d740c9f147269e5f43883f2c84&amp;req=fSQlEMl4m4JfFb4f3HP0gKrlSCLv64WXDuQJDFWFUtyriDzuG%2Fi%2Bkc5asVUo%0AdzI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606630/7eccca411765593f36b4f30b/image.png?expires=1752633900&amp;signature=b5606be781e1c6467a227ffd50ade9ecde1bebb97644f5061fe80f2b9a183f11&amp;req=fSQlEMl4m4JfFb4f3HP0gKrlSCHu4YmXDuQJDFWFUtw%2BoGn1T7wiSvMAKhfi%0AKDo%3D%0A)
 </div>
 
 
@@ -18080,7 +18080,7 @@ Produção.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606653/1854102856e43f26b859a658/image.png?expires=1752529500&amp;signature=c96160b827fcf2498c4d7134160135cfafcaba716b2d5f7db7edc67c540ef65a&amp;req=fSQlEMl4m4RcFb4f3HP0gOHFuxJGbf0v8dN9UUtpGtkbkiEOYUdB8MwSkgoI%0A19w%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606653/1854102856e43f26b859a658/image.png?expires=1752633900&amp;signature=5fbdaa95536bcfa939fb723269f9c9926d4a0804f2dee7097ec0f72cbc41cc7f&amp;req=fSQlEMl4m4RcFb4f3HP0gOHFuxFHZ%2FEv8dN9UUtpGtlVyQ6%2FRkCrir0Jr66N%0Ap%2BA%3D%0A)
 </div>
 
 
@@ -18107,7 +18107,7 @@ selecionar o Sicoob.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606666/7493e578913b0e02f4d79d5c/image.png?expires=1752529500&amp;signature=f871494983db45974d382349a3a09826a3569f8c54fda139414514c205a93ce6&amp;req=fSQlEMl4m4dZFb4f3HP0gOqV9ZY6Web5XBzwFUNjcE9NbVrwwGjT7GOZJZIA%0A94c%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606666/7493e578913b0e02f4d79d5c/image.png?expires=1752633900&amp;signature=81f3fd9959eca5434792d259582d584e431f2413e9364d4a77e0351ac74c6d99&amp;req=fSQlEMl4m4dZFb4f3HP0gOqV9ZU7U%2Br5XBzwFUNjcE%2FoSCo6uQOU4Cw8NWsm%0Aq%2BI%3D%0A)
 </div>
 
 
@@ -18132,7 +18132,7 @@ Configurar Conexão do Extrato.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942606679/f9d657ddd418fbf7e1755579/image.png?expires=1752529500&amp;signature=c052a4c027b67f418588458cdbb721ab98c33d191094d37b06c2ac5bde98fecc&amp;req=fSQlEMl4m4ZWFb4f3HP0gHICIeTYwUdsgpOJm3t27ZW3vZ%2Bx9LnCxBri4H12%0A4mU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942606679/f9d657ddd418fbf7e1755579/image.png?expires=1752633900&amp;signature=332de231d8230969651569ac06ed696c44ee1d489a1e6305fc1564784dcf3443&amp;req=fSQlEMl4m4ZWFb4f3HP0gHICIefZy0tsgpOJm3t27ZVqh9c9nPtpryphJV4Q%0AY2M%3D%0A)
 </div>
 
 
@@ -18206,7 +18206,7 @@ clique no botão *Configurar Conexão de Extrato*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1289239206/2bab2c72b0a3f73c0ab8716c988a/image.png?expires=1752529500&amp;signature=77ab401225cdb1c0f85a150d22da471b4a680bad50e015468aa2c3b55b92a50b&amp;req=dSIvH8t9lINfX%2FMW1HO4zeJjcMkHSGA63IWT%2FucBhn4%2BMG0omN38KZVgImuW%0AjRt0%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1289239206/2bab2c72b0a3f73c0ab8716c988a/image.png?expires=1752633900&amp;signature=832516f005c87464b99c211c6063b021c69aaee7a6cf80a5c264552a6b6913c9&amp;req=dSIvH8t9lINfX%2FMW1HO4zeJjcMkESWo23IWT%2FucBhn4aoK0fuV4dO6xFn4UO%0AwVxw%0A)
 </div>
 
 
@@ -18239,7 +18239,7 @@ target="_blank" .intercom-content-link}*
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942595424/57ace33ccd3ad29a6422ac0b/image.png?expires=1752529500&amp;signature=7e98e750e380a91b9348fa7890c23b1a1dd4b59d4aa90489f433a872240d4a1b&amp;req=fSQlE8B7mYNbFb4f3HP0gFYGTYbrjFhsKnQVQ%2BqUdHHm5I0Tpt3GiSA9ZrgD%0A4D4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942595424/57ace33ccd3ad29a6422ac0b/image.png?expires=1752633900&amp;signature=c222e830ca7e7e17e345a1d99a4e41ff70769bdc090f1f5142fb895bba36715b&amp;req=fSQlE8B7mYNbFb4f3HP0gFYGTYXqhlRsKnQVQ%2BqUdHHfStjUCq2X5O4JgaDL%0AYZs%3D%0A)
 </div>
 
 
@@ -18254,7 +18254,7 @@ interface da Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942595438/5166e20365fb8b52e1d465e0/captura-de-tela-2024-01-23-103503.jpg?expires=1752529500&amp;signature=bf33adfc63fcd92965a6415593d5aba03feb922e6fb3a133e3b94232cbf4544d&amp;req=fSQlE8B7mYJXFb4f3HP0gJNRcJ3e9%2FkmkWFMrEmUb1633jyQ9zsoJbjFaKqN%0AE7Y%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942595438/5166e20365fb8b52e1d465e0/captura-de-tela-2024-01-23-103503.jpg?expires=1752633900&amp;signature=0eb1f56cdb8e9b196e8d3ef8caf99e9a3629d68bffbe8ca40d80f0b2bec2a403&amp;req=fSQlE8B7mYJXFb4f3HP0gJNRcJ7f%2FfUmkWFMrEmUb154eMdT6%2FuSSNSm5Zs0%0Atds%3D%0A)
 </div>
 
 ## **Testando o extrato em Sandbox**   {#h_c4dbe36308}
@@ -18280,7 +18280,7 @@ Feito o cadastro, acesse a conta pelo sistema clicando em *Ver Conta*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942595449/d28636aa2269f4eeb5e9a797/image.png?expires=1752529500&amp;signature=616201a43bfea0899e9bcab12fb168e1a79b001cc52aa27ba742e92bf40f13d8&amp;req=fSQlE8B7mYVWFb4f3HP0gMuEuXMx5GQXMx1I%2FUyMCUQhzAXC9k0xam51t1u2%0A5aQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942595449/d28636aa2269f4eeb5e9a797/image.png?expires=1752633900&amp;signature=60c62c319f3a62b9446c5e5b7e11ce8d6641ea2258ff69121405d14da32bceb6&amp;req=fSQlE8B7mYVWFb4f3HP0gMuEuXAw7mgXMx1I%2FUyMCUTDfSK7rTAN2o2UeH3D%0AuBU%3D%0A)
 </div>
 
 
@@ -18295,7 +18295,7 @@ visualize e teste sua integração.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942595458/86caff695b6e075ff3217982/image.png?expires=1752529500&amp;signature=696465e82968faab7e8e8fe27ef7a2cc666b33b6502077d9a03c2f9065d233a5&amp;req=fSQlE8B7mYRXFb4f3HP0gDzI%2FuN7G2JX9p1nHBYgHkqHDhom%2F%2FNmZLlc32WQ%0Asf8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942595458/86caff695b6e075ff3217982/image.png?expires=1752633900&amp;signature=bc68400e850d8e7021fd6bd643b72c478bfa2753711d2fecfb02575965da2d28&amp;req=fSQlE8B7mYRXFb4f3HP0gDzI%2FuB6EW5X9p1nHBYgHkrDSXwShxGrPGh6yE0x%0A1FY%3D%0A)
 </div>
 
 ## **Integrando à API da Kobana para consulta de Extrato**   {#h_374bfa7fe6}
@@ -18424,7 +18424,7 @@ Clique no botão *Entra*r e, em seguida, *Acesse sua conta PJ*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942557767/39efa23406e2c438d4e324db/image.png?expires=1752529500&amp;signature=3caadc3284c45c94061e604fc96da940de6ea43d90596beaf08817621fed1fe7&amp;req=fSQlE8x5modYFb4f3HP0gLgtdI2BiAyyCHHrVtlZCkCQOWRUb0jeDEqkNvmx%0AhqU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942557767/39efa23406e2c438d4e324db/image.png?expires=1752633900&amp;signature=2efd304b8b80a5f861413e8915fa977a3301db7768c42c5225ae00ce7f2b91e5&amp;req=fSQlE8x5modYFb4f3HP0gLgtdI6AggCyCHHrVtlZCkCnrw8IXmrNc40q%2BYWY%0Aty0%3D%0A)
 </div>
 
 Faça o login a partir dos dados solicitados: agência, conta, usuário e
@@ -18443,14 +18443,14 @@ Feito o login, clique em *Aplicações*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942557774/7058be9d4e5784397041c1bc/image.png?expires=1752529500&amp;signature=ab3ac6352e9f99b049f829902d773acfb768c5f2dcc8ca94ee846690e05f925f&amp;req=fSQlE8x5moZbFb4f3HP0gKKZVy6Sbm3e50E4jjKNE8MNBileWZhNbQMv3Syc%0AhsQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942557774/7058be9d4e5784397041c1bc/image.png?expires=1752633900&amp;signature=4680d0998cfd0245b3f1ec322730a6680c192b64499a07fea7d392269d11164f&amp;req=fSQlE8x5moZbFb4f3HP0gKKZVy2TZGHe50E4jjKNE8OgLdOGtvuemKJjqHcJ%0ACDY%3D%0A)
 </div>
 
 Escolha o ambiente de *Produção*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942557787/ddeb4b15f651eddc695f1d75/image.png?expires=1752529500&amp;signature=d58576748750c72f4e8d8c370ab77d5312b7b07c141fe07e053197a81797df19&amp;req=fSQlE8x5molYFb4f3HP0gDWJlC5hCN86U1WxHojYuRAJFwvqXGdmsoAfr%2Fyh%0ArGM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942557787/ddeb4b15f651eddc695f1d75/image.png?expires=1752633900&amp;signature=4151548011800bfa5c08fa495f7ff9359ae00626d14edb7622a3aa597126d78a&amp;req=fSQlE8x5molYFb4f3HP0gDWJlC1gAtM6U1WxHojYuRBtHTM6ZLaTGpn%2BrCUR%0ASyg%3D%0A)
 </div>
 
 
@@ -18486,7 +18486,7 @@ Preenchido os itens, clique em *Enviar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942557795/e2a90421a8dadf760733138e/image.png?expires=1752529500&amp;signature=6e1510b02b37dd30cd3e0936985dcceea3929100715eb52e4c3c7bff2d6fb835&amp;req=fSQlE8x5mohaFb4f3HP0gG%2Fv%2FsIRx6Ae%2FELgwNdmn7Ypw16lPY%2FCacTHD1PU%0A6Tk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942557795/e2a90421a8dadf760733138e/image.png?expires=1752633900&amp;signature=e62d5920d27eefe1efc2970d4dce51a1959f4ea801862fe59aac4d70854633d4&amp;req=fSQlE8x5mohaFb4f3HP0gG%2Fv%2FsEQzawe%2FELgwNdmn7aidAmyYQtTRlxfUuPa%0AjF0%3D%0A)
 </div>
 
 
@@ -18504,7 +18504,7 @@ ambiente de Produção.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942557807/68b9e7e7dacfd9b50bdef20d/image.png?expires=1752529500&amp;signature=86ae3930d93404b05d6b68537ce99316c2d1bf28127cb6e998f035edacec1993&amp;req=fSQlE8x5lYFYFb4f3HP0gCO8l3DwJgEcHW3ok3zV8PJp1NmD6FBd6VMv6Frd%0AU80%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942557807/68b9e7e7dacfd9b50bdef20d/image.png?expires=1752633900&amp;signature=099fb962a3af6445faa6ab9a68bd500e9f80f8ce6ec9e751b8e8076cb0dd0b23&amp;req=fSQlE8x5lYFYFb4f3HP0gCO8l3PxLA0cHW3ok3zV8PLKpk5KlirPtRXnOKAG%0Aen0%3D%0A)
 </div>
 
 Além das credenciais mencionadas acima, você precisará também solicitar
@@ -18536,7 +18536,7 @@ Serviços &gt; API &gt; Configurar nova* selecionar o Santander.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942557824/151df317be325b873cf4207f/image.png?expires=1752529500&amp;signature=c3f1c2276899d88841be9710492aafef82b6e56705e0c29b66142a8fd8a934d3&amp;req=fSQlE8x5lYNbFb4f3HP0gARGIzOVRJpEW2PqM9lnDIgL%2FHS%2BCF91eRjGltYn%0AW6Y%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942557824/151df317be325b873cf4207f/image.png?expires=1752633900&amp;signature=2e8bd5791a4153862df728adb765b0fedd7a0bb3ddf1cca347fa865cf313941a&amp;req=fSQlE8x5lYNbFb4f3HP0gARGIzCUTpZEW2PqM9lnDIhaoaZjPZmSHj%2BVzptd%0AzhI%3D%0A)
 </div>
 
 Em seguida, selecione o produto que deseja utilizar, que neste caso será
@@ -18820,7 +18820,7 @@ Aplicação*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942497171/6dfc79f909dd3f1aa021c7d4/image.png?expires=1752529500&amp;signature=b80c1759e5c2756bf89a444efbe22a550f4abfa079625236ca14e270826e90e1&amp;req=fSQlEsB5nIZeFb4f3HP0gBNm4QIdmZVoLbYAB5xXK5gYA%2BsP0nZIUafnLhf7%0AoZU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942497171/6dfc79f909dd3f1aa021c7d4/image.png?expires=1752633900&amp;signature=02b91611fcf8090b492e3685f7a5965f7368daa05efba80af3309ed389a35152&amp;req=fSQlEsB5nIZeFb4f3HP0gBNm4QEck5loLbYAB5xXK5gE7rb7ywEufuj4dcNc%0AJko%3D%0A)
 </div>
 
 
@@ -18834,7 +18834,7 @@ login do Sicoobnet.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942497182/fe620dae27ce8b9dc058338a/image.png?expires=1752529500&amp;signature=f96916356f01f4c02b803e540b671f5fc7710f02bb71366773fb3a948c0c736e&amp;req=fSQlEsB5nIldFb4f3HP0gLspmdMMJ0aYboGjjPx5Vtt5JSzv4rC2o1Qhhg%2Fr%0AdEw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942497182/fe620dae27ce8b9dc058338a/image.png?expires=1752633900&amp;signature=fa2c61d3df5012860f270f68326182294c3d17ff48ac7a42b10300f6c5f2dff3&amp;req=fSQlEsB5nIldFb4f3HP0gLspmdANLUqYboGjjPx5Vtu90ZKgEND6JCAP%2FbJj%0AdiI%3D%0A)
 </div>
 
 Autorize a autenticação da conta clicando em *Aprovar*.
@@ -18844,7 +18844,7 @@ Autorize a autenticação da conta clicando em *Aprovar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942497187/4f46e48405bbe010309b11c4/image.png?expires=1752529500&amp;signature=2c054a6ca5d717b72923fab105eeac2a5828320cc9ac70db367ca7c858972307&amp;req=fSQlEsB5nIlYFb4f3HP0gG681RkmL5ExNgLmd5PRziza%2FmSP7lUuMP6JS8kL%0AHmI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942497187/4f46e48405bbe010309b11c4/image.png?expires=1752633900&amp;signature=b6459c07eb111b63b02dc9cc0d8f6d859ecf518f9781a5823eddacf91eb25408&amp;req=fSQlEsB5nIlYFb4f3HP0gG681RonJZ0xNgLmd5PRziyYpWbsN85RUQ1jsEI0%0AxkU%3D%0A)
 </div>
 
 
@@ -18859,7 +18859,7 @@ Kobana) e uma descrição (Ex.: Criação de PIX via integração Kobana).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942497200/815efb823365c8ee30cdaace/image.png?expires=1752529500&amp;signature=37b11c7f5852171e68fd7c08541cec14157f2c6f3ecb01a1ff480c94597f0cfb&amp;req=fSQlEsB5n4FfFb4f3HP0gJuhcbQT4w3lltPRKg%2FCc8467UfgZtcahYISoV%2Br%0A2Ig%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942497200/815efb823365c8ee30cdaace/image.png?expires=1752633900&amp;signature=5a3f11cc177df767be62976fa7746cc24b00d2ab3b60f9bcfc1df6bdab26d0b7&amp;req=fSQlEsB5n4FfFb4f3HP0gJuhcbcS6QHlltPRKg%2FCc87gBHNgrdnvCo3khPHE%0APgE%3D%0A)
 </div>
 
 
@@ -18880,7 +18880,7 @@ de recebimento cadastrada na Kobana.*
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942497209/8f0fc275909fa2d5bfe9e92d/image.png?expires=1752529500&amp;signature=e71038edec96823bcd908c51adb9a74c008637a6de996354f0be4975542b7d45&amp;req=fSQlEsB5n4FWFb4f3HP0gKc7UlzzJfo%2FrMuyQHwWPdFdLROHv8VZxxC4e3lp%0Aj5Q%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942497209/8f0fc275909fa2d5bfe9e92d/image.png?expires=1752633900&amp;signature=4a4ec686d5436224e8e741f342ed677dfca1172a5857feacd208b8166c0bd74d&amp;req=fSQlEsB5n4FWFb4f3HP0gKc7Ul%2FyL%2FY%2FrMuyQHwWPdEi5XohScNUwV5fh2Q2%0A3kE%3D%0A)
 </div>
 
 
@@ -18895,7 +18895,7 @@ para o seu CNPJ.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942497215/dda9ac3481cd671f357d59a7/image.png?expires=1752529500&amp;signature=310ece9c7f0a5e3f337dc686c9ece2f4ccacfe920c0ecec81b2d7a73ba7ef6d3&amp;req=fSQlEsB5n4BaFb4f3HP0gD%2BFGYiI6nnISi5gxn2wm5gPmwfo00WPYRANpwGg%0AAks%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942497215/dda9ac3481cd671f357d59a7/image.png?expires=1752633900&amp;signature=fe220eddc658aab81b3f41cc6d548928a3b542ab7bbd75ca1e9c27a9c25cd219&amp;req=fSQlEsB5n4BaFb4f3HP0gD%2BFGYuJ4HXISi5gxn2wm5hS422ymomu43QAC7fD%0A%2Fy8%3D%0A)
 </div>
 
 
@@ -18919,7 +18919,7 @@ para o ambiente de **Produção**.*
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942497229/3aeb1a385be475130c88d505/image.png?expires=1752529500&amp;signature=4c8babe25fa597e71ee0a850259043af951eb8b60b50738f7a9694be7a2a52a7&amp;req=fSQlEsB5n4NWFb4f3HP0gGljeVtITkqmM3VEv1tBWHPD36SDJAiD%2B9RqZskF%0AHz4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942497229/3aeb1a385be475130c88d505/image.png?expires=1752633900&amp;signature=468973eb92edabc635c5562a0b17bee61bb832b91a25af82e7915dca08b38774&amp;req=fSQlEsB5n4NWFb4f3HP0gGljeVhJREamM3VEv1tBWHMWaKB0UUz%2BDRGt1eou%0A%2FI8%3D%0A)
 </div>
 
 
@@ -18946,7 +18946,7 @@ Configurar nova* e selecionar o Sicoob.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942497234/fdaccbcc9d08de58faa1ce33/image.png?expires=1752529500&amp;signature=be01177306a41fa22d24c0e3f34f1ec5dfea167f78b83197da665d083f061bc3&amp;req=fSQlEsB5n4JbFb4f3HP0gPvrDsn%2F%2Fo679l%2BiccPkxHI%2FgpaVI%2BDJNtLvF424%0Af7I%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942497234/fdaccbcc9d08de58faa1ce33/image.png?expires=1752633900&amp;signature=ac922ecfd1c0d5632c3c819e9f071915e2bbd5742b896a2eee02dcecbfe58915&amp;req=fSQlEsB5n4JbFb4f3HP0gPvrDsr%2B9IK79l%2BiccPkxHKH35w4kZREWBjYRmbP%0AL5I%3D%0A)
 </div>
 
 
@@ -18972,7 +18972,7 @@ Pix &gt; Contas Pix* e cadastre essa nova conta.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1077055291/896ca73e5ea8f730c73a35a4/image.png?expires=1752529500&amp;signature=0297d5d9ebd9bd9576d7824f8c913f80f04ae4697987975b2cbb5f4e40a082ef&amp;req=dSAgEcl7mINWWPMW1HO4zdEi2c4N0thyGkhhBOQmf%2B1v3lqO8Ys5PAkG5kE1%0AU60Z%0A)
+![](https://downloads.intercomcdn.com/i/o/1077055291/896ca73e5ea8f730c73a35a4/image.png?expires=1752633900&amp;signature=c906ef84ed9c007d41490c935a8fada7afa5fc66eb2d40ffca1a6c009a69e275&amp;req=dSAgEcl7mINWWPMW1HO4zdEi2c4O09J%2BGkhhBOQmf%2B0a%2F3DGwuAG4uyvHiO1%0A0fWJ%0A)
 </div>
 
 
@@ -19065,7 +19065,7 @@ Pix* e clique para criar uma nova conta.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1167672868/97caa6c005531d53e885df26/image.png?expires=1752529500&amp;signature=b4cfc7a6d20c22a8179701225be639ebc5f31811665609e361199fd223cd9386&amp;req=dSEhEc95n4lZUfMW1HO4zUHBrYxRv2C0xTfkMdwYd0PYKOLolcR2sorFJdfz%0Ag%2FB%2B%0A)
+![](https://downloads.intercomcdn.com/i/o/1167672868/97caa6c005531d53e885df26/image.png?expires=1752633900&amp;signature=f6dc9fbdb47d75d2e5855a4f19ba66a81c4994ea5e9df0da5bd06743e988cc4a&amp;req=dSEhEc95n4lZUfMW1HO4zUHBrYxSvmq4xTfkMdwYd0OZmEiVfb%2BmvDfNvkm%2F%0ARwqD%0A)
 </div>
 
 
@@ -19145,7 +19145,7 @@ correspondente ao webhook da sua conta PIX.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942484780/1103ae2a7aa1471e9e68ae47/image.png?expires=1752529500&amp;signature=6ed2aa12cbe476ba5e4635aba4f2e0e6be4b1c5e415bf1e1e9341f8cb90f9cdf&amp;req=fSQlEsF6molfFb4f3HP0gDKDmVZn4OSKcStPqqqpAwhkkDz3Jm2i25Uvja2A%0AdkE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942484780/1103ae2a7aa1471e9e68ae47/image.png?expires=1752633900&amp;signature=ac7933980eb3824eb9eee4606fd4c552b2bf8e29b87c555b3de35d126f534d93&amp;req=fSQlEsF6molfFb4f3HP0gDKDmVVm6uiKcStPqqqpAwgZVLl%2Bk6S2D7b1JBaA%0AI4I%3D%0A)
 </div>
 
 
@@ -19168,7 +19168,7 @@ Selecione a aplicação em produção que está conectada à Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942484784/8d5b9147644754fbfca0812b/image.png?expires=1752529500&amp;signature=0c794bd22ea887ddcfc1e286a6b7d8a495c52333e7d1d59fdc42d709a45ebbd4&amp;req=fSQlEsF6molbFb4f3HP0gO7qWswFp3wj9MsDX7uOtXxCYCOSBvGmDKcMZfyt%0APL8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942484784/8d5b9147644754fbfca0812b/image.png?expires=1752633900&amp;signature=276741e85e3b87fa3428170beb3bec62580bac6a279ccb97733e12cfbe363248&amp;req=fSQlEsF6molbFb4f3HP0gO7qWs8ErXAj9MsDX7uOtXwKsUzyy0QMpUZ4Mhhl%0ATEo%3D%0A)
 </div>
 
 
@@ -19181,7 +19181,7 @@ Clique no sino no menu esquerdo que representa a parte de webhooks.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942484797/16f6e09825d9f2d8aeaece87/image.png?expires=1752529500&amp;signature=293a7666e6f9b5610ed12949460d1ee55055f3c1ab88b2589c665e59c6eb960b&amp;req=fSQlEsF6mohYFb4f3HP0gMwkjHY1566s0sAcnU0v8zmyBstvhwFAp461tMg4%0Am9Q%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942484797/16f6e09825d9f2d8aeaece87/image.png?expires=1752633900&amp;signature=801b14d8584691822a48ed7c5cca361e4bfb654495595e64751ca6bae75b7aa4&amp;req=fSQlEsF6mohYFb4f3HP0gMwkjHU07aKs0sAcnU0v8zmgj32HIbN%2BBKpAv0XY%0AyAc%3D%0A)
 </div>
 
 
@@ -19194,7 +19194,7 @@ Clique no botão *Cadastrar* *Novo Evento*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942484813/a979d30a4c904dfe22f92668/image.png?expires=1752529500&amp;signature=d4cbc761a8771ce5b86315197832b02f093c30d09529a25a866e5213e1d841c5&amp;req=fSQlEsF6lYBcFb4f3HP0gKEkMV26IKkFXkt2aK5Ny%2BazQ7vJkgHOtj0t1Qf3%0Aoh4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942484813/a979d30a4c904dfe22f92668/image.png?expires=1752633900&amp;signature=badb26e9377282f6a28c6c2592db5cf383a3984809e9a917c3b73017976a2b69&amp;req=fSQlEsF6lYBcFb4f3HP0gKEkMV67KqUFXkt2aK5Ny%2BZXT4CmWp2R2buIKhbn%0AjQE%3D%0A)
 </div>
 
 Como neste artigo estamos tratando da parte de PIX, agora você vai
@@ -19213,7 +19213,7 @@ Brasil?][4]{: target="_blank" .intercom-content-link}*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942484822/50d97186276270f28af4b728/image.png?expires=1752529500&amp;signature=dc6ba1ab41bd770e10220aade6a39b3d39a557ef71ea93513d143afa3488b2e7&amp;req=fSQlEsF6lYNdFb4f3HP0gCYeHatXwycw0vp8Q0byQB6v7kfRJXZiDOo7jHnY%0AUME%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942484822/50d97186276270f28af4b728/image.png?expires=1752633900&amp;signature=93f6c918e733277a0db28e0995e091bbf5422a4fa31ccf95a98445ec5bc2a90e&amp;req=fSQlEsF6lYNdFb4f3HP0gCYeHahWySsw0vp8Q0byQB6WsWasLYAchzgPuX9h%0AqgA%3D%0A)
 </div>
 
 
@@ -19275,7 +19275,7 @@ informações dos seus Pix você gostaria de ver.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942466961/100edd68bff83c5d52b6d3c4/image.png?expires=1752529500&amp;signature=9368bc5bbcde907b3d317f764712c4aaf0a40d5dd10f02250104e9b6e4d268b7&amp;req=fSQlEs94lIdeFb4f3HP0gDlzTql8yDHJYBfL7NFrYlsGaN6LzKvZzEIPy1Ag%0AtUY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942466961/100edd68bff83c5d52b6d3c4/image.png?expires=1752633900&amp;signature=aacd3420bdc8aa5e26887c1f2cc968ba083aa0d804aa280dea3fba7bd6971b4f&amp;req=fSQlEs94lIdeFb4f3HP0gDlzTqp9wj3JYBfL7NFrYlvFF23Xlg5QFT3UpvbV%0A7jI%3D%0A)
 </div>
 
 
@@ -19291,7 +19291,7 @@ entre outros.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942466979/f475d8a15ef592946e9618a1/image.png?expires=1752529500&amp;signature=a61a704ce249ff8b5fd26077738c572eb22fa1a3d7071c287664d450635f285b&amp;req=fSQlEs94lIZWFb4f3HP0gExI8HuHecfUF6DpAkdLQiFO9JK5l2XStYpvEsiW%0A0Wk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942466979/f475d8a15ef592946e9618a1/image.png?expires=1752633900&amp;signature=a040f1bebe5399c016a23b3a6962171f22f72256b91a23806fc8d90fc9d7f751&amp;req=fSQlEs94lIZWFb4f3HP0gExI8HiGc8vUF6DpAkdLQiGupYyvtfdt83rDX8rJ%0A96M%3D%0A)
 </div>
 
 
@@ -19313,7 +19313,7 @@ Filtrados e* selecionar o formato do arquivo que você deseja criar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/942466988/3431c012c74374c849dae589/image.png?expires=1752529500&amp;signature=8c791c9a3ac1c1f358aeab510c26e296e3d84f6ee82f01a7ee125ba3b17b8f52&amp;req=fSQlEs94lIlXFb4f3HP0gCqW1nDtFAU5A1viXo1j6Gvt0si%2BvSueNPGgGma0%0AIjg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/942466988/3431c012c74374c849dae589/image.png?expires=1752633900&amp;signature=b3b74aa302206846629ea667caa67ef78442c2dd74f8536c39b3c303802f6102&amp;req=fSQlEs94lIlXFb4f3HP0gCqW1nPsHgk5A1viXo1j6Gs6N%2BtQYPpXOXJhY2Qq%0ASiM%3D%0A)
 </div>
 
 
@@ -19346,7 +19346,7 @@ Clique na Nuvem para fazer o download.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1247802235/be495b567b2c4a8bd580fa86d1a1/image.png?expires=1752529500&amp;signature=49eed7b0350e235d5ae320b277bf4f7131a42c31c3befee522221d21b058e6f5&amp;req=dSIjEcF%2Bn4NcXPMW1HO4zbvN9uPYb%2Fo8svcVWY2gBGhp6vYS0PL5HgMfgSM8%0AfK0Y%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1247802235/be495b567b2c4a8bd580fa86d1a1/image.png?expires=1752633900&amp;signature=743f5bec89d3700bc61e3b5571bcbf2a38c6e17b5fe558efa4b906b1ca6a674a&amp;req=dSIjEcF%2Bn4NcXPMW1HO4zbvN9uPbbvAwsvcVWY2gBGi63bkmUI%2BdhtQCRaHr%0AxWXv%0A)
 </div>
 
 
@@ -19468,7 +19468,7 @@ híbrido </i>e em seguida em <i>Habilitar. </i>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991161/2e354363886a7e729002acc4af0c/AD_4nXdVPyIi-RWeco4U8NgJv8dew2FAuagTKM4BSO-MjxKytPgiYsQJF8B8NI3GWVpBcuu2XScmDMzK9EnHYMmdyIVhvk0wG12Qton5SHjb4k1HUJjdupnu3HzVH3rtNToVGvN-SxySew?expires=1752529500&amp;signature=52c846a22432ee2b92f7fdc0311b2a7c69160a43568cac9fa69c9ff33ab0276e&amp;req=dSQlEMB3nIBZWPMW1HO4zWD4kFlXQd2dpvdpKgtL%2BMbJGM0YTDQUd%2BdAx4Z3%0Am%2FBi%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991161/2e354363886a7e729002acc4af0c/AD_4nXdVPyIi-RWeco4U8NgJv8dew2FAuagTKM4BSO-MjxKytPgiYsQJF8B8NI3GWVpBcuu2XScmDMzK9EnHYMmdyIVhvk0wG12Qton5SHjb4k1HUJjdupnu3HzVH3rtNToVGvN-SxySew?expires=1752633900&amp;signature=964f24b325a5dfcf5624da20a4f415adb50d06d4674f2e8b78c7bf929c10c067&amp;req=dSQlEMB3nIBZWPMW1HO4zWD4kFlUQNeRpvdpKgtL%2BMbpqPTmCFFmmJ7Q%2BUY5%0ArzSU%0A)
 </div>
 
 
@@ -19492,7 +19492,7 @@ precisam ser do mesmo banco e, antes de configurar na Kobana, é preciso
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991159/bf85c61516992bf611b37ebd81e1/AD_4nXfv7hOm0c9_nSOB4Rr8pgxkajDnQcUGu4vCIKxPQAgmJayTGgkNfbvFHgTMO1dNzY84D1HQ4TYhd7jCevBk41sYvzB5vQOhWcwt5akCqxlRT_o-13PdOxPvqJg9jncgt2f00AuzYA?expires=1752529500&amp;signature=afe2a44e621196eea5f3d480d7841cffbb55b52c4023d6393c7ff3c18877a2b6&amp;req=dSQlEMB3nIBaUPMW1HO4zY0Mdv7MFX%2Bl2z6UxdvldTh2gzWGf4uooU3K%2Bjwj%0A9wKf%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991159/bf85c61516992bf611b37ebd81e1/AD_4nXfv7hOm0c9_nSOB4Rr8pgxkajDnQcUGu4vCIKxPQAgmJayTGgkNfbvFHgTMO1dNzY84D1HQ4TYhd7jCevBk41sYvzB5vQOhWcwt5akCqxlRT_o-13PdOxPvqJg9jncgt2f00AuzYA?expires=1752633900&amp;signature=6dfced2c07563390c5e41f4951e2570b7b8882b1bc1ef98cf09a12f4bbcc48b6&amp;req=dSQlEMB3nIBaUPMW1HO4zY0Mdv7PFHWp2z6UxdvldTiKQ0TJA7jE8bG57twv%0AJGPq%0A)
 </div>
 
 
@@ -19509,7 +19509,7 @@ recebimento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991164/8e123a0e1bb5b17ed01784f4395f/AD_4nXdHpu3nzmdnwBYjYyP40en1_1c_tlL35t-w8_MRn_TSSe3wboI68u4Bt9z3rgkBvyjj_EoZkjZmvutIfNmv6yzSzx9c5XSdvepSBWmAqoxp7auqsMqU5_6abbRfe02T8k8mStpO?expires=1752529500&amp;signature=4ce0ceea5db051137b2260ed9caa19a22ecd15f5bd2ab2cfdfcb46f43448db0d&amp;req=dSQlEMB3nIBZXfMW1HO4zdFNOSFUlwJIrnuUas4HHgK%2BXmD7nKPKqqGxmiQo%0AcwgH%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991164/8e123a0e1bb5b17ed01784f4395f/AD_4nXdHpu3nzmdnwBYjYyP40en1_1c_tlL35t-w8_MRn_TSSe3wboI68u4Bt9z3rgkBvyjj_EoZkjZmvutIfNmv6yzSzx9c5XSdvepSBWmAqoxp7auqsMqU5_6abbRfe02T8k8mStpO?expires=1752633900&amp;signature=711cbf8f0c21e24c3cbc0517c8cd46a64902b4b0574fae1f4b856d7662b98094&amp;req=dSQlEMB3nIBZXfMW1HO4zdFNOSFXlghErnuUas4HHgJC27AcscTyVQEuEcLg%0A0o%2FJ%0A)
 </div>
 
 
@@ -19560,7 +19560,7 @@ informações daquela cobrança.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![image.png](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991162/45477ca15360283c78469936dadb/AD_4nXfK2S1TIByJST4c3WjiFlAo-Sg5U1xuOGszBOKBjTVjq3O6LR3Gx4ECKlN9G8TVgigDjqKovX8if0oEzKABp40OzEiw0wyn_eOe1u_XpZGMzHFxSWJk0AI8tdHgcKLrKWemNowzRw?expires=1752529500&amp;signature=d45e2f752900c521c0489d07291ca67543d61c401a3f23bd9f76cb45ccc986ee&amp;req=dSQlEMB3nIBZW%2FMW1HO4zegIA%2BrkWucypCnKm5w8Sv0eG7wxvl%2B53iPQvGKN%0AAVxb%0A)
+![image.png](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991162/45477ca15360283c78469936dadb/AD_4nXfK2S1TIByJST4c3WjiFlAo-Sg5U1xuOGszBOKBjTVjq3O6LR3Gx4ECKlN9G8TVgigDjqKovX8if0oEzKABp40OzEiw0wyn_eOe1u_XpZGMzHFxSWJk0AI8tdHgcKLrKWemNowzRw?expires=1752633900&amp;signature=bb3267334617c7047800c9e454c36b85f834353dbb7acdc312aa3fc0f141263f&amp;req=dSQlEMB3nIBZW%2FMW1HO4zegIA%2BrnW%2B0%2BpCnKm5w8Sv0MBzCufnEaV6nVg7vS%0ANjHy%0A)
 </div>
 
 
@@ -19578,7 +19578,7 @@ boleto híbrido, vai existir uma aba de Pix.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![image.png](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991165/2e19a617142fdedb7e71b669803e/AD_4nXct_8hMtG6MkaloNUfMpN_95V9PkSa4juVxofXDwnorM4_bpWdNQge1CVZg7dDB11cyj_VG2Qwue6zFF6XnTuvPtfgDTTdwiEdnmkSAmTmPOlH2YYxRpp4hp7UvH4iIjRuLP9XuBA?expires=1752529500&amp;signature=a3570518177842697cec439ae3497cca45f0638512e5df43a875e7e554a644d0&amp;req=dSQlEMB3nIBZXPMW1HO4zV1BQnMtV3GnNzr2VpXEHYvzeHkj%2BbaOi%2BDHrmP2%0AhFs3%0A)
+![image.png](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991165/2e19a617142fdedb7e71b669803e/AD_4nXct_8hMtG6MkaloNUfMpN_95V9PkSa4juVxofXDwnorM4_bpWdNQge1CVZg7dDB11cyj_VG2Qwue6zFF6XnTuvPtfgDTTdwiEdnmkSAmTmPOlH2YYxRpp4hp7UvH4iIjRuLP9XuBA?expires=1752633900&amp;signature=cf2ceb5688e282a50fda55b010fdff1d5e036c75838e5fcea7f280c2ac0b8797&amp;req=dSQlEMB3nIBZXPMW1HO4zV1BQnMuVnurNzr2VpXEHYsHVE4zXmNX6IRVQXlL%0ALXLv%0A)
 </div>
 
 
@@ -19595,7 +19595,7 @@ Pix, sua conta e o link.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![image.png](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991158/9138d97ffca1b6483146de8b0807/AD_4nXcVmHwTGBH0gIu-3O2u7H3s1cGovflBZLOIuSTp355E3Fs2rnWT2XxUokCm76FjiyEuZTbgH3luvCEzIo28zqyPPcKoG6HNhEKnghwPi65ZA9dJeGjEwdhQgpkn5qRumBmSQx4dVg?expires=1752529500&amp;signature=f04a0b12bb482821844c302fe77d459e43ecb0e7a7c09a73623bdbab5c18352d&amp;req=dSQlEMB3nIBaUfMW1HO4zU27pqJHO5PssaWK%2B%2BVuq6MoXYMrIERjo13x%2BVPr%0A8%2BmV%0A)
+![image.png](https://downloads.intercomcdn.com/i/o/1lw75vda/1426991158/9138d97ffca1b6483146de8b0807/AD_4nXcVmHwTGBH0gIu-3O2u7H3s1cGovflBZLOIuSTp355E3Fs2rnWT2XxUokCm76FjiyEuZTbgH3luvCEzIo28zqyPPcKoG6HNhEKnghwPi65ZA9dJeGjEwdhQgpkn5qRumBmSQx4dVg?expires=1752633900&amp;signature=4881dec230f8f41969e8792c65a15f3fac4da5c0fbe4130ec34a156a54f639fb&amp;req=dSQlEMB3nIBaUfMW1HO4zU27pqJEOpngsaWK%2B%2BVuq6PNQ%2FXbfRjN2eVmzORD%0Akpz1%0A)
 </div>
 
 
@@ -19737,7 +19737,7 @@ Confira um exemplo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1075117081/46b74e7a780f69f9dc5da7d7/image.png?expires=1752529500&amp;signature=9f99b725faf6b0c3cc386806da46a9931c4ac76fcd183ce60e97cb356c0b5266&amp;req=dSAgE8h%2FmoFXWPMW1HO4zeYoRTc4VBpB3lz5WUdhErP5V04yoChqzdNXmgie%0A4kGX%0A)
+![](https://downloads.intercomcdn.com/i/o/1075117081/46b74e7a780f69f9dc5da7d7/image.png?expires=1752633900&amp;signature=969c008e380ff80592618c8f014d38a8cac28f82dc9d446bad50796172dfedda&amp;req=dSAgE8h%2FmoFXWPMW1HO4zeYoRTc7VRBN3lz5WUdhErOt1drmIKfheOHkxY9S%0ASiDn%0A)
 </div>
 
 
@@ -19760,7 +19760,7 @@ uma conta PIX, selecione a que deseja gerar a cobrança.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1075117583/6070c898377264a458fab892/image.png?expires=1752529500&amp;signature=01569333195bc6f28539cdab6bd5e3e53aba283f00ddc90432d8608361713789&amp;req=dSAgE8h%2FmoRXWvMW1HO4zTgc%2BjGqrlwGKDfbfHvlgALq4aErbfFWOLFYB0PM%0A%2FDWv%0A)
+![](https://downloads.intercomcdn.com/i/o/1075117583/6070c898377264a458fab892/image.png?expires=1752633900&amp;signature=eb6ce9288a0c3ffe2a98d81aab48941c117262919e04b1c18ce6d80a938838c1&amp;req=dSAgE8h%2FmoRXWvMW1HO4zTgc%2BjGpr1YKKDfbfHvlgAIgOlDAlpIB1VRGS%2BBD%0ALR4z%0A)
 </div>
 
 
@@ -19821,7 +19821,7 @@ empresa gerou pela Kobana, seja via interface ou API.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1426682413/dd0fdf7ff2d8f3d10dc8255c7647/AD_4nXdp17iJZYmy2a7FvKTDxIrelRQSul2sKpMFt-tAgCtpsGN-9Hw_ejsNesfYcTVRcBIvoMMqAw3Bb3oyi_gFJMIV-9Sjd-5jlSEisPsE1D1q7VilFRHLeePgbVyJzUW80c3gT9S0?expires=1752529500&amp;signature=898361544bdd6aae3b9c2a7fa8ccae6ba42153c8456408e664211d8af79063b9&amp;req=dSQlEM92n4VeWvMW1HO4zUUMeJ3GpNSCu8Vo5MeOSUWhOQukm93WRSyer8TR%0AVQQv%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1426682413/dd0fdf7ff2d8f3d10dc8255c7647/AD_4nXdp17iJZYmy2a7FvKTDxIrelRQSul2sKpMFt-tAgCtpsGN-9Hw_ejsNesfYcTVRcBIvoMMqAw3Bb3oyi_gFJMIV-9Sjd-5jlSEisPsE1D1q7VilFRHLeePgbVyJzUW80c3gT9S0?expires=1752633900&amp;signature=fd9ae8ad2191621de648144298ed34dc7fa2dc3e69f29f9646b07938634cb8fb&amp;req=dSQlEM92n4VeWvMW1HO4zUUMeJ3Fpd6Ou8Vo5MeOSUUpgwaqu%2BKxbfWLhh%2Fc%0AdyRn%0A)
 </div>
 
 
@@ -19897,7 +19897,7 @@ página dela.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/941358030/b9f874f63ffabc86fd330518/image.png?expires=1752529500&amp;signature=e222f11f501ebff377780db6efe2e96b657f22a69c1e05bfd8dbf115271ab73c&amp;req=fSQmFcx2nYJfFb4f3HP0gMY9j7i5WM3i7whgeZ7hqRx5%2Bb0psGH0Ad64OnmK%0Aa7Q%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/941358030/b9f874f63ffabc86fd330518/image.png?expires=1752633900&amp;signature=8a32f4516ac24257aa310a6a87de3497fdfd8ace7fe0fb41720de15dc1f54671&amp;req=fSQmFcx2nYJfFb4f3HP0gMY9j7u4UsHi7whgeZ7hqRxLdwKK%2BsLE2s20KHs%2B%0ABWo%3D%0A)
 </div>
 
 
@@ -19913,7 +19913,7 @@ alterar essa data para o dia de hoje.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/941358041/799b5cd0446b471f6ae8937a/image.png?expires=1752529500&amp;signature=c8856e504c2aa4bd5d9c37899abdccebf59c6bfee1402a44952863e5f3d72a23&amp;req=fSQmFcx2nYVeFb4f3HP0gNYPZtGAGAPwxHMN9Lm%2B%2F3Q2eG1e7Uk9rtYvyRx0%0A2yo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/941358041/799b5cd0446b471f6ae8937a/image.png?expires=1752633900&amp;signature=a32085cbcf0762854b5385f724644eb05158200aa311131fb58153117a5a9c84&amp;req=fSQmFcx2nYVeFb4f3HP0gNYPZtKBEg%2FwxHMN9Lm%2B%2F3QUVMOeoU54qkBMOfPU%0ASkc%3D%0A)
 </div>
 
 
@@ -19938,7 +19938,7 @@ acima, clique em *Ações &gt; Excluir*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/941358051/7e7cb8866cd63444c465ad34/image.png?expires=1752529500&amp;signature=7a43d7c5017059ab329f4dcea0f63409eb1177ad91fa3d8f9399271dea7e563e&amp;req=fSQmFcx2nYReFb4f3HP0gDHLdWRPq49gGhOQRWMkEGM2lNbOvVwZrFFwoBa5%0AwZk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/941358051/7e7cb8866cd63444c465ad34/image.png?expires=1752633900&amp;signature=ba3f9236e3482e7ad16f3e72d25db045d89bbc589dd7fc715baebc7b427fb5a8&amp;req=fSQmFcx2nYReFb4f3HP0gDHLdWdOoYNgGhOQRWMkEGOpU%2F3nENCmKMkAzVxe%0Aw8E%3D%0A)
 </div>
 
 
@@ -19980,7 +19980,7 @@ para encontrar o arquivo no seu computador.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1072838981/2409bdf38419beb228ef1351/image.png?expires=1752529500&amp;signature=42cb4a73b04c8dc25ce06d939b30ceef455ee2f200f25f424c545b83e39315ce&amp;req=dSAgFMF9lYhXWPMW1HO4zXpsCQgnTKjw1Rp377913zn2rzx%2Bl%2BHEYNj%2FOxdl%0AOkbi%0A)
+![](https://downloads.intercomcdn.com/i/o/1072838981/2409bdf38419beb228ef1351/image.png?expires=1752633900&amp;signature=71b10b0a2e8a5a1f4ebdcc1d7e4fc037371c80b11e8524a99c18de36d0ad5370&amp;req=dSAgFMF9lYhXWPMW1HO4zXpsCQgkTaL81Rp377913zn9OTFsy%2FrYb90P%2F50%2F%0A2Drw%0A)
 </div>
 
 
@@ -20012,7 +20012,7 @@ arquivo e poder editá-lo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/941339676/3b40d90a0338fab4c73b649e/image-png?expires=1752529500&amp;signature=56965f90d36689ade35434915bf341b70d5bd8c36366b53119b140036561755b&amp;req=fSQmFcp3m4ZZFb4f3HP0gFChUJ9CK7LiVg4BE0N9VXaXxNTBehBnFvstz7FA%0ApEg%3D%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/941339676/3b40d90a0338fab4c73b649e/image-png?expires=1752633900&amp;signature=8a0c25d14cd5805b2d681c5f6491070cf7e2e8eaec0fa5cbdf88bb9759f3dde3&amp;req=fSQmFcp3m4ZZFb4f3HP0gFChUJxDIb7iVg4BE0N9VXYPciPWyRoyBqSb8rlj%0ArS4%3D%0A)
 </div>
 
 
@@ -20041,7 +20041,7 @@ computador em formato CSV. Clique em *Arquivo &gt; Fazer Download como
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/941339682/041cce022b40f3b4812eb93d/image-png?expires=1752529500&amp;signature=480763fb8787648ff5b5f936f7b9779dc38ed4e743fe56e99a48b27482d99454&amp;req=fSQmFcp3m4ldFb4f3HP0gE5oDlwFZWZ7EANiv0qRvMZqW0UDEcfSrAEWiiOf%0Afj4%3D%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/941339682/041cce022b40f3b4812eb93d/image-png?expires=1752633900&amp;signature=673ed6c57809182831857fd6ef43285f3e48487428e5c37778afca8606e5cff9&amp;req=fSQmFcp3m4ldFb4f3HP0gE5oDl8Eb2p7EANiv0qRvMYwphn6Fvkik%2FFMsLJJ%0AAq0%3D%0A)
 </div>
 
 
@@ -20151,7 +20151,7 @@ assinatura deste grupo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938506155/62f10cb1c3c7fd56f5564614/image.png?expires=1752529500&amp;signature=96eb9e9c4c58c4dd99b3d3f89e6f43725da825ae3c2655ec8c952610a7976a45&amp;req=fSMvE8l4nIRaFb4f3HP0gEKtHvwcSRhVmQpDVE%2FT%2BAORqu9HyF1MdCxnH4wW%0A%2BQ0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938506155/62f10cb1c3c7fd56f5564614/image.png?expires=1752633900&amp;signature=fbd60976159c84a061b8f6540e2f65ba2d7207a2ca0a12f8fc490804c845bb86&amp;req=fSMvE8l4nIRaFb4f3HP0gEKtHv8dQxRVmQpDVE%2FT%2BAM8AyE%2BbLlV2ZNr%2F%2FOL%0AWBA%3D%0A)
 </div>
 
 
@@ -20203,7 +20203,7 @@ poderá adicionar as etiquetas, conforme abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250690826/f33fc97d765bb3aa9b0558d50d00/image.png?expires=1752529500&amp;signature=e75947fe2010ef16b2b5f8a0afd26edee7d5baa5bfb37f950006b198f52a2910&amp;req=dSIiFs93nYldX%2FMW1HO4zdCB8SC5NGcw3TOXUw00W%2BJ0lD2ktlGoLDjKNThP%0Ae5Q0%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250690826/f33fc97d765bb3aa9b0558d50d00/image.png?expires=1752633900&amp;signature=3aa72bd277fa5441185904ee0488083335f6a98a941743665ae8e023ec74d15d&amp;req=dSIiFs93nYldX%2FMW1HO4zdCB8SC6NW083TOXUw00W%2BJ3SyAGTttZhq6wQJ89%0A71Zp%0A)
 </div>
 
 
@@ -20611,7 +20611,7 @@ possa comprovar o pagamento, caso necessário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![recibo\_do\_pagador.jpg](https://kobana.intercom-attachments-1.com/i/o/940579168/7603edd4f065c5120e0acd68/image.jpeg?expires=1752529500&amp;signature=e3934f6c7386b1d52a26ae60fd24e032fcf6237a52a86d8d248b150adb191649&amp;req=fSQnE853nIdXFb4f3HP0gF8GG0zPuFd%2BjdkK20EmUOfdJZwxJYBch1KI6ZvV%0AG3w%3D%0A)
+![recibo\_do\_pagador.jpg](https://kobana.intercom-attachments-1.com/i/o/940579168/7603edd4f065c5120e0acd68/image.jpeg?expires=1752633900&amp;signature=f81ef79fb66ce8ff9feae92d0532d3b68cbe3f550295d9f2edb6c5fb1f9bf0d9&amp;req=fSQnE853nIdXFb4f3HP0gF8GG0%2FOslt%2BjdkK20EmUOe87lGbBz0LrKKOnes8%0A47Q%3D%0A)
 </div>
 
 
@@ -20635,7 +20635,7 @@ seja encaminhada para a compensação bancária.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![ficha\_de\_compensa\_\_o.jpg](https://kobana.intercom-attachments-1.com/i/o/940579176/bd64918abf9a0071751ee842/image.jpeg?expires=1752529500&amp;signature=62d988f08dd5adcb2300bc7f73e2b45da713a341ff646da5f803e021a5ced1da&amp;req=fSQnE853nIZZFb4f3HP0gDmu66LLgIJ1HrvZOG1bYpz5aly0znQgWZtDqO5y%0AeK8%3D%0A)
+![ficha\_de\_compensa\_\_o.jpg](https://kobana.intercom-attachments-1.com/i/o/940579176/bd64918abf9a0071751ee842/image.jpeg?expires=1752633900&amp;signature=199bacf5889dd9cdd5284548eb7de0cc01ef19fff85a9c9db8940001f92e1017&amp;req=fSQnE853nIZZFb4f3HP0gDmu66HKio51HrvZOG1bYpw2Xs%2BDtDM%2Bg12R3m%2B9%0AjMs%3D%0A)
 </div>
 
 
@@ -20695,7 +20695,7 @@ layout do boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![dados\_do\_benefici\_rio.jpg](https://kobana.intercom-attachments-1.com/i/o/940579185/b9db7e2075c59f4015da94d8/image.jpeg?expires=1752529500&amp;signature=601c15b4bc96f5475f25d56185f91b356438b54d79e328ace5cac94ee0af8d88&amp;req=fSQnE853nIlaFb4f3HP0gG8v8MDh2S5uFpqFNoU2hW7n7hjtF%2Bv8aEP8jwBP%0AonE%3D%0A)
+![dados\_do\_benefici\_rio.jpg](https://kobana.intercom-attachments-1.com/i/o/940579185/b9db7e2075c59f4015da94d8/image.jpeg?expires=1752633900&amp;signature=9d6446dcfe6ee2ade49c684b7ad1446c9ac11e8e527306087a0bf20d91619eea&amp;req=fSQnE853nIlaFb4f3HP0gG8v8MPg0yJuFpqFNoU2hW48WxQrekHn4PhGaABk%0AlYE%3D%0A)
 </div>
 
 
@@ -20741,7 +20741,7 @@ leitura ótica, como por exemplo, nos caixas eletrônicos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![linha\_digit\_vel.jpg](https://kobana.intercom-attachments-1.com/i/o/940579195/5a3e6eb2c59d8b3e9c82989d/image.jpeg?expires=1752529500&amp;signature=3d49da9846b1d890649f0f1ff34b4dde6cf1b6864ae3020e2c364c1c93133f14&amp;req=fSQnE853nIhaFb4f3HP0gL%2BA%2Fg3lwPSlH04xbOJ0bkIyz6gAf6cNS42lRKmr%0A3C8%3D%0A)
+![linha\_digit\_vel.jpg](https://kobana.intercom-attachments-1.com/i/o/940579195/5a3e6eb2c59d8b3e9c82989d/image.jpeg?expires=1752633900&amp;signature=9cf067c1bcb0e93f1e9630ce430123a10776e3f1e2a56b028d6ff4d1fb736454&amp;req=fSQnE853nIhaFb4f3HP0gL%2BA%2Fg7kyvilH04xbOJ0bkJAsI%2FOlqZGu8W3Zdor%0AERA%3D%0A)
 </div>
 
 
@@ -20767,7 +20767,7 @@ aos juros de mora.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![data\_de\_vencimento.jpg](https://kobana.intercom-attachments-1.com/i/o/940579203/f07da062ffe372136afc9fe0/image.jpeg?expires=1752529500&amp;signature=ee5f1378163a4fbdc40ae72ef8cde98b3260d7f73b513e3891187b2d6ca5cbab&amp;req=fSQnE853n4FcFb4f3HP0gF6cw%2BYmRP2P31%2BpHocgcs6%2FllVn0O4%2FHSMAx6O1%0AreE%3D%0A)
+![data\_de\_vencimento.jpg](https://kobana.intercom-attachments-1.com/i/o/940579203/f07da062ffe372136afc9fe0/image.jpeg?expires=1752633900&amp;signature=7fa35c434aacd2cbe46e567747d107866300e68118d620753c5f67d38f01fbf9&amp;req=fSQnE853n4FcFb4f3HP0gF6cw%2BUnTvGP31%2BpHocgcs5Nx2QPy4LgA5CoBZgm%0Af2s%3D%0A)
 </div>
 
 
@@ -20786,7 +20786,7 @@ casa lotérica, por exemplo. Normalmente, é utilizada a mensagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![local\_de\_pagamento.jpg](https://kobana.intercom-attachments-1.com/i/o/940579211/43c7d02f2427541e0b655ac9/image.jpeg?expires=1752529500&amp;signature=202390600045a035562f46951a860489c73dd0e84b4f37c3dcb73910d18803d2&amp;req=fSQnE853n4BeFb4f3HP0gL8DhxLrtCXzZoAGW4e9qUiqfUjfZUVvSHEdZOuc%0AxeQ%3D%0A)
+![local\_de\_pagamento.jpg](https://kobana.intercom-attachments-1.com/i/o/940579211/43c7d02f2427541e0b655ac9/image.jpeg?expires=1752633900&amp;signature=c88d0f01e267e9938bf4168794d8185b218d3382f2f64bca1853cfb30fda3142&amp;req=fSQnE853n4BeFb4f3HP0gL8DhxHqvinzZoAGW4e9qUgs84%2BmKsdtcuOM4A4L%0A7UI%3D%0A)
 </div>
 
 
@@ -20804,7 +20804,7 @@ boletos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![indentifica\_\_o\_do\_banco.jpg](https://kobana.intercom-attachments-1.com/i/o/940579220/0363ccd2109697f494889044/image.jpeg?expires=1752529500&amp;signature=72ecf509b8d767a398ad6e269aeeecef096ab22f458905d07fbe76be76243785&amp;req=fSQnE853n4NfFb4f3HP0gFkiNVg2p8%2Bko3eBx7XDLtZBvNk8SmeHALFUIBIV%0A%2FXU%3D%0A)
+![indentifica\_\_o\_do\_banco.jpg](https://kobana.intercom-attachments-1.com/i/o/940579220/0363ccd2109697f494889044/image.jpeg?expires=1752633900&amp;signature=125b185f22e043abb21a990cfc4917bf8c104964c2caf8118858426b42203789&amp;req=fSQnE853n4NfFb4f3HP0gFkiNVs3rcOko3eBx7XDLtYbkz8jiACjQmUoQAtc%0AHKs%3D%0A)
 </div>
 
 
@@ -20823,7 +20823,7 @@ acordo com o padrão da sua Carteira de Recebimento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![nosso\_numero.jpg](https://kobana.intercom-attachments-1.com/i/o/940579229/32bd202e6aac6b70300fcaf9/image.jpeg?expires=1752529500&amp;signature=e4a0b5f1f91c56a470e64f8869028efc8b38973270a5d032427195fffd286ce8&amp;req=fSQnE853n4NWFb4f3HP0gH9iv%2FwhERq3pmU9JJuCSvlDzbpzrCoE7QRgQoUZ%0AoLA%3D%0A)
+![nosso\_numero.jpg](https://kobana.intercom-attachments-1.com/i/o/940579229/32bd202e6aac6b70300fcaf9/image.jpeg?expires=1752633900&amp;signature=0a8de442cf642d093f6098a87413e2fd5887a4c0af7a8ccb736264c10aa49eef&amp;req=fSQnE853n4NWFb4f3HP0gH9iv%2F8gGxa3pmU9JJuCSvmuk53m46L3kkZI%2BDje%0AU0U%3D%0A)
 </div>
 
 
@@ -20842,7 +20842,7 @@ pagador reconhece essa dívida.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![aceite.png](https://kobana.intercom-attachments-1.com/i/o/940579236/0a3dda60f3d0ea5813f696ee/image.png?expires=1752529500&amp;signature=99d73c5ea5c1c9ab371e25ae065b0020aa219419422f797706cf1161f7c7c982&amp;req=fSQnE853n4JZFb4f3HP0gKbelTmVTXDoOyUIaJ4wuGX9Iohr5PPprAQ8oV%2BD%0AI7U%3D%0A)
+![aceite.png](https://kobana.intercom-attachments-1.com/i/o/940579236/0a3dda60f3d0ea5813f696ee/image.png?expires=1752633900&amp;signature=6f63395632a875ecd2e8defcd2b325ab0a3ff51e9c938f794b8179bb0a2814f7&amp;req=fSQnE853n4JZFb4f3HP0gKbelTqUR3zoOyUIaJ4wuGWCqLERUt7Ypx8n9gn1%0AitQ%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
@@ -20970,7 +20970,7 @@ de baixo que fica em posse do banco após o pagamento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937408885/7997f1f1a05c267b46fb0a45/image.png?expires=1752529500&amp;signature=b7b6688dafd68410c5ea22b5d769ec230419e4fdab430ea2abf05317a36e8b5c&amp;req=fSMgEsl2lYlaFb4f3HP0gAnTRbZJdbFtxa8g4THG%2FNhYMFQk6vBttccM2nf9%0AWCQ%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937408885/7997f1f1a05c267b46fb0a45/image.png?expires=1752633900&amp;signature=e766b94e5083de5c10e4ecc0381127bb9967167e030d257853a36c4dd8c06fd3&amp;req=fSMgEsl2lYlaFb4f3HP0gAnTRbVIf71txa8g4THG%2FNjEreja10tn9IXOoE0J%0AGX8%3D%0A)
 </div>
 
 
@@ -21031,7 +21031,7 @@ dele ([https://bole.to/3/xpto/carne][3]{: target="_blank"
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![carne\_-\_Copia.jpg](https://kobana.intercom-attachments-1.com/i/o/937414465/a676ba03d13499076f124d61/image.jpeg?expires=1752529500&amp;signature=a945e9f62cb67103db5d4624afe9728af6c4634c065e8de72d92a7b7aff6da0f&amp;req=fSMgEsh6mYdaFb4f3HP0gCIgI5s%2B4pEL5EIRsok4UxNI0srp6ZLvPK1SKrrD%0Aw%2FU%3D%0A)
+![carne\_-\_Copia.jpg](https://kobana.intercom-attachments-1.com/i/o/937414465/a676ba03d13499076f124d61/image.jpeg?expires=1752633900&amp;signature=58388fb212acbf501e0702a36efcaf35cf9993a235b2f43bfe75c70c81e5339c&amp;req=fSMgEsh6mYdaFb4f3HP0gCIgI5g%2F6J0L5EIRsok4UxOOeNSJjWUK6F6ILkK8%0AE%2Bc%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
@@ -21075,7 +21075,7 @@ target="_blank" .intercom-content-link} vira
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937414475/c4f3fea5643447e6a7276f66/faturaboleto.png?expires=1752529500&amp;signature=dd0a93b9079a2caf5cd096807bf7dc825d439b7418af949c76dd2629423a138e&amp;req=fSMgEsh6mYZaFb4f3HP0gANmlDMKwXeq%2Fz35MNzI7hXiHJJSdy2zvcIdIYGU%0Am8g%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937414475/c4f3fea5643447e6a7276f66/faturaboleto.png?expires=1752633900&amp;signature=8ecf279bb289070d3360824f8f093a14cadae2e8e4b46124a0f4b2d0fe143bf1&amp;req=fSMgEsh6mYZaFb4f3HP0gANmlDALy3uq%2Fz35MNzI7hWi2YQL%2Bmhl3xZnaid8%0AcvY%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
@@ -21103,7 +21103,7 @@ target="_blank" .intercom-content-link}.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937414479/9eb980c999e343dcb39da837/envelope-boleto.png?expires=1752529500&amp;signature=52d4a3ca8fb924a0def6ff383a074c58faf5a3fae23d7605ad82b52754f2c306&amp;req=fSMgEsh6mYZWFb4f3HP0gHqvyyhm46mfaoyi%2FVM75C%2FZlVL80PpAtD%2BVeFzN%0ApYA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937414479/9eb980c999e343dcb39da837/envelope-boleto.png?expires=1752633900&amp;signature=aea10315c6a8c60e2e1c7f8fda0e1ffca7ebfd959a09e2180dd0b4195d937637&amp;req=fSMgEsh6mYZWFb4f3HP0gHqvyytn6aWfaoyi%2FVM75C%2Bye7Hq1aexBqjzqTH4%0A078%3D%0A)
 </div>
 
 
@@ -21292,7 +21292,7 @@ variáveis e incluir as que você preferir.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231425069/fd4d150356bf3bfd2d3ad97496a2/image.png?expires=1752529500&amp;signature=616fa95582100417e89783ef5e532b30dd7dca240e272f68a0be8c411d3bca60&amp;req=dSIkF818mIFZUPMW1HO4zZJ0catkRYinMq2ZYyisUKHYYZGt9d00Eyc9hsLC%0ARXgN%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231425069/fd4d150356bf3bfd2d3ad97496a2/image.png?expires=1752633900&amp;signature=4cdd840a354de2fc2452dd6c17428027fe74ccda8ab8485131661f9327363b0d&amp;req=dSIkF818mIFZUPMW1HO4zZJ0catnRIKrMq2ZYyisUKGXo5WYMusq%2BRBuS429%0Ad29E%0A)
 </div>
 
 
@@ -21315,7 +21315,7 @@ pelo nome de cada cliente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231425071/bec376a40f7da8994ef7b368e76e/image.png?expires=1752529500&amp;signature=49bfe1e45c24feed2847412a7f2f9172f1090e75ceceaccd3586734245c1dca2&amp;req=dSIkF818mIFYWPMW1HO4ze7pcfneCmm5evg49DRtJBoFAT1y4TNYNbHRwxWa%0AzjDl%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231425071/bec376a40f7da8994ef7b368e76e/image.png?expires=1752633900&amp;signature=61a848a61aaee9b03400657cd59a2a3ceb3210928d41965cad6f7efdca604668&amp;req=dSIkF818mIFYWPMW1HO4ze7pcfndC2O1evg49DRtJBoZ%2B%2BfPRcGoGLNhPk1a%0A5cFg%0A)
 </div>
 
 
@@ -21329,7 +21329,7 @@ qualquer variável no corpo da mensagem.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231425070/848223179e5be6b0fcc88669f266/image.png?expires=1752529500&amp;signature=9accd0d88bac940b2bbb41648c8ae7855b9166321e4e9061664ebd4d8f27978d&amp;req=dSIkF818mIFYWfMW1HO4zTKZKNMH3O246f9uW5Rvk7u1EwJlsADuOIDwL7a9%0APKv8%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1231425070/848223179e5be6b0fcc88669f266/image.png?expires=1752633900&amp;signature=47021b49064c406b0f3612493d2ebd1568e1d7c731a22d81d1d6c0311427d0e5&amp;req=dSIkF818mIFYWfMW1HO4zTKZKNME3ee06f9uW5Rvk7teyzwPI9gRyQFEa5qD%0AxZOA%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: ; border-color: ;" markdown="1">
@@ -21469,7 +21469,7 @@ modelo, clique em *Ações*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940287212/d65d1df91bb4b1ef9548f42f/image.png?expires=1752529500&amp;signature=a4987bfb2daf502fc13f00b69441832d2cfa693d941ea3a05fa0139c6f374cf0&amp;req=fSQnFMF5n4BdFb4f3HP0gBolAtYOD646WnzEU2EivdKCYED5SRDGPeTkhBnt%0ACxs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940287212/d65d1df91bb4b1ef9548f42f/image.png?expires=1752633900&amp;signature=1a40a55aea2afb28ebd0fb15fabd50a4065cecab100857eb9aa5ea7620c26414&amp;req=fSQnFMF5n4BdFb4f3HP0gBolAtUPBaI6WnzEU2EivdIZE7uks0wcTEHoYh%2Bl%0Aqfw%3D%0A)
 </div>
 
 
@@ -21497,7 +21497,7 @@ Configuração*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250531752/8bfb3742b4de5da21491a4e6c79a/image.png?expires=1752529500&amp;signature=d9b3d1ae74b9a21a3b9a1caf9cbda202a5053e75b5d1e1760d4ee1c770b1fc7d&amp;req=dSIiFsx9nIZaW%2FMW1HO4zVBZl91SKOj6l1m0W3XCZZ%2B2yZ2QISsbW3FJZDv6%0AejjC%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250531752/8bfb3742b4de5da21491a4e6c79a/image.png?expires=1752633900&amp;signature=73b84224584d9102e6958ebacfbdc63d739f6ccf60cf5ebdb78519e9e324879c&amp;req=dSIiFsx9nIZaW%2FMW1HO4zVBZl91RKeL2l1m0W3XCZZ9qDVBit868T2asPFSf%0Ae9h5%0A)
 </div>
 
 
@@ -21571,7 +21571,7 @@ cadastradas por você serão aplicadas ao boleto que você está gerando.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940287221/809c2fcefcf2efe3596a38db/image.png?expires=1752529500&amp;signature=1a2e85c3f0e0fb5df99562b0501867da442fca23d847ebfe646bf3227d487596&amp;req=fSQnFMF5n4NeFb4f3HP0gFsJMCSZvixg0NPdaelhrx%2Bsw0ug9AjwePoYNbqm%0Ag4g%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940287221/809c2fcefcf2efe3596a38db/image.png?expires=1752633900&amp;signature=be8378bbbc1e80922b6ba9c2c569e1d4fa99ec641e6d7b548c2e2cda0c9a484e&amp;req=fSQnFMF5n4NeFb4f3HP0gFsJMCeYtCBg0NPdaelhrx8t%2Fjj%2Bq1BIszkbdjQB%0ARcM%3D%0A)
 </div>
 
 
@@ -21627,7 +21627,7 @@ o seu logotipo no campo indicado. Vale lembrar que a imagem deve ter
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250524438/d08ef0653255021198535567c623/image.png?expires=1752529500&amp;signature=ce763957a42ac8e3c36d8278cc80441fa54bac1d5fb250f9771c9abbb4be0b05&amp;req=dSIiFsx8mYVcUfMW1HO4zW6bjBvax203lW4GNeIXDnPhuXVCklSJxRbccRys%0Ab1Is%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250524438/d08ef0653255021198535567c623/image.png?expires=1752633900&amp;signature=feab7f5bb947395701212173c2f3cbdf42c6e0fe4ff76ea5fd677444bd8287ca&amp;req=dSIiFsx8mYVcUfMW1HO4zW6bjBvZxmc7lW4GNeIXDnONry2izjLSv0O1FhG%2B%0Aexjv%0A)
 </div>
 
 
@@ -21641,7 +21641,7 @@ uma personalização.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937422888/7361682bed329b862f5965e1/image.png?expires=1752529500&amp;signature=f4de699e78658fc8d79326c0d9d78f718a18b1205309d9d4f0ef297e87b700f4&amp;req=fSMgEst8lYlXFb4f3HP0gPc54Vhcpssh2GWISjmWhSLUKPQaRF%2BM9iPQL2UM%0ATa4%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937422888/7361682bed329b862f5965e1/image.png?expires=1752633900&amp;signature=96cae1b3b8bfd1e9b014bf2900afe52d0133716b35c29b08b73fbf4910c1d85a&amp;req=fSMgEst8lYlXFb4f3HP0gPc54VtdrMch2GWISjmWhSIF3jKNwuYH%2BBZbxsvW%0AiVU%3D%0A)
 </div>
 
 
@@ -21679,7 +21679,7 @@ Clique no botão verde **Cadastre o seu primeiro link!**
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250346711/74d892d4b8de8fcb23e537ef0c3f/image.png?expires=1752529500&amp;signature=efb96034feb3d4b5e8adb5593f4659078068a36f0adb30e69cf67e44b0ca8ac2&amp;req=dSIiFsp6m4ZeWPMW1HO4zWathW8rrfuSZXYeAWGEkJOdZIPVwQiDApVV5GVn%0Adanr%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1250346711/74d892d4b8de8fcb23e537ef0c3f/image.png?expires=1752633900&amp;signature=6618f195cd2dc962b559b31479134ee0ebc0a6dbc4cde76656e6510015a32f8d&amp;req=dSIiFsp6m4ZeWPMW1HO4zWathW8orPGeZXYeAWGEkJP8Wo%2FvMlnJXIZKyG1Y%0AdCFc%0A)
 </div>
 
 
@@ -21716,7 +21716,7 @@ No formulário de criação, você deve preencher:
   {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940260843/cac12a77279a340c483d7377/image.png?expires=1752529500&amp;signature=218b7ee0b622f387f1c3b24c2157a08e4a52ac21988e9c9f7e7b597b2ba4231d&amp;req=fSQnFM9%2BlYVcFb4f3HP0gML7UUO315UR14KeXwr7N7CMn8%2FOHXf%2Fi2pKQf98%0AMQQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940260843/cac12a77279a340c483d7377/image.png?expires=1752633900&amp;signature=74b38b3f46800d08a4306631802b3d23b471ea998f2464773456f507e8963742&amp;req=fSQnFM9%2BlYVcFb4f3HP0gML7UUC23ZkR14KeXwr7N7B6stX%2FCVa06RjcONpR%0AkVc%3D%0A)
 </div>
 
 * **Valor fixo**: escolha um valor fixo para pagamento. Se deixar em
@@ -21751,7 +21751,7 @@ meio da URL criada.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940260849/bea7978f7cbd3d8ca8c9ffa1/image.png?expires=1752529500&amp;signature=47a0a826ac160f612642e3c3ec694e0d022d4e2348022386698b239943829b45&amp;req=fSQnFM9%2BlYVWFb4f3HP0gCIGFHxzu454GsY7eViQLNkC6m7pZ3gnwbvSe9wW%0ABXQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940260849/bea7978f7cbd3d8ca8c9ffa1/image.png?expires=1752633900&amp;signature=e498f5b1277f34e0b895eb44cfbdd082a61d57d9268f2a8188c530005419b01a&amp;req=fSQnFM9%2BlYVWFb4f3HP0gCIGFH9ysYJ4GsY7eViQLNm9YZbxyp4hL0cSlLO8%0AkfE%3D%0A)
 </div>
 
 
@@ -21784,7 +21784,7 @@ recebimento, nome do cliente, período de pagamento, dentre outros.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/940252462/9e91a3c72a70d471f5a170cf/image.png?expires=1752529500&amp;signature=af3a36f31eb6d19f2366bc6f3f3d126cd55e260942fc730ac407c23d218d406a&amp;req=fSQnFMx8mYddFb4f3HP0gNPYGPsg%2BFnvj54W4H4IrnyuzNVJiZdDcjiHRWvM%0A1gU%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/940252462/9e91a3c72a70d471f5a170cf/image.png?expires=1752633900&amp;signature=0c257421214cc7cbb48e1bc7cccacd305b94e39bc2c5624db2c7e5a4c23e4de6&amp;req=fSQnFMx8mYddFb4f3HP0gNPYGPgh8lXvj54W4H4Irnzp7fOc8y9suuJmuCsr%0Ag50%3D%0A)
 </div>
 
 
@@ -21808,7 +21808,7 @@ apenas os dados desejados.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/940253469/f99dc8c3dc9bc633989ffbd2/image.png?expires=1752529500&amp;signature=f5d288ddde31802394c0ba0fc4def7f8963fc24b9810da01fff67315341959ea&amp;req=fSQnFMx9mYdWFb4f3HP0gHUm9ksyHF6i4c0HCaTdOioteI3h1md%2B%2FZc7HcTv%0AER4%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/940253469/f99dc8c3dc9bc633989ffbd2/image.png?expires=1752633900&amp;signature=70346e047eedf517901fd41f62d00ff85c9396916d28ea7559926a76d683144e&amp;req=fSQnFMx9mYdWFb4f3HP0gHUm9kgzFlKi4c0HCaTdOiraU37ecbvZkAsUl1J5%0As8k%3D%0A)
 </div>
 
 ​
@@ -21869,7 +21869,7 @@ menu superior e, depois, em **Arquivos Enviados**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940241856/e3fdcd505287b89e2535da81/print-bradesco-5-valor-mark-png.PNG?expires=1752529500&amp;signature=6c3217feebbfa06858ff5447c72f1d641be3fa176df520de5dafbf4d0a8bce84&amp;req=fSQnFM1%2FlYRZFb4f3HP0gJaXqGJRo02Vo1NS%2FuNy2iLkv68bbnEtdt0zHg5b%0AHl0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940241856/e3fdcd505287b89e2535da81/print-bradesco-5-valor-mark-png.PNG?expires=1752633900&amp;signature=9062f1927a8b9ebc5cba1b78887a460c7a47c12fbfcf263064ac4bdb9d69384e&amp;req=fSQnFM1%2FlYRZFb4f3HP0gJaXqGFQqUGVo1NS%2FuNy2iLtathkR1QxmxbLzzbo%0A7%2Bc%3D%0A)
 </div>
 
 
@@ -21887,7 +21887,7 @@ coluna **Valor (R$)**. Como o arquivo irá conter apenas um boleto, esta
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940241864/fbff517cb55706f6891092fe/print-bradesco-9-valor-mark-png.PNG?expires=1752529500&amp;signature=bd90dc381bf6ad7e63684c8f5b6e040fa6e8fc3e4afe0e43ebf3150945747143&amp;req=fSQnFM1%2FlYdbFb4f3HP0gFDqIrPukhWFrY1USxkoLWzDVc6G3hk24dgiYMFq%0Amvk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940241864/fbff517cb55706f6891092fe/print-bradesco-9-valor-mark-png.PNG?expires=1752633900&amp;signature=553eb5baf94f540b4c341e2cc0eb74577bd5161d5e28d39efb0c0bcf50347c29&amp;req=fSQnFM1%2FlYdbFb4f3HP0gFDqIrDvmBmFrY1USxkoLWwsoTIC2ZtfKSAcN%2Bya%0A2EE%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
@@ -21909,7 +21909,7 @@ homologação**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1021967874/60e32ae059b7bb4939ba1608/image.png?expires=1752529500&amp;signature=afb83c4d060d2ca5818f020bf304d420dd8fd1e09b5e03637c3d3e052575e370&amp;req=dSAlF8B4molYXfMW1HO4zWlUPa7QfrbupUb7ZuoSqVedkwq1PrtXCyI%2BTaSL%0AnzXm%0A)
+![](https://downloads.intercomcdn.com/i/o/1021967874/60e32ae059b7bb4939ba1608/image.png?expires=1752633900&amp;signature=d4ce1b4b52421c93dd2cc6552f2b735628df7f5ea0d162a43ece7c6fb1fc14ee&amp;req=dSAlF8B4molYXfMW1HO4zWlUPa7Tf7zipUb7ZuoSqVdkg7UGxkOik7z%2BSG09%0AuEPX%0A)
 </div>
 
 
@@ -21924,7 +21924,7 @@ para finalizar o processo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1022165344/27e715384b7b72a8d300f030/image.png?expires=1752529500&amp;signature=10a6c838ea51aac0d6c5098cf7561f20cd31afa6f0c3c86495bef630254f916a&amp;req=dSAlFMh4mIJbXfMW1HO4zRIvWXcbWEdksGyAcFk5mPlrt545SSCl%2FCye1Z5K%0AlC9V%0A)
+![](https://downloads.intercomcdn.com/i/o/1022165344/27e715384b7b72a8d300f030/image.png?expires=1752633900&amp;signature=c1b6e4666967e7f2999398e21707b45d6ad5ad9f1fa3c79c31213a2b8722d8b0&amp;req=dSAlFMh4mIJbXfMW1HO4zRIvWXcYWU1osGyAcFk5mPnar6NCUrp6n0z8M06U%0ALcXW%0A)
 </div>
 
 
@@ -21976,7 +21976,7 @@ você tenha os boletos que pretende criar no seu relatório.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1063605818/6acaac56e95386e085946b80/image.png?expires=1752529500&amp;signature=e01763c3cf7e80439a988a3fc70d0d03ea53cff005ad6374ea7aae6fe0598176&amp;req=dSAhFc9%2BmIleUfMW1HO4zRFFM3te1S9DrhdmjiqNnllCBeYDOeN9sXQ4JouP%0AY0LR%0A)
+![](https://downloads.intercomcdn.com/i/o/1063605818/6acaac56e95386e085946b80/image.png?expires=1752633900&amp;signature=82f0796a956f424cc25c5082b49078055ba2a6fbeb34a9691d81887144c0b3f6&amp;req=dSAhFc9%2BmIleUfMW1HO4zRFFM3td1CVPrhdmjiqNnlkRLT8y7bPezaP4%2B593%0Aj%2Fmh%0A)
 </div>
 
 
@@ -21998,7 +21998,7 @@ no formato que desejar:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940235939/29f02939b976ee2027168935/image.png?expires=1752529500&amp;signature=473c04e2ecdb25a0ab085ab899518047dbc6bae8e5e47aab9fa5bc9a0b972dd0&amp;req=fSQnFMp7lIJWFb4f3HP0gIbsUB%2FZgdUBHp86v%2B%2BeMS9YJYlnxRKMsuCVvguB%0AaNs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940235939/29f02939b976ee2027168935/image.png?expires=1752633900&amp;signature=fb59056ed65752c92d883b2465fcbb4c4bd4383a63ab7a44a74aa9fe59c409db&amp;req=fSQnFMp7lIJWFb4f3HP0gIbsUBzYi9kBHp86v%2B%2BeMS%2BJIns1H%2BU1hc6H1fZS%0AwrE%3D%0A)
 </div>
 
 
@@ -22038,7 +22038,7 @@ Aplique um filtro para que a opção de exportação apareça:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940235946/a182cf8ba2784f5e2066b584/image.png?expires=1752529500&amp;signature=54d52a346438744c6015c63ae2f04f9d39ca4d7a33f5fe04e8204513463038cd&amp;req=fSQnFMp7lIVZFb4f3HP0gAv3079%2BcHCCwhsPBWL9cZWZ%2F6MO8NHnwF8oCZX6%0ALt8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940235946/a182cf8ba2784f5e2066b584/image.png?expires=1752633900&amp;signature=67072c8c397c1b6c0b3072f034de96382835cdbc63d138e8561e74a37d99d8b2&amp;req=fSQnFMp7lIVZFb4f3HP0gAv307x%2FenyCwhsPBWL9cZXTpOQtyu8J%2FwTnRsYx%0AURk%3D%0A)
 </div>
 
 
@@ -22103,7 +22103,7 @@ No exemplo abaixo, inserimos na mensagem da notificação por e-mail:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940232145/c6bb86da1aaabad4fc7d6dd6/image.png?expires=1752529500&amp;signature=2949221d273f50e508612a256acfe4c4e61043a0dc608a74c0b49ad23d4f7d3c&amp;req=fSQnFMp8nIVaFb4f3HP0gLaM%2Fi%2FmNKwNJ17IANZlR8%2FEMx9z8YcqZtw%2Fjmgf%0AODU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940232145/c6bb86da1aaabad4fc7d6dd6/image.png?expires=1752633900&amp;signature=62593e5cc0e4325a48f2a378f8321cbdaf2f4f2280eab5dd716783e05d9f96f6&amp;req=fSQnFMp8nIVaFb4f3HP0gLaM%2FiznPqANJ17IANZlR8%2BaCunccZmdMKdNY6UO%0AGr4%3D%0A)
 </div>
 
 
@@ -22117,7 +22117,7 @@ o e-mail com as informações e o link para acesso da nota fiscal:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940232156/216de0d0a5f8571ba26dee85/image.png?expires=1752529500&amp;signature=2074a67566fd5056330bb8ca5c587bbe9f616b85878241cbd6a699a89e4eab66&amp;req=fSQnFMp8nIRZFb4f3HP0gE2fSmG2WVKrYyy0Xe7UyjG8tkpI1toAGk%2FoENwe%0AcXo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940232156/216de0d0a5f8571ba26dee85/image.png?expires=1752633900&amp;signature=e3135ffde5da55725ae49f03ddc58a3c9e25655ba16e98a6fb067512b2b5fb8c&amp;req=fSQnFMp8nIRZFb4f3HP0gE2fSmK3U16rYyy0Xe7UyjEg048C%2F%2FhW7uZ4D6Fs%0ABts%3D%0A)
 </div>
 
 
@@ -22361,7 +22361,7 @@ dias após vencimento:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/940209051/b769c77bc0c751fadd26f698/image.png?expires=1752529500&amp;signature=85c49c38c5b02ecb0ded35877b5c7743ba82136a19c53240f2eac6f4fb79eb2a&amp;req=fSQnFMl3nYReFb4f3HP0gAZ0I4NbQ5%2FsgEzIZOwYNNvJ60kAFgf0YIBNwavt%0Arf4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/940209051/b769c77bc0c751fadd26f698/image.png?expires=1752633900&amp;signature=cff8b38ca06b3d351369557681ee6c0619b9185691e56e8cd58b8fbbe7848045&amp;req=fSQnFMl3nYReFb4f3HP0gAZ0I4BaSZPsgEzIZOwYNNsLKP%2FWmnQmc17f8jPJ%0ARh4%3D%0A)
 </div>
 
 
@@ -22431,7 +22431,7 @@ etapas abaixo:
     {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938573394/f227702a652c7c58cf3e2292/image.png?expires=1752529500&amp;signature=db6e71da17033afb40de4938e3d64e737a60c38119e88a76977f112dfa6b2063&amp;req=fSMvE859nohbFb4f3HP0gDxscGu95C1JB%2FML3dNQ0CKhYgMQ3GmYJAapJUwP%0ALMg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938573394/f227702a652c7c58cf3e2292/image.png?expires=1752633900&amp;signature=5b7b60f21c575e2821da4bf7a296efc520aa0920cbca55f738c44cbdddbb4733&amp;req=fSMvE859nohbFb4f3HP0gDxscGi87iFJB%2FML3dNQ0CI6bL0lFmU3lLStKx4d%0A0X8%3D%0A)
 </div>
 
 
@@ -22446,7 +22446,7 @@ ao usuário:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938573401/99576e02224776888cd76eb1/image.png?expires=1752529500&amp;signature=df37a2bb409097b02ea80d21d2b91085dd3bed8f1d39f094158960c5136b9952&amp;req=fSMvE859mYFeFb4f3HP0gBxZe9nqk3g2cBcH6Nz0WyszcyLr9UV2V4GH2VUS%0AvZU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938573401/99576e02224776888cd76eb1/image.png?expires=1752633900&amp;signature=b9c78e46240a9b37cc8252faf3ffbef9b3feae60527d6095fc7d9b589f3d0435&amp;req=fSMvE859mYFeFb4f3HP0gBxZe9rrmXQ2cBcH6Nz0WyuK7fyrm9DEDtRRrHKe%0AYYk%3D%0A)
 </div>
 
 
@@ -22551,7 +22551,7 @@ Usuário*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/938564280/954c0e0044fbd1db428b2018/image.png?expires=1752529500&amp;signature=04fed88124269a15518bb00626fb3137bac720333d864fc68aee3f78c7f66c0f&amp;req=fSMvE896n4lfFb4f3HP0gCKijRm9uOgyctzEFC2TDFNZefECA3HCxyy8%2FLD2%0Ag2Q%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/938564280/954c0e0044fbd1db428b2018/image.png?expires=1752633900&amp;signature=a26ed4887465a0a9f062de5f5bb57f306cabc7f771a04404e284e2f3a14764f6&amp;req=fSMvE896n4lfFb4f3HP0gCKijRq8suQyctzEFC2TDFPQ58JF57%2B23K0r2BBz%0AMUw%3D%0A)
 </div>
 
 
@@ -22564,7 +22564,7 @@ Cadastre o nome, sobrenome e e-mail do usuário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/938564718/83609cf08919a498f4bf05f8/image.png?expires=1752529500&amp;signature=89926c638eab45a0d0774b48c1ada874f80e1308e3a2b4f24f0378ea15b2ee63&amp;req=fSMvE896moBXFb4f3HP0gFetCuu6I7cO78v8ThllhMhpE0x6XyRsujTz6WYb%0AoWQ%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/938564718/83609cf08919a498f4bf05f8/image.png?expires=1752633900&amp;signature=c605afee52701a0f8d9e0215f928ce4634808365d780526beb1e56051cde1453&amp;req=fSMvE896moBXFb4f3HP0gFetCui7KbsO78v8ThllhMi%2BSF7j1gqz6qI4KaB9%0AsvY%3D%0A)
 </div>
 
 
@@ -22577,7 +22577,7 @@ o novo usuário será encaminhado a uma página para definir uma senha.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938566563/0d225aed84169169e37bd0b5/image.png?expires=1752529500&amp;signature=791cebcb5b5b33e5e980dc755b738cf990f8198ad22f0a3667c90619e62bea5a&amp;req=fSMvE894mIdcFb4f3HP0gHvLG%2BmPPW%2F%2F02ZKIpWSPhBJKbDEeKFnHTTeA0DQ%0ALNg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938566563/0d225aed84169169e37bd0b5/image.png?expires=1752633900&amp;signature=e0cbb09a5d83fc8ca3e3a28f6e40e09e9a965fcaa35f09d275e500f20ab94483&amp;req=fSMvE894mIdcFb4f3HP0gHvLG%2BqON2P%2F02ZKIpWSPhCtnIGW86dsrWLUCJUW%0Ao3o%3D%0A)
 </div>
 
 
@@ -22592,7 +22592,7 @@ e, então, em *Alterar*, <i>Excluir </i>ou<i> Desativar</i>.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938566577/9efe94d8b8215f466efa15db/image.png?expires=1752529500&amp;signature=bc5dddabc78b0911ed0ceda711584f42b7e2b9521f11266fd9796221349b328a&amp;req=fSMvE894mIZYFb4f3HP0gPkDOeVPtjjFC6IxkcbARNIWFHjsOog0W%2BTSEm%2FL%0A7Pw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938566577/9efe94d8b8215f466efa15db/image.png?expires=1752633900&amp;signature=e50aa6f5c2b207e15549d79587395cc6039d09fb88fc955a566cbd33939e34ae&amp;req=fSMvE894mIZYFb4f3HP0gPkDOeZOvDTFC6IxkcbARNLwMcyzA54Q19xp6nIX%0Aj4o%3D%0A)
 </div>
 
 
@@ -22609,7 +22609,7 @@ de usuários, clique nos três pontinhos e, então, *Alterar Permissões*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938566587/bcdbab4dbc122aab62720f48/image.png?expires=1752529500&amp;signature=cc6c8fed8449228723accf475a3cee26974029c25afb5f801c338c3dde632aa4&amp;req=fSMvE894mIlYFb4f3HP0gF2ZYphtdKtYoopeJFaAiQ3mpqvCBnGjJfqXnzdp%0A1tA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938566587/bcdbab4dbc122aab62720f48/image.png?expires=1752633900&amp;signature=1847c66052f52900df92f98563f1956a93dfcbd19faf5efe2b0920b62525d6ef&amp;req=fSMvE894mIlYFb4f3HP0gF2ZYptsfqdYoopeJFaAiQ1qBb5Ddi3ayVat6xCP%0Af6c%3D%0A)
 </div>
 
 
@@ -22675,7 +22675,7 @@ Veja destacado no exemplo abaixo onde encontrar essas informações:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938526796/656280b0d9083f6bcf1c8cca/adulteracao-2.png?expires=1752529500&amp;signature=eb8ba0de749387f8fca7ce238fcf22404b2a7d354f9e8b9b6de45d98606a7422&amp;req=fSMvE8t4mohZFb4f3HP0gMZFGhlHVmvzM8eqrmzWfadyaPiS1g1JolUNBB%2Bp%0AMDw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938526796/656280b0d9083f6bcf1c8cca/adulteracao-2.png?expires=1752633900&amp;signature=9f5bca302c29e1e60d57c8d8360128f5ab0ebafaeba96c2ace738799f0b88299&amp;req=fSMvE8t4mohZFb4f3HP0gMZFGhpGXGfzM8eqrmzWfadDF%2FTU2Bp2K5Rd%2FNIB%0A8u4%3D%0A)
 </div>
 
 Se qualquer uma dessas informações não for condizente, assume-se que
@@ -22745,7 +22745,7 @@ alteração dos dados do boleto em editores de imagem.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938526800/a6c61149672c974c66bf2b46/adulteracao-1.png?expires=1752529500&amp;signature=81af9ab38ed9e5f16b40f24bb6575b8224bd536ff466e936d1aa5b77cdd219ef&amp;req=fSMvE8t4lYFfFb4f3HP0gIXfSR4LvIeuds4uFUGMx4Yn2zqkCcyMVJp%2B0pHj%0AXRo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938526800/a6c61149672c974c66bf2b46/adulteracao-1.png?expires=1752633900&amp;signature=4e35b51e993a0a992206b5119ee1108e96893d1ed81b543753437b5551f7db07&amp;req=fSMvE8t4lYFfFb4f3HP0gIXfSR0Ktouuds4uFUGMx4a4W8NJN%2FD8bhSdkzcJ%0AIik%3D%0A)
 </div>
 
 
@@ -22762,7 +22762,7 @@ boleto:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938526802/8b19eadeffeb1d3a537e725a/adulteracao-3.png?expires=1752529500&amp;signature=fa32fb4f56fb378fad7f555fc0de648074a585b747e8e8480d8ec0829307d942&amp;req=fSMvE8t4lYFdFb4f3HP0gIVtITc7pHu595XHyrxMf6SbfL7S9wPTOksG0SIw%0AV5Y%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938526802/8b19eadeffeb1d3a537e725a/adulteracao-3.png?expires=1752633900&amp;signature=6684572efd04fcadec55237c2b5b8cc8a6298be9191ca587e65c73f490879804&amp;req=fSMvE8t4lYFdFb4f3HP0gIVtITQ6rne595XHyrxMf6TL4DB7GJ18IQ6zlylD%0ARus%3D%0A)
 </div>
 
 
@@ -22857,7 +22857,7 @@ grupo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938506155/62f10cb1c3c7fd56f5564614/image.png?expires=1752529500&amp;signature=96eb9e9c4c58c4dd99b3d3f89e6f43725da825ae3c2655ec8c952610a7976a45&amp;req=fSMvE8l4nIRaFb4f3HP0gEKtHvwcSRhVmQpDVE%2FT%2BAORqu9HyF1MdCxnH4wW%0A%2BQ0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938506155/62f10cb1c3c7fd56f5564614/image.png?expires=1752633900&amp;signature=fbd60976159c84a061b8f6540e2f65ba2d7207a2ca0a12f8fc490804c845bb86&amp;req=fSMvE8l4nIRaFb4f3HP0gEKtHv8dQxRVmQpDVE%2FT%2BAM8AyE%2BbLlV2ZNr%2F%2FOL%0AWBA%3D%0A)
 </div>
 
 
@@ -22932,7 +22932,7 @@ uma, separe elas por vírgulas, conforme imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938500000/25600fd10a9ed94891c2c72b/image.png?expires=1752529500&amp;signature=07f573b81dad062164736e6cf66b5857422e9be1ce4f9c0c908ef3133c27b01c&amp;req=fSMvE8l%2BnYFfFb4f3HP0gM3rkNdWRpQlk3U5NJdTSOix6emCY2QiCNblvbhW%0AKMA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938500000/25600fd10a9ed94891c2c72b/image.png?expires=1752633900&amp;signature=2d713eedc174bd6bafa0dd10c137f08744f1b19b791655cdf3d8964d708039be&amp;req=fSMvE8l%2BnYFfFb4f3HP0gM3rkNRXTJglk3U5NJdTSOj51PBFmqRU5RgFXF9J%0ANJY%3D%0A)
 </div>
 
 
@@ -22956,7 +22956,7 @@ vírgulas, conforme imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938500011/aa494aabd90d346bd767c6d7/image.png?expires=1752529500&amp;signature=666165f06c0810c05ceab92ef8f081471bc664325d301290e2800846eb25ec59&amp;req=fSMvE8l%2BnYBeFb4f3HP0gPkmq8p5MJTaYX6PceFfsMGE4XnKreI7%2B9urBJ9M%0A9sI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938500011/aa494aabd90d346bd767c6d7/image.png?expires=1752633900&amp;signature=ef6f391072b2de1ad5501b0faefaa1671eca30336ce775eb90828fbd2d086257&amp;req=fSMvE8l%2BnYBeFb4f3HP0gPkmq8l4OpjaYX6PceFfsMFNVUhJB1bRBOzGhIHc%0AfhI%3D%0A)
 </div>
 
 
@@ -23017,7 +23017,7 @@ conforme abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938492997/b876a320c1fa14117f0cd9da/image.png?expires=1752529500&amp;signature=f4c162bdf5f39080c8363e2cdbee05cecbad8d1217a2cac8e386489963f6033c&amp;req=fSMvEsB8lIhYFb4f3HP0gAI8YBQUE%2FjFhw2oliM4Nty%2FqXls7wMsKHu1Z8JV%0AJ7s%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938492997/b876a320c1fa14117f0cd9da/image.png?expires=1752633900&amp;signature=9e04cbaf81f5755f2491e3e509dc2b508ccb1e008a1ca58792e77c753944f7be&amp;req=fSMvEsB8lIhYFb4f3HP0gAI8YBcVGfTFhw2oliM4Ntz1UPw%2BS%2B%2BWpeEeRyTD%0ATXs%3D%0A)
 </div>
 
 
@@ -23072,7 +23072,7 @@ da empresa, por exemplo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1446281594/6b466141685f9d8c2ba980039395/image.png?expires=1752529500&amp;signature=9df1e16d385a74a4632c38300277444d70fe8f0a57998b847e863b4ebe59ffa8&amp;req=dSQjEMt2nIRWXfMW1HO4zVD%2BcwRHcuAeyona0t%2F%2FZnFRGyMeRr4pYV4Abyvo%0AT7hu%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1446281594/6b466141685f9d8c2ba980039395/image.png?expires=1752633900&amp;signature=ed914e0df241818e26a7ea6814a3523aa2a10e6f687f28f3a9277628938b31f5&amp;req=dSQjEMt2nIRWXfMW1HO4zVD%2BcwREc%2BoSyona0t%2F%2FZnEMOSAGsjQ%2FuMEkjZ6s%0A7WNW%0A)
 </div>
 
 
@@ -23144,7 +23144,7 @@ aplicando um filtro e, em seguida, clicar nos três pontos e, então,
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938484352/a1cc21412db60e59a19de349/image.png?expires=1752529500&amp;signature=f6deb6a1133c9266baca57cda7e4b72fbb613caf2de7464515cb5244b5caf74c&amp;req=fSMvEsF6noRdFb4f3HP0gNHEqrVkgJwSKeH5JKkZJmndTuHZRZVuwlzJ2C%2FS%0AhWQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938484352/a1cc21412db60e59a19de349/image.png?expires=1752633900&amp;signature=f98c59cc4bf2978a2ad61d00f14b325b76c5d6888b23e9a856af7d09365b1f97&amp;req=fSMvEsF6noRdFb4f3HP0gNHEqrZlipASKeH5JKkZJmmoKGz9mqLB2OXcjyFU%0A4x4%3D%0A)
 </div>
 
 
@@ -23159,7 +23159,7 @@ superior da tela do boleto, terá a opção *Ações &gt; Cancelar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938484361/a4f01bc6897b09ec9881abdd/image.png?expires=1752529500&amp;signature=c74cda67ae038a8a5d44d389c1c4ce9f8b6fdcbcdfaeb585b4093140a7b4cd21&amp;req=fSMvEsF6nodeFb4f3HP0gIaO%2FvDXfBRy0WO4QqxUG0l3DAfyySycC6WaDWea%0A4pM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938484361/a4f01bc6897b09ec9881abdd/image.png?expires=1752633900&amp;signature=ee57875cf7a34cb9e4c7347042b60ba4639e73a15de44ba6217396601b78e7f0&amp;req=fSMvEsF6nodeFb4f3HP0gIaO%2FvPWdhhy0WO4QqxUG0ltxsfTOelLZHdg3wu6%0AagM%3D%0A)
 </div>
 
 
@@ -23176,7 +23176,7 @@ motivo e clicar em *Cancelar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938484368/8e5a532378267bed47591163/image.png?expires=1752529500&amp;signature=0ddfed0f9a71d55404a055ac077711b1336a12956ae5bfa8697ed1daea353cb5&amp;req=fSMvEsF6nodXFb4f3HP0gOtfXk8Yopck66OuvbyIO12ZjF5QlXIv5euhR7HI%0Ai7c%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938484368/8e5a532378267bed47591163/image.png?expires=1752633900&amp;signature=67eba9e602e1b6be7cbf39c226c594883ee8a8b8e76f67ad269e4183d6556828&amp;req=fSMvEsF6nodXFb4f3HP0gOtfXkwZqJsk66OuvbyIO13tmIvWk9k92Fi7rHWf%0AtDk%3D%0A)
 </div>
 
 
@@ -23209,7 +23209,7 @@ aparecer.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938484382/e2c8f023a2e2d3d378779851/image.png?expires=1752529500&amp;signature=dc6e6e91c0c2d7e132791b45c2592bdc71a9924870bae64b6a49030a52bfb89f&amp;req=fSMvEsF6noldFb4f3HP0gEMVoSdqcxgWJiBIXGPCnxoEtRxSrmMxWeQjR0vK%0AFuA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938484382/e2c8f023a2e2d3d378779851/image.png?expires=1752633900&amp;signature=df9b2f5a883929994054daf965c11a31a7bd3780bf55293c9b6eed06a1b30b79&amp;req=fSMvEsF6noldFb4f3HP0gEMVoSRreRQWJiBIXGPCnxr9R8EJSZA%2BUsuQS%2BSn%0AJcI%3D%0A)
 </div>
 
 
@@ -23305,7 +23305,7 @@ pagamento e selecione **Ver Boleto**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/938473271/28a39c757173d183a1814856/image.png?expires=1752529500&amp;signature=c2c960cb563411b4f34a53bcce498340c0d609dc3cd81cb93c5e2b8a92fd4ab1&amp;req=fSMvEs59n4ZeFb4f3HP0gKRFmIFUFn9S0ptfd6ubSlJAtUlcwDleHg0zPcO%2F%0AzGE%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/938473271/28a39c757173d183a1814856/image.png?expires=1752633900&amp;signature=4c75fe7f62316d8ba34668176f220577bfd879ecf81b7f8f403b6e8a304ea464&amp;req=fSMvEs59n4ZeFb4f3HP0gKRFmIJVHHNS0ptfd6ubSlLx7mJCgBDmXBkIG%2BRY%0A4BM%3D%0A)
 </div>
 
 
@@ -23324,7 +23324,7 @@ recebemos por meio de Arquivos de Retorno, incluindo, por exemplo,
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/938477374/6879f71151c5ad819ac8f549/image.png?expires=1752529500&amp;signature=84c4079bfdc107bbc20fcb351ed26ad8367a286712e8c62f96908f2429bbb040&amp;req=fSMvEs55noZbFb4f3HP0gJzpLcq2E2BupT8Ac2hxsZ%2Bk8n5dyn%2FrNeQTegbo%0ArDo%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/938477374/6879f71151c5ad819ac8f549/image.png?expires=1752633900&amp;signature=6191fcf780a43bef01c9fedbc3e3f7c14a06bee8d8cf84cb84f130fb79914803&amp;req=fSMvEs55noZbFb4f3HP0gJzpLcm3GWxupT8Ac2hxsZ%2B0eseOC9HrmrVdHNCu%0AmbA%3D%0A)
 </div>
 
 
@@ -23413,7 +23413,7 @@ enviar um boleto por WhatsApp.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938467889/f9abc2a7cc3cb2f3212f2e6d/image.png?expires=1752529500&amp;signature=501e6ff0dcb499f248f80605b87636d098c530fb28e256cdf545536f8622ff8f&amp;req=fSMvEs95lYlWFb4f3HP0gEI2JFzupuffuAnxrG5fzy1jMUlXwIGX6Yuznqqp%0Aqew%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938467889/f9abc2a7cc3cb2f3212f2e6d/image.png?expires=1752633900&amp;signature=8a0731bc82d9e6c1bdd66a8c87ab36434b46618013d87219fc870dcdb99e83b8&amp;req=fSMvEs95lYlWFb4f3HP0gEI2JF%2FvrOvfuAnxrG5fzy3Y0ARVuVtD9N4PoL94%0AInA%3D%0A)
 </div>
 
 
@@ -23435,7 +23435,7 @@ Enviar por WhatsApp*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938467898/3c6d3a3ee04803b6546289a9/image.png?expires=1752529500&amp;signature=c389bf890ab2cd7a48a450865eb6728f04efbe81e8ac0889503514001e95500f&amp;req=fSMvEs95lYhXFb4f3HP0gL8uX8nEWoh4wqpo1Q38p0cuCUzRmR%2BOG91CGVg7%0AWwo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938467898/3c6d3a3ee04803b6546289a9/image.png?expires=1752633900&amp;signature=3d37c517005a7723fae08504605e07f2a24b7c41969a0611bc239a68331b58a4&amp;req=fSMvEs95lYhXFb4f3HP0gL8uX8rFUIR4wqpo1Q38p0fgyCSuI%2B6rGcTov109%0AFak%3D%0A)
 </div>
 
 
@@ -23468,7 +23468,7 @@ mensagem de cobrança.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938467908/4b6b30ad0807b4f386f4c4c8/image.png?expires=1752529500&amp;signature=7b16930c33442fee147abb4c9a4eb94f397802c7d1aaf5711f052388ea7accee&amp;req=fSMvEs95lIFXFb4f3HP0gIANyw1z18OrqixCqQCQ%2F8yEIuqlxTH%2FlLnKd%2F%2Be%0A7Rg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938467908/4b6b30ad0807b4f386f4c4c8/image.png?expires=1752633900&amp;signature=ffb6692e054ec4c52714f0fccfc931126a3ee19c5b7a2ca8dff090269774b2da&amp;req=fSMvEs95lIFXFb4f3HP0gIANyw5y3c%2BrqixCqQCQ%2F8yBmjg1aHvJqUVo22LP%0ADNw%3D%0A)
 </div>
 
 
@@ -23486,7 +23486,7 @@ pode alterar a mensagem de compartilhamento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938467915/27915d786473549525487fb9/image.png?expires=1752529500&amp;signature=c9a1c7a6cb0c0e61c12fada5a6428da44a6e40d074822dd9c5bd02b490d58f8e&amp;req=fSMvEs95lIBaFb4f3HP0gH2fp0txEju%2B2Zwz7lqXYLz7k3nsZWBHt5ukjld0%0AriM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938467915/27915d786473549525487fb9/image.png?expires=1752633900&amp;signature=a00920ea31bc4d886d3f1edc31473445d3d49403d52ebb4a09a23946f0cb2c99&amp;req=fSMvEs95lIBaFb4f3HP0gH2fp0hwGDe%2B2Zwz7lqXYLwLF0KXkorhDz7prg%2F4%0AMtM%3D%0A)
 </div>
 
 
@@ -23561,7 +23561,7 @@ dias após ao vencimento que a multa será cobrada.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938454255/044d4dada9385c39d4c4ffba/image.png?expires=1752529500&amp;signature=6c74d9ab48ff52fc65e0cb20ad7ea21b97b0e07b164a6c72ed21b5c2d23c6a83&amp;req=fSMvEsx6n4RaFb4f3HP0gBc9PDG5XErywFca8WInSplb4K8gKGFV1CX5PS3%2F%0AoZw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938454255/044d4dada9385c39d4c4ffba/image.png?expires=1752633900&amp;signature=ce2619f01feb4bac310c68a94caa7cc5fff48e0af8078311c290194fed2695dd&amp;req=fSMvEsx6n4RaFb4f3HP0gBc9PDK4VkbywFca8WInSpkajwaBDXke%2FP1hlxHk%0Aq%2F0%3D%0A)
 </div>
 
 * **Sem multa (isento)**: nenhuma taxa fixa será somada ao boleto quando
@@ -23611,7 +23611,7 @@ opções no menu *Tipo de juro*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938454264/1ad7aa04e363f2ccd7ad686f/image.png?expires=1752529500&amp;signature=ac08f3e704f737e58bf9bbe5e790725d8982f9e14672d4eb203edd5797a3c27c&amp;req=fSMvEsx6n4dbFb4f3HP0gEVMsFq3q2meXzeyb41TkLfA2KqqkTIvYVzS2qxm%0Ajno%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938454264/1ad7aa04e363f2ccd7ad686f/image.png?expires=1752633900&amp;signature=bc02a09bccf34c123dab4ec9d61ffa3da85a5f4f346816128cf89c1eb304929f&amp;req=fSMvEsx6n4dbFb4f3HP0gEVMsFm2oWWeXzeyb41TkLf9truNAk%2B0ajerkiZJ%0AkDA%3D%0A)
 </div>
 
 * **Não se aplica:** escolha essa opção caso não queira incluir taxas de
@@ -23657,7 +23657,7 @@ das opções disponíveis no menu **Tipo de desconto**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938454272/2577e8678435cdba36c6d48c/image.png?expires=1752529500&amp;signature=1662f16ac25685f0a64e78b928f61f58b617a25b089bee2205e0d67a8aae41f5&amp;req=fSMvEsx6n4ZdFb4f3HP0gARj27TFgM6mUp2Z9w48Q1H6b3atVSJYPbd4yInI%0AXug%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938454272/2577e8678435cdba36c6d48c/image.png?expires=1752633900&amp;signature=1b06c1d2b3dd4a3d337e94c68bc7b0a73120411275ecdd423a6fffbabb944b98&amp;req=fSMvEsx6n4ZdFb4f3HP0gARj27fEisKmUp2Z9w48Q1FjaBbudgK9olD%2FYYU5%0A498%3D%0A)
 </div>
 
 
@@ -23891,7 +23891,7 @@ pagador, data de vencimento ou qualquer outra informação relevante.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938410324/411b5f745385e4e629566493/image.png?expires=1752529500&amp;signature=e8a3619a4ff77da40ea6ecddc06f7ff0b8a0b400f93194db964eb00257fa010a&amp;req=fSMvEsh%2BnoNbFb4f3HP0gEiJe53tvUR22KkoVN5QDcaUs%2Bc82Sr0tyoUvWHS%0AHXs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938410324/411b5f745385e4e629566493/image.png?expires=1752633900&amp;signature=f002dc78df8c3e9975521a17bb034b96da34e33e086685449177c8e1a6d9413a&amp;req=fSMvEsh%2BnoNbFb4f3HP0gEiJe57st0h22KkoVN5QDcblO0zWkNG07OtJ0BMP%0Abpc%3D%0A)
 </div>
 
 
@@ -23907,7 +23907,7 @@ lote. Ao clicar em *Ações*, você terá como opções *Exportar ZIP*,
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938410330/71413e04d6aebc6c14c843ed/image.png?expires=1752529500&amp;signature=b1b103fb91ac562606c5f3b482c0ce9960e6c98675342c5d6b9be42404cc1cba&amp;req=fSMvEsh%2BnoJfFb4f3HP0gMpOXSy8uinNPdmsm71hUFlFsywIFVu7AcfLp3rT%0AHH4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938410330/71413e04d6aebc6c14c843ed/image.png?expires=1752633900&amp;signature=cd7f389e7710db87c977a7772fdd21227e94e917ce3170d34009932b73646b76&amp;req=fSMvEsh%2BnoJfFb4f3HP0gMpOXS%2B9sCXNPdmsm71hUFnkfjQx4vTXEph6667i%0A4%2Bg%3D%0A)
 </div>
 
 
@@ -23973,7 +23973,7 @@ clique em *Ações &gt; Copiar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938407638/a9f45932deaf096e096ee29f/image.png?expires=1752529500&amp;signature=bd1c4f8a8ad8f299c4e95e4ca58e6d7cbeca7009b34cde941712837c59dc2122&amp;req=fSMvEsl5m4JXFb4f3HP0gFz3tXYAd%2Bn1UxLi9x8YOUZkP2vSa4e%2BNU%2BxAse0%0AThA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938407638/a9f45932deaf096e096ee29f/image.png?expires=1752633900&amp;signature=38e833ad0c3f44d6693096e026a82f75c9061bd6dd7e0bb05a62dba4793b1d5e&amp;req=fSMvEsl5m4JXFb4f3HP0gFz3tXUBfeX1UxLi9x8YOUYnXGirmySGjZH%2FZcPF%0AW1Y%3D%0A)
 </div>
 
 
@@ -23997,7 +23997,7 @@ boleto de origem, o boleto que foi copiado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938407644/1484ed78e51dcf205227ebd2/image.png?expires=1752529500&amp;signature=848daab09f1c645af69cb8d688cbf5a4b65164717e81cf87beb832e9a021e54e&amp;req=fSMvEsl5m4VbFb4f3HP0gArliOEMlbk3Z9gvt%2Ba1cvsCk3hU0MjlJvAmFXDA%0AHq4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938407644/1484ed78e51dcf205227ebd2/image.png?expires=1752633900&amp;signature=54a552fe170f545ae81ec655183b19934c16e8a5895e0d71767e7ec060010478&amp;req=fSMvEsl5m4VbFb4f3HP0gArliOINn7U3Z9gvt%2Ba1cvsoJFcnAvCH2zf1F98m%0A9Fw%3D%0A)
 </div>
 
 
@@ -24067,7 +24067,7 @@ planilha serão:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938407651/3c7f0e369f332a790505b176/image.png?expires=1752529500&amp;signature=29459954d813ac2bdfa4cb44d540390d43a8fecce1cf2de77d72a1cdacefd60f&amp;req=fSMvEsl5m4ReFb4f3HP0gLM6kI0PMTC1GV4Tx5urIjL%2Fx6qf8oxz48GhcEA7%0ABe0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938407651/3c7f0e369f332a790505b176/image.png?expires=1752633900&amp;signature=1df1a1c24ce7e92d36895b575f538d8633de6472e2956b44a83edb4d5d69757f&amp;req=fSMvEsl5m4ReFb4f3HP0gLM6kI4OOzy1GV4Tx5urIjIYLMQQzsBEb2TNaLKM%0Af8I%3D%0A)
 </div>
 
 ##    {#h_7c4e441271}
@@ -24115,7 +24115,7 @@ pagamento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1085863773/1580a9517e39b4e5217ff3e9/image.png?expires=1752529500&amp;signature=c934e023ebfea112ac68cdf385bc0a83fe154103c0d3e3dd2e2c50fb9a484eb2&amp;req=dSAvE8F4noZYWvMW1HO4zdt63ArqkVRHGApj9Odv0AFbOlCx%2BfIo5q7eTU9%2F%0Ab8QE%0A)
+![](https://downloads.intercomcdn.com/i/o/1085863773/1580a9517e39b4e5217ff3e9/image.png?expires=1752633900&amp;signature=4e7c80d385dbd45f5e618906820890e9b4e7f2cd20e3479ca4121974d4681810&amp;req=dSAvE8F4noZYWvMW1HO4zdt63ArpkF5LGApj9Odv0AGmCC9zHFCcxtRW6bE7%0AeDks%0A)
 </div>
 
 
@@ -24132,7 +24132,7 @@ pagamento*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1015081936/df8256af630760651f812e50/image.png?expires=1752529500&amp;signature=00e86bf70bde6ad79082f183a0cebc9e6d5c5130190825c59336dc3499f18f39&amp;req=dSAmE8l2nIhcX%2FMW1HO4zWJTqTK1IReLetHOvafblPDvH4y03PWNayO5YnQr%0Awsh4%0A)
+![](https://downloads.intercomcdn.com/i/o/1015081936/df8256af630760651f812e50/image.png?expires=1752633900&amp;signature=2cbd46ee0b60d7f86be93831c864f2614a437056e3ab05bba5d872a0445d47bd&amp;req=dSAmE8l2nIhcX%2FMW1HO4zWJTqTK2IB2HetHOvafblPD2AOXoiCQuXScDidXD%0A6KYD%0A)
 </div>
 
 
@@ -24154,7 +24154,7 @@ próxima remessa gerada na Kobana, manualmente ou automaticamente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938400027/25f7e63a6ca5567f2b84f3cc/image.png?expires=1752529500&amp;signature=b1baa436c54f7e307293b0aa135f13835851119d7cdc3720d11e3e92a5c94a1b&amp;req=fSMvEsl%2BnYNYFb4f3HP0gEzND%2FNH24zUl0h0JpYsXPMI%2Bc41cKEMEMNMZweb%0AZ1s%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938400027/25f7e63a6ca5567f2b84f3cc/image.png?expires=1752633900&amp;signature=affc0d84f74b966b5b0bddb22678bde3ac9bb7bd72c71c7d27e5ff9bb6742c8f&amp;req=fSMvEsl%2BnYNYFb4f3HP0gEzND%2FBG0YDUl0h0JpYsXPNmFEs2MIP9uesnnWF3%0A7y8%3D%0A)
 </div>
 
 
@@ -24195,7 +24195,7 @@ pagamento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1015092098/2f8804bbe84484a8a2b80652/image.png?expires=1752529500&amp;signature=7b5805fb2d7aee1fc4c7b50ed5523e6a0568576de2a0bfa4db687afd9ee7855b&amp;req=dSAmE8l3n4FWUfMW1HO4zT8zRBXd2xbx0TXfWDegvueXHdCv5dKuXwKX4h99%0AOqoR%0A)
+![](https://downloads.intercomcdn.com/i/o/1015092098/2f8804bbe84484a8a2b80652/image.png?expires=1752633900&amp;signature=280ec04ee1a46c705fda08e75e20d6c8a28884cc4c60870b45e0ca83cc8e3ca1&amp;req=dSAmE8l3n4FWUfMW1HO4zT8zRBXe2hz90TXfWDegvucpfgyZrMu%2FP9ttRI7J%0AqYFG%0A)
 </div>
 
 
@@ -24277,7 +24277,7 @@ clique na lupa, conforme imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938389940/7ca31662b3f7135740f057b9/image.png?expires=1752529500&amp;signature=f5ac33dc5067d21d7759a1a22eace2ec70aedc58a43ff9fabd033bbcf944deba&amp;req=fSMvFcF3lIVfFb4f3HP0gOEf%2FLEKNKNcuCAdzMDgAmuFJL5jqCzlql9QDdCo%0ApdE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938389940/7ca31662b3f7135740f057b9/image.png?expires=1752633900&amp;signature=cf6aa32235dc4dcff25ea779d78db784453427c839290331452a32cc6ce3cab1&amp;req=fSMvFcF3lIVfFb4f3HP0gOEf%2FLILPq9cuCAdzMDgAmvWwTIkPEGvbtJuY9FN%0AehY%3D%0A)
 </div>
 
 
@@ -24293,7 +24293,7 @@ então, *XLSX*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938389953/8237b0a624eb8c59fa46e20d/image.png?expires=1752529500&amp;signature=67778547f58dcc7e335d4f53487a609cb0da8f64fb68f5c68dc78ad3f2e26c50&amp;req=fSMvFcF3lIRcFb4f3HP0gPGUhOl2OYd17onGYDmuemeyDUnNKOzeNCOYz8E%2F%0AhH8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938389953/8237b0a624eb8c59fa46e20d/image.png?expires=1752633900&amp;signature=da1aad86518d236aef85bd71fa145bb6f07e37e6ae28ace9d36599ecdb560656&amp;req=fSMvFcF3lIRcFb4f3HP0gPGUhOp3M4t17onGYDmuemfdQ4STMKpkkPLATAVX%0AGr4%3D%0A)
 </div>
 
 
@@ -24471,7 +24471,7 @@ deseja alterar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1242205354/e79803c2de76d4b3b51476e89e92/image.png?expires=1752529500&amp;signature=8ea3197112559c4b1819f594267ca5f9bed8fde706a18dfbfd6ef0ba09eaa8ff&amp;req=dSIjFMt%2BmIJaXfMW1HO4zaO6PnCAsLiVCjVoB%2FNTpOaKQVx4U8PHN1czV6nH%0Avew6%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1242205354/e79803c2de76d4b3b51476e89e92/image.png?expires=1752633900&amp;signature=adbb5e44238afa6949c958c2e686b036d2292dd033d24bf0b82b100a06858367&amp;req=dSIjFMt%2BmIJaXfMW1HO4zaO6PnCDsbKZCjVoB%2FNTpOadgjwB6mAfF0jZLQaN%0AmRdf%0A)
 </div>
 
 
@@ -24484,7 +24484,7 @@ Em seguida, na tela do boleto, clique em *Ações* &gt; *Alterar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/938373098/feca9c4a442fcf8ad942b516/image.png?expires=1752529500&amp;signature=bf6b402519cf58ba560306ebba3d0d324c79d44adc9d6d133367d614ef0fadfb&amp;req=fSMvFc59nYhXFb4f3HP0gME6JOZQZi4qaUFRoqnqqvn%2FHALf8bVLS8fTflP3%0AP78%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/938373098/feca9c4a442fcf8ad942b516/image.png?expires=1752633900&amp;signature=5070468a8a1a193c0a914064d24e35c5bd9495dbde833cd2a0128c7648388c8d&amp;req=fSMvFc59nYhXFb4f3HP0gME6JOVRbCIqaUFRoqnqqvmCDpwfwmbo5bZyiasG%0AAw8%3D%0A)
 </div>
 
 
@@ -24553,7 +24553,7 @@ seguir os passos abaixo:
     {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/399230475/509929a01f783affe9a8c706/image.png?expires=1752529500&amp;signature=11a79c0f264ac94a2568529de5d119f5b32c7334c2a0b122a90df96bfb6f00f2&amp;req=dykuFMp%2BmYZaFb4f3HP0gCkpDdxcQ89aVMQYilN7GNMPHEqpSdFqWEMGrQj2%0A9SU%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/399230475/509929a01f783affe9a8c706/image.png?expires=1752633900&amp;signature=e82b4ba3137af942c2719c66c3745e81967be9720cc07e48dbfacd2f9e7a137b&amp;req=dykuFMp%2BmYZaFb4f3HP0gCkpDd9dScNaVMQYilN7GNNSbS%2B1Ftf8CcFkJyrY%0Avuw%3D%0A)
 </div>
 
 
@@ -24615,7 +24615,7 @@ compartilhar o link.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1072686339/3c951a6a8ae33337f9dd403d/image.png?expires=1752529500&amp;signature=4d9c0ddf5a88c6d9a2b499bb41672a49c459240ad3b9ea9f191ffdcac04d0a35&amp;req=dSAgFM92m4JcUPMW1HO4zZ3LGOyuiH%2FR%2B25M7g3xuDb8jhmqQ2Q8hL9nHilU%0Az6aX%0A)
+![](https://downloads.intercomcdn.com/i/o/1072686339/3c951a6a8ae33337f9dd403d/image.png?expires=1752633900&amp;signature=5cbdca56ad626c3ee301a8ec57d9fc5ab36eb5c50f51be4dc6b28b627f3482d7&amp;req=dSAgFM92m4JcUPMW1HO4zZ3LGOytiXXd%2B25M7g3xuDaJDYzWn5rtE3CjxTLW%0AnMwv%0A)
 </div>
 
 
@@ -24690,7 +24690,7 @@ baseadas em dados do seu cliente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938156702/3de8bab415c8e82bb108ecee/image.png?expires=1752529500&amp;signature=b3834db334e2c4770232f15b138a6485c7f36e2424936a12ae4a7e0da27cb027&amp;req=fSMvF8x4moFdFb4f3HP0gPsTkMrKL1%2F7MUhLkXgHazMVOPi22qPB8rKUkVnM%0AcQM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938156702/3de8bab415c8e82bb108ecee/image.png?expires=1752633900&amp;signature=59561f5dbb5be2c753e715eb139c3852d40e82a232b3fd686b991860564880f9&amp;req=fSMvF8x4moFdFb4f3HP0gPsTkMnLJVP7MUhLkXgHazNeHtxKYjAjH2jbo7FV%0AXgc%3D%0A)
 </div>
 
 
@@ -24718,7 +24718,7 @@ disponíveis, lembrando que ambas são baseadas em dados do seu cliente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938156714/184437729ede6979b601ae9d/image.png?expires=1752529500&amp;signature=2d75d21c713a447fd7d9f30a19bc1fee1fa9fd08c3c57b06589ebe51321d69ce&amp;req=fSMvF8x4moBbFb4f3HP0gL%2BNE3YAL3MMBmlI2dTj4gNP%2FmNQQd8%2Fo35YuLVf%0Ag9I%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938156714/184437729ede6979b601ae9d/image.png?expires=1752633900&amp;signature=982b15064d1f07c5c0d2a29461217e628e6bf09a984ea2a9ee3e3f14d0134917&amp;req=fSMvF8x4moBbFb4f3HP0gL%2BNE3UBJX8MBmlI2dTj4gPZOqygGc5ZlZ4B8r%2Fq%0AtX4%3D%0A)
 </div>
 
 
@@ -24745,7 +24745,7 @@ uma das duas senhas disponíveis.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938156721/f62e811483e9d95c4d2769db/image.png?expires=1752529500&amp;signature=0a8584c99a88a6f09ce0e306f4f19bb008e59047a511256e4f9d2a4a088a2535&amp;req=fSMvF8x4moNeFb4f3HP0gCmCWHt%2FoeBgBnfHkoCcj3Tfmxdng1rCOXB%2FBApz%0AH4Y%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938156721/f62e811483e9d95c4d2769db/image.png?expires=1752633900&amp;signature=5a2b4a88e3240ecc3aed2516c936773bc0a8fade89c9685757181c0044da124f&amp;req=fSMvF8x4moNeFb4f3HP0gCmCWHh%2Bq%2BxgBnfHkoCcj3SytubHZMDh5U8QgrYt%0ADA0%3D%0A)
 </div>
 
 
@@ -24785,7 +24785,7 @@ ao banco. A bolinha indica qual o status do mesmo aqui na Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938149442/51dcb2d257d33f5e1d8a6759/image.png?expires=1752529500&amp;signature=1510f25d481766bee557555e5fb047798f323f72495867000c2b53e1f4f5181d&amp;req=fSMvF813mYVdFb4f3HP0gAXoSn1cB0f%2Bk%2B0%2FIFK3Xfga7p9JjR6s%2FkgUHi4L%0A%2Bx8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938149442/51dcb2d257d33f5e1d8a6759/image.png?expires=1752633900&amp;signature=2edb4842dc1dc13706d505dac386f1ef6c6b047009ef0c72490b98a7382dac8b&amp;req=fSMvF813mYVdFb4f3HP0gAXoSn5dDUv%2Bk%2B0%2FIFK3XfhLth2no8smNu4uN6Ls%0AL3U%3D%0A)
 </div>
 
 
@@ -24914,7 +24914,7 @@ campo *Cálculo de datas na Instrução para o Caixa*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/938133285/1f0ce8228de78a86e211dca5/image.png?expires=1752529500&amp;signature=bcbcbffbd131673d49a4a417afee6b532ce39652752a111590addf8c7b76a97f&amp;req=fSMvF8p9n4laFb4f3HP0gBKhMjByhzhq6KE1%2BpxxXTRJj8ASbNe1f2Cm%2FCEU%0A3lw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/938133285/1f0ce8228de78a86e211dca5/image.png?expires=1752633900&amp;signature=24779eefd53a97ba9ab9513fb8ae5f199ecc40608769dcb2c89947d38276732b&amp;req=fSMvF8p9n4laFb4f3HP0gBKhMjNzjTRq6KE1%2BpxxXTTgbRuy109G2aCAEk5Z%0AGyU%3D%0A)
 </div>
 
 
@@ -24990,7 +24990,7 @@ da carteira, clique em *Ações* e, então, *Definir como padrão*{::}**.**
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/938127289/0aed786932d97fef914bc477/image.png?expires=1752529500&amp;signature=8248d25261ce9a8ab3c86f2a92137d06a8a4a624ccfcefc9e261e96baf4daeab&amp;req=fSMvF8t5n4lWFb4f3HP0gBPGq%2FrJYq7r3tLzYk3oE2pqopDXBwHnNBnVL8LI%0AOZk%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/938127289/0aed786932d97fef914bc477/image.png?expires=1752633900&amp;signature=1ea0ebc0585c0bbd9488213c74025ccddb1f7c1c979a273b2d438c1ca9fee5b0&amp;req=fSMvF8t5n4lWFb4f3HP0gBPGq%2FnIaKLr3tLzYk3oE2rmZ9JCgHUT4fi7mD6%2F%0A4Hs%3D%0A)
 </div>
 
 
@@ -25197,7 +25197,7 @@ imagem abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937890001/30c377918a2a4aeb5aaf9269/ciclo-de-pagamento-boleto-simples.jpg?expires=1752529500&amp;signature=2cd75ccaab19a91073f7445d83e06cb749f65941bb1d9ffcc1df26022d6a5f40&amp;req=fSMgHsB%2BnYFeFb4f3HP0gLFrWiGXjBY7KdezUhu0hwP32Y%2Fp%2BXcm%2BU8pN5V9%0Aa3Y%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937890001/30c377918a2a4aeb5aaf9269/ciclo-de-pagamento-boleto-simples.jpg?expires=1752633900&amp;signature=61eef898f66a523b16c9b13e2b2adc3f4c195cd2b40154977243c0be221e7abc&amp;req=fSMgHsB%2BnYFeFb4f3HP0gLFrWiKWhho7KdezUhu0hwOcUcZzrbp6IixsigQn%0AaqY%3D%0A)
 </div>
 
 
@@ -25243,7 +25243,7 @@ ou PNG.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1239456064/27accb1861c993eca1e1fae36ae2/image.png?expires=1752529500&amp;signature=3e9dfd0a1fb49eae608c5217fd079681a82e3c3e13ed29ff0a01f9fc1b249207&amp;req=dSIkH817m4FZXfMW1HO4zW0EnfLRTKfdb0fpv53jl2JERQ3swXco%2BpkIPMQ2%0A5iJv%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1239456064/27accb1861c993eca1e1fae36ae2/image.png?expires=1752633900&amp;signature=80eda992c36f11966badfa512a80940a9ed52766aeeb5e8089e0db02bab3f8b2&amp;req=dSIkH817m4FZXfMW1HO4zW0EnfLSTa3Rb0fpv53jl2I%2BfvOlOsNUbpZVWD3w%0AAI%2FQ%0A)
 </div>
 
 
@@ -25257,7 +25257,7 @@ uma personalização.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937422888/7361682bed329b862f5965e1/image.png?expires=1752529500&amp;signature=f4de699e78658fc8d79326c0d9d78f718a18b1205309d9d4f0ef297e87b700f4&amp;req=fSMgEst8lYlXFb4f3HP0gPc54Vhcpssh2GWISjmWhSLUKPQaRF%2BM9iPQL2UM%0ATa4%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937422888/7361682bed329b862f5965e1/image.png?expires=1752633900&amp;signature=96cae1b3b8bfd1e9b014bf2900afe52d0133716b35c29b08b73fbf4910c1d85a&amp;req=fSMgEst8lYlXFb4f3HP0gPc54VtdrMch2GWISjmWhSIF3jKNwuYH%2BBZbxsvW%0AiVU%3D%0A)
 </div>
 
 
@@ -25307,7 +25307,7 @@ Kobana, indo em<i> Recebimentos &gt; Boletos &gt; Gerenciar</i>.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937404919/08fd760ed73eada6d824f20c/image.png?expires=1752529500&amp;signature=46a0b7d65715dbc9e5b792475f12608a9d4aa9c69bf8edc7a03f7b7cf5ec9300&amp;req=fSMgEsl6lIBWFb4f3HP0gCfw%2FUwrSdMp4wqSwKOl7EGg46qnd36E%2BchnzbRv%0ASbU%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937404919/08fd760ed73eada6d824f20c/image.png?expires=1752633900&amp;signature=3e85a5a27126122986a65e2a6b3ef30a976a9812451c6497d6568fe6718f995c&amp;req=fSMgEsl6lIBWFb4f3HP0gCfw%2FU8qQ98p4wqSwKOl7EGTbY%2Ba2gF1heqodPgD%0Avp0%3D%0A)
 </div>
 
 
@@ -25329,7 +25329,7 @@ posse do banco após o pagamento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937408885/7997f1f1a05c267b46fb0a45/image.png?expires=1752529500&amp;signature=b7b6688dafd68410c5ea22b5d769ec230419e4fdab430ea2abf05317a36e8b5c&amp;req=fSMgEsl2lYlaFb4f3HP0gAnTRbZJdbFtxa8g4THG%2FNhYMFQk6vBttccM2nf9%0AWCQ%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937408885/7997f1f1a05c267b46fb0a45/image.png?expires=1752633900&amp;signature=e766b94e5083de5c10e4ecc0381127bb9967167e030d257853a36c4dd8c06fd3&amp;req=fSMgEsl2lYlaFb4f3HP0gAnTRbVIf71txa8g4THG%2FNjEreja10tn9IXOoE0J%0AGX8%3D%0A)
 </div>
 
 
@@ -25390,7 +25390,7 @@ dele ([https://bole.to/3/xpto/carne][3]{: target="_blank"
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![carne\_-\_Copia.jpg](https://kobana.intercom-attachments-1.com/i/o/937414465/a676ba03d13499076f124d61/image.jpeg?expires=1752529500&amp;signature=a945e9f62cb67103db5d4624afe9728af6c4634c065e8de72d92a7b7aff6da0f&amp;req=fSMgEsh6mYdaFb4f3HP0gCIgI5s%2B4pEL5EIRsok4UxNI0srp6ZLvPK1SKrrD%0Aw%2FU%3D%0A)
+![carne\_-\_Copia.jpg](https://kobana.intercom-attachments-1.com/i/o/937414465/a676ba03d13499076f124d61/image.jpeg?expires=1752633900&amp;signature=58388fb212acbf501e0702a36efcaf35cf9993a235b2f43bfe75c70c81e5339c&amp;req=fSMgEsh6mYdaFb4f3HP0gCIgI5g%2F6J0L5EIRsok4UxOOeNSJjWUK6F6ILkK8%0AE%2Bc%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
@@ -25434,7 +25434,7 @@ target="_blank" .intercom-content-link} vira
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937414475/c4f3fea5643447e6a7276f66/faturaboleto.png?expires=1752529500&amp;signature=dd0a93b9079a2caf5cd096807bf7dc825d439b7418af949c76dd2629423a138e&amp;req=fSMgEsh6mYZaFb4f3HP0gANmlDMKwXeq%2Fz35MNzI7hXiHJJSdy2zvcIdIYGU%0Am8g%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937414475/c4f3fea5643447e6a7276f66/faturaboleto.png?expires=1752633900&amp;signature=8ecf279bb289070d3360824f8f093a14cadae2e8e4b46124a0f4b2d0fe143bf1&amp;req=fSMgEsh6mYZaFb4f3HP0gANmlDALy3uq%2Fz35MNzI7hWi2YQL%2Bmhl3xZnaid8%0AcvY%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #d7efdc80; border-color: #1bb15733;" markdown="1">
@@ -25462,7 +25462,7 @@ target="_blank" .intercom-content-link}.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937414479/9eb980c999e343dcb39da837/envelope-boleto.png?expires=1752529500&amp;signature=52d4a3ca8fb924a0def6ff383a074c58faf5a3fae23d7605ad82b52754f2c306&amp;req=fSMgEsh6mYZWFb4f3HP0gHqvyyhm46mfaoyi%2FVM75C%2FZlVL80PpAtD%2BVeFzN%0ApYA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937414479/9eb980c999e343dcb39da837/envelope-boleto.png?expires=1752633900&amp;signature=aea10315c6a8c60e2e1c7f8fda0e1ffca7ebfd959a09e2180dd0b4195d937637&amp;req=fSMgEsh6mYZWFb4f3HP0gHqvyytn6aWfaoyi%2FVM75C%2Bye7Hq1aexBqjzqTH4%0A078%3D%0A)
 </div>
 
 
@@ -25521,7 +25521,7 @@ superior direita da tela no nome do seu usuário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937371902/f77ce6d3209e242ddb2b6845/image.png?expires=1752529500&amp;signature=3fdb2d1ecd6888ee60ad0b7223dab4be9f32553b59dfadcf6202527ebefd802d&amp;req=fSMgFc5%2FlIFdFb4f3HP0gK1dHdEiCBsUOEJJCLY9AODAuRiCTot8wARnIErr%0AHso%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937371902/f77ce6d3209e242ddb2b6845/image.png?expires=1752633900&amp;signature=5c93a782e65f6527e35b6458e9caf94fa62935e3d73c773e451afab560faae1c&amp;req=fSMgFc5%2FlIFdFb4f3HP0gK1dHdIjAhcUOEJJCLY9AOAzKN7PVpi0HoW8EEGB%0AJrQ%3D%0A)
 </div>
 
 
@@ -25538,7 +25538,7 @@ clicar em **Mudar minha senha**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937375134/2c81bc687c8585f3d5d17b92/image.png?expires=1752529500&amp;signature=acc65c3f848ec1052f5c95aebaa7ec8c260adb3767f4620f5ab3cc9bf6b5b61b&amp;req=fSMgFc57nIJbFb4f3HP0gI1UedY8nuGfISaHGrTKWhy8An5HI46atzeEQD0m%0AB54%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937375134/2c81bc687c8585f3d5d17b92/image.png?expires=1752633900&amp;signature=698add3d37fc653eb2b1bd061c6c622ccc25db8835e658f32064c771480837d9&amp;req=fSMgFc57nIJbFb4f3HP0gI1UedU9lO2fISaHGrTKWhxl%2Fci6RxsOUyh4%2BDgL%0AWTo%3D%0A)
 </div>
 
 
@@ -25661,7 +25661,7 @@ possa comprovar o pagamento, caso necessário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![recibo\_do\_pagador.png](https://kobana.intercom-attachments-1.com/i/o/937382107/22dd2ad702fffe3de4d58c7f/image.png?expires=1752529500&amp;signature=c49149efe7300cb44763a69c9857de16566bd3320d133599d6f2554fac68ef15&amp;req=fSMgFcF8nIFYFb4f3HP0gKkA40Q2h3F0Huyeg%2BsltIaRkZmZOz2wVKxRwsuu%0A0cA%3D%0A)
+![recibo\_do\_pagador.png](https://kobana.intercom-attachments-1.com/i/o/937382107/22dd2ad702fffe3de4d58c7f/image.png?expires=1752633900&amp;signature=a8c90f771b2f7819b4a6950c585ea0f863418bea747dbf09d86a0ce54b6e1cb4&amp;req=fSMgFcF8nIFYFb4f3HP0gKkA40c3jX10Huyeg%2BsltIZvjOQ0iTFsaglu5tem%0A3Zs%3D%0A)
 </div>
 
 
@@ -25685,7 +25685,7 @@ que seja encaminhada para a compensação bancária.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![ficha\_de\_compensa\_\_o.png](https://kobana.intercom-attachments-1.com/i/o/937382118/73a2edef1a231ca82dbbae9f/image.png?expires=1752529500&amp;signature=5a5595203391ef0ae81101a2e735f8a466b9dd7b6e5f2bbd000901bf7799e786&amp;req=fSMgFcF8nIBXFb4f3HP0gDOKp5wS2sfXGIaHu%2FglH9803rxQYZrmFhPU2atr%0AsIo%3D%0A)
+![ficha\_de\_compensa\_\_o.png](https://kobana.intercom-attachments-1.com/i/o/937382118/73a2edef1a231ca82dbbae9f/image.png?expires=1752633900&amp;signature=7e914b90cc317884ff51e7f1f4d73054bf47b51d8528accbb182e5981513fcfd&amp;req=fSMgFcF8nIBXFb4f3HP0gDOKp58T0MvXGIaHu%2FglH98Ob4urTfxIcdiuOAEO%0Ah0E%3D%0A)
 </div>
 
 
@@ -25758,7 +25758,7 @@ de um dígito verificador no layout do boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![dados\_do\_beneficiario.png](https://kobana.intercom-attachments-1.com/i/o/937382126/a4509dadeb7cab95692f1a1d/image.png?expires=1752529500&amp;signature=84db1502a929259137bed3735daa88235802bd501bc5dba746f07bb253078b93&amp;req=fSMgFcF8nINZFb4f3HP0gI1J%2BP0mfmyNevYWll7VqLbaXdoZFgmvi%2Fl%2BTl4B%0AY%2BM%3D%0A)
+![dados\_do\_beneficiario.png](https://kobana.intercom-attachments-1.com/i/o/937382126/a4509dadeb7cab95692f1a1d/image.png?expires=1752633900&amp;signature=e43f2f095c196479b486a08f08e72f06ea6fec12e54f44e5f92a9b1c03cfb2ba&amp;req=fSMgFcF8nINZFb4f3HP0gI1J%2BP4ndGCNevYWll7VqLavL4laqwPtY9fsFmiW%0Aj8I%3D%0A)
 </div>
 
 
@@ -25804,7 +25804,7 @@ leitura ótica, como por exemplo, nos caixas eletrônicos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![linha\_digit\_vel.png](https://kobana.intercom-attachments-1.com/i/o/937382139/273e765f9ecf2c19018f590b/image.png?expires=1752529500&amp;signature=71b7b6453a01883610f93bbf9bacfb5793cfaa508d49db10bc5083203a4e1a74&amp;req=fSMgFcF8nIJWFb4f3HP0gItvLUuAGC7cNVBpu669ATkx5IHgbca4WX%2FrHREy%0Adac%3D%0A)
+![linha\_digit\_vel.png](https://kobana.intercom-attachments-1.com/i/o/937382139/273e765f9ecf2c19018f590b/image.png?expires=1752633900&amp;signature=5f06e1d377eabe7739d2b2849277e11860fb3d6fd032856dfc3e16a3b55a0666&amp;req=fSMgFcF8nIJWFb4f3HP0gItvLUiBEiLcNVBpu669ATljLgaW%2FcmORn%2FhWxhL%0ACYM%3D%0A)
 </div>
 
 
@@ -25828,7 +25828,7 @@ por atraso e aos juros de mora.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![dados\_do\_vencimento.png](https://kobana.intercom-attachments-1.com/i/o/937382146/627399e252d08b533c649632/image.png?expires=1752529500&amp;signature=bf0a3c719a3ad330fe2f31a58442493c941c1e68b0e3617051c69f8f6d76b4ef&amp;req=fSMgFcF8nIVZFb4f3HP0gPgmswDcxc7C8FJ0znOuAEn0JevWESkM%2BLQ%2Be%2Fqd%0Awk4%3D%0A)
+![dados\_do\_vencimento.png](https://kobana.intercom-attachments-1.com/i/o/937382146/627399e252d08b533c649632/image.png?expires=1752633900&amp;signature=bc111bfb0f786f5ba07269ed57ec798de60bfacf13dc57b22868ed8a6dbfdf20&amp;req=fSMgFcF8nIVZFb4f3HP0gPgmswPdz8LC8FJ0znOuAEkdtepDcjT7ghPTLvmG%0ARc0%3D%0A)
 </div>
 
 ### **Local de pagamento**   {#h_0ca9849d0b}
@@ -25844,7 +25844,7 @@ casa lotérica, por exemplo. Normalmente, é utilizada a mensagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![local\_do\_pagamento.png](https://kobana.intercom-attachments-1.com/i/o/937382153/f47d14a5bc2b0367ab8aa8e2/image.png?expires=1752529500&amp;signature=23bb02bfe31297aff58f2cfb2882dc40c999b2f6c474fc64e448f15ae6ebb2ae&amp;req=fSMgFcF8nIRcFb4f3HP0gPz44SAd17BZxxzZd5DNk8DFZFBevZpIgcLvG0Ar%0A3GI%3D%0A)
+![local\_do\_pagamento.png](https://kobana.intercom-attachments-1.com/i/o/937382153/f47d14a5bc2b0367ab8aa8e2/image.png?expires=1752633900&amp;signature=47e33554c686744fbfccb8935b24393f26181fe81271c45f857e315a77cf45f0&amp;req=fSMgFcF8nIRcFb4f3HP0gPz44SMc3bxZxxzZd5DNk8COg%2BjbxvS5Ly7wQZ2N%0Aqno%3D%0A)
 </div>
 
 
@@ -25862,7 +25862,7 @@ boletos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![identifica\_\_o\_do\_banco.png](https://kobana.intercom-attachments-1.com/i/o/937382164/aa7f42673eb4670dda88b637/image.png?expires=1752529500&amp;signature=357fda6cea41b428cf55c26309f3b82250c34ab3fdefde109d9c8c01779c7f4f&amp;req=fSMgFcF8nIdbFb4f3HP0gP36nkgUkyOlSyrBDmps39eL9Fr2epZWjNlTggFQ%0A%2Fto%3D%0A)
+![identifica\_\_o\_do\_banco.png](https://kobana.intercom-attachments-1.com/i/o/937382164/aa7f42673eb4670dda88b637/image.png?expires=1752633900&amp;signature=6188690af85c333347a090a4b103afb00e29452c5179b6896d5600fad31e078a&amp;req=fSMgFcF8nIdbFb4f3HP0gP36nksVmS%2BlSyrBDmps39frEZEfZewXTWj4riwi%0AUPI%3D%0A)
 </div>
 
 
@@ -25881,7 +25881,7 @@ acordo com o padrão da sua carteira de recebimento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![nosso\_n\_mero.png](https://kobana.intercom-attachments-1.com/i/o/937382174/ea31e2964b4a474711e11e08/image.png?expires=1752529500&amp;signature=3ab5ad1be1bcb415baff28b9a99f092512a43cb964f646f7c5d416a0d8a43e0d&amp;req=fSMgFcF8nIZbFb4f3HP0gDW3uWjIJYN6mC4i1pnT1MBzzsZZmnh9YNRYzRHi%0AjvM%3D%0A)
+![nosso\_n\_mero.png](https://kobana.intercom-attachments-1.com/i/o/937382174/ea31e2964b4a474711e11e08/image.png?expires=1752633900&amp;signature=37ee5352a06361b23a2e0b978cc7a3a5d8f26c8ec4369fc30bbace144815991c&amp;req=fSMgFcF8nIZbFb4f3HP0gDW3uWvJL496mC4i1pnT1MCrEqpdJpRiB%2FDCpBMq%0AO0A%3D%0A)
 </div>
 
 
@@ -25900,7 +25900,7 @@ pagador reconhece essa dívida.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![Aceite.png](https://kobana.intercom-attachments-1.com/i/o/937382182/27138c047a408e17815422a1/image.png?expires=1752529500&amp;signature=532aff3f795f3946c3529eb65d015a82d71cf7b40d7ad2a8722b486e2640a092&amp;req=fSMgFcF8nIldFb4f3HP0gJqDYJRzLjq4FlcfiZITSnWF%2Fs6EvCTv%2FPIPcWIV%0AAgk%3D%0A)
+![Aceite.png](https://kobana.intercom-attachments-1.com/i/o/937382182/27138c047a408e17815422a1/image.png?expires=1752633900&amp;signature=43312fd1167ad0f74b86cf97ac8f644bc0e4232f58a45196871226990d75245e&amp;req=fSMgFcF8nIldFb4f3HP0gJqDYJdyJDa4FlcfiZITSnUszpFFiKWA8cRU2ypC%0A3zI%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #fed9db80; border-color: #fd3a5733;" markdown="1">
@@ -25945,7 +25945,7 @@ Gerenciar Sua Conta do Google.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937338701/4089b4047290dbd5e23c6258/image.png?expires=1752529500&amp;signature=39126857119d094c527fd4435f689eb0b30ecadb35aacc1efe60a847ff74162a&amp;req=fSMgFcp2moFeFb4f3HP0gPOCR%2FOjG%2FILhyjoIfzQ6U4DFhRmqN3UHrnKoOHf%0AeLE%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937338701/4089b4047290dbd5e23c6258/image.png?expires=1752633900&amp;signature=c9eb531a44559dc9092bdaabee26cbaa2944a294a6d22b2cab4187f6e3dd8124&amp;req=fSMgFcp2moFeFb4f3HP0gPOCR%2FCiEf4LhyjoIfzQ6U6k7B91yNMgvVfOaHMJ%0Akfk%3D%0A)
 </div>
 
 
@@ -25958,7 +25958,7 @@ Gerenciar Sua Conta do Google.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937339773/b633c0db324085c8a9f69f94/image.png?expires=1752529500&amp;signature=4d1d0245d6a73e32d2d8f6babcde9a4f3b3645f9f04bb051752053ea6d7ad9ed&amp;req=fSMgFcp3moZcFb4f3HP0gCHedwQJ7wxZPkXdm6tOCGfzhQqevBZuNwmjA7xq%0AWNs%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937339773/b633c0db324085c8a9f69f94/image.png?expires=1752633900&amp;signature=068218c411b7734ffc775468331eafa69e176861de810b2c2911b34e9afe9d71&amp;req=fSMgFcp3moZcFb4f3HP0gCHedwcI5QBZPkXdm6tOCGfNHICNJPPKve5pEG6W%0AHUE%3D%0A)
 </div>
 
 3 - Caso você não tenha a verificação em duas etapas ativa em sua conta,
@@ -25969,7 +25969,7 @@ ative buscando pela função na barra de pesquisa.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937351875/1dd2588091045b982fc9167e/image.png?expires=1752529500&amp;signature=90c7f593dda3a06d00fc983ac29339c175556797dd8c6d85eed55274d975756a&amp;req=fSMgFcx%2FlYZaFb4f3HP0gEcgDuXXPfkFQxL540nu0ml%2F5WFWsmuuJsl8luHN%0Aa30%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937351875/1dd2588091045b982fc9167e/image.png?expires=1752633900&amp;signature=6d7ac2c9c7671ea8cc6396031d1bb2823757aeeeeb1c5f10ccbc959461963a7a&amp;req=fSMgFcx%2FlYZaFb4f3HP0gEcgDubWN%2FUFQxL540nu0mnBm2jC7aEMCxhf5CM7%0ATF0%3D%0A)
 </div>
 
 4 - Com a verificação em duas etapas ativa, vai aparecer a opção de
@@ -25981,7 +25981,7 @@ senha.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937354675/bfc847010082855089e0e77a/image.png?expires=1752529500&amp;signature=bad1e69bd6d4db4aaa5577e29cbb44d56534647a801d122174aa09a153321d25&amp;req=fSMgFcx6m4ZaFb4f3HP0gDSI4iXzrEgLkx6hscuQ8fLHuimjw6EvPa8gcM4e%0A%2FDw%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937354675/bfc847010082855089e0e77a/image.png?expires=1752633900&amp;signature=a51a06dc3041412c1032a092d16a3747e8b92d8eb6011a2158e75d33d9f52648&amp;req=fSMgFcx6m4ZaFb4f3HP0gDSI4ibypkQLkx6hscuQ8fJwR9otV6yXs%2BAebTiz%0A7eQ%3D%0A)
 </div>
 
 
@@ -25995,7 +25995,7 @@ então, clique em Gerar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937357665/bb086caf550dc15c125725e1/image.png?expires=1752529500&amp;signature=a0d4289f0cde824a42a74aacee2286a2e67715bcfb38dbb04389bde9572ced05&amp;req=fSMgFcx5m4daFb4f3HP0gFtI%2FN64Wo4l5kLuBTweelj2TkhIT55mce8Cl6Co%0AwOk%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/937357665/bb086caf550dc15c125725e1/image.png?expires=1752633900&amp;signature=08f7997b39f286f673e1340ac5119b37ca4a05c3e2fa1f9f0228fd4e5083488e&amp;req=fSMgFcx5m4daFb4f3HP0gFtI%2FN25UIIl5kLuBTweeljuLEg4%2BRQwyo5GxvGv%0AWVQ%3D%0A)
 </div>
 
 6 - Siga as instruções para inserir a senha de app. A senha de app é o
@@ -26094,7 +26094,7 @@ encaminhada para a compensação bancária.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![ficha\_de\_compensa\_\_o.png](https://kobana.intercom-attachments-1.com/i/o/937352591/317ddd9f0b0740f3c65fc93a/image.png?expires=1752529500&amp;signature=02a6668e6adf3bd894270bf54b68bd1580a071d7f3e8c73ff3f43d1175b49c46&amp;req=fSMgFcx8mIheFb4f3HP0gJWsd2GqLIKBblXfAdMbMfee9l21G6%2Bt1W61rCPC%0A7gM%3D%0A)
+![ficha\_de\_compensa\_\_o.png](https://kobana.intercom-attachments-1.com/i/o/937352591/317ddd9f0b0740f3c65fc93a/image.png?expires=1752633900&amp;signature=a2c037a60ad1e9717d29ce67e5c89ec9dcd62b8513ed4a05952011f1bdbc032d&amp;req=fSMgFcx8mIheFb4f3HP0gJWsd2KrJo6BblXfAdMbMff22PU4W1%2FxX0W3URA5%0ATn4%3D%0A)
 </div>
 
 
@@ -26159,7 +26159,7 @@ layout do boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![dados\_do\_beneficiario.png](https://kobana.intercom-attachments-1.com/i/o/937352606/bb553efb98d399d521f05569/image.png?expires=1752529500&amp;signature=11d9ed3e9601384d8ce9c786aaa8f45d0dd1523b0a1f399e947b2aad53814657&amp;req=fSMgFcx8m4FZFb4f3HP0gGE98AeZz52MRHguvQI99WY%2Bl4LS4lv1Ud2vs%2BHZ%0AK8I%3D%0A)
+![dados\_do\_beneficiario.png](https://kobana.intercom-attachments-1.com/i/o/937352606/bb553efb98d399d521f05569/image.png?expires=1752633900&amp;signature=d4ba341303683746899ff2b06a3ff7b5a3d792a8189e168566c55eed438067bd&amp;req=fSMgFcx8m4FZFb4f3HP0gGE98ASYxZGMRHguvQI99Wayabf37%2Fy23RtWI95L%0A%2F2U%3D%0A)
 </div>
 
 ## **Linha digitável e código de barras**   {#h_b64d286637}
@@ -26202,7 +26202,7 @@ leitura ótica, como nos caixas eletrônicos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![linha\_digit\_vel.png](https://kobana.intercom-attachments-1.com/i/o/937352616/7e8468dc20275c1a028388d0/image.png?expires=1752529500&amp;signature=d575127f85b42389c06dab9fe800b9461855830fcd8bd1abf2f862244ef54677&amp;req=fSMgFcx8m4BZFb4f3HP0gMDScCagMYQHwXVUzxnu%2FNuvAAC4mmAb8xuTJNq2%0AKrE%3D%0A)
+![linha\_digit\_vel.png](https://kobana.intercom-attachments-1.com/i/o/937352616/7e8468dc20275c1a028388d0/image.png?expires=1752633900&amp;signature=5e19c75f08b5b7c8743cbd058a5d8971d4826eabce7f118bee99d8e1ec6e7eac&amp;req=fSMgFcx8m4BZFb4f3HP0gMDScCWhO4gHwXVUzxnu%2FNuMKLDBzildVpzOjpK8%0AVlA%3D%0A)
 </div>
 
 ## **Data de vencimento**   {#h_1826aec7e9}
@@ -26223,7 +26223,7 @@ por atraso e aos juros de mora.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![data\_do\_vencimento.png](https://kobana.intercom-attachments-1.com/i/o/937352624/04b7e5461e496545ea3e846a/image.png?expires=1752529500&amp;signature=3f8845e47361236444e81ad1a58dd7b05ccb7a9dcdc3ebc63380d4413420cfaa&amp;req=fSMgFcx8m4NbFb4f3HP0gJqt%2BZeZFoyOp4kEXBMsX2JIxpm8ns44fmPlJPIr%0Alck%3D%0A)
+![data\_do\_vencimento.png](https://kobana.intercom-attachments-1.com/i/o/937352624/04b7e5461e496545ea3e846a/image.png?expires=1752633900&amp;signature=134c04e7c22aa4d7a6ba178bc324ef32f172b30739a715ac7c492cf5acb1abd2&amp;req=fSMgFcx8m4NbFb4f3HP0gJqt%2BZSYHICOp4kEXBMsX2Id2HAM5zuo8ORNQ4W9%0A8qI%3D%0A)
 </div>
 
 ## **Local de pagamento**   {#h_cbf7274911}
@@ -26239,7 +26239,7 @@ casa lotérica, por exemplo. Normalmente, é utilizada a mensagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![local\_de\_pagamento.png](https://kobana.intercom-attachments-1.com/i/o/937352632/f1cb86708cac1b28f268975e/image.png?expires=1752529500&amp;signature=69200545b791ea08e9c0a61258d422d5ce1a2503d4e481ec8043c6f9f59007a3&amp;req=fSMgFcx8m4JdFb4f3HP0gOBJTZsCyP6sFSY2CghYxeQR46gmghx4cSs9yxE5%0Av4A%3D%0A)
+![local\_de\_pagamento.png](https://kobana.intercom-attachments-1.com/i/o/937352632/f1cb86708cac1b28f268975e/image.png?expires=1752633900&amp;signature=b2cba8ee77bc2323b3a1011ad2f676a6f04dd702f5db2bc8c69301929ae7803b&amp;req=fSMgFcx8m4JdFb4f3HP0gOBJTZgDwvKsFSY2CghYxeTO3Xcm1DLur6C6HhEm%0A7yk%3D%0A)
 </div>
 
 ## **Identificação do banco**   {#h_3b0ba99b2c}
@@ -26251,7 +26251,7 @@ boletos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![identifica\_\_o\_do\_banco.png](https://kobana.intercom-attachments-1.com/i/o/937352641/e0b997220c7853d4bb81d949/image.png?expires=1752529500&amp;signature=ada2a800e9963705407dd58d3b6a0c3282d05a42d372a03b9d5944c87d6f4349&amp;req=fSMgFcx8m4VeFb4f3HP0gFsaYkY62xOkej1TSP9RIA4O64Osff4rOU3a0Gc%2F%0ATfo%3D%0A)
+![identifica\_\_o\_do\_banco.png](https://kobana.intercom-attachments-1.com/i/o/937352641/e0b997220c7853d4bb81d949/image.png?expires=1752633900&amp;signature=dcab1b7871a3bf2863999eb034e3cf7d92f7acc746bc886fac8ac285e492dbff&amp;req=fSMgFcx8m4VeFb4f3HP0gFsaYkU70R%2Bkej1TSP9RIA4LEsmANzy%2F5VIoURuD%0Afu4%3D%0A)
 </div>
 
 ## **Nosso Número**   {#h_65fa67adb7}
@@ -26267,7 +26267,7 @@ acordo com o padrão da sua carteira de recebimento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![nosso\_numero.png](https://kobana.intercom-attachments-1.com/i/o/937352650/e7b980bc0665f7924a82bb62/image.png?expires=1752529500&amp;signature=b4ee29c30f75075e2aa409f9bd6659a2c79e992840293403a12f85e92911a1dd&amp;req=fSMgFcx8m4RfFb4f3HP0gLjZagORbA%2Bsdd9vJpmJ7KZP42yPAsq27oGbGxqj%0AnUI%3D%0A)
+![nosso\_numero.png](https://kobana.intercom-attachments-1.com/i/o/937352650/e7b980bc0665f7924a82bb62/image.png?expires=1752633900&amp;signature=122145957f996d06b6950150a209987450513e24e1972f00f8f07bcf6f7da4d8&amp;req=fSMgFcx8m4RfFb4f3HP0gLjZagCQZgOsdd9vJpmJ7KYX8o%2B9EI3EMXqQnO5n%0Aj98%3D%0A)
 </div>
 
 ## **Aceite**   {#h_8112608842}
@@ -26284,7 +26284,7 @@ tiver algum documento no qual o pagador reconhece essa dívida.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![aceite.png](https://kobana.intercom-attachments-1.com/i/o/937352665/05c13a369d936d2302ceb7c0/image.png?expires=1752529500&amp;signature=ec0de678d0fc092cb895e26538326f4cd4a925ce465b5b6d80aa75de11a9e17b&amp;req=fSMgFcx8m4daFb4f3HP0gAhEIQNjOp3w1rkB1tOujSZoDPKQM4%2FuaKhnOomX%0APMM%3D%0A)
+![aceite.png](https://kobana.intercom-attachments-1.com/i/o/937352665/05c13a369d936d2302ceb7c0/image.png?expires=1752633900&amp;signature=26a239bb97ae2d4f22a2f9d3f27f932e34cef356f1f797a72a2c4bbfa8d07838&amp;req=fSMgFcx8m4daFb4f3HP0gAhEIQBiMJHw1rkB1tOujSYZpl8JMf4q0nwhHM5X%0Afbw%3D%0A)
 </div>
 
 [Veja outros layouts de boleto que você pode gerar na Kobana][2]{:
@@ -26370,7 +26370,7 @@ arquivo no seu Drive.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937254878/a484b0a3e630d1fe619b4095/image.png?expires=1752529500&amp;signature=10b472f38853b1d7fd9e70b7310759676deaee8937c8de7c52376ba6445c1575&amp;req=fSMgFMx6lYZXFb4f3HP0gHEklEf0trKBaszhcPwISIp1CpfWgYIeVlDPuLQx%0ATZw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937254878/a484b0a3e630d1fe619b4095/image.png?expires=1752633900&amp;signature=dfe1b42fdcdbb000ee35c77cb7b076b2ab0fa8166dadacc3e7c008ec7d6860e3&amp;req=fSMgFMx6lYZXFb4f3HP0gHEklET1vL6BaszhcPwISIpURW13C1IYZ2Dwyvnc%0AL8o%3D%0A)
 </div>
 
 
@@ -26400,7 +26400,7 @@ como &gt; Valores separados por vírgula (csv, página atual)*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937254884/05b1844925a833c2ea26650e/image.png?expires=1752529500&amp;signature=0c7624de3da2241a8a670c57e49b3e0e9fbd8d97ec227fe652629b319bba1060&amp;req=fSMgFMx6lYlbFb4f3HP0gO75lnAW%2F1sA9I3xVvUb5XM4wzd75wXW1Sf89gZ4%0Asos%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937254884/05b1844925a833c2ea26650e/image.png?expires=1752633900&amp;signature=b8b6f3f40c59b0c85117e90d0608e3c2911028ab55577224f94b13185b869859&amp;req=fSMgFMx6lYlbFb4f3HP0gO75lnMX9VcA9I3xVvUb5XO9RuurTrEIpvQyME5V%0AH48%3D%0A)
 </div>
 
 
@@ -26424,7 +26424,7 @@ da tela.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937254893/a933d51b5690623cff6788b0/image.png?expires=1752529500&amp;signature=0ad5a0c21ab9afe6b985f277d62ec9a9bc6cfa969ef6aa7511b9b5835d59479b&amp;req=fSMgFMx6lYhcFb4f3HP0gESyaMDRMCHBiyRr6M5COqIBOYeCz39kAakP%2BA7b%0AxpA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937254893/a933d51b5690623cff6788b0/image.png?expires=1752633900&amp;signature=37316870c70745ad7e22b777fd8f1b2ee499846a819b350671d3cafedfa574fb&amp;req=fSMgFMx6lYhcFb4f3HP0gESyaMPQOi3BiyRr6M5COqJOqiv5bsGp1vreogXV%0An7I%3D%0A)
 </div>
 
 
@@ -26456,7 +26456,7 @@ possa revisá-los.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937254899/bdde0ecc106a2970166b24ce/erro-importa-o.png?expires=1752529500&amp;signature=37151cd58ba2a993770d4ff77b3c58b013a155a50050d374c9163821b6f6025b&amp;req=fSMgFMx6lYhWFb4f3HP0gNjDQFooBH4TBl4sNhMYBLCcZEMrIQHV99571woC%0Ar48%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937254899/bdde0ecc106a2970166b24ce/erro-importa-o.png?expires=1752633900&amp;signature=8b18f399cc13946c2722acec19637b2ededcf5e3398c6786b99addd3c477445f&amp;req=fSMgFMx6lYhWFb4f3HP0gNjDQFkpDnITBl4sNhMYBLB8RtBUracmgqspe7it%0Aei8%3D%0A)
 </div>
 
 
@@ -26513,7 +26513,7 @@ informação automaticamente.
   {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/937254907/c706ef691df64aa472ccae02/image.png?expires=1752529500&amp;signature=5ee9f8e40e8871443b3b5eb15c17f758fd1c4cd42bda37e8abf67bb7756cbae0&amp;req=fSMgFMx6lIFYFb4f3HP0gBg45dPla02fPUVk8aIaj2Oxc9NK0K4n1%2BSkQeSD%0Ak3g%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/937254907/c706ef691df64aa472ccae02/image.png?expires=1752633900&amp;signature=a89906431263d2d41ef604f63a1d3f92c5e5a2fcb831a41b4c9b279fd9ad9ee1&amp;req=fSMgFMx6lIFYFb4f3HP0gBg45dDkYUGfPUVk8aIaj2Ppi0ASNIJ7EttFYDSt%0A4UY%3D%0A)
 </div>
 
 
@@ -26571,7 +26571,7 @@ o boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1289201938/4397250911c2f354e31eb62d09c4/image.png?expires=1752529500&amp;signature=de270e74deebee387e087532b54052bf05f6b99aa384814408e80104b3578bb5&amp;req=dSIvH8t%2BnIhcUfMW1HO4zWVvo9sxTiIyPAjvauxz%2Bv9Z2x1IELRnnsl6WhW0%0AZCTY%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1289201938/4397250911c2f354e31eb62d09c4/image.png?expires=1752633900&amp;signature=d8e5342af1d13332743ae7067163664f44234c9bc1883876b703419361f75040&amp;req=dSIvH8t%2BnIhcUfMW1HO4zWVvo9syTyg%2BPAjvauxz%2Bv%2FAdG3I%2BOGLizircal%2B%0Ahjs5%0A)
 </div>
 
 
@@ -26766,7 +26766,7 @@ fatura.
 {: .no-margin}
 
 <div class="intercom-container intercom-align-center" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/937139054/3237e778d4851cee59d46177/comparacao-boleto.jpg?expires=1752529500&amp;signature=ce997646863e0aea595cce7c536ae3cb534e020bd18d93853d4fcd8da16d21c1&amp;req=fSMgF8p3nYRbFb4f3HP0gOwkG9zXqk8dgV4uSndeTwBArH0BVa2tz3oCwcjS%0Ap50%3D%0A){:
+![](https://downloads.intercomcdn.com/i/o/937139054/3237e778d4851cee59d46177/comparacao-boleto.jpg?expires=1752633900&amp;signature=be472835dca7d514d0700bc4ea3cc4c2a539c933d43540a2cb2f30ee77fcebe5&amp;req=fSMgF8p3nYRbFb4f3HP0gOwkG9%2FWoEMdgV4uSndeTwBRfbAbqmGFvE26OJW6%0A3T0%3D%0A){:
 width="400"}
 </div>
 
@@ -27200,7 +27200,7 @@ Acesse o internet banking com a conta da sua empresa e vá até o menu
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1481568387/da3e5132229e6adeedeea1b6a3eb/image.png?expires=1752529500&amp;signature=ec93843fe04cd6d84bad7730c72d64d11f476835739cd2b80630ac6a3fe99de0&amp;req=dSQvF8x4lYJXXvMW1HO4zd%2BoYH%2F4RI7YRmgae%2BNJVAztjBaJW9RDaOH7J9XZ%0AkHUi%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1481568387/da3e5132229e6adeedeea1b6a3eb/image.png?expires=1752633900&amp;signature=996ea484f9070a5e65afe848d1c720a8e76dda02352efbd7bfe3b6da4d16f4ca&amp;req=dSQvF8x4lYJXXvMW1HO4zd%2BoYH%2F7RYTURmgae%2BNJVAyYRupdDmKThusp%2B6iI%0Ah1m1%0A)
 </div>
 
 
@@ -27221,7 +27221,7 @@ na plataforma.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1481574108/9ff4b41dcd732a79a35c7850fbde/image.png?expires=1752529500&amp;signature=e2dd9b2a650feb88b34491bafea136f7d10526485f2dbfe051f77d797271e847&amp;req=dSQvF8x5mYBfUfMW1HO4zd%2BGLQLDNdbadg6KV6tyVdec0TTSn9QL0N3qqw%2F%2F%0Ati0r%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1481574108/9ff4b41dcd732a79a35c7850fbde/image.png?expires=1752633900&amp;signature=79e809943f3d7b0b006aac3e26f27c700ed92a34a502883baa24d25d06da12ae&amp;req=dSQvF8x5mYBfUfMW1HO4zd%2BGLQLANNzWdg6KV6tyVdftFcfbRlFQhRq%2BAaET%0Aq6o%2F%0A)
 </div>
 
 
@@ -27235,7 +27235,7 @@ processo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1481578285/60e41c4874a53ef184b7e769c02b/image.png?expires=1752529500&amp;signature=f8e68dda9fd6a1ab48719ecb6e159b022dc5329fcc5c6c2ff845419bebee7ca4&amp;req=dSQvF8x5lYNXXPMW1HO4zSycGGZkJZ5TlQNILqk89%2FtdIIoJLil%2FlE%2FV%2F8B3%0Ah0nn%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1481578285/60e41c4874a53ef184b7e769c02b/image.png?expires=1752633900&amp;signature=06d86039cf4154838ebd05160873c24d7f676b4dafee2a2295cf468f393fd482&amp;req=dSQvF8x5lYNXXPMW1HO4zSycGGZnJJRflQNILqk89%2Ft4XFsT4t7fydU1%2FHPm%0AYWJP%0A)
 </div>
 
 
@@ -27379,7 +27379,7 @@ aplicação, clicando no botão <i>Ver detalhes </i>no menu <i>Minhas Apps.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894518/96df83e43387b605e2ae9d31db09/AD_4nXd6L8Yw6q-5nt24qCXCTZpWHQLcooTIggRvCSIJTiNCi66F7tRIPD8A2BNpKHJqE5o8AuBHVrFCNjC-dpqaM8-5pSvaLIO-zyYpvOod-wYFVi2O2oAumbVuBn6fuIVv_k9YkRS-4A?expires=1752529500&amp;signature=8ea23efbcf641af056c809db1499ec84e1e7a7bb2270e6040b421ce7e9afd722&amp;req=dSMkEMF3mYReUfMW1HO4zU8Fn7Y8WHcfq9hZar%2FJtGY7OEK2KYnhIXw%2F2p5o%0A7hcx%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894518/96df83e43387b605e2ae9d31db09/AD_4nXd6L8Yw6q-5nt24qCXCTZpWHQLcooTIggRvCSIJTiNCi66F7tRIPD8A2BNpKHJqE5o8AuBHVrFCNjC-dpqaM8-5pSvaLIO-zyYpvOod-wYFVi2O2oAumbVuBn6fuIVv_k9YkRS-4A?expires=1752633900&amp;signature=12db6886cf20d1bd44634f69ee3ab9d9065c5c0ccd8fab32efb21f3db1767aee&amp;req=dSMkEMF3mYReUfMW1HO4zU8Fn7Y%2FWX0Tq9hZar%2FJtGaZIrx9gWOXB0rBWcub%0Ab2Pd%0A)
 </div>
 
 
@@ -27396,7 +27396,7 @@ habilitada no convênio.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894521/cb3e6d165ed71eb8d9516f08c23f/AD_4nXeGS1JZXkuREtiBxzSf8quUYKGzmb4Q8oEXezX0Aba7cgtgYdOm0eUEJQnlOd1tMRhyLnFqJq1fXKwguKy_M_uE0hrKG2WlrFbODYFsiL9ObIyqjtiRJrKu7EZHZUBppmmCCTzOdA?expires=1752529500&amp;signature=2ecfa062dd1708ad9dabcb6ffc5f8e0db9a40944e8820c93d4a4600d9e1b3fbf&amp;req=dSMkEMF3mYRdWPMW1HO4zZRXNKBE%2FY4VtC%2FFbbhd%2B48Kw%2BqnZrV22PsgxjIE%0Azn5e%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894521/cb3e6d165ed71eb8d9516f08c23f/AD_4nXeGS1JZXkuREtiBxzSf8quUYKGzmb4Q8oEXezX0Aba7cgtgYdOm0eUEJQnlOd1tMRhyLnFqJq1fXKwguKy_M_uE0hrKG2WlrFbODYFsiL9ObIyqjtiRJrKu7EZHZUBppmmCCTzOdA?expires=1752633900&amp;signature=521009c0372277a6b5ad4f3797ad9c04aa3baa8a8449faa4bfee671bdc0019bb&amp;req=dSMkEMF3mYRdWPMW1HO4zZRXNKBH%2FIQZtC%2FFbbhd%2B49iaa%2B5GUaJqSp3WdI7%0AucIb%0A)
 </div>
 
 
@@ -27427,7 +27427,7 @@ Para isso, acesse o menu <i>Integrações &gt; API &gt; Configurar Nova
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894523/bf00311791a14476fe670173a891/AD_4nXcuwXkOhBUKkbtlIwtEJb6eSMLkajvZzOGStvvUsMO1AlML-Z-D7zA50pXJlx0VYBQ62cZMzzSN1zUpjGhtcKO2_ugWnODlFqZ0AWnFLxyb-C4MCANfpTmBYIvdls_gBwyCI3PnDg?expires=1752529500&amp;signature=ae3bc2c0d65ee79cffa83e7ae3fbcfbca60a0e7f11560f8fe57d8d0e9eda978e&amp;req=dSMkEMF3mYRdWvMW1HO4zSKdUykdv0Yl6%2F2p%2BxJF8jfKkhXC453I2XZJnMx6%0As5TJ%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894523/bf00311791a14476fe670173a891/AD_4nXcuwXkOhBUKkbtlIwtEJb6eSMLkajvZzOGStvvUsMO1AlML-Z-D7zA50pXJlx0VYBQ62cZMzzSN1zUpjGhtcKO2_ugWnODlFqZ0AWnFLxyb-C4MCANfpTmBYIvdls_gBwyCI3PnDg?expires=1752633900&amp;signature=331b2d3d8e755c22af3bc90c57ec49258cf1b15e22f51784294a0ca71c98a2f3&amp;req=dSMkEMF3mYRdWvMW1HO4zSKdUykevkwp6%2F2p%2BxJF8jcs8r96eNGvA0oTHHNt%0APMvB%0A)
 </div>
 
 
@@ -27451,7 +27451,7 @@ botão <i>Salvar </i>para continuar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894517/c4cbe3864006f2d34a526a0212ac/AD_4nXdBgt0jazYXvc2gl5EqO99FB1nplMGEpIfUaWo6yWC-khOJV0zoTPGFqCmNf3RgBWmkCnk27Xs_6GXIiUvLnLxodbNs1Bbv1I9NTc92pdyWQRSfw-COnbR5iiiloC7aH1-l12ZEyg?expires=1752529500&amp;signature=00cce97b27ec8f21f8ac5a0b85768151fc9978ac4862c4ff2e491a1dcf1fd454&amp;req=dSMkEMF3mYReXvMW1HO4zT4be%2B1XnXUdzLx8l4D0O%2FSQfAsXkjZNWjjaeoJW%0AMyg1%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894517/c4cbe3864006f2d34a526a0212ac/AD_4nXdBgt0jazYXvc2gl5EqO99FB1nplMGEpIfUaWo6yWC-khOJV0zoTPGFqCmNf3RgBWmkCnk27Xs_6GXIiUvLnLxodbNs1Bbv1I9NTc92pdyWQRSfw-COnbR5iiiloC7aH1-l12ZEyg?expires=1752633900&amp;signature=374e707151d99cf3213b1baa017b2c9aa17c3862531539fd49ada1212087a7fb&amp;req=dSMkEMF3mYReXvMW1HO4zT4be%2B1UnH8RzLx8l4D0O%2FSsfR2A9tAcR%2Fbhhc9t%0AT5Bp%0A)
 </div>
 
 
@@ -27466,7 +27466,7 @@ corretamente e que a conexão está funcionando como esperado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894519/e5fb076ae091a31b78a9f7973d6d/AD_4nXdEzYw05R_iCm1IpsNSTV0u16hwzXd6YyCwtZbyepWIkg4tbrlUdOloVrNo25h52zjpH8GenT1up4tro7KeEnyzb3suXwNFUTsro0YpZrx-AttLTmr6O-HNaFVUskk15knhIIRJ?expires=1752529500&amp;signature=b4223db221cc38283d291928d52889cceb55e46fc389279728e74c4629a6d396&amp;req=dSMkEMF3mYReUPMW1HO4zfwWfZeY9ks2NZIeZI%2FFbwboGnznXH97yCmxmQXY%0Aq8Pr%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894519/e5fb076ae091a31b78a9f7973d6d/AD_4nXdEzYw05R_iCm1IpsNSTV0u16hwzXd6YyCwtZbyepWIkg4tbrlUdOloVrNo25h52zjpH8GenT1up4tro7KeEnyzb3suXwNFUTsro0YpZrx-AttLTmr6O-HNaFVUskk15knhIIRJ?expires=1752633900&amp;signature=f2922a5d2b2323168c3c9246bbb325ca69109b31b25e0e33bf3306ec5348220e&amp;req=dSMkEMF3mYReUPMW1HO4zfwWfZeb90E6NZIeZI%2FFbwbaqg9zdhfbSA061moZ%0AbSfe%0A)
 </div>
 
 
@@ -27502,7 +27502,7 @@ acessar a aba registros.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894522/94f07c7c47e20f0e27ef91cfb5cf/AD_4nXeAy44nkOeUvTWCe2OrKPmn9kRIvoPv5sDo_NlNWWmxgz4UXqkYKMCp5KGh_cGNOk5veiW1NN8fwEwZ9O3jThmJNCC5efemzDYMI9OrBCv9Uwhn8uQx32v0JFesGWTrSba8ppIdCA?expires=1752529500&amp;signature=03bc4f68f2483e10b2376c122b9de3185504a1cc77167264d36928ac1494ac82&amp;req=dSMkEMF3mYRdW%2FMW1HO4zalLBdkt6zQp813Db00JwOABsu4L9INyDGtrA%2FJF%0AS6Hh%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1336894522/94f07c7c47e20f0e27ef91cfb5cf/AD_4nXeAy44nkOeUvTWCe2OrKPmn9kRIvoPv5sDo_NlNWWmxgz4UXqkYKMCp5KGh_cGNOk5veiW1NN8fwEwZ9O3jThmJNCC5efemzDYMI9OrBCv9Uwhn8uQx32v0JFesGWTrSba8ppIdCA?expires=1752633900&amp;signature=960ec7c85070ca755326765ee20e1a658b90005a5434311c8aa80d53f0b712d8&amp;req=dSMkEMF3mYRdW%2FMW1HO4zalLBdku6j4l813Db00JwOBMt6apYVpbi6PGNQTf%0Aj5mW%0A)
 </div>
 
 
@@ -27557,7 +27557,7 @@ Acesse o menu *Meus Aplicativos* &gt; *Nova Aplicação*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318564/d96d1b8bd1fc364cb83dfe90/image.png?expires=1752529500&amp;signature=1d5504729ad3fd3a8e353755a604dac53461077bbe90a49a8fc88a88d689dccd&amp;req=fSMhFch2mIdbFb4f3HP0gEza3CT62pvetEV4YTPhD%2FhOrsCiCXVvuV6VALYM%0ABeY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318564/d96d1b8bd1fc364cb83dfe90/image.png?expires=1752633900&amp;signature=063f87d28e2639c8a76a7f084a03c7a7dd3dacbf02277d91753ca57cfbe9530d&amp;req=fSMhFch2mIdbFb4f3HP0gEza3Cf70JfetEV4YTPhD%2FgYpCbLAo4w%2FbR5cIo7%0AGSY%3D%0A)
 </div>
 
 
@@ -27570,7 +27570,7 @@ Em seguida, faça o login no Sicoobnet.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318578/2fc233c1881c0b4b094ce656/image.png?expires=1752529500&amp;signature=b75545f1239bd121a0d55b0c9ef22ba37c38736aba580619e62160b0d2edec0f&amp;req=fSMhFch2mIZXFb4f3HP0gEAG%2FOjEQCCOADLdYUwFtzTJVvuOagZpvtnnT6iN%0Ailc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318578/2fc233c1881c0b4b094ce656/image.png?expires=1752633900&amp;signature=5bc36ef6fee36deaaace36236710e6f949be0bcf2acb87176f0ae17da09da5df&amp;req=fSMhFch2mIZXFb4f3HP0gEAG%2FOvFSiyOADLdYUwFtzR0UfiwaLwz%2BUKH2qv9%0Ae0Q%3D%0A)
 </div>
 
 Autorize a autenticação da conta, clicando em *Aprovar*.
@@ -27580,7 +27580,7 @@ Autorize a autenticação da conta, clicando em *Aprovar*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318582/3c72a2ed0a4c537164fd934b/image.png?expires=1752529500&amp;signature=0a89dc203a8ad5438e6b3cc4b890924b2f64b17a7eafa5882cf1a757e5e1366b&amp;req=fSMhFch2mIldFb4f3HP0gC6yg8k9rjdp2IULYoK%2B21UK5rsvZ1qgRhFE%2BlnE%0AyS4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318582/3c72a2ed0a4c537164fd934b/image.png?expires=1752633900&amp;signature=19f6d542306c0a929835806d84a4bbb208751650f857fc0b0587f3470be85dab&amp;req=fSMhFch2mIldFb4f3HP0gC6yg8o8pDtp2IULYoK%2B21VxThACU0qOApMSdeoW%0AVTg%3D%0A)
 </div>
 
 
@@ -27596,7 +27596,7 @@ integração Kobana).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318591/a6b1b72800d88e8efca0ca11/image.png?expires=1752529500&amp;signature=5f7a90326ac2e2817e5a518603af092a55c5f8ed091e67e158d36c57819f1f7a&amp;req=fSMhFch2mIheFb4f3HP0gJ4ZuqghLyupBLIDNvbAsuubL%2F%2B5zcGrLiIhEtpB%0AUdA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318591/a6b1b72800d88e8efca0ca11/image.png?expires=1752633900&amp;signature=e02ae8c7dfb2ce4cbae20baed3c1bb037fd27a6d633975431dc886d51fd20abe&amp;req=fSMhFch2mIheFb4f3HP0gJ4ZuqsgJSepBLIDNvbAsusRHqR0ra75MCsdueAD%0A0NY%3D%0A)
 </div>
 
 
@@ -27620,7 +27620,7 @@ alguma carteira de recebimento cadastrada na Kobana. </i>
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318596/82d02f31460b22c1530b41bd/image.png?expires=1752529500&amp;signature=5f589719e72655d60f4a014725858a99e1d54ed9aa4bb35d350c2c293171b5d3&amp;req=fSMhFch2mIhZFb4f3HP0gA1bo8tUdgKoWMyuk6dVVoCtgH7wG399wulUm1%2BY%0ATjA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318596/82d02f31460b22c1530b41bd/image.png?expires=1752633900&amp;signature=3d52f33ab1477bfe4ad633046b0b5af36397b8b554ae60fff55f6fec00282108&amp;req=fSMhFch2mIhZFb4f3HP0gA1bo8hVfA6oWMyuk6dVVoADI%2B11uEHaZNv1DQFs%0Aw1Q%3D%0A)
 </div>
 
 
@@ -27635,7 +27635,7 @@ Brasil para o seu CNPJ.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318601/a59a245ac544c515bd9a6853/image.png?expires=1752529500&amp;signature=e3568b21c4a561914f37f1c938d0b31db912c340bc7445f4ba6851fcac7a0b79&amp;req=fSMhFch2m4FeFb4f3HP0gAyI8L8fREifWJA8TML5QpqPh0Hk2qTkBTL5UCoZ%0ABY0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318601/a59a245ac544c515bd9a6853/image.png?expires=1752633900&amp;signature=8ef963d90945fb7a75a9cdba45cf3d470dd40ab63151ad99d739d9d72e2df316&amp;req=fSMhFch2m4FeFb4f3HP0gAyI8LweTkSfWJA8TML5Qpo74NA31ZVnyQNFQhKY%0A16s%3D%0A)
 </div>
 
 
@@ -27657,7 +27657,7 @@ Produção.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318608/c60cb6c9b3853e2394bf7e9a/image.png?expires=1752529500&amp;signature=6ccdd0dff73c7398799a037c531fd00b9a2bc2a4359edc8c8f1e0b2ec94255e7&amp;req=fSMhFch2m4FXFb4f3HP0gOahO5vj7Loj4Jly4cNK1IkcpWdCjuMiQxd0mLOr%0A2wA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318608/c60cb6c9b3853e2394bf7e9a/image.png?expires=1752633900&amp;signature=09502c99a5f989714bc87a2014e406ee3e195cc8602b1dae42acc04f5344181e&amp;req=fSMhFch2m4FXFb4f3HP0gOahO5ji5rYj4Jly4cNK1IkN6R%2B4QpaZDxJXHj54%0AQNk%3D%0A)
 </div>
 
 
@@ -27684,7 +27684,7 @@ Serviços &gt; API &gt; Configurar Nova.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318612/2ca5c505693de1d12bc98800/image.png?expires=1752529500&amp;signature=aa5f7b2191a395be0b5e407333d90a36033c5f7ba0fe060eeeee976c26169eaf&amp;req=fSMhFch2m4BdFb4f3HP0gKhirjoWjVa2Y7GirDK7euKiTkP9ACIMFyJauXeS%0AxjM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318612/2ca5c505693de1d12bc98800/image.png?expires=1752633900&amp;signature=efc6ea7ee5648c892dd90f41a2058ad94e0feb2716c5f527b8d1408672499005&amp;req=fSMhFch2m4BdFb4f3HP0gKhirjkXh1q2Y7GirDK7euKtOxvYzp4s2jD%2BIcG%2F%0A4Fo%3D%0A)
 </div>
 
 
@@ -27710,7 +27710,7 @@ deseja ativar este serviço.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318623/df9031a66279a0aca3ae4796/image.png?expires=1752529500&amp;signature=b75256d573e82aeaea299a73d4e1e49dd8d3bb88745a5056da092168f4cd3c06&amp;req=fSMhFch2m4NcFb4f3HP0gKwJwZ8ueLg8%2Fy46PlJUdr3eM5yeV4EJyDbi%2FoL1%0AGFE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318623/df9031a66279a0aca3ae4796/image.png?expires=1752633900&amp;signature=fc92ba6db24b7ff3ff8ac3d4d7a75af19ec21dba0e7b241a20eb3eb22e1d1a23&amp;req=fSMhFch2m4NcFb4f3HP0gKwJwZwvcrQ8%2Fy46PlJUdr0a1Fy5M7S3tV%2BZIdDP%0AvDQ%3D%0A)
 </div>
 
 
@@ -27732,7 +27732,7 @@ bancária.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936318631/f7151cb97aac4cdf1f825f11/image.png?expires=1752529500&amp;signature=346e7f9a55a64a36acd82ece2b0503604417fb71c380ef2e89a0244abe2f0336&amp;req=fSMhFch2m4JeFb4f3HP0gOYKeL1qWuVuvZ%2Bjs5aAsfrye8dMihCVvplWhyo2%0Acp4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936318631/f7151cb97aac4cdf1f825f11/image.png?expires=1752633900&amp;signature=4b1668e196c9465a2e2f305d71535b4788621368b6524888211d87a07db8ff17&amp;req=fSMhFch2m4JeFb4f3HP0gOYKeL5rUOluvZ%2Bjs5aAsfqa1W9B4QonNgQmGyG7%0AwXc%3D%0A)
 </div>
 
 
@@ -27775,7 +27775,7 @@ Acesse sua conta do Banco Inter e clique em *Soluções para sua empresa
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1615821758/793a8975d03899e396d7aaef6652/image.png?expires=1752529500&amp;signature=4bff9e888506faac3a636f28626627aa3484e5f13b32d9d661f238ebb04991dd&amp;req=dSYmE8F8nIZaUfMW1HO4zQEYSu1%2BqREVmmqAwP%2BBK4%2F9YDku8yszoNjev2gl%0AVHVA%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1615821758/793a8975d03899e396d7aaef6652/image.png?expires=1752633900&amp;signature=0a2691145086b887077064f1c00fd3d9cb848cd6864333cf4c7da78870e0e845&amp;req=dSYmE8F8nIZaUfMW1HO4zQEYSu19qBsZmmqAwP%2BBK4%2BgxDpdGShBiLgzGryy%0AQRpS%0A)
 </div>
 
 
@@ -27792,7 +27792,7 @@ futuro.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936208212/74abf7a08d31bd969be95822/image.png?expires=1752529500&amp;signature=055a33b3afaa4a054390b4b810fbb64ef641d71b7f59a2c87f68d60743aa323c&amp;req=fSMhFMl2n4BdFb4f3HP0gNW%2FkGT9e3m0Yw6e6Sm8k0Y8iKl7wAQygvUecN7Y%0Ascw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936208212/74abf7a08d31bd969be95822/image.png?expires=1752633900&amp;signature=ee6304946399bcf1c2731bd510a60979bcd32b4f6e036481fe6afc6db4ac4685&amp;req=fSMhFMl2n4BdFb4f3HP0gNW%2FkGf8cXW0Yw6e6Sm8k0YoiiauSscwlF1zmZ2l%0Abkc%3D%0A)
 </div>
 
 
@@ -27805,7 +27805,7 @@ Em seguida, faça o download das chaves e do certificado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936208223/8e1803b4faa927a813c367b0/image.png?expires=1752529500&amp;signature=434b3e6aab82d019c618f3896081fc9fc92edb834dd9bb4953520c619049067d&amp;req=fSMhFMl2n4NcFb4f3HP0gMpjmPvskAEQTFYbzg4GfVwB2bclGnPEll5M6Ibs%0Ax2w%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936208223/8e1803b4faa927a813c367b0/image.png?expires=1752633900&amp;signature=2d38a942b4952facac0f63d8adc0a4b0f217227f23dbf5a36b144ec0acfbc12f&amp;req=fSMhFMl2n4NcFb4f3HP0gMpjmPjtmg0QTFYbzg4GfVwDeLbizC39D0WjHHmN%0AeyI%3D%0A)
 </div>
 
 <div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;" markdown="1">
@@ -27825,7 +27825,7 @@ cima para visualizar as credenciais (**ClientID e ClientSecret**).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936208228/29fdd3719e1bdd1e1a1773ea/image.png?expires=1752529500&amp;signature=65b4ccf120d2c78735afdaf602ead3ea5d4c5dd1d3a0d4dd45cb3f33cde96633&amp;req=fSMhFMl2n4NXFb4f3HP0gHoO3e4GfQf7leDVS2KbjDRSV9Fh9%2F3YkQz%2FJcvh%0AWTU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936208228/29fdd3719e1bdd1e1a1773ea/image.png?expires=1752633900&amp;signature=07797b682bd87d1668856f0d69170c7a1bf756ee8e607c449dec7271af594b05&amp;req=fSMhFMl2n4NXFb4f3HP0gHoO3e0Hdwv7leDVS2KbjDTMok9x%2BQtpd%2By8CjgL%0A%2BRY%3D%0A)
 </div>
 
 
@@ -27860,7 +27860,7 @@ que você acabou de inserir.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1070012257/1623aec9d9e4ae950823682f/image.png?expires=1752529500&amp;signature=ca492605f12cda59cdfbc194ebeeab5d9846b4720d1acd680302cd88fd6cc57b&amp;req=dSAgFsl%2Fn4NaXvMW1HO4zXsZiOpLVhy7TJ1sBJSNwMRklZq7DtjIvJRVG2A9%0AcrNH%0A)
+![](https://downloads.intercomcdn.com/i/o/1070012257/1623aec9d9e4ae950823682f/image.png?expires=1752633900&amp;signature=fec791575ed94272380a68f671654aaecddd9a8d6da4bc4174d63c6b0c007a1d&amp;req=dSAgFsl%2Fn4NaXvMW1HO4zXsZiOpIVxa3TJ1sBJSNwMSJn%2BOelkEpmtzVQpzV%0Af1sj%0A)
 </div>
 
 
@@ -28044,7 +28044,7 @@ correspondente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179459/6b695c39b05accd1ba446f06/image.png?expires=1752529500&amp;signature=5ccff2bef78ff970eb8dc47ad530265d793cf390678b099efd109dfec1fbde9a&amp;req=fSMhF853mYRWFb4f3HP0gFYiaZm0LKh1sGqrNbit6fVCLN61RqhFv8qe%2FhRe%0AaKY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179459/6b695c39b05accd1ba446f06/image.png?expires=1752633900&amp;signature=21ee4b12fbb82c10e59272cd4946231147e7037af9990bf04514d731ae63b31a&amp;req=fSMhF853mYRWFb4f3HP0gFYiaZq1JqR1sGqrNbit6fVipJh8D9c%2FrsUJ0ifC%0AF5Q%3D%0A)
 </div>
 
 
@@ -28068,7 +28068,7 @@ do arquivo de retorno.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179468/c4c1547d9f5696b6753915bf/image.png?expires=1752529500&amp;signature=a46b98a1ed7cf57ef01475559b13829f4900de302456409c13d9e0d5a493922e&amp;req=fSMhF853mYdXFb4f3HP0gA1TEHHELp514faUOlG6%2FlKVVrg6l5FTxW3Gih8t%0AGmA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179468/c4c1547d9f5696b6753915bf/image.png?expires=1752633900&amp;signature=092b9eb41e3d03b6275fc79a0d3a9aa1535d720df38c9bfb6264495a21854510&amp;req=fSMhF853mYdXFb4f3HP0gA1TEHLFJJJ14faUOlG6%2FlKC37Xh5KmfmyT20EqK%0A7%2Bs%3D%0A)
 </div>
 
 ## Ativando os webhooks   {#h_d61c00270c}
@@ -28093,7 +28093,7 @@ correspondente ao webhook de cobranças.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179479/9ea8b49e02134626449106da/image.png?expires=1752529500&amp;signature=242098cc58a5fc348e2aeb622c09c7fed3e21da53b2e1b29d6841f56fc45d761&amp;req=fSMhF853mYZWFb4f3HP0gF21f2MhJTqfV8ZxwykFxDgJjXe1IkK%2By7ySbZbJ%0AtLM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179479/9ea8b49e02134626449106da/image.png?expires=1752633900&amp;signature=f076a73c6b0b77a5ef2c586a1f6a2924c7053b0988c4bdd81fe763299516f684&amp;req=fSMhF853mYZWFb4f3HP0gF21f2AgLzafV8ZxwykFxDgJ0c1DPf1MG8jkpsHa%0A%2BR8%3D%0A)
 </div>
 
 
@@ -28115,7 +28115,7 @@ Selecione a aplicação em produção que está conectada à Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179493/d453f837253c37cfa019b867/image.png?expires=1752529500&amp;signature=aff7af08f3c39aac32a637aa2eac06f5d06aa3aa55a64e5bcaa2db9eb6957468&amp;req=fSMhF853mYhcFb4f3HP0gH%2Bw3ruWVl154F3%2FC4DaendXyXMleeroKpAf2Ihx%0AdlI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179493/d453f837253c37cfa019b867/image.png?expires=1752633900&amp;signature=2bb7489ecb27311362769d2434ea51a7a4a1643439935445cd4a3471ce714cb4&amp;req=fSMhF853mYhcFb4f3HP0gH%2Bw3riXXFF54F3%2FC4DaenfkcN%2BW6A6qjA6eD%2FQW%0A7Xc%3D%0A)
 </div>
 
 
@@ -28129,7 +28129,7 @@ de webhooks.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179504/fb7170027ebf78eaf402ea20/image.png?expires=1752529500&amp;signature=43965602763229e8c271145537d417ca9a35e5b30e2378c07f55f7e6afd3a0b5&amp;req=fSMhF853mIFbFb4f3HP0gE8A9a1ac8%2BciiTfZa624wzVYN0zadrH6wW52UwO%0AC%2Fc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179504/fb7170027ebf78eaf402ea20/image.png?expires=1752633900&amp;signature=d9e3b89d4b47dfc2f0d364c1a66c92f7f71a5011d13af6fa5895f8ceacea3978&amp;req=fSMhF853mIFbFb4f3HP0gE8A9a5becOciiTfZa624wxJ5dOpV%2BypKO0e0QA%2F%0AJRA%3D%0A)
 </div>
 
 
@@ -28142,7 +28142,7 @@ Clique no botão *Cadastrar* *Novo Evento*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179514/764ddc4ba9f3c7b369eae7b4/image.png?expires=1752529500&amp;signature=98d49367d12858a7ba1a52d0ac8368391427b42df888899988194c592212cec7&amp;req=fSMhF853mIBbFb4f3HP0gBL22v0c0K%2Bqo5ssSWb2nRs0rkALyquYkQv25Zfg%0AHy0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179514/764ddc4ba9f3c7b369eae7b4/image.png?expires=1752633900&amp;signature=4880d68ae5ccbffccbe958859cb9adbe9beedc51b847fc5f2585b44cd7f86d55&amp;req=fSMhF853mIBbFb4f3HP0gBL22v4d2qOqo5ssSWb2nRvm0sHZ9A7B1KcDSN%2FK%0Ag6w%3D%0A)
 </div>
 
 Como neste artigo estamos tratando da parte de boletos, agora você vai
@@ -28161,7 +28161,7 @@ selecionar a **API de Cobranças**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/936179522/9a7845f17de7c2c1af3653dd/image.png?expires=1752529500&amp;signature=2e8c5f06f17e469948c4772f9ec8488c29f8a59a23a49d47ffdd9e0c004fda70&amp;req=fSMhF853mINdFb4f3HP0gLCbj%2BFiBvut3%2B7eUmkhovE%2FKOcKF9ihrHnmXjo8%0AgnI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/936179522/9a7845f17de7c2c1af3653dd/image.png?expires=1752633900&amp;signature=dfe46ed172a380b3b28a2b2821dc6447a76c0a717c047ba546f209bae803f3e4&amp;req=fSMhF853mINdFb4f3HP0gLCbj%2BJjDPet3%2B7eUmkhovGS0PitymTfej2ju6Dz%0AU%2Bc%3D%0A)
 </div>
 
 Selecione o **convênio** específico referente aos recebimentos das
@@ -28252,7 +28252,7 @@ recebedor da carta.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1260770473/a0f9c8256017cc13058b5b27c10f/image.png?expires=1752529500&amp;signature=5143386aa77395b15b502ab4d712112c1d2d8cc25174659a01b56a2bdd0bfa3f&amp;req=dSIhFs55nYVYWvMW1HO4zVIYQi1YQICKWdWWgEap1yR9MU%2FWHGtMjefJDP3B%0ATqwh%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1260770473/a0f9c8256017cc13058b5b27c10f/image.png?expires=1752633900&amp;signature=005b8df1bb8a932a5d6b506d830524e38e01d5c6b676821e73706f59be325f6e&amp;req=dSIhFs55nYVYWvMW1HO4zVIYQi1bQYqGWdWWgEap1yTkjSVlt980RpZm%2FDNU%0AIFDo%0A)
 </div>
 
 
@@ -28267,7 +28267,7 @@ preenchimento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1260788411/cd2daca4d76f7c7e86673d5f34a3/image.png?expires=1752529500&amp;signature=e5cea01106cf2104b3d80141b95a3e8bea2ee1449ca624c68ad8b0d770b1e168&amp;req=dSIhFs52lYVeWPMW1HO4zYomMYymrddzpvqHU3NnISceN9%2FTkJYgwtqDfJuu%0A%2FOj6%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1260788411/cd2daca4d76f7c7e86673d5f34a3/image.png?expires=1752633900&amp;signature=cf22f30585add8bf0d567007393b492921b7b3f2c158c5945f4dcc048fcca129&amp;req=dSIhFs52lYVeWPMW1HO4zYomMYylrN1%2FpvqHU3NnISfX8Wq23nRRDIC%2FF%2B7z%0AGysM%0A)
 </div>
 
 
@@ -28315,7 +28315,7 @@ com a opção para *Configurar EDI*, como na imagem abaixo.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063305746/3cb2e2d14fbc03857b4522b3/PL42n1RDxraYCL_ZvWtEyBQHUrVrge_2zgLpa5y0TVgLcaWfjwHrQlulmJGRyY2oMk7KM7PPpEyJiD8zbnm4Valo4p5Ux5ehRe8KcmpDjlA2waub2eDV8NM6RkginAH5HvxcIIMk8ezR4ztRQAT5iDU?expires=1752529500&amp;signature=ed817a90cef55207192fe35917d1a56b700f60cb600f1686c749683942487d4d&amp;req=dSAhFcp%2BmIZbX%2FMW1HO4zeYUbQ%2FtaNeOa22xxnZHPGmJ%2FWZkSzGeDvrWxu1R%0AeGBU%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063305746/3cb2e2d14fbc03857b4522b3/PL42n1RDxraYCL_ZvWtEyBQHUrVrge_2zgLpa5y0TVgLcaWfjwHrQlulmJGRyY2oMk7KM7PPpEyJiD8zbnm4Valo4p5Ux5ehRe8KcmpDjlA2waub2eDV8NM6RkginAH5HvxcIIMk8ezR4ztRQAT5iDU?expires=1752633900&amp;signature=234929d87cf24c0ad6ee6f3d4fefa4055790e030bef0bba055bf0a244cbfad2d&amp;req=dSAhFcp%2BmIZbX%2FMW1HO4zeYUbQ%2Fuad2Ca22xxnZHPGnfgTujYnSfccF4f1Dk%0ARXF0%0A)
 </div>
 
 
@@ -28370,7 +28370,7 @@ de como anda o processo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-7.com/i/o/1063305757/040349d251bddca456fb4e33/zwXTBZV-w0qLDDbGAd2YddrlpCVL2vAySvwpC1XJ-trhi5RHETp6_gblldWZXzGmUEbqbRq0TAJx-Ppn70OnJjw1Oh76Ra39pGrS0VNEcKphNQq7m7DwZoMv6ohrC6XQ7HgbdCYVd2XmOk3szJaQ2Ms?expires=1752529500&amp;signature=81bdb18f531e2aaa5ce1626bb6a2d80ce4aee8b8894da0d46d127ad5da9f71c4&amp;req=dSAhFcp%2BmIZaXvMW1HO4zbZjuc8MQ0IQEoOykP9BgNfAaC%2Bitl5Wt%2BCA5vC8%0A989C%0A)
+![](https://kobana.intercom-attachments-7.com/i/o/1063305757/040349d251bddca456fb4e33/zwXTBZV-w0qLDDbGAd2YddrlpCVL2vAySvwpC1XJ-trhi5RHETp6_gblldWZXzGmUEbqbRq0TAJx-Ppn70OnJjw1Oh76Ra39pGrS0VNEcKphNQq7m7DwZoMv6ohrC6XQ7HgbdCYVd2XmOk3szJaQ2Ms?expires=1752633900&amp;signature=c591bcb4f2ba00b4449d0f20a1b33708d249d558365cb3091d7f45646e949c6a&amp;req=dSAhFcp%2BmIZaXvMW1HO4zbZjuc8PQkgcEoOykP9BgNda8cfR%2F0jopV50dGW%2F%0A8rdN%0A)
 </div>
 
 ## 3. Confirme a ativação do EDI   {#h_8ef4a85a4f}
@@ -28444,7 +28444,7 @@ de pesquisa que irá aparecer e, em seguida, confirme no botão ***OK***.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864556/b20d72fca52b08e36507aae1/santander-ws.png?expires=1752529500&amp;signature=9eced099db1abad1c7e967e6d259f11fdf841c9e38ddc2a929828388bdc31ed5&amp;req=fSMiHs96mIRZFb4f3HP0gP0USLza4JMjRVkS%2BHNZyoPXjUp39RqTrPnSksNN%0A4Ew%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864556/b20d72fca52b08e36507aae1/santander-ws.png?expires=1752633900&amp;signature=5287c9d1ee562d971dbca1592f5aef0bd2729415563c450befe7b06a50ea5bf5&amp;req=fSMiHs96mIRZFb4f3HP0gP0USL%2Fb6p8jRVkS%2BHNZyoPrC9YQOrE2ZThGAycu%0ASNA%3D%0A)
 </div>
 
 Se for solicitado uma senha de administrador ou confirmação, digite a
@@ -28475,7 +28475,7 @@ cadastrados para o usuário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864569/a6deeedcbc488e9faaf5b44e/santander-ws-2.png?expires=1752529500&amp;signature=7df4117d5aabed88519458967fa44ccdd21b8c239c0d6ea5dc5df3f64f289b9f&amp;req=fSMiHs96mIdWFb4f3HP0gAreUbPY2hPJFqQdDRZD%2F50L%2FEDZD%2FNGVW2IpWJn%0AfNk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864569/a6deeedcbc488e9faaf5b44e/santander-ws-2.png?expires=1752633900&amp;signature=409694374c3781c96a04e345fd669926dfbee69966bb0cc94fa97d6a88008fb0&amp;req=fSMiHs96mIdWFb4f3HP0gAreUbDZ0B%2FJFqQdDRZD%2F50XeooK22DjrGf4rkAC%0AioQ%3D%0A)
 </div>
 
 
@@ -28490,7 +28490,7 @@ para **Todas as tarefas (All tasks)** e selecione em<b> <i>Exportar
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864575/b7fbb5bea4ca17a879b06fab/santander-ws-3.png?expires=1752529500&amp;signature=aa6b5571f531e622e8b83d1e4b79878805d8676732cab58e7d90092c1b58999f&amp;req=fSMiHs96mIZaFb4f3HP0gMsiqdA5r3dTsdAsIzeU5Ghejn5wPLk0V2Ofoo8%2B%0AC8U%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864575/b7fbb5bea4ca17a879b06fab/santander-ws-3.png?expires=1752633900&amp;signature=4c626b439b468b584e1718f097fd2a99865209da4e787134cae4ef65fcba9f98&amp;req=fSMiHs96mIZaFb4f3HP0gMsiqdM4pXtTsdAsIzeU5GgvDPPQ1bCUj0qG4Ogt%0AaH4%3D%0A)
 </div>
 
 
@@ -28505,7 +28505,7 @@ O Wizard será aberto. Clique em ***Avançar (Next)***.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864586/205a6fa76e93709c57696e4c/santander-ws-4.png?expires=1752529500&amp;signature=99d52ec76a8c71c21f703245d9832cb10fceb6c8754e069a7607fa0c6fbd5dbb&amp;req=fSMiHs96mIlZFb4f3HP0gJ%2BI3GO7E79%2BarqaxOaiUQsnwSnpsMv0hT4rT8u2%0ACwQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864586/205a6fa76e93709c57696e4c/santander-ws-4.png?expires=1752633900&amp;signature=d861bf8b190ca152357127a4985f3ddfbaa2a95021a483b566dc08abf0a41b24&amp;req=fSMiHs96mIlZFb4f3HP0gJ%2BI3GC6GbN%2BarqaxOaiUQsbJASJp3wjM10%2Fh8y0%0AOGY%3D%0A)
 </div>
 
 ## **4. Exporte a chave privada**   {#h_ebbf79afb8}
@@ -28519,7 +28519,7 @@ privada estiver marcada como exportável e você tiver acesso a ela.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864598/1ca44c156caaa481d6e7e6db/santander-ws-5.png?expires=1752529500&amp;signature=fa1486a65d438a26dcac14857ce98fc366a7cd797a27d867eb0865162bbc26d9&amp;req=fSMiHs96mIhXFb4f3HP0gF7IwU7snHA1R9TUi2P6qXLmp%2Bk2Xd%2FtTyinoUXA%0ASHI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864598/1ca44c156caaa481d6e7e6db/santander-ws-5.png?expires=1752633900&amp;signature=8625818e97f9c10c4b320d4e312ab40a6e67406d3d28f98a06510bfb7d97884d&amp;req=fSMiHs96mIhXFb4f3HP0gF7IwU3tlnw1R9TUi2P6qXLEj6mbtX8xpdYME%2BM1%0Ah3I%3D%0A)
 </div>
 
 
@@ -28538,7 +28538,7 @@ Atenção: selecione apenas o primeiro e último sub-intes.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864609/c9009a04dd9b3dc1a0e8729f/santander-ws-6.png?expires=1752529500&amp;signature=5ea2aa2963b38f0188c1b6d56eeeefac93b4bae15319b44876da93aafe52f533&amp;req=fSMiHs96m4FWFb4f3HP0gJJlR5KEfhYCL0iRCMdXMARsLiHydSx3xRTaU6ij%0AtWE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864609/c9009a04dd9b3dc1a0e8729f/santander-ws-6.png?expires=1752633900&amp;signature=5488b955f1a760a445add0647ed62c75e94c93373783d38d860fbf289a02fcc2&amp;req=fSMiHs96m4FWFb4f3HP0gJJlR5GFdBoCL0iRCMdXMARoEmQackITvuSwttG7%0A4Cs%3D%0A)
 </div>
 
 
@@ -28574,7 +28574,7 @@ Clique em ***Avançar (Next)***.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864619/28c43a04a7b13fe91a2b9090/santander-ws-7.png?expires=1752529500&amp;signature=8e1d4db7f9a997fba9f7f61c78b6d982e56124dd179bbdabe5fadd4c9d668c59&amp;req=fSMiHs96m4BWFb4f3HP0gL3%2BsgfkS%2F90JXX%2BjJtCmgxfMA11bolzbQJ7HpNH%0ALAc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864619/28c43a04a7b13fe91a2b9090/santander-ws-7.png?expires=1752633900&amp;signature=721d5b5d99950d296b804a0381837e9c7f54724cc49427fb91c4b03e5200a49b&amp;req=fSMiHs96m4BWFb4f3HP0gL3%2BsgTlQfN0JXX%2BjJtCmgxC%2Bzo%2BU5zORL8fj7DP%0Ax7Q%3D%0A)
 </div>
 
 
@@ -28590,7 +28590,7 @@ confirme-a e clique em **Avançar (Next)**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864626/8c0325b08ba0f99ab014bb1c/santander-ws-8.png?expires=1752529500&amp;signature=9d94cd00c9f190cbb1f649650da4bbec2e21452a6a082f3618333ef8ca6b9d05&amp;req=fSMiHs96m4NZFb4f3HP0gBsBRdk5%2F9AmZoBM%2Fchlbd%2Ba6mwmkFSPoxXxMH%2FM%0AQ%2Fs%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864626/8c0325b08ba0f99ab014bb1c/santander-ws-8.png?expires=1752633900&amp;signature=f56fb351acd2c431eedbcc78e2d6df6415602712e6d1fb1bd0f9b18e05eb6a7b&amp;req=fSMiHs96m4NZFb4f3HP0gBsBRdo49dwmZoBM%2Fchlbd%2FmbzTc4INMua1%2FOhFy%0AnrM%3D%0A)
 </div>
 
 
@@ -28606,7 +28606,7 @@ Na próxima página, já chegamos ao final do processo. Clique em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935864646/ef05b94162ad4ee18601f1ff/santander-ws-9.png?expires=1752529500&amp;signature=4b866150935feb654906811fc48284c3da3ca221fc284996c4b29714d003dcf7&amp;req=fSMiHs96m4VZFb4f3HP0gIptyp7YqeudrNRatI9pOO4a4BfxEw5LDgnFflVR%0Arek%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935864646/ef05b94162ad4ee18601f1ff/santander-ws-9.png?expires=1752633900&amp;signature=ae376b02009032dc9c7d6f4ffbb8a41bae01bcdc019d9caf95a2095772ecb40a&amp;req=fSMiHs96m4VZFb4f3HP0gIptyp3Zo%2BedrNRatI9pOO7G9cd6ynRh0xqWURW7%0ARwk%3D%0A)
 </div>
 
 Agora basta enviar **o certificado digital em formato PK/PFX** e
@@ -28716,7 +28716,7 @@ service da carteira que deseja ativar este serviço.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935835956/69ec8ed13970748613b4a212/image.png?expires=1752529500&amp;signature=bd69a63736032771ad89915f3e88166fe2935c73572a04a1b7275a707bf5f6cf&amp;req=fSMiHsp7lIRZFb4f3HP0gDaT5wGb5KERfbu2ev24KBCXzA6KXVat2TvdC%2Bkc%0AM3A%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935835956/69ec8ed13970748613b4a212/image.png?expires=1752633900&amp;signature=44ea19ca737fa0ee3cbefe154cfea151977cfe4a12becde16b62338f6a11536f&amp;req=fSMiHsp7lIRZFb4f3HP0gDaT5wKa7q0Rfbu2ev24KBBhh%2Fri3%2BPRmn5Awwzh%0A5Pk%3D%0A)
 </div>
 
 
@@ -28741,7 +28741,7 @@ service.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/935835970/7c8f4d0919126912baddfdae/image.png?expires=1752529500&amp;signature=80681956c7fc03015cce101c622ba49949a232fe7fc043b8121d788f0955ee4d&amp;req=fSMiHsp7lIZfFb4f3HP0gJMFQ7rz2IQswF4VfSfnuF0WU7cimLtKUikkjLxN%0AGPk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/935835970/7c8f4d0919126912baddfdae/image.png?expires=1752633900&amp;signature=abc49473318ae858e37c2600dbd6db3c9274d8c24bbd791ce06ff802358fe8c0&amp;req=fSMiHsp7lIZfFb4f3HP0gJMFQ7ny0ogswF4VfSfnuF2GS0najzG8CqebAtyT%0A01Q%3D%0A)
 </div>
 
 
@@ -28940,7 +28940,7 @@ integrar a próxima remessa.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/934853661/75b12fd937bb01107690c76c/image.png?expires=1752529500&amp;signature=843f0c4e90aff94de4a27897e02780d0275eafba6df2f07a6edc9853c0edfb2b&amp;req=fSMjHsx9m4deFb4f3HP0gC1cf9ZRg4Ij7OtfeOibMaVcEjqfd9j3Q%2F%2F94hIC%0AC1Y%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/934853661/75b12fd937bb01107690c76c/image.png?expires=1752633900&amp;signature=3be0311b0f1050c302ee01ed464153477794e47e33410fa5319702ab434dbfd1&amp;req=fSMjHsx9m4deFb4f3HP0gC1cf9VQiY4j7OtfeOibMaXN8usXNcF%2B4ot7ubal%0AcSw%3D%0A)
 </div>
 
 
@@ -28970,7 +28970,7 @@ Use os campos de marcação na esquerda dos títulos!
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934855515/613a91786d7d2e1f1075b547/screen-shot-2018-07-17-at-09-28-28.png?expires=1752529500&amp;signature=e9064ed6e5a6e71e3a7240b3cab19b5f4d60ddd461462a6c2a9394edb22af856&amp;req=fSMjHsx7mIBaFb4f3HP0gFK3XAWtqRP6l8hJb3Cvme%2BpRmW6Nnk9J3zITPG3%0A470%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934855515/613a91786d7d2e1f1075b547/screen-shot-2018-07-17-at-09-28-28.png?expires=1752633900&amp;signature=e59542629a61b48b24b8a194a0428a5ff309f9bbd969138abf110d9bfc76e857&amp;req=fSMjHsx7mIBaFb4f3HP0gFK3XAasox%2F6l8hJb3Cvme%2F1m06%2BOsUqzBelANqq%0ARtc%3D%0A)
 </div>
 
 Após selecionar os boletos que você quer manusear, clique nos campos
@@ -28982,7 +28982,7 @@ remessa.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/934854138/e87229d78c1a669e840779f4/image.png?expires=1752529500&amp;signature=e9b6a6e37e3886eb06f55a8d1f553200d63d3642775303ddded962b5ebbfa31a&amp;req=fSMjHsx6nIJXFb4f3HP0gPnHWSacp0UJ%2F%2BY2e%2BP0ngy07ID6MY6J5TQR4Ybl%0AT4M%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/934854138/e87229d78c1a669e840779f4/image.png?expires=1752633900&amp;signature=7a07d4bfffc35ce6cc806434116086d10d028864b3e18d0a753eb6ceec79e60a&amp;req=fSMjHsx6nIJXFb4f3HP0gPnHWSWdrUkJ%2F%2BY2e%2BP0ngzzJpNoynzgWiV4iDqj%0AYbM%3D%0A)
 </div>
 
 ​
@@ -29020,7 +29020,7 @@ Arquivos CNAB de remessa* e clique em *Remessa.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934831561/e93be4206f74396dd57bb4e6/image.png?expires=1752529500&amp;signature=b00cac8564799eb4859826e9d841e83957ee7f5849fe759a0c104f9a63dcc3f7&amp;req=fSMjHsp%2FmIdeFb4f3HP0gLoMfY8fgDXrpEqV%2FaojiEvGQm1wIKJJO9i8epbF%0AOpY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934831561/e93be4206f74396dd57bb4e6/image.png?expires=1752633900&amp;signature=58906f68385492f928d2aa8339960ed3bc4c9ffde393426c30fb04b0bd340334&amp;req=fSMjHsp%2FmIdeFb4f3HP0gLoMfYweijnrpEqV%2FaojiEvL19e1gU19EU1yr%2Bp%2F%0AGpc%3D%0A)
 </div>
 
 
@@ -29034,7 +29034,7 @@ remessa aberta, clique em *Ações &gt; Excluir.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934831574/0349a6d6245b4805cc1b3bb1/image.png?expires=1752529500&amp;signature=7f74409939900bd531b8357186aa072e7b3e76c15a2e01994e2080164970b6c9&amp;req=fSMjHsp%2FmIZbFb4f3HP0gLLLn0Eol3AVogFJUxtWKcAgptUUoWDJolsPO%2BZS%0AndE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934831574/0349a6d6245b4805cc1b3bb1/image.png?expires=1752633900&amp;signature=7351341c9ee943080bc51c78ba90d60e7aff6d28c05297512cf848e3a093d8be&amp;req=fSMjHsp%2FmIZbFb4f3HP0gLLLn0IpnXwVogFJUxtWKcBy46s7vGtxa5JxICTJ%0AWuU%3D%0A)
 </div>
 
 
@@ -29129,7 +29129,7 @@ sequencial.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934800228/c527745c203b6cf5530666cf/image.png?expires=1752529500&amp;signature=57d6632c9e8f3d2edea954cea8bb23eae33a30e69a897cb93665118767d6fd75&amp;req=fSMjHsl%2Bn4NXFb4f3HP0gPjeGQdA2XgBL9JByEnsE3P8fQDIWtIlyZyljA45%0AhxY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934800228/c527745c203b6cf5530666cf/image.png?expires=1752633900&amp;signature=c1da1c68737e9f75cbe23d490738b36f33855df48943461bcf1902b25ffbe513&amp;req=fSMjHsl%2Bn4NXFb4f3HP0gPjeGQRB03QBL9JByEnsE3MS%2F%2BHG%2B7u2M9Azr%2Fgc%0AKfo%3D%0A)
 </div>
 
 Você só conseguirá fazer essa alteração se a sua carteira já estiver
@@ -29147,7 +29147,7 @@ chat da interface.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934800237/1e90ee4857d67292fc94497e/image.png?expires=1752529500&amp;signature=01578d9735a5077c2e9a24e183061022a55523e14d64a52ffbad1dc75965daa7&amp;req=fSMjHsl%2Bn4JYFb4f3HP0gNOTX%2FuTDMYvcAdBUcT%2BGZl5RXfSN%2FYFQ%2B85uH9f%0Awe0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934800237/1e90ee4857d67292fc94497e/image.png?expires=1752633900&amp;signature=619caeb295633a46fb8dde35c7ca77a85cdca235e99e7905a984c6566560c11a&amp;req=fSMjHsl%2Bn4JYFb4f3HP0gNOTX%2FiSBsovcAdBUcT%2BGZlaCDMKbwIZfsKDVSpi%0ALA0%3D%0A)
 </div>
 
 
@@ -29159,7 +29159,7 @@ gerada com o número seguinte que você incluir aqui.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934800245/e91729f40f8bbf022aebee74/image.png?expires=1752529500&amp;signature=cead8fb3dd595732c54d6031f871d35c8f92e687941717a6ee1d7fd28f53c586&amp;req=fSMjHsl%2Bn4VaFb4f3HP0gMvogPrzqzszh0vWFKd%2FmCOLqVs2IBTJjHLk94Ap%0AAA4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934800245/e91729f40f8bbf022aebee74/image.png?expires=1752633900&amp;signature=1e9409ed5df4850b6360e0a0ce795aaf9b55d360920f2ed1fb5cab16bbff7f02&amp;req=fSMjHsl%2Bn4VaFb4f3HP0gMvogPnyoTczh0vWFKd%2FmCOSNaDGNL6kKdfLLMCa%0AkjE%3D%0A)
 </div>
 
 
@@ -29234,7 +29234,7 @@ Ao acessar o Internet Banking do Bradesco, no menu superior, clique em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934785376/b0704cb79864414cac147c86/print-bradesco-1-mark-png.PNG?expires=1752529500&amp;signature=0acc87760eaad5e71694aa5c2d1a3e3712137d8afa2ee847370402a06e9f3529&amp;req=fSMjEcF7noZZFb4f3HP0gBiYJ23fIuzIAqTRwuOYsyQ7LyAzGLe7fLindygG%0AARg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934785376/b0704cb79864414cac147c86/print-bradesco-1-mark-png.PNG?expires=1752633900&amp;signature=f1105786695fa78f28b6efa13f69f74ca91f3667d1eafd193814aabb7149319c&amp;req=fSMjEcF7noZZFb4f3HP0gBiYJ27eKODIAqTRwuOYsySwaBhaM86DU3KluEG%2F%0Ae7Y%3D%0A)
 </div>
 
 
@@ -29249,7 +29249,7 @@ Arquivo de Retorno**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934785396/8f20f3ff64a579bb2c76d10d/print-bradesco-2-mark-png.PNG?expires=1752529500&amp;signature=1a108d9f5b8a864c8415688a1096647709619a3d72062cefef8daad638a4031f&amp;req=fSMjEcF7nohZFb4f3HP0gEOGWVhMNRNvdinn9amOCD78QU7pnmBS43UkwBUZ%0AOPU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934785396/8f20f3ff64a579bb2c76d10d/print-bradesco-2-mark-png.PNG?expires=1752633900&amp;signature=fb07a47eded5852dd46072b9cf3f5605968d71a95004b4bd89704c72b9608979&amp;req=fSMjEcF7nohZFb4f3HP0gEOGWVtNPx9vdinn9amOCD4Y3QneIZWLQqUBWDTB%0Aeu0%3D%0A)
 </div>
 
 
@@ -29263,7 +29263,7 @@ no seu computador em que o arquivo será armazenado:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934785412/a85c938273519d9e4d1718ce/print-bradesco-3-png.PNG?expires=1752529500&amp;signature=c2561548af050db4a729b21056077b201d26b17ae4be29edd8c9773379d97c36&amp;req=fSMjEcF7mYBdFb4f3HP0gM%2FyHvetccVUlxZan3gb%2FC2qly%2BV5Nxk9SpN2LAA%0A9Fc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934785412/a85c938273519d9e4d1718ce/print-bradesco-3-png.PNG?expires=1752633900&amp;signature=64d969c4c4969be717ecc709e79a3df39347b513b12c861cd8baaa2aa701f547&amp;req=fSMjEcF7mYBdFb4f3HP0gM%2FyHvSse8lUlxZan3gb%2FC1ZBzmBVaTgwo2Fgm6J%0A23Q%3D%0A)
 </div>
 
 
@@ -29304,7 +29304,7 @@ retorno. Por fim, basta clicar em **Enviar arquivo retorno**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1025359795/84e5c15eac61e17e592b73c6/image.png?expires=1752529500&amp;signature=33992630652a4d162e0029bfcd7d55e0481c32dd36a0624403332c37bcf51452&amp;req=dSAlE8p7lIZWXPMW1HO4zSv33dwxuIWqEDkONmZPMMA6eV5NgAFK%2FxA3lt1i%0AsCIi%0A)
+![](https://downloads.intercomcdn.com/i/o/1025359795/84e5c15eac61e17e592b73c6/image.png?expires=1752633900&amp;signature=3437829958fa64fb92a9822ba546e309538796b47bd9237f91c0b13b415f9b18&amp;req=dSAlE8p7lIZWXPMW1HO4zSv33dwyuY%2BmEDkONmZPMMBXnovVmeciFbPf4Ua4%0AAM8j%0A)
 </div>
 
 ​
@@ -29368,7 +29368,7 @@ Ao acessar seu login no Internet Banking do Santander, localize o menu
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934779529/815f9d17342934d13d2003a1/image.png?expires=1752529500&amp;signature=bda516397fa00cfc1c1f0c3581caedeab387cbb23ccb4baf169330409916701b&amp;req=fSMjEc53mINWFb4f3HP0gMKZhZFJdTdmVksXpuaFl%2BvdDSiLndxMx5Ci3xkm%0Avi8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934779529/815f9d17342934d13d2003a1/image.png?expires=1752633900&amp;signature=00abed3b3ee71be4f3f8d2069e8b9b183e980ecbafdaa34e61cb4ff36d3ffcdb&amp;req=fSMjEc53mINWFb4f3HP0gMKZhZJIfztmVksXpuaFl%2Bs2NuehNrTFbgMz1ywx%0ADk8%3D%0A)
 </div>
 
 ## **2. Localize o arquivo retorno e salve em seu computador**   {#h_0230b10e65}
@@ -29396,7 +29396,7 @@ disquete na coluna **Salvar** para salvar o arquivo em seu computador.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934779546/14921700d18f8b2e2a8456c1/image.png?expires=1752529500&amp;signature=9b4c65094c540eef9d7f89e07b1999a7b23b13da8a14b31aa82eca6cf35d244a&amp;req=fSMjEc53mIVZFb4f3HP0gDeAL64Q%2FyEEf0BrROlM2sdUhxAzzHXBVQZkL%2FGD%0AE8s%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934779546/14921700d18f8b2e2a8456c1/image.png?expires=1752633900&amp;signature=c5efb74cdf1f5b546cdf9de41abe4fb6fd0ec638d31e481eed428ad5a4f63a19&amp;req=fSMjEc53mIVZFb4f3HP0gDeAL60R9S0Ef0BrROlM2sdksw3zirVS1yJyM%2FkL%0AnpU%3D%0A)
 </div>
 
 ## **3. Envie o arquivo de retorno à Kobana**   {#h_5bc34c44e3}
@@ -29426,7 +29426,7 @@ Depois, basta clicar em <b>Enviar arquivo retorno: </b>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1025350198/de07b3cef638df4db26be75f/image.png?expires=1752529500&amp;signature=68dc3ec4f798d053b7852916bc608c233ca75268499a4cb8872b2cab1f0a7be9&amp;req=dSAlE8p7nYBWUfMW1HO4zU%2BDk8qtTqaCTRPHP6RXAykbn%2FNxIcsMCF6pfGBs%0A62DZ%0A)
+![](https://downloads.intercomcdn.com/i/o/1025350198/de07b3cef638df4db26be75f/image.png?expires=1752633900&amp;signature=6f2712b6d5b33554bde1704e5bfc1539390325f12333903c943b466d31163c1c&amp;req=dSAlE8p7nYBWUfMW1HO4zU%2BDk8quT6yOTRPHP6RXAynSs9TwWAIxEeFYIZM%2F%0A%2FphI%0A)
 </div>
 
 
@@ -29491,7 +29491,7 @@ clique em *Transferência de Arquivos* *&gt;* *Transmitir*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934766767/45a6a9a97b63785c8c03befa/santander-envio-remessa-boleto-simples-01.png?expires=1752529500&amp;signature=eb667f7df2e6367fa0b0eba62edb1f9522b7a19e11afbc03eb72b1df116d7157&amp;req=fSMjEc94modYFb4f3HP0gEsKnyrS%2FzTQpt4U2WAmyb6ie7EoZPW9%2FCzP%2FoqR%0AcZA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934766767/45a6a9a97b63785c8c03befa/santander-envio-remessa-boleto-simples-01.png?expires=1752633900&amp;signature=0185546d16176a1ae8fc913e30dbb40dd6c51ba83952c195a65096f2b63c64db&amp;req=fSMjEc94modYFb4f3HP0gEsKnynT9TjQpt4U2WAmyb6M3J8Zv4iDqdHMPhk7%0AiPQ%3D%0A)
 </div>
 
 
@@ -29508,7 +29508,7 @@ selecione o correspondente na Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934766779/fce36eef203179f7d344c0be/santander-envio-remessa-boleto-simples-02.png?expires=1752529500&amp;signature=5c1048ef9587bb4da9e8856d621e8e7347384d1712700560f7a5c7ceb21fd8f3&amp;req=fSMjEc94moZWFb4f3HP0gEpNb2Zt1kh%2BPknCfhNysTw3ZHeXQUJL0%2F0s5EbV%0AFZA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934766779/fce36eef203179f7d344c0be/santander-envio-remessa-boleto-simples-02.png?expires=1752633900&amp;signature=ec5b3f35a0db3dcc1e414440b8529e72c005f5e063a146e624c5112e6db459e0&amp;req=fSMjEc94moZWFb4f3HP0gEpNb2Vs3ER%2BPknCfhNysTyEqNrrXHFsybm4zS7J%0AVA8%3D%0A)
 </div>
 
 
@@ -29525,7 +29525,7 @@ selecionado, clique em *Transmitir*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934766791/42cc3e3af36f8bebd7bfbeca/santander-envio-remessa-boleto-simples-03.png?expires=1752529500&amp;signature=dc4bca9ac8621bc598b3ecfd5708b1a067576d4c02500bcd1b21e79df8bb77ec&amp;req=fSMjEc94moheFb4f3HP0gDYUox5FUvStL%2Fj7C8WBH22nGOzkEadNXr7GKcYE%0ANt4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934766791/42cc3e3af36f8bebd7bfbeca/santander-envio-remessa-boleto-simples-03.png?expires=1752633900&amp;signature=9ab60dcbf5bf5ffbbd61044f8c3877d8573545beb1b514a0290bff116a5fb653&amp;req=fSMjEc94moheFb4f3HP0gDYUox1EWPitL%2Fj7C8WBH23SV9OKR4l%2FjQiBlyfj%0AQf4%3D%0A)
 </div>
 
 
@@ -29549,7 +29549,7 @@ contato com o seu gerente bancário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934766805/be7c0610516f57c1739984be/santander-envio-remessa-boleto-simples-04.png?expires=1752529500&amp;signature=e4cb8b9be54b245cd99aa955c4cba9f27fc28422819942c20333b9e8067c43b6&amp;req=fSMjEc94lYFaFb4f3HP0gEhQUFdnNqyvxlcs0atcIoDlRAj7plwcJjEcW8Hd%0ArBU%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934766805/be7c0610516f57c1739984be/santander-envio-remessa-boleto-simples-04.png?expires=1752633900&amp;signature=f35250529022dca92c0e002d864cade99a7a89c7d8ec92e6f18cca8123f1ce80&amp;req=fSMjEc94lYFaFb4f3HP0gEhQUFRmPKCvxlcs0atcIoAwixRm7zRc9swt4ke4%0AwX4%3D%0A)
 </div>
 
 
@@ -29664,7 +29664,7 @@ selecione a opção *Remessa/Retorno*<b> </b>e, então<b>
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934758218/13152ccfd5f07a20413806e2/image.png?expires=1752529500&amp;signature=7807602f1893958f6347549c328c4e057e862e5c170761b57359e4525621ce2d&amp;req=fSMjEcx2n4BXFb4f3HP0gO7Y9Bnj0KdIzZ%2B%2FuLhL3I94A7PJ40ZnpAkSGsJe%0AzAE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934758218/13152ccfd5f07a20413806e2/image.png?expires=1752633900&amp;signature=67dc74cf396ba63fbf1bbe718ccc7e6bf0d23173c733cceeeec369d825c7abc5&amp;req=fSMjEcx2n4BXFb4f3HP0gO7Y9Bri2qtIzZ%2B%2FuLhL3I9Aa%2BYvFV8aNhX0PQKx%0A%2BwA%3D%0A)
 </div>
 
 
@@ -29680,7 +29680,7 @@ baixada da Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934758241/a89c6d45ffcc6c0af582a5c1/image.png?expires=1752529500&amp;signature=f6ccc68a350878861fdb6020dbb400fdcd5a18aad00343d2621d67a11e674f89&amp;req=fSMjEcx2n4VeFb4f3HP0gE0GY1JIrvMthcnQiuSkFl2akK1bB%2BV3V2wkgLF4%0AXr8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934758241/a89c6d45ffcc6c0af582a5c1/image.png?expires=1752633900&amp;signature=f183b56a939a938fe9083cc5711810a0e684183b20c60ccd5053d987959bc838&amp;req=fSMjEcx2n4VeFb4f3HP0gE0GY1FJpP8thcnQiuSkFl3bKALR0kL2UifkLW5E%0A4dE%3D%0A)
 </div>
 
 
@@ -29755,7 +29755,7 @@ principal, clique em *Transmissão de Arquivos* *&gt;* *Enviar arquivos*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934755468/7f0dd19d0fee2abc777732c7/caixa-economica-federal-envio-remessa-boleto-simples-01.png?expires=1752529500&amp;signature=6fe23d897c456008d56dcbe006e6cdf992f9a3cf6e39563b80c1978187ac2671&amp;req=fSMjEcx7mYdXFb4f3HP0gHX2n3W7HN0Z2dFsyWHldpNWAaz19F3PdH8zKR8z%0AOVA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934755468/7f0dd19d0fee2abc777732c7/caixa-economica-federal-envio-remessa-boleto-simples-01.png?expires=1752633900&amp;signature=fd4134d5de4db51df343a97f307823fa33eec817a8045520001f6840dfdbab1e&amp;req=fSMjEcx7mYdXFb4f3HP0gHX2n3a6FtEZ2dFsyWHldpMeVuE9%2FSmrVU%2BvTgeL%0AEXY%3D%0A)
 </div>
 
 
@@ -29772,7 +29772,7 @@ aquele que você cadastrou na Kobana para a remessa ser gerada.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934755484/0e9c765be7ce2585943c0853/caixa-economica-federal-envio-remessa-boleto-simples-02.png?expires=1752529500&amp;signature=99560b48b9493c1ace2f2967e2aafa5d68238eb7337367ec2bef0511edf7c9f9&amp;req=fSMjEcx7mYlbFb4f3HP0gMJCUGSU1NEy4x0IFe4ZBuVSXxBmBrEHzhrrZ%2Bjv%0AHyo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934755484/0e9c765be7ce2585943c0853/caixa-economica-federal-envio-remessa-boleto-simples-02.png?expires=1752633900&amp;signature=5a87db2a51f3e63c304e5783f2d536a82d03e9df435f86e31c18fd49388df434&amp;req=fSMjEcx7mYlbFb4f3HP0gMJCUGeV3t0y4x0IFe4ZBuWFYF1rkDzHD90TdNmL%0ARCk%3D%0A)
 </div>
 
 
@@ -29789,7 +29789,7 @@ no seu computador.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934755491/2f6030723430aa475a257b86/caixa-economica-federal-envio-remessa-boleto-simples-03.png?expires=1752529500&amp;signature=177162c17952482f112b402ee1469d7a9c3e1b61b1e6b134215e7cd17868c7b3&amp;req=fSMjEcx7mYheFb4f3HP0gC1UJOMEaoq8dOSt%2ByrAs90ENRNnFWbtD3ggoTIH%0Awts%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934755491/2f6030723430aa475a257b86/caixa-economica-federal-envio-remessa-boleto-simples-03.png?expires=1752633900&amp;signature=0d0dbbd2e3b4628bf19c2ef731b59b540d8ccfd833ce0b183a144c960b6c791f&amp;req=fSMjEcx7mYheFb4f3HP0gC1UJOAFYIa8dOSt%2ByrAs90a4kCxXxL2WH0L7ggw%0A%2BzQ%3D%0A)
 </div>
 
 
@@ -29813,7 +29813,7 @@ arquivo de remessa selecionado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934755496/df1e9ca81de53159efa5421a/caixa-economica-federal-envio-remessa-boleto-simples-04.png?expires=1752529500&amp;signature=674b5c7ede182ad397100d0b48c53cef37fd44b7b1fdc314eb0112fde18efeb7&amp;req=fSMjEcx7mYhZFb4f3HP0gM2p9E75cXLIXhMsyD%2B4rAINYIZNugqROczX%2Fj8g%0AUms%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934755496/df1e9ca81de53159efa5421a/caixa-economica-federal-envio-remessa-boleto-simples-04.png?expires=1752633900&amp;signature=61a7a103b867ace21e6057c412efb2fcf932868e74ebf1c51eb3b9f8e22f3e5e&amp;req=fSMjEcx7mYhZFb4f3HP0gM2p9E34e37IXhMsyD%2B4rAIOR%2F%2FqEPql4YLBR9H0%0APqs%3D%0A)
 </div>
 
 
@@ -29891,7 +29891,7 @@ estiver usando e pressione *Adicionar Arquivos.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934748535/2610475df8c0b4c93ab65a19/bradesco-envio-remessa-boleto-simples-01.png?expires=1752529500&amp;signature=cff328d73088bf421509624212801099999bc537f2e70cac6904a1278168cd00&amp;req=fSMjEc12mIJaFb4f3HP0gK7yNGwfmBnGAt0Rx8fv2fv8CucTFRsc6UG1FLcR%0AObI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934748535/2610475df8c0b4c93ab65a19/bradesco-envio-remessa-boleto-simples-01.png?expires=1752633900&amp;signature=c4513c94cc9b783b5466d6ffc2fb8cf64ef7c7bab9715d4292bfc08e026e0b41&amp;req=fSMjEc12mIJaFb4f3HP0gK7yNG8ekhXGAt0Rx8fv2ftJxSFdqGmUDmCgkO3Z%0A7Ks%3D%0A)
 </div>
 
 
@@ -29908,7 +29908,7 @@ instalação do programa, necessário para a conclusão deste procedimento.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934748546/007fb14d1523e577baa8eb76/bradesco-envio-remessa-boleto-simples-02.png?expires=1752529500&amp;signature=ec40251bd4c742ec2fc896374e96f5a0f560d207b386a25bfc217df9559dbe2d&amp;req=fSMjEc12mIVZFb4f3HP0gGn0UfE7uUPmFfS%2B8f7sQQPqDfN2LKUX8XAZfLp0%0AQrQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934748546/007fb14d1523e577baa8eb76/bradesco-envio-remessa-boleto-simples-02.png?expires=1752633900&amp;signature=a22bda3b616f0f90cd4e45af3fd62fbb6eaefa8bb33835c8dee1c9c927fa88d0&amp;req=fSMjEc12mIVZFb4f3HP0gGn0UfI6s0%2FmFfS%2B8f7sQQPaZ%2FKZScPwB4C6%2Blgy%0AxSs%3D%0A)
 </div>
 
 
@@ -29924,7 +29924,7 @@ Kobana.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934748557/3a400bf70130d429920b6fa3/bradesco-envio-remessa-boleto-simples-03.png?expires=1752529500&amp;signature=bbf9807e41908a35f999d8abd6eb47b159ef9a948e5a0c18f3d6181119df2ebd&amp;req=fSMjEc12mIRYFb4f3HP0gFV4xHPa2ATbYB1lEGCVmo8FZ64u9vRsL5ZUpC3b%0AZj8%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934748557/3a400bf70130d429920b6fa3/bradesco-envio-remessa-boleto-simples-03.png?expires=1752633900&amp;signature=dc6f15b48ca1e09a75e04c0ad4dae1df0aff82145ed24672968a240be0eb8fab&amp;req=fSMjEc12mIRYFb4f3HP0gFV4xHDb0gjbYB1lEGCVmo%2BGOGZzrp1T0UP5%2BNlB%0A8Ac%3D%0A)
 </div>
 
 
@@ -29938,7 +29938,7 @@ realizado com sucesso, como a abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934748570/3df2bff0adc85960f119bea4/bradesco-envio-remessa-boleto-simples-04.png?expires=1752529500&amp;signature=5448e4c777bed7d2679511da149376f92426c634d5c69ec4a462e8d0a637a493&amp;req=fSMjEc12mIZfFb4f3HP0gCLY1ueAp7hXtHojTNh50W6Sm220PzR7GRSurvXZ%0AIsI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934748570/3df2bff0adc85960f119bea4/bradesco-envio-remessa-boleto-simples-04.png?expires=1752633900&amp;signature=d2c162a0e581cd22ced187590d127c47acfb58536dc58089dde20f4d4ee4a4dd&amp;req=fSMjEc12mIZfFb4f3HP0gCLY1uSBrbRXtHojTNh50W6shOWPbJwgRg6wQfzv%0AB5Q%3D%0A)
 </div>
 
 
@@ -30001,7 +30001,7 @@ abaixo:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934139927/9ed5546dea5849dbe73b3e19/image.png?expires=1752529500&amp;signature=00ab20d56dce5becea211adfb4c96ad6dce97441a0524bf8fd58d296f97a4406&amp;req=fSMjF8p3lINYFb4f3HP0gJOIpdQW33NfUq7jEPl0KJuWerr7hjLxlFc6DVyy%0Alzk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934139927/9ed5546dea5849dbe73b3e19/image.png?expires=1752633900&amp;signature=855edb78f00dbbf1c1f7ec709f9a92fa5c22f42b6e8b6034618e00ed34c3ca93&amp;req=fSMjF8p3lINYFb4f3HP0gJOIpdcX1X9fUq7jEPl0KJuiaoVvANoUjyqrGyoJ%0AKfs%3D%0A)
 </div>
 
 
@@ -30026,7 +30026,7 @@ Enviar</b>.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934139930/ecb3d98391e07666726c7392/image.png?expires=1752529500&amp;signature=7f7f95ad3a42f188e8a4a819b51319d13a5bb4e27e55163f2e9dd0e7db9239eb&amp;req=fSMjF8p3lIJfFb4f3HP0gOQcNiARF%2FudVFlE1yLqOkPuW5huyLMM%2BjsGncbY%0AkwM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934139930/ecb3d98391e07666726c7392/image.png?expires=1752633900&amp;signature=1cbbcb274f843532a0a74ba672c5ed52992d0f1fb4277978047c6d09a309b9e4&amp;req=fSMjF8p3lIJfFb4f3HP0gOQcNiMQHfedVFlE1yLqOkMiQ3ed3G4w6b8lfVSn%0A%2F2o%3D%0A)
 </div>
 
 
@@ -30044,7 +30044,7 @@ seguida, clique em **Enviar**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934139932/0abb54d6a9043838fe4e0edf/image.png?expires=1752529500&amp;signature=85a6552b4c8a4713579440ce4a92ee9b89579eff09087bba0eab8a2462c6b444&amp;req=fSMjF8p3lIJdFb4f3HP0gMg7A94O5EHlVKy3VP62tRRcMBreSCNBmJXCDhZ3%0APzE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934139932/0abb54d6a9043838fe4e0edf/image.png?expires=1752633900&amp;signature=ecbd41bfe9b7b91e3450ab086fabada928fcdd0f83b25e7fa4c0713e806d730d&amp;req=fSMjF8p3lIJdFb4f3HP0gMg7A90P7k3lVKy3VP62tRQ3yplTuhCin%2Br4f3Dv%0AFuo%3D%0A)
 </div>
 
 ## **5. Confirme o envio do arquivo**   {#h_055e373f2e}
@@ -30058,7 +30058,7 @@ em **Confirmar**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934139936/a349de815953c729738b0bbe/image.png?expires=1752529500&amp;signature=fe136da4e488b7fec8ef8d1814a417c193ec15209edfa5a17daba562e3ec40cc&amp;req=fSMjF8p3lIJZFb4f3HP0gNeOuzC4CC57oAO%2BtAs90JRStRLVdthZufuQgVKw%0AL50%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934139936/a349de815953c729738b0bbe/image.png?expires=1752633900&amp;signature=d6bc5aca12fcd301becf6d337162360986ac630a12b78ea34c02763635fea4a6&amp;req=fSMjF8p3lIJZFb4f3HP0gNeOuzO5AiJ7oAO%2BtAs90JRW3nxbF1W9pZ%2BdLIJL%0AeE8%3D%0A)
 </div>
 
 
@@ -30072,7 +30072,7 @@ mensagem abaixo será exibida:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934139941/52d1f0a33a4a8cea48de94a6/image.png?expires=1752529500&amp;signature=6103ca88fddc8cb58b62c85eacacf1b7295acf9970d57a4d51cc81281248fe3e&amp;req=fSMjF8p3lIVeFb4f3HP0gLTI5yLc2oxA7IyKMwgO7u9L4XuFOjoMW%2Fxf3P3h%0A0yA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934139941/52d1f0a33a4a8cea48de94a6/image.png?expires=1752633900&amp;signature=28b0d2cd3b86a07d022a3a9ba36189740b76e0a8a4b6a90649efad21edd69e2a&amp;req=fSMjF8p3lIVeFb4f3HP0gLTI5yHd0IBA7IyKMwgO7u8s6LS5fxvA2%2BBJn7We%0AX30%3D%0A)
 </div>
 
 
@@ -30132,7 +30132,7 @@ item *Transmissão de Arquivos* do menu.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934131338/47142455306f6b5b7784d634/itau-envio-remessa-boleto-simples-01.jpg?expires=1752529500&amp;signature=64e3beab8c40ed893ea9364f453125efe2aec36ff70a948afa4ee4f3cdcff158&amp;req=fSMjF8p%2FnoJXFb4f3HP0gKNc9s78znHqds31gdfCo5xoUBZxT4RwHzOX1KxJ%0Al2k%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934131338/47142455306f6b5b7784d634/itau-envio-remessa-boleto-simples-01.jpg?expires=1752633900&amp;signature=4ffd88cafb5b98412c453b82a7587b1a2024500eb56e31da262581d7e6082bb8&amp;req=fSMjF8p%2FnoJXFb4f3HP0gKNc9s39xH3qds31gdfCo5wcxqlAQ%2FjAhohmm%2F5l%0A%2Fq0%3D%0A)
 </div>
 
 
@@ -30145,7 +30145,7 @@ No menu seguinte, clique na opção **Enviar**, logo abaixo de Remessa.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934131348/763e6eaf95a34829e7724995/itau-envio-remessa-boleto-simples-02.jpg?expires=1752529500&amp;signature=a7e88b7fd9fd8e93e0f5774404a439de2b94b7b81ba9e67ba6bcedbce9ce84fd&amp;req=fSMjF8p%2FnoVXFb4f3HP0gJ3ECtGVCd%2FckFZ2AHVgA6pDiY1ErJ4EIBJ8NGQH%0AzAo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934131348/763e6eaf95a34829e7724995/itau-envio-remessa-boleto-simples-02.jpg?expires=1752633900&amp;signature=653e9e9eecb8f14ecad9007d8e9517ccaf43c418c9b379c50a9d801e16eb6c05&amp;req=fSMjF8p%2FnoVXFb4f3HP0gJ3ECtKUA9PckFZ2AHVgA6oOH2tHn5uAspVSJ7i5%0A9HE%3D%0A)
 </div>
 
 
@@ -30169,7 +30169,7 @@ salvou no seu computador. Depois de selecionado, clique em **Enviar**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934131352/77e50aedd61358dc28fc8ed4/itau-envio-remessa-boleto-simples-03.jpg?expires=1752529500&amp;signature=6f59dc8304baddd0e526757dccfbec5810e6fb8924d1289385d068bc24739391&amp;req=fSMjF8p%2FnoRdFb4f3HP0gIcOLgWZedsa78z8foeyrIRdNjjKgCjOz44ScmwC%0AYuE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934131352/77e50aedd61358dc28fc8ed4/itau-envio-remessa-boleto-simples-03.jpg?expires=1752633900&amp;signature=872c5568ce2838c1a70bf1262b1e6f4691159e32cf0a63f695c6660f1c2901ba&amp;req=fSMjF8p%2FnoRdFb4f3HP0gIcOLgaYc9ca78z8foeyrIRbwT6K08jDKwJHbIym%0A7VU%3D%0A)
 </div>
 
 Em seguida uma mensagem aparecerá no sistema do banco, confirmando que o
@@ -30307,7 +30307,7 @@ gerar remessa selecionando uma de suas carteiras.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1085931289/5df06bba88cdfadfba8ae825/image.png?expires=1752529500&amp;signature=349852569cd38acc5dc8fd13523593271f737d373921dd9e8f3585e078c8a7ac&amp;req=dSAvE8B9nINXUPMW1HO4zZRi7T5SPSbXQB2SWxSHVYpOljoxXNBuqRDyIl2g%0ABzDU%0A)
+![](https://downloads.intercomcdn.com/i/o/1085931289/5df06bba88cdfadfba8ae825/image.png?expires=1752633900&amp;signature=231098d63c212a796d18bf788e65618e99f861d952a63387bb6bbbde3ec2a0c5&amp;req=dSAvE8B9nINXUPMW1HO4zZRi7T5RPCzbQB2SWxSHVYqaNChpcX9POziJSB6g%0AbFaT%0A)
 </div>
 
 
@@ -30321,7 +30321,7 @@ presentes nela que serão enviados ao banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934113972/5adf6b8c530651cb4d6a394f/image.png?expires=1752529500&amp;signature=85b574fa9c800b8a6e31e70dcb63d0fff196d8550ee305cc58f9c9c3d3b6da61&amp;req=fSMjF8h9lIZdFb4f3HP0gHRlPITBomYa0Qx%2FjZaZ%2FeDgmLrhOI5tW5z8uUOA%0AxXQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934113972/5adf6b8c530651cb4d6a394f/image.png?expires=1752633900&amp;signature=0a8cce4d1d137b61e66a67b8677ce59ede273340b166d8fb3175546d359680a2&amp;req=fSMjF8h9lIZdFb4f3HP0gHRlPIfAqGoa0Qx%2FjZaZ%2FeDW5iICK3MJSn9mdTSR%0AmYk%3D%0A)
 </div>
 
 
@@ -30479,7 +30479,7 @@ faço o cadastro dos meus clientes?][1]{: target="_blank"
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934094981/efa3354867b0e70676a5859f/image.png?expires=1752529500&amp;signature=449aab64c460c7625703d0b1afdc4be6cd072678268197519b8a84a3fc1ec0ef&amp;req=fSMjFsB6lIleFb4f3HP0gDXgmfyJDRApVCkkCMzhf83nvWmoPjvXiD5aC9CP%0ABWo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934094981/efa3354867b0e70676a5859f/image.png?expires=1752633900&amp;signature=b0409c0ea3ce810201b2f7ac734ef75d245f26f8e0d4747868cd1ebbd9f270d5&amp;req=fSMjFsB6lIleFb4f3HP0gDXgmf%2BIBxwpVCkkCMzhf82ehn5zi3mN5rBE4AAp%0AasU%3D%0A)
 </div>
 
 
@@ -30893,7 +30893,7 @@ banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1087038043/56678b35612c21144a386f55/image.png?expires=1752529500&amp;signature=a5acae79aa7b47988ffd3b5d39bb5b4942582fa6d9efd23fb06a48035686f479&amp;req=dSAvEcl9lYFbWvMW1HO4zfDcRvNoUxqCDPjk2rH7h7DzDetYYuHVa7gCGr64%0AJW6k%0A)
+![](https://downloads.intercomcdn.com/i/o/1087038043/56678b35612c21144a386f55/image.png?expires=1752633900&amp;signature=2f5431b66f977de6730769ffe8d5a555b3679e564034c9385799c8864e3964c3&amp;req=dSAvEcl9lYFbWvMW1HO4zfDcRvNrUhCODPjk2rH7h7DRaluSDXZouCWQ8A3y%0Ao8qv%0A)
 </div>
 
 
@@ -30919,7 +30919,7 @@ clicar em *Ver Boleto*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934058533/ef3aae4caf1a4fea93857dc4/whats-app-image-2021-09-02-at-16-36-39.jpeg?expires=1752529500&amp;signature=c7f14ab163f29658273c22f8efb72dc3e531fa305d981a57cfe61679b074511a&amp;req=fSMjFsx2mIJcFb4f3HP0gCAOOuT20q2IH0%2F2k55YtVxmcshcU4TDyFuNmE70%0AIXI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934058533/ef3aae4caf1a4fea93857dc4/whats-app-image-2021-09-02-at-16-36-39.jpeg?expires=1752633900&amp;signature=022c5819d66f62ce0f1fc4bb4ac50aa2cece7f00c1b2148ef026a274a174c850&amp;req=fSMjFsx2mIJcFb4f3HP0gCAOOuf32KGIH0%2F2k55YtVyVd09OAy8gtivIDlf%2F%0Akvw%3D%0A)
 </div>
 
 
@@ -30955,7 +30955,7 @@ Nesta tela, clique no botão verde *Gere o seu primeiro arquivo.*
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1087039918/805c4264a90d557846d299d2/image.png?expires=1752529500&amp;signature=6b655ea6d62d12018853bf36c421dbeaa47db16b86c59aa521d1eb7a8e9b52fa&amp;req=dSAvEcl9lIheUfMW1HO4zS7%2F4djWpRjsMS3r5U2Yj3RBJd0Np9Y52hgwm6zH%0AHrAf%0A)
+![](https://downloads.intercomcdn.com/i/o/1087039918/805c4264a90d557846d299d2/image.png?expires=1752633900&amp;signature=21115848c32b3fbda724ef7a887ac2d8520e3e8107052f027a602e271e7ca7d5&amp;req=dSAvEcl9lIheUfMW1HO4zS7%2F4djVpBLgMS3r5U2Yj3SAGXHjjA31T2naVCGI%0AFhJd%0A)
 </div>
 
 
@@ -30984,7 +30984,7 @@ Com a remessa processada, clique em *Download*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1087040316/082d86789f2fa6bf91e1cef2/image.png?expires=1752529500&amp;signature=172433373df82dddf911c31a3bc0414ee6de24fe73f8091ab4b13eb4bb2b6cf0&amp;req=dSAvEcl6nYJeX%2FMW1HO4zXFu6DPUayqKzdtAaRGZRVGirDY1k581WyoXOXQp%0An3R7%0A)
+![](https://downloads.intercomcdn.com/i/o/1087040316/082d86789f2fa6bf91e1cef2/image.png?expires=1752633900&amp;signature=2b5eb16e300c827b8405a12573dbc93d5fbb0811efd0bdcad526ffb99c3b80ee&amp;req=dSAvEcl6nYJeX%2FMW1HO4zXFu6DPXaiCGzdtAaRGZRVFSe7etyyShZeUg5iDe%0AOEZi%0A)
 </div>
 
 
@@ -31102,7 +31102,7 @@ na carteira que você pretende excluir, clique em *Ver Carteira*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/934035866/699ea20bcc391bb112608d4d/whats-app-image-2021-09-02-at-17-11-27.jpeg?expires=1752529500&amp;signature=42ce4d6725191ae283d226ecc3012bb7a121130347643d680f8594eb9b9509f9&amp;req=fSMjFsp7lYdZFb4f3HP0gOxkSCVEPTjF7MLFeSHK9igFE5K6JQ%2FP1a2MBbWU%0A6PI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/934035866/699ea20bcc391bb112608d4d/whats-app-image-2021-09-02-at-17-11-27.jpeg?expires=1752633900&amp;signature=e3085f892577da85b984f834ae37269a0415f4803d08e30c7393ba4f689668da&amp;req=fSMjFsp7lYdZFb4f3HP0gOxkSCZFNzTF7MLFeSHK9ihEMRZpg2kmun5hdbSg%0AYAs%3D%0A)
 </div>
 
 
@@ -31115,7 +31115,7 @@ Na próxima página, você vai clicar em *Ações* e *Excluir*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/934034953/17d8eedc2d683e046e0b770c/image.png?expires=1752529500&amp;signature=008319dd509f1e431e35a4b309a8bddacbf465770dde1343827f63c692a40fc2&amp;req=fSMjFsp6lIRcFb4f3HP0gJ8oh%2FJGfV10GLSM83ZagIfOQdC3H62hjme4Zuuk%0ARx0%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/934034953/17d8eedc2d683e046e0b770c/image.png?expires=1752633900&amp;signature=0e73f1e231fdefe069bac3577813a557a2f8c3092aaabafef92ecc27bcb91b6f&amp;req=fSMjFsp6lIRcFb4f3HP0gJ8oh%2FFHd1F0GLSM83ZagIcKnlwi6d4EU9Pf5mAc%0AGEo%3D%0A)
 </div>
 
 
@@ -31187,7 +31187,7 @@ para cadastrar uma nova carteira.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1086810902/4740edb2340781894837370e/image.png?expires=1752529500&amp;signature=345cba17bc6bef1ad369f25fa2211c7050c3f1d6efbd12ed9a9ba9e4d689173e&amp;req=dSAvEMF%2FnYhfW%2FMW1HO4zZpH747rGgKY5laVJMeM0SriSlKrbW9uJOLM%2FiRC%0AGP4T%0A)
+![](https://downloads.intercomcdn.com/i/o/1086810902/4740edb2340781894837370e/image.png?expires=1752633900&amp;signature=35391f73424ec2f761260c80d134206cfd3a236a6fce2498863b78103f510a1b&amp;req=dSAvEMF%2FnYhfW%2FMW1HO4zZpH747oGwiU5laVJMeM0SoM5D2exBPvg5AxtbRo%0AhuaU%0A)
 </div>
 
 
@@ -31214,7 +31214,7 @@ quiser usar.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1597655716/99e035ef388a8f8ffc579c8f7ea9/image.png?expires=1752529500&amp;signature=cfc014c243526357552300e0438226a59c5319983cd4116ce95c8d70c3469a10&amp;req=dSUuEc97mIZeX%2FMW1HO4zawlAfcDIvL%2B4HK70UNYLRg2rYR30abZeL3LjWap%0ADoN6%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1597655716/99e035ef388a8f8ffc579c8f7ea9/image.png?expires=1752633900&amp;signature=9325505b8b64a7ce9bb193e31949a946010bc5323b6376ac9d68d98b9fd054f5&amp;req=dSUuEc97mIZeX%2FMW1HO4zawlAfcAI%2Fjy4HK70UNYLRiWMWgkPWBWh%2BqpsBC3%0A6EKQ%0A)
 </div>
 
 
@@ -31262,7 +31262,7 @@ Homologação*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1241856982/22f5b014ee96f9d9c2bee2efed16/tela+de+homologa%C3%A7%C3%A3o.png?expires=1752529500&amp;signature=679370633e4b408563584f203f7a3d3a2998002884957632e49063af4588d35b&amp;req=dSIjF8F7m4hXW%2FMW1HO4zRmdSyPEd5tQbv%2FeXPZk%2FT%2F36jNrgCpY4JP6kQri%0AfLVL%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1241856982/22f5b014ee96f9d9c2bee2efed16/tela+de+homologa%C3%A7%C3%A3o.png?expires=1752633900&amp;signature=0bc85eb654911b325b7571c76280b2262c76901141b80ea3399547e206a97e6c&amp;req=dSIjF8F7m4hXW%2FMW1HO4zRmdSyPHdpFcbv%2FeXPZk%2FT8f03QVNkf%2BLwWK8wwW%0AIgK6%0A)
 </div>
 
 A carteira criada ficará listada com as outras já cadastradas e com
@@ -31275,7 +31275,7 @@ realizado o passo anterior.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/933768609/7606e45f2590788428135f37/image.png?expires=1752529500&amp;signature=e488ecd4e1cc596f94bd2aff904d9d412de26af802ffd95aae417aceabf62239&amp;req=fSMkEc92m4FWFb4f3HP0gHnaWvj8Pe6MkF65m1qedT9j9vsjZKXOWHdEFhLD%0ApPw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/933768609/7606e45f2590788428135f37/image.png?expires=1752633900&amp;signature=88d64778c8e7e88d07bfdf0d7c64ba367029723a4067ee087c87147fac2eeb2f&amp;req=fSMkEc92m4FWFb4f3HP0gHnaWvv9N%2BKMkF65m1qedT9xLDmpF1LrEjqySVvS%0AYVg%3D%0A)
 </div>
 
 
@@ -31547,7 +31547,7 @@ o menu *Administração &gt; Contratação Kobana &gt; Assinatura*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/933999891/19b2f0175f0c8693ec3ebcf0/data-de-assinatura-kobana.png?expires=1752529500&amp;signature=767fc71b96137cf13712b88337be5a3c2cfdb8a4b8f992f72b381c8c35b22b50&amp;req=fSMkH8B3lYheFb4f3HP0gCVnkjkyrIErHWPzsqz8BD1dGWrK7WZJAwRthtzQ%0Aia8%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/933999891/19b2f0175f0c8693ec3ebcf0/data-de-assinatura-kobana.png?expires=1752633900&amp;signature=0da996d2b10c1a7a56fb7ab643b1abed4aa246da00fc066d93c03f02fa679157&amp;req=fSMkH8B3lYheFb4f3HP0gCVnkjozpo0rHWPzsqz8BD3Z3%2BoZJTP7eMaGcLDB%0AX4M%3D%0A)
 </div>
 
 
@@ -31641,7 +31641,7 @@ carteira que deseja excluir.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1086798881/a48c9c94dab020254f4da792/image.png?expires=1752529500&amp;signature=e643134ccabafa0a3eb070302978c90d699fd57a385aa59ba687f9e19020ad48&amp;req=dSAvEM53lYlXWPMW1HO4zbapKqUoYcoTkVRwAKl1hDVMC%2Bp1HeN5OsidEAsz%0AqJUi%0A)
+![](https://downloads.intercomcdn.com/i/o/1086798881/a48c9c94dab020254f4da792/image.png?expires=1752633900&amp;signature=eff93b497de748a0768c85a4a5577b858e4e5c159841fe00185e2d77d005279e&amp;req=dSAvEM53lYlXWPMW1HO4zbapKqUrYMAfkVRwAKl1hDUD1tEB9BSARYZfYw8f%0ApZVK%0A)
 </div>
 
 
@@ -31666,7 +31666,7 @@ você possa ter acesso aos arquivos dessa carteira.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/933821026/4188bd55d182878992c75371/image.png?expires=1752529500&amp;signature=4ff5b97e50eb1b3e09dcf9774521dc0488fb45e01d9d6dc113b3ad4e11cd7d76&amp;req=fSMkHst%2FnYNZFb4f3HP0gJbPzcp7ZSXWTOOidNtuPZkT84wHrncpdArkSlqX%0AlOM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/933821026/4188bd55d182878992c75371/image.png?expires=1752633900&amp;signature=6164d0953729694e2f3d4115392ad2ebe2cbbd61b79a5fc0b6d5eea4ca34ffb6&amp;req=fSMkHst%2FnYNZFb4f3HP0gJbPzcl6bynWTOOidNtuPZnQ1EawZOdWv0BigyN6%0AQ%2FM%3D%0A)
 </div>
 
 
@@ -31730,7 +31730,7 @@ carteira que deseja alterar clicando em *Ver Carteira* (👁️).
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/933810923/fba5239a12b9f8c972f7b986/image.png?expires=1752529500&amp;signature=e504ec081488530ea00aa561b8a2f06c23a25859786e233974710f49ff5790fd&amp;req=fSMkHsh%2BlINcFb4f3HP0gAuiYx9fWROGTGtAN%2FwS5wNge6woy3f6ML6lDaJu%0AEys%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/933810923/fba5239a12b9f8c972f7b986/image.png?expires=1752633900&amp;signature=03e73602590f6f6817f6a5605a9ac419043abe047543ace1cdb44fb32151208d&amp;req=fSMkHsh%2BlINcFb4f3HP0gAuiYxxeUx%2BGTGtAN%2FwS5wNtcTpHjHQYu5qzOENA%0Asr0%3D%0A)
 </div>
 
 
@@ -31744,7 +31744,7 @@ e *Alterar Configuração*.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/933810937/0410706df23c3993a6c48938/image.png?expires=1752529500&amp;signature=ff397e990502fcf0b99453399366b1cc3ebe8eff2bbd827db50faf8a3cadfc05&amp;req=fSMkHsh%2BlIJYFb4f3HP0gKPIxoUs3qTa4yvpCIwK2lcLqWSBqh6pjPGM8mz7%0Ah7g%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/933810937/0410706df23c3993a6c48938/image.png?expires=1752633900&amp;signature=2de4a11c1fc1fbb41f31f3a3de031d55ef4b3a2ad125b14e6477b69d2ff64f89&amp;req=fSMkHsh%2BlIJYFb4f3HP0gKPIxoYt1Kja4yvpCIwK2ldW9WfIwcDgrVS2ZhgF%0AXII%3D%0A)
 </div>
 
 
@@ -32141,7 +32141,7 @@ você pode gerar os boletos automaticamente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/1lw75vda/1289166810/94f91075d41f8175139bd660b967/image.png?expires=1752529500&amp;signature=c2b5224f9bc3f51a8ff28d2ba0e1df1b134d502001d86ecf8215932cf4d31eb8&amp;req=dSIvH8h4m4leWfMW1HO4zRrGVtbH4iL%2BSyT8TeiCIT%2FxCPc96SStgf9y94Qa%0Aw4Ie%0A)
+![](https://downloads.intercomcdn.com/i/o/1lw75vda/1289166810/94f91075d41f8175139bd660b967/image.png?expires=1752633900&amp;signature=65ebd09315cb69df70b24d1eb85f0efe2cbd50f6e1eb73688d56c376ce0e0e54&amp;req=dSIvH8h4m4leWfMW1HO4zRrGVtbE4yjySyT8TeiCIT9qlZz%2BkIdcNNndL1fb%0AWj8a%0A)
 </div>
 
 
@@ -32193,7 +32193,7 @@ deve pagar e para quem deve ser pago.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/932123353/7a610437ee30f26842500940/boleto-de-cobranca.jfif?expires=1752529500&amp;signature=033a2bb0a7e9ae045345d38fcdd58a2a302a69f44243124404e93e8fd3c73342&amp;req=fSMlF8t9noRcFb4f3HP0gM8BUMMt34eA%2BAHMzb%2FeGp5LqFMVRnFGxkPVvJOM%0A1Qc%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/932123353/7a610437ee30f26842500940/boleto-de-cobranca.jfif?expires=1752633900&amp;signature=b412776ffba9352f1ca42255c8d5e3d0268e06e12792a066f542a4c7f9d01d9e&amp;req=fSMlF8t9noRcFb4f3HP0gM8BUMAs1YuA%2BAHMzb%2FeGp4t9xqoQrCkQioXGXEG%0Afqo%3D%0A)
 </div>
 
 
@@ -32239,7 +32239,7 @@ serviço prestado.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/932124306/874ccbace3c10883551c294c/boleto-fatura.jfif?expires=1752529500&amp;signature=67777b333ec5bc924696b6e70d3c9940895fdb1cb395d0b5f0ef14a80d637c27&amp;req=fSMlF8t6noFZFb4f3HP0gDqsyiz67oNJwsNUEumjCKypUKF0lOkW3lmYkoRS%0AVHU%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/932124306/874ccbace3c10883551c294c/boleto-fatura.jfif?expires=1752633900&amp;signature=3f31d1a3a77c83abceecbe6f19afa39224733e96f6ac33ef7ac3457d857e67fb&amp;req=fSMlF8t6noFZFb4f3HP0gDqsyi%2F75I9JwsNUEumjCKxKtK0XtqGzepJy1lh4%0A9j4%3D%0A)
 </div>
 
 
@@ -32279,7 +32279,7 @@ conjunto de boletos assim:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/932124843/2c506c9cc5508b7369d38302/carne.jpg?expires=1752529500&amp;signature=d8627d453298177f263a8b6ef5c6fa11afb283bacbe43669f7ffc47a01d86d22&amp;req=fSMlF8t6lYVcFb4f3HP0gMaTcbuAVK6Tldptq%2F8v7Dy9%2F0gkJgu78VL2aWm2%0AVo0%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/932124843/2c506c9cc5508b7369d38302/carne.jpg?expires=1752633900&amp;signature=cf495031a482fcb54a16fe77f5fdb74c53ba2c70a4369b6cedcb65766b379132&amp;req=fSMlF8t6lYVcFb4f3HP0gMaTcbiBXqKTldptq%2F8v7Dwl%2F4d0t50kqt2qHSTd%0AHc8%3D%0A)
 </div>
 
 
@@ -32323,7 +32323,7 @@ antes do vencimento para emissão e a frequência da cobrança.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/933966217/a36f3c3b6af8d12614a6b088/image.png?expires=1752529500&amp;signature=d4ef1b3776e9a45e6de9126efd500a753bddf09e002834b9de77c2513f483c52&amp;req=fSMkH894n4BYFb4f3HP0gKooxgIQ7bEaaPQZFzYbveKuLGMsZzv8cHEkO9U4%0A3cE%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/933966217/a36f3c3b6af8d12614a6b088/image.png?expires=1752633900&amp;signature=691b5501097476ea52cf506f467432ef3476ad6e672a3f9a1d0a5ba9b2485446&amp;req=fSMkH894n4BYFb4f3HP0gKooxgER570aaPQZFzYbveJ9XynIOdA2XVrRe9tB%0AwKo%3D%0A)
 </div>
 
 
@@ -32347,7 +32347,7 @@ cliente possa realizar o pagamento da forma que preferir: PIX ou boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/932126704/7b9292caccfdd7a3b7a3417b/boleto-hibrido.png?expires=1752529500&amp;signature=a7ce7b92902593de0582a5fd5c246febbec904735d4946a15d96c86ac766b2c1&amp;req=fSMlF8t4moFbFb4f3HP0gMjiR0R0zny2Ka%2BRaaxk2JQTQvZzOxQPAtbdvL6W%0A8yI%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/932126704/7b9292caccfdd7a3b7a3417b/boleto-hibrido.png?expires=1752633900&amp;signature=b24bd42db0ba3181e33e028058d3c7d6584a1a107b2f6160a20b9d2dc1eb1a5f&amp;req=fSMlF8t4moFbFb4f3HP0gMjiR0d1xHC2Ka%2BRaaxk2JSRNlwOrGBMPuFsZKAp%0ACBg%3D%0A)
 </div>
 
 
@@ -32370,7 +32370,7 @@ recibo do pagador:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/932127015/6028a44c2668882957b9289e/logomarca.jpg?expires=1752529500&amp;signature=16507a4e993e8a57b4fa8e445c75e15c97f5c9b6a629126f52f6a2c124666a54&amp;req=fSMlF8t5nYBaFb4f3HP0gO7TKyOvz%2FjhXrRWGy1T3JmiWpoZ9stvCJjplPSZ%0AOtQ%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/932127015/6028a44c2668882957b9289e/logomarca.jpg?expires=1752633900&amp;signature=8817d5eb0dc016fe0ce63528f430a4d9d0894d0ecc35ada370313f4f34c7caeb&amp;req=fSMlF8t5nYBaFb4f3HP0gO7TKyCuxfThXrRWGy1T3JnxWoAsCYA%2BZSITZSCf%0ADUQ%3D%0A)
 </div>
 
 
@@ -32386,7 +32386,7 @@ plataforma][8]{: target="_blank" .intercom-content-link}:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/932127352/fd8d3ff29a19bae6004e8e45/modelo-de-boleto.png?expires=1752529500&amp;signature=37f7c24735eb09e50ef55751ca1bfe124e39a1a1ed65f81619a236f42e30cbc5&amp;req=fSMlF8t5noRdFb4f3HP0gLEziE0KoXfQwyp%2B4SaiyQjAbqiQQCe%2FQMlA1s0V%0AeNY%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/932127352/fd8d3ff29a19bae6004e8e45/modelo-de-boleto.png?expires=1752633900&amp;signature=c8e4f790b39086eb39baf4163a4c1201e29d7b2ecf1a60c8177eb1e2f9317c1b&amp;req=fSMlF8t5noRdFb4f3HP0gLEziE4Lq3vQwyp%2B4SaiyQiSj3vlcLdOI7%2FNCwYV%0AhBU%3D%0A)
 </div>
 
 
@@ -32421,7 +32421,7 @@ configuração de multa: sem multa (isento), por porcentagem ou por valor.
 {: .no-margin}
 
 <div class="intercom-container intercom-align-center" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/932127979/a3c1a12e178d4e2d3131bca7/multa-boleto.png?expires=1752529500&amp;signature=28cbb7a5de01c07886709aff2fa3eb1ba7890341f3c41f0d73ce05586d135a55&amp;req=fSMlF8t5lIZWFb4f3HP0gISNgYwW9tNlSZJgKLZklDmkGyAe8fNHBEho%2Fmeb%0AXJI%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/932127979/a3c1a12e178d4e2d3131bca7/multa-boleto.png?expires=1752633900&amp;signature=1dadd05d579cf3cd1a56ce8381737b090e407291dc95f56742d592efda25b50c&amp;req=fSMlF8t5lIZWFb4f3HP0gISNgY8X%2FN9lSZJgKLZklDnUFAxfshFAriBf0lld%0A%2FBA%3D%0A)
 </div>
 
 ### **Juros**   {#h_aca73d1154}
@@ -32434,7 +32434,7 @@ em cada boleto gerado:
 {: .no-margin}
 
 <div class="intercom-container intercom-align-center" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160505/92745966a5ca5c46c9007a02/juros.png?expires=1752529500&amp;signature=1247808153951f04145a0ff3d8aa710c5b5a9612a7c94224d1bf7c2752b84595&amp;req=fSMlF89%2BmIFaFb4f3HP0gHWaMnMWdizLcyqGKWUhzUVEyPXcf7eHVIY%2BpM4e%0AsI4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160505/92745966a5ca5c46c9007a02/juros.png?expires=1752633900&amp;signature=141b730e3afd600d2e1a2d284f89f19d9aff7169dd0f049abee9dd97f8b143ed&amp;req=fSMlF89%2BmIFaFb4f3HP0gHWaMnAXfCDLcyqGKWUhzUVVz4G7Mf7%2BxNoF0N8r%0AWV0%3D%0A)
 </div>
 
 ### **Desconto**   {#h_2171c1bf7a}
@@ -32454,7 +32454,7 @@ opções disponíveis:
 {: .no-margin}
 
 <div class="intercom-container intercom-align-center" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160510/51de7f752ccfbae9cd6d535a/desconto.png?expires=1752529500&amp;signature=d8a645bb23f39d0c0dc58e4393c8457330244a4f136beb808673da2d89015a9e&amp;req=fSMlF89%2BmIBfFb4f3HP0gOEIynm2oozmlyyn%2FLk1QvbC83YhSP4FPqOz1H7O%0AqNE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160510/51de7f752ccfbae9cd6d535a/desconto.png?expires=1752633900&amp;signature=a31df3c72aea9ee2f4f142863d2d7da79d2b39e3819c965871f66c1115e93e1e&amp;req=fSMlF89%2BmIBfFb4f3HP0gOEIynq3qIDmlyyn%2FLk1Qvb%2BowSCS9IazlWJQW0g%0A18I%3D%0A)
 </div>
 
 Com todas as opções de configurações disponíveis na Kobana, saiba como
@@ -32478,7 +32478,7 @@ boleto [a depender do seu banco][10]{: target="_blank"
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160515/4ad45875fb3a012e3faa3917/image.png?expires=1752529500&amp;signature=29ce08e882964cfa801b596fda69b19de1867b3a7fba03c7d00e7fc1726d60e6&amp;req=fSMlF89%2BmIBaFb4f3HP0gLxjJHr2lf02l9uyshflpeViXBldx1cFcRw%2FSAdN%0ArYA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160515/4ad45875fb3a012e3faa3917/image.png?expires=1752633900&amp;signature=c9199ee404ce21471ca0859e3694ef96fdda4768372af815d143b979ba4ce41a&amp;req=fSMlF89%2BmIBaFb4f3HP0gLxjJHn3n%2FE2l9uyshflpeXMvx1mn9ZZhfFW7f0A%0AdbE%3D%0A)
 </div>
 
 
@@ -32505,7 +32505,7 @@ gerado com algum erro, é só localizá-lo na sua conta e clicar em *Ações
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160520/5606862c046321561253f4e2/image.png?expires=1752529500&amp;signature=3a5f35540f3b8e55b8e0e39a4cf0cb32690275c38d56654edb62b49d9fc5fe23&amp;req=fSMlF89%2BmINfFb4f3HP0gLnjYHt%2FUgTMn9FYPOkYIlRViH85rO4cf5FZYeFY%0ARtY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160520/5606862c046321561253f4e2/image.png?expires=1752633900&amp;signature=db80f88dbab24a0dd41f40db5b49e7c744b6e4860cab8e6ca2b3ead4f19c952d&amp;req=fSMlF89%2BmINfFb4f3HP0gLnjYHh%2BWAjMn9FYPOkYIlTUTuaRAD7OuaShTx6L%0Apxo%3D%0A)
 </div>
 
 
@@ -32545,7 +32545,7 @@ necessidade de acessar boleto por boleto para realizar a ação.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160524/080da54459475d2280fd76a4/image.png?expires=1752529500&amp;signature=0d4b27ecd507b451b58368abdb19781d265449f8115cc546dfc8a20953289e71&amp;req=fSMlF89%2BmINbFb4f3HP0gMl4ijsUmDpUSIYG0ZJXiGtt6uUiLw014gE9OnxC%0As2I%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160524/080da54459475d2280fd76a4/image.png?expires=1752633900&amp;signature=3bf63ff96325f887cfeaba443589984b95f7d1aed75103a593ee4177d9955841&amp;req=fSMlF89%2BmINbFb4f3HP0gMl4ijgVkjZUSIYG0ZJXiGvOGfMw4V5fBtV0Eu13%0Ah2o%3D%0A)
 </div>
 
 
@@ -32562,7 +32562,7 @@ salvo na plataforma para ser consultado sempre que necessário.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160528/44889f780bb55d1d0efaa2cb/image.png?expires=1752529500&amp;signature=72f5e49c6e2bdde3aacb488bf33c4dfe3c964f35bb2e28f7e53484f9ae0e1117&amp;req=fSMlF89%2BmINXFb4f3HP0gKyb6AUOUfWtRFK8iJyB3L7KaDU08mjNfx1SbYem%0A0Yc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160528/44889f780bb55d1d0efaa2cb/image.png?expires=1752633900&amp;signature=d3990d0b5ce915d1bd0c342ae5d8aac932104c732ae4f4a6bfdd9282d95877c3&amp;req=fSMlF89%2BmINXFb4f3HP0gKyb6AYPW%2FmtRFK8iJyB3L6ST2o36aKFy2QNIJaz%0Atpc%3D%0A)
 </div>
 
 
@@ -32578,7 +32578,7 @@ da data de vencimento do boleto:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160532/97e97ec2fabaee142753d445/image.png?expires=1752529500&amp;signature=73399041cefcb70e34f67c82c95cae4b9a7c546e447d4793484db44eef220bd4&amp;req=fSMlF89%2BmIJdFb4f3HP0gLtTWE3L2G8%2FaAZtGYAIvpI%2F4mJwt%2BKnztCnY05j%0A5xw%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160532/97e97ec2fabaee142753d445/image.png?expires=1752633900&amp;signature=056846a809c9c4e2b9f26f23831352f434dc504d73702d551289df82a955a2f5&amp;req=fSMlF89%2BmIJdFb4f3HP0gLtTWE7K0mM%2FaAZtGYAIvpL5WsOg%2FgwxrteTNJkM%0Aunc%3D%0A)
 </div>
 
 Com esse recurso, você evita criar um novo boleto e **economiza nas
@@ -32613,7 +32613,7 @@ abrir o boleto que você já emitiu e fazer uma cópia dele:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160537/58009b33137a7f30e189e6eb/image.png?expires=1752529500&amp;signature=d282a880fb9d01e27ed256c04addbae15e6b13aa7895883d388a7243cee5297e&amp;req=fSMlF89%2BmIJYFb4f3HP0gLWVDLWvzkQmvhgeJpTFMJmFgKXbrurp1tGdp2kL%0AV0M%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160537/58009b33137a7f30e189e6eb/image.png?expires=1752633900&amp;signature=647d1ed3e6160e0c1c3f33def708ccb09bfd4bae75dad08ff4f5683fc32cd430&amp;req=fSMlF89%2BmIJYFb4f3HP0gLWVDLauxEgmvhgeJpTFMJnzs%2B%2Fxolz8vyyHT2oI%0Agro%3D%0A)
 </div>
 
 
@@ -32636,7 +32636,7 @@ pagamento dos boletos emitidos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160544/0493bf551788401b0e2840c4/image.png?expires=1752529500&amp;signature=b224a3487f892d2677a5b569eb751dfcafa9ed803172483f691be451ab3654cc&amp;req=fSMlF89%2BmIVbFb4f3HP0gG3ACnlVEVSOQJ4tbD%2FJCxVMZkMhmVmn5wid5p90%0ABJo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160544/0493bf551788401b0e2840c4/image.png?expires=1752633900&amp;signature=17c7dd8a526d3f2fca7de2856e3f51c7a6349533769f73568bcb12ae91e98739&amp;req=fSMlF89%2BmIVbFb4f3HP0gG3ACnpUG1iOQJ4tbD%2FJCxVfG3SH7UtVu7x5A2Xw%0ArAk%3D%0A)
 </div>
 
 
@@ -32674,7 +32674,7 @@ ser informado manualmente. Você mesmo pode marcar um boleto como pago:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160551/662ec195029ac7de2a266e6c/image.png?expires=1752529500&amp;signature=73b29b1e669bde8b604e427449abe7892801add5b2f2a7ad3c80899442c32bd4&amp;req=fSMlF89%2BmIReFb4f3HP0gHsOIELURFqeYdBaH3NGf%2Bcnpb6Xn64CprvwwWO%2B%0A%2BP0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160551/662ec195029ac7de2a266e6c/image.png?expires=1752633900&amp;signature=d3fbe87859c3e7c7f6d9c5802919beca7e7c3fd3ad5474751a0e7bee19d2e7bb&amp;req=fSMlF89%2BmIReFb4f3HP0gHsOIEHVTlaeYdBaH3NGf%2Bf3S%2B8ZgtvDbN85jWDq%0AmdE%3D%0A)
 </div>
 
 
@@ -32698,7 +32698,7 @@ Garantindo mais segurança de acesso do seu cliente ao boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160554/99537b1db2a8349b8f3f24c4/image.png?expires=1752529500&amp;signature=663b41bf90fc70485b3c19296de575f3b6a39556f7f95340cf10a2e20404a663&amp;req=fSMlF89%2BmIRbFb4f3HP0gCiSzG8R5B2ZuovIhFhMU%2FHbS3lvreIhd4VUBumf%0ArFQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160554/99537b1db2a8349b8f3f24c4/image.png?expires=1752633900&amp;signature=639cdfe4eeb5e2d0c80834d0c2e66702650e2852d7189938511b45635cb9c36b&amp;req=fSMlF89%2BmIRbFb4f3HP0gCiSzGwQ7hGZuovIhFhMU%2FHIwvUBgU4biWz12zNe%0A2po%3D%0A)
 </div>
 
 
@@ -32722,7 +32722,7 @@ gerados pela plataforma.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![malha-5dcd0a.JPG](https://kobana.intercom-attachments-1.com/i/o/932160557/40773ad770b2179bd8e42118/malha-5dcd0a.JPG?expires=1752529500&amp;signature=57b6a4b54ce972228462c11567f4b02d9f35ae1ca42c39aa4492b657a0345675&amp;req=fSMlF89%2BmIRYFb4f3HP0gITjfzcUrxbrd2FG4I7HHT6CxaNsY1qvyUSMNZDZ%0Ayk8%3D%0A)
+![malha-5dcd0a.JPG](https://kobana.intercom-attachments-1.com/i/o/932160557/40773ad770b2179bd8e42118/malha-5dcd0a.JPG?expires=1752633900&amp;signature=493194f5e08c8c9910a0a4b698212c7d912f5aeb3990dd23966977979bf7311f&amp;req=fSMlF89%2BmIRYFb4f3HP0gITjfzQVpRrrd2FG4I7HHT5n4oQYYc9d955%2B4yol%0AVXA%3D%0A)
 </div>
 
 
@@ -32773,7 +32773,7 @@ melhor modo de fazer isso:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160562/676f4fa9310fef5386702bfd/image.png?expires=1752529500&amp;signature=d5a4d01dae75d89cbf0cf8a41cbc15ab751b4ef4214af18d60048333e2534849&amp;req=fSMlF89%2BmIddFb4f3HP0gJBfbH8f2fqF%2FDlKCfu8XBGuG96PQBHBG%2FWKpwP0%0AS3s%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160562/676f4fa9310fef5386702bfd/image.png?expires=1752633900&amp;signature=14a6768b6e52335ea92f382854ac6dfb3305456ba29e78ae0d318a0e7b7e1c49&amp;req=fSMlF89%2BmIddFb4f3HP0gJBfbHwe0%2FaF%2FDlKCfu8XBGe7gLt91P%2FAd3gFcy7%0A76s%3D%0A)
 </div>
 
 
@@ -32812,7 +32812,7 @@ boleto dentro da plataforma:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160569/22554093aade4857c27c0b6b/image.png?expires=1752529500&amp;signature=9a2fe8d481c3232c154a8d6eee180211ab9d7ba961c10ac8e56a35f48c5ed921&amp;req=fSMlF89%2BmIdWFb4f3HP0gCdIWyqroYiTX7RGVxDtM%2Bei5j6a0aLl%2FGJQWcE2%0AAwE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160569/22554093aade4857c27c0b6b/image.png?expires=1752633900&amp;signature=9b603b71ece451b22e0aa5228ebbfa0c07146307de291c30fb2e7061001af0bc&amp;req=fSMlF89%2BmIdWFb4f3HP0gCdIWymqq4STX7RGVxDtM%2Be0hRCSmobe7rlIQ8YQ%0A7A0%3D%0A)
 </div>
 
 
@@ -32859,7 +32859,7 @@ interface:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![Baixar\_em\_PDF.png](https://kobana.intercom-attachments-1.com/i/o/932160576/24636306606d902dc6124435/Baixar_em_PDF.png?expires=1752529500&amp;signature=f7572ec2407273b23dfa75e298abe1661c30b484087781726254f014520dff50&amp;req=fSMlF89%2BmIZZFb4f3HP0gGnDsQ36k%2BtQ2y%2FKUmaO1jhnmK4h9ICQcl5L%2F3IH%0AqN4%3D%0A)
+![Baixar\_em\_PDF.png](https://kobana.intercom-attachments-1.com/i/o/932160576/24636306606d902dc6124435/Baixar_em_PDF.png?expires=1752633900&amp;signature=f3ad14b21c2efdc43c23b63b42b83c7ab46bd13f4ee0107d4a7f245410f00991&amp;req=fSMlF89%2BmIZZFb4f3HP0gGnDsQ77medQ2y%2FKUmaO1jjJ0FoHFM3WWy1Th%2BNO%0AOyA%3D%0A)
 </div>
 
 
@@ -32878,7 +32878,7 @@ Ao clicar no link do boleto, o seu cliente abrirá uma página como essa:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![interface.JPG](https://kobana.intercom-attachments-1.com/i/o/932160580/0e19ee909e5b8730eb1e1460/interface.JPG?expires=1752529500&amp;signature=f57030338f441395ff7445a10836d68723fe66c0629de37834deccdfbbb28eb9&amp;req=fSMlF89%2BmIlfFb4f3HP0gACg20Q8Acu4p3aHeQg7IcN3KWyrmH15txLT06iO%0An28%3D%0A)
+![interface.JPG](https://kobana.intercom-attachments-1.com/i/o/932160580/0e19ee909e5b8730eb1e1460/interface.JPG?expires=1752633900&amp;signature=41f75e997914a49eaed304a8c0de6d13c70523497fb29b54b99ca68193832141&amp;req=fSMlF89%2BmIlfFb4f3HP0gACg20c9C8e4p3aHeQg7IcOluzI9lqcTs%2F8uaZKb%0AQ8w%3D%0A)
 </div>
 
 Ele poderá clicar em Incluir na Agenda para adicionar a data de
@@ -32886,7 +32886,7 @@ vencimento ao seu calendário pessoal:
 {: .no-margin}
 
 <div class="intercom-container intercom-align-center" markdown="1">
-![agenda-5f5539.JPG](https://kobana.intercom-attachments-1.com/i/o/932160585/f47b8ef68e540751adde5ed0/agenda-5f5539.JPG?expires=1752529500&amp;signature=8dbd6bb61982600c166a7052117b5d88b2595ba6b8d1b565ee87bf7f5932b8d9&amp;req=fSMlF89%2BmIlaFb4f3HP0gFzF%2BNU6yDTY225z0YPg8s3qNh5FZtrZsz6hv677%0AN0o%3D%0A)
+![agenda-5f5539.JPG](https://kobana.intercom-attachments-1.com/i/o/932160585/f47b8ef68e540751adde5ed0/agenda-5f5539.JPG?expires=1752633900&amp;signature=9b902ebafadbde2c3589b6609ffe66a01f64ff1e0d54833464ee53f784f75754&amp;req=fSMlF89%2BmIlaFb4f3HP0gFzF%2BNY7wjjY225z0YPg8s2%2FkMdhXBYUMp27HmM0%0AeNk%3D%0A)
 </div>
 
 Essa é a melhor maneira de ajudá-lo a não esquecer de fazer o pagamento
@@ -32913,7 +32913,7 @@ forma prática, apenas clicando no botão:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![Imprimir.png](https://kobana.intercom-attachments-1.com/i/o/932160587/fc828b456bd8ef86e92bc565/Imprimir.png?expires=1752529500&amp;signature=55a5f723dc96ac26439859254634413bed88a2e15bb512101732be47824524eb&amp;req=fSMlF89%2BmIlYFb4f3HP0gGFnSDRU8D4HOiexFwm%2B10VTND4ouSd%2FbXc%2BcHQL%0AUDA%3D%0A)
+![Imprimir.png](https://kobana.intercom-attachments-1.com/i/o/932160587/fc828b456bd8ef86e92bc565/Imprimir.png?expires=1752633900&amp;signature=3da62e00573d2b8f7d8b2e996911452a5dcce809e3e45ddc3e072b61d3081e88&amp;req=fSMlF89%2BmIlYFb4f3HP0gGFnSDdV%2BjIHOiexFwm%2B10U6Hjzt3cvduWttUbUs%0AEZA%3D%0A)
 </div>
 
 
@@ -32926,7 +32926,7 @@ Ele verá uma mensagem com dicas como essa:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![Imprimir\_modal.png](https://kobana.intercom-attachments-1.com/i/o/932160590/01a974216bfd6db2c4e39751/Imprimir_modal.png?expires=1752529500&amp;signature=2b88e88717f6dd107bd7166626a725e25ccac43c6f3a249ce387f3c0d6d53aad&amp;req=fSMlF89%2BmIhfFb4f3HP0gKcYZQh3SGrtgvh0VCvKbzinTxFuonrvnlr9o9Gj%0AVvA%3D%0A)
+![Imprimir\_modal.png](https://kobana.intercom-attachments-1.com/i/o/932160590/01a974216bfd6db2c4e39751/Imprimir_modal.png?expires=1752633900&amp;signature=a33d8add2be81b1742309ef7a4415867d945cdfe63ea010b3c053410adf715a4&amp;req=fSMlF89%2BmIhfFb4f3HP0gKcYZQt2Qmbtgvh0VCvKbziMj9BqmcYeUXYnBkA0%0A1tg%3D%0A)
 </div>
 
 Com essa interface intuitiva, fica fácil saber o que fazer e você evita
@@ -32955,7 +32955,7 @@ do WhatsApp:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160593/f97d23d24e46ad820faf4a76/image.png?expires=1752529500&amp;signature=28acbf82e6bf0a43d68d5fb876e2868dfd927bfaee4138179278ded419a0548f&amp;req=fSMlF89%2BmIhcFb4f3HP0gDEuWkvZkIbl5CIIjPI77KdNNIqHVFS531gduPQa%0ATzk%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160593/f97d23d24e46ad820faf4a76/image.png?expires=1752633900&amp;signature=c57bccc855891a667059b33a826ddbf04858959d719b8f6d7857aeb5f034c4ee&amp;req=fSMlF89%2BmIhcFb4f3HP0gDEuWkjYmorl5CIIjPI77KfY%2FNW8sqSkiWKeY5RX%0AYqE%3D%0A)
 </div>
 
 
@@ -32968,7 +32968,7 @@ Ou diretamente pelo painel do boleto específico:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160596/510efc03b28c9853d3f51a1e/image.png?expires=1752529500&amp;signature=e92e387b4ca8c98205d288dc331820cd6c12c9f1aec46b02580e6eee52c50a60&amp;req=fSMlF89%2BmIhZFb4f3HP0gMrHt4UWZKoIcDyg%2BlsDTELbJ87gzK%2BcBzf%2Ba1KN%0A%2FzQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160596/510efc03b28c9853d3f51a1e/image.png?expires=1752633900&amp;signature=f36eb97689c91271e7ee3f0e5e15e24ca56494fe0c1cd87c3f0c2687b04c7782&amp;req=fSMlF89%2BmIhZFb4f3HP0gMrHt4YXbqYIcDyg%2BlsDTEKuxWdweYRJgQRiCtkK%0AInQ%3D%0A)
 </div>
 
 
@@ -32984,7 +32984,7 @@ valor do boleto:
 
 <div class="intercom-container" markdown="1">
 ![configurar
-mensagem.JPG](https://kobana.intercom-attachments-1.com/i/o/932160603/3d2b859aed410be52ba01924/configurar-20mensagem.JPG?expires=1752529500&amp;signature=2e17612274fc9a8a904d15f099c6a4c060f5a116fe479528e2c9574c1117c4d6&amp;req=fSMlF89%2Bm4FcFb4f3HP0gPzB2zIk2XrofMYuUstznCroMSj7Ra58FNU%2BbreU%0Af30%3D%0A)
+mensagem.JPG](https://kobana.intercom-attachments-1.com/i/o/932160603/3d2b859aed410be52ba01924/configurar-20mensagem.JPG?expires=1752633900&amp;signature=c198cce21040c34b668f385471ff8700bd8eec9e574ef3905db6aea2feda98af&amp;req=fSMlF89%2Bm4FcFb4f3HP0gPzB2zEl03bofMYuUstznCogOXB%2FGbuK53mbYXSH%0AbvU%3D%0A)
 </div>
 
 
@@ -32998,7 +32998,7 @@ A mensagem será gerada automaticamente para cada boleto:
 
 <div class="intercom-container" markdown="1">
 ![compartilhamento do
-boleto-aac023.JPG](https://kobana.intercom-attachments-1.com/i/o/932160604/9f78a1aa83f057347ad70298/compartilhamento-20do-20boleto-aac023.JPG?expires=1752529500&amp;signature=2873048a056d0f6a1ff6cfebeac8e954ef02dfb0171be79a62c4cf8c1f23f8f1&amp;req=fSMlF89%2Bm4FbFb4f3HP0gFFqTNfJk0S%2BPJYzRPUtMZHmTBa8ruu2goPMUNEa%0AUWk%3D%0A)
+boleto-aac023.JPG](https://kobana.intercom-attachments-1.com/i/o/932160604/9f78a1aa83f057347ad70298/compartilhamento-20do-20boleto-aac023.JPG?expires=1752633900&amp;signature=78054594f15ac895e8d8be9bacf73dd2b646256adac33680469a693f573bd5ba&amp;req=fSMlF89%2Bm4FbFb4f3HP0gFFqTNTImUi%2BPJYzRPUtMZG%2FQrS09UevUuJaw%2FH6%0AIHc%3D%0A)
 </div>
 
 
@@ -33013,7 +33013,7 @@ mensagem:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![whatsapp.JPG](https://kobana.intercom-attachments-1.com/i/o/932160607/85bdae35d7c5aaabae7db872/whatsapp.JPG?expires=1752529500&amp;signature=a8cf2f4aa4d898ad66e258143591ba231fec814accb81e48902bc4b24e82f615&amp;req=fSMlF89%2Bm4FYFb4f3HP0gG9YQUtbqrGhRo6mLN9uTFDnj3IuNvlMgVh1ZrUY%0ABWg%3D%0A)
+![whatsapp.JPG](https://kobana.intercom-attachments-1.com/i/o/932160607/85bdae35d7c5aaabae7db872/whatsapp.JPG?expires=1752633900&amp;signature=31790f1284c7046a46c6188f7515e746cc19cf0f099f2fb2c4dcbcc51b9ae540&amp;req=fSMlF89%2Bm4FYFb4f3HP0gG9YQUhaoL2hRo6mLN9uTFDlzw%2BPla96LtvlJWVo%0A3YU%3D%0A)
 </div>
 
 Seu cliente receberá o boleto e poderá fazer o pagamento na mesma hora
@@ -33248,7 +33248,7 @@ banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160611/4bea87ccb14c897d56a9ad86/image.png?expires=1752529500&amp;signature=556082e3cddc2c0a3b71c505e82d80ea7138f0ab99b330700016f9cbb477ecce&amp;req=fSMlF89%2Bm4BeFb4f3HP0gK7eperXYO5tKmTPdUQZnUkrTXlAnUGpGunJWegH%0AE7s%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160611/4bea87ccb14c897d56a9ad86/image.png?expires=1752633900&amp;signature=3ea3bf46b6bfbb42565981b50aa84ec781c615e3c67254dd5cb2902c412fb353&amp;req=fSMlF89%2Bm4BeFb4f3HP0gK7epenWauJtKmTPdUQZnUnfLsivAaK5%2FGwdSctG%0AfCs%3D%0A)
 </div>
 
 
@@ -33269,7 +33269,7 @@ visualizar e excluir eventos que ainda não foram enviados ao banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160618/0377692808c6628ea4b24d22/image.png?expires=1752529500&amp;signature=3024b634012bc1602866e766a238104568529e550c21e7b67b5bb1b2f84af6d6&amp;req=fSMlF89%2Bm4BXFb4f3HP0gCm6ypmhZ9pruSEWvi%2F9qiM%2F9IvdR37o%2BqlYdvZc%0AOHA%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160618/0377692808c6628ea4b24d22/image.png?expires=1752633900&amp;signature=7b8fe253a68a11aaa36fb618cf2305bed2851b1423a48fe42df0d3a073207365&amp;req=fSMlF89%2Bm4BXFb4f3HP0gCm6ypqgbdZruSEWvi%2F9qiPZ%2BX9NsBVmghluUCaY%0A1Bg%3D%0A)
 </div>
 
 
@@ -33502,7 +33502,7 @@ cobranças emitidas para eles e a situação dos pagamentos.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160621/d88250cc2941123a118bfe1a/image.png?expires=1752529500&amp;signature=cc2d97f0dcbfdebb1a495df0d56b88ec92ff1afc72f14d50ac0f9bf089608540&amp;req=fSMlF89%2Bm4NeFb4f3HP0gDfg7dF4xAS2qjGop368uE03z4yP8Ynqdph7a9Ev%0AMTM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160621/d88250cc2941123a118bfe1a/image.png?expires=1752633900&amp;signature=a3ed451a002d5d923d589b220bd12a362c71ae96ae3fb3968903336959d7f0a6&amp;req=fSMlF89%2Bm4NeFb4f3HP0gDfg7dJ5zgi2qjGop368uE3FbrlyTVimaeREcxli%0AWYQ%3D%0A)
 </div>
 
 
@@ -33527,7 +33527,7 @@ a esse dado, o e-mail ou uma senha.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![portal-do-cliente-boleto-simples.png](https://kobana.intercom-attachments-1.com/i/o/932160625/372a7383a36ef6d507bd7644/portal-do-cliente-boleto-simples.png?expires=1752529500&amp;signature=00cf7aae7e592300c3c7b75ca863aff19e5b4b9b3fea4551363dec12b0cc5235&amp;req=fSMlF89%2Bm4NaFb4f3HP0gMLJBR95YnIYxwu8PfJWJ6tUNV6iMngEVDCoQgzc%0A4B4%3D%0A)
+![portal-do-cliente-boleto-simples.png](https://kobana.intercom-attachments-1.com/i/o/932160625/372a7383a36ef6d507bd7644/portal-do-cliente-boleto-simples.png?expires=1752633900&amp;signature=4524717fcca67acedca7ee58da5e55f69ee22742fe46e53263c9694d18756f07&amp;req=fSMlF89%2Bm4NaFb4f3HP0gMLJBRx4aH4Yxwu8PfJWJ6s8VzCLG%2FgE4QRa75pU%0Ag28%3D%0A)
 </div>
 
 
@@ -33541,7 +33541,7 @@ ou CNPJ correspondente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![portal-do-cliente-02-boleto-simples.png](https://kobana.intercom-attachments-1.com/i/o/932160630/7086aca1b43926f0defd555f/portal-do-cliente-02-boleto-simples.png?expires=1752529500&amp;signature=e9bc8c7f21089d4315b9e0daf945b40c4c7fd93e7dffc70788472eca400ef445&amp;req=fSMlF89%2Bm4JfFb4f3HP0gH4USOUwjR0AC8CoZBINH%2BMwlY4vP1m7VbpalZfA%0Afqw%3D%0A)
+![portal-do-cliente-02-boleto-simples.png](https://kobana.intercom-attachments-1.com/i/o/932160630/7086aca1b43926f0defd555f/portal-do-cliente-02-boleto-simples.png?expires=1752633900&amp;signature=3fc1b1226c64d724a6b17a313b5111c90764a7b7a0fcf3f38e47ed18c233e161&amp;req=fSMlF89%2Bm4JfFb4f3HP0gH4USOYxhxEAC8CoZBINH%2BNG3mTJ2P%2FJF8iZOgDE%0AGxg%3D%0A)
 </div>
 
 
@@ -33568,7 +33568,7 @@ necessários para gerar um boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160634/6c9922a0359f71810e897c1e/image.png?expires=1752529500&amp;signature=318bf36a4ce70dae0088982ec22c6ec854ab25e058028821154f40069a1060d1&amp;req=fSMlF89%2Bm4JbFb4f3HP0gPdy%2F5OYx1SNaqgtWSdwoIVa8NVgEjHsFyVVNkJm%0A2S0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160634/6c9922a0359f71810e897c1e/image.png?expires=1752633900&amp;signature=cf31f09636f8a011fcad0b1bd3ed313026cbcec6e785f4545fd7723b06a2dd27&amp;req=fSMlF89%2Bm4JbFb4f3HP0gPdy%2F5CZzViNaqgtWSdwoIVCEY3Fsmd7ihEaNbp%2B%0Az5U%3D%0A)
 </div>
 
 Saiba [como criar um link de pagamento][28]{: target="_blank"
@@ -33613,7 +33613,7 @@ pela plataforma com o remetente escolhido por você.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160638/df2d71ee873892b53cd95a8a/image.png?expires=1752529500&amp;signature=347df54860f599e3f736ef8ace887b40cd8f51ec45a356411cfac6dd7c6cc488&amp;req=fSMlF89%2Bm4JXFb4f3HP0gHwIxJYIIJJHC9p6oA4letOHwpQoe8KR1BLyLGnV%0Ap4I%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160638/df2d71ee873892b53cd95a8a/image.png?expires=1752633900&amp;signature=7b5f7a38c79b02fce07c27a82598c81af43b4cce69ade714e509dfbcf86e8e7f&amp;req=fSMlF89%2Bm4JXFb4f3HP0gHwIxJUJKp5HC9p6oA4letN4H4hL7pJsaAhW7%2F78%0AER8%3D%0A)
 </div>
 
 
@@ -33663,7 +33663,7 @@ vem configurado na plataforma:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160642/970a4438c9af93b46af67b96/image.png?expires=1752529500&amp;signature=2c15c95c61b6c146cf3ff1e4aa3390fdeaac4a8466f232b9948459fffe57d288&amp;req=fSMlF89%2Bm4VdFb4f3HP0gIlPQO3%2BEx%2F1luEmlzPGTSfwySdOrdLrp6MLLw84%0AEHE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160642/970a4438c9af93b46af67b96/image.png?expires=1752633900&amp;signature=989ae9360524131c8caa39b4a717fc1b27563272bf4c7e8e687bd6c2d9ffb774&amp;req=fSMlF89%2Bm4VdFb4f3HP0gIlPQO7%2FGRP1luEmlzPGTSfAMjv0qV4WThcYDbG0%0A6UA%3D%0A)
 </div>
 
 
@@ -33676,7 +33676,7 @@ Os e-mails enviados com o template padrão ficarão assim:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160648/d7698eb438ce74e71e48fcd9/image.png?expires=1752529500&amp;signature=0fac444d208b8a231f4f66c89bc69bb997c577a38cf79803f7b7f32b28fc0f45&amp;req=fSMlF89%2Bm4VXFb4f3HP0gB4JVmEQXAdrcwf1eWCWYUkzUivkJJb8rDidLzbn%0A8KY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160648/d7698eb438ce74e71e48fcd9/image.png?expires=1752633900&amp;signature=988bc066e32cb703865bff58e4f8c47fa7ed323666a7be4c2d9cf41952c4dc71&amp;req=fSMlF89%2Bm4VXFb4f3HP0gB4JVmIRVgtrcwf1eWCWYUkNgQaT9sP9imGigRQL%0ANOc%3D%0A)
 </div>
 
 
@@ -33744,7 +33744,7 @@ e-mails e SMS enviados pela sua conta.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160654/5e9c55d8da8621c0eac24da2/image.png?expires=1752529500&amp;signature=28f0c6af16723160ae9f8ca4f8f0cf3fb588c6ffcd824d0b2405ebdfbab4562a&amp;req=fSMlF89%2Bm4RbFb4f3HP0gEvIgi5EglysWULhnZBqMdxDrnnD0WBB6TtTv7GM%0ABiM%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160654/5e9c55d8da8621c0eac24da2/image.png?expires=1752633900&amp;signature=d41d317ac2d2e795a1785ec8d7d8cb0203a63d5912de27bd0fefeed4fce6d590&amp;req=fSMlF89%2Bm4RbFb4f3HP0gEvIgi1FiFCsWULhnZBqMdwwBqKVPJu%2Bu8gCIoUL%0APPQ%3D%0A)
 </div>
 
 
@@ -33773,7 +33773,7 @@ Basta selecionar os e-mails com erro para reenviá-los em um clique.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160661/f2578dde6d6d5b6fcdfd479d/image.png?expires=1752529500&amp;signature=344405146654096aaecf8ab245ad8ff2f06d2181855f9905f9830e9af69550c5&amp;req=fSMlF89%2Bm4deFb4f3HP0gJyOCSapbUnUtDRBY9cv98SKBhyiQmw%2FWCYV95BE%0AHto%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160661/f2578dde6d6d5b6fcdfd479d/image.png?expires=1752633900&amp;signature=00643e773e3d40e56cc5a661d59c9fc7514cbc487784dece1da686a558fbfe7f&amp;req=fSMlF89%2Bm4deFb4f3HP0gJyOCSWoZ0XUtDRBY9cv98TXKHFygWIoBxuTiKmI%0AZMk%3D%0A)
 </div>
 
 
@@ -33797,7 +33797,7 @@ graças ao nosso editor visual para e-mail e SMS.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160666/acf23e8a04b71dbf670d6478/image.png?expires=1752529500&amp;signature=caa28087773f170472cb8e49540d17bfe748e71de6f3bbf979b5f362aa944aaf&amp;req=fSMlF89%2Bm4dZFb4f3HP0gAtY8abHFxuI1P1OUB9ITREVuQN3iAMmvYz30Q%2FF%0AygQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160666/acf23e8a04b71dbf670d6478/image.png?expires=1752633900&amp;signature=8b83c5f6d00f1bd8e51724e39e1fc96882847074a88315cb59b453162cab8c2f&amp;req=fSMlF89%2Bm4dZFb4f3HP0gAtY8aXGHReI1P1OUB9ITREMqUo4J8qBilhbqo4A%0AvKc%3D%0A)
 </div>
 
 
@@ -33825,7 +33825,7 @@ conste no boleto.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160675/dcdfcc3972f5a7332598c65c/image.png?expires=1752529500&amp;signature=b9272e22efadfabb03a956f0395a6aeb6e9983381c19668f9f83228e5326fd01&amp;req=fSMlF89%2Bm4ZaFb4f3HP0gKO3lPUp2o4fxRjU3oLKCN6lpZLTpgNtzfsqDqkC%0Aj2g%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160675/dcdfcc3972f5a7332598c65c/image.png?expires=1752633900&amp;signature=9b04b572d1f0960e0e7d0d1e6a28eb09e42a15b40587e0aef62371cabab27908&amp;req=fSMlF89%2Bm4ZaFb4f3HP0gKO3lPYo0IIfxRjU3oLKCN4MJLQPdB3p9M3wPNSw%0AuKA%3D%0A)
 </div>
 
 
@@ -33841,7 +33841,7 @@ de substituições:
 
 <div class="intercom-container" markdown="1">
 ![variaveis
-substituicao.JPG](https://kobana.intercom-attachments-1.com/i/o/932160680/112a4ed6db03819385b44517/variaveis-20substituicao.JPG?expires=1752529500&amp;signature=a0955fe887a088bd688b7f81dd2422cbe0855a30037efc00354d494b05fc1ce4&amp;req=fSMlF89%2Bm4lfFb4f3HP0gO0aGJzTeQybbhCpn2ERyjJHNptVR8xPUIaI3jZ8%0Aw1c%3D%0A)
+substituicao.JPG](https://kobana.intercom-attachments-1.com/i/o/932160680/112a4ed6db03819385b44517/variaveis-20substituicao.JPG?expires=1752633900&amp;signature=f6233eba74e0f450d3472187c409795a588ff99058bbafecac8a7e08c55b973a&amp;req=fSMlF89%2Bm4lfFb4f3HP0gO0aGJ%2FScwCbbhCpn2ERyjLEBrvpm%2BtHyvsbEWaF%0ANAQ%3D%0A)
 </div>
 
 
@@ -33877,7 +33877,7 @@ e-mail e muito mais.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160684/89fa5a076bfc3afa72eef351/image.png?expires=1752529500&amp;signature=e48ab85b10ac9ba279ce68188b61a7ab03e5b5b82b80301ed087acbbcf4b6ba8&amp;req=fSMlF89%2Bm4lbFb4f3HP0gDLuFE7yiDID63mW%2BVKVCwU9UqQyExyc7rMc9dZ1%0AgTg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160684/89fa5a076bfc3afa72eef351/image.png?expires=1752633900&amp;signature=4c8a12bfe4b6c8f58a5f8ae8c0435052d6d91e66ac2b80012073f4a27f89941c&amp;req=fSMlF89%2Bm4lbFb4f3HP0gDLuFE3zgj4D63mW%2BVKVCwVPkge13FUOiXiRE%2F9Q%0AFSE%3D%0A)
 </div>
 
 
@@ -33899,7 +33899,7 @@ cobrança quando quiser:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160687/a52cac2b70ea3784d58191a8/image.png?expires=1752529500&amp;signature=58dce437de240468f74c455c42de37c003c195a007ad468f0cac2e109542d32d&amp;req=fSMlF89%2Bm4lYFb4f3HP0gCWiuPenkF4bPRdwn4Ir2st3vHMjs%2F9OUN%2B0oA3W%0AAic%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160687/a52cac2b70ea3784d58191a8/image.png?expires=1752633900&amp;signature=499c1760b8d527810d4c21c729e6614cf5cb367fcfc21e832c32280ac35e55bb&amp;req=fSMlF89%2Bm4lYFb4f3HP0gCWiuPSmmlIbPRdwn4Ir2stgkO3A7QYE8HjuY5tM%0AIkc%3D%0A)
 </div>
 
 
@@ -33992,7 +33992,7 @@ suas carteiras.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160690/e7ac921de2073774faeae768/image.png?expires=1752529500&amp;signature=63bb66d751e1afd24727989eeb0eb8711e266a4b102105ee8c482ea7d8ef72e6&amp;req=fSMlF89%2Bm4hfFb4f3HP0gBXzAbbHh1TK%2FnLqx1Pw7sUadtdSoJgV0OonK2H%2B%0A%2FAo%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160690/e7ac921de2073774faeae768/image.png?expires=1752633900&amp;signature=5086ce2713e95f5986859fba42c65142a70385e270a497969f266e361443a9af&amp;req=fSMlF89%2Bm4hfFb4f3HP0gBXzAbXGjVjK%2FnLqx1Pw7sXQrr9EOYvRDfvLMa%2B%2F%0ApB8%3D%0A)
 </div>
 
 
@@ -34006,7 +34006,7 @@ presentes nela. Esses são os comandos que serão enviados ao banco.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160693/d2b849706125d7a34e333038/image.png?expires=1752529500&amp;signature=196ce4693c2f171b0b77ca45214a3993e81d3a75153db3d2509cfa2ab7d78617&amp;req=fSMlF89%2Bm4hcFb4f3HP0gNR0A4nCO%2B%2F1A%2BqG3Ulh6nOOIN1QD0DJW4uVbyoo%0AtbQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160693/d2b849706125d7a34e333038/image.png?expires=1752633900&amp;signature=c39fd5610c3da709128cb5091e600a110e3ae320954cab6e44ec605288da759d&amp;req=fSMlF89%2Bm4hcFb4f3HP0gNR0A4rDMeP1A%2BqG3Ulh6nOY%2FAdkM3Tvj7PdI1Mh%0AZOk%3D%0A)
 </div>
 
 
@@ -34041,7 +34041,7 @@ fazer o upload para a plataforma.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160697/3fde992be959dc9446db5da6/image.png?expires=1752529500&amp;signature=ec6d8898bb3a91377e2dea831103b1a0ac5aa8e2a05f935bc46020720ad36b4e&amp;req=fSMlF89%2Bm4hYFb4f3HP0gLXwDxGHvCyqKXBQmy77deVP0s6prPcffPLHBzxi%0ArFE%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160697/3fde992be959dc9446db5da6/image.png?expires=1752633900&amp;signature=6e766a3443387a156e7a61685cd4d395a3785c09d3a7ba542c4d6ece77308f49&amp;req=fSMlF89%2Bm4hYFb4f3HP0gLXwDxKGtiCqKXBQmy77deVMz5sBEiSvzsDrEMdb%0AElE%3D%0A)
 </div>
 
 
@@ -34055,7 +34055,7 @@ status dos boletos na plataforma.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160705/28067c4f23bded28ef0b8001/image.png?expires=1752529500&amp;signature=e5037667d9a6d4b6fa81159173b59a211d6fea13e332c07ba2b72a656ecd9719&amp;req=fSMlF89%2BmoFaFb4f3HP0gF9eMo0KIdcpqblM%2BA8UX2egx8f8MCcqzZB58uOy%0Ac9A%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160705/28067c4f23bded28ef0b8001/image.png?expires=1752633900&amp;signature=039a15299f2386e1258c434f884cbe08cfdb36034b71b36e845e465a7c964565&amp;req=fSMlF89%2BmoFaFb4f3HP0gF9eMo4LK9spqblM%2BA8UX2fC%2F%2FACUdjwUiNfUXI%2B%0AszY%3D%0A)
 </div>
 
 
@@ -34130,7 +34130,7 @@ anteriormente.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160712/ca7976343f44136ecef3c0d7/image.png?expires=1752529500&amp;signature=16359952ae292c6417344075cf8046a84d7924777aedcadc9894c76b6fec1774&amp;req=fSMlF89%2BmoBdFb4f3HP0gLztgLzDCAR3fApnZASSiaIRLBmehYljzz7IhANG%0AHQQ%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160712/ca7976343f44136ecef3c0d7/image.png?expires=1752633900&amp;signature=520481e4fd66a7aa45cb71580947f63e966e1c105640ea8a2658d32eb8a49248&amp;req=fSMlF89%2BmoBdFb4f3HP0gLztgL%2FCAgh3fApnZASSiaIvRi2m5Dm9NanMWfWh%0ADZI%3D%0A)
 </div>
 
 
@@ -34156,7 +34156,7 @@ aproveitar todas as outras vantagens da plataforma.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160715/ca00df34cfce99fb2d327624/image.png?expires=1752529500&amp;signature=a20d20ffb338228367805fb8c4d131a60306172cba33769c360f4ab65927f412&amp;req=fSMlF89%2BmoBaFb4f3HP0gGHcL9W4ktyrvuIzNyQu2M%2BnmZx25jtYLuFtTQ4Z%0AQD4%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160715/ca00df34cfce99fb2d327624/image.png?expires=1752633900&amp;signature=8e66a7c143ed3d7cf2afbb80b234cf4ccbafe04c52881e07fb183ba47cb39e06&amp;req=fSMlF89%2BmoBaFb4f3HP0gGHcL9a5mNCrvuIzNyQu2M%2BWkXbBfHwKXIowUiKW%0A1A8%3D%0A)
 </div>
 
 
@@ -34209,7 +34209,7 @@ remetente e destinatário:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![Envelope-4c646d.png](https://kobana.intercom-attachments-1.com/i/o/932160717/9fa8f15e8c2c21c6612e0788/Envelope-4c646d.png?expires=1752529500&amp;signature=58fa552d5e9e14bd39df7657b90347c19d10e7ac4b7ce85e4ee5f26b38b2c9f4&amp;req=fSMlF89%2BmoBYFb4f3HP0gKNLrUItmNOfsFVHDovpax%2FFmi4iw7zrFHFo9%2BiV%0A%2Bes%3D%0A)
+![Envelope-4c646d.png](https://kobana.intercom-attachments-1.com/i/o/932160717/9fa8f15e8c2c21c6612e0788/Envelope-4c646d.png?expires=1752633900&amp;signature=aa9fba0055005a5d565efeb9da791e9c48e70234ffccb499ac04137d76b514af&amp;req=fSMlF89%2BmoBYFb4f3HP0gKNLrUEskt%2BfsFVHDovpax8v8zzLeFsZYwCyl2GB%0AskE%3D%0A)
 </div>
 
 
@@ -34245,7 +34245,7 @@ ocorrência.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160724/1aa0670237cf78ca9c93b9e7/image.png?expires=1752529500&amp;signature=9fa9ebe87123793c305df659e0208147e7c0ce1fd58b9e1bc9c79a295e1b1f03&amp;req=fSMlF89%2BmoNbFb4f3HP0gFTG7%2Fii2%2FR%2FFS%2Bd4Gl%2BIiMejOkmn4F%2Fq%2BjY0M0E%0AdKg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160724/1aa0670237cf78ca9c93b9e7/image.png?expires=1752633900&amp;signature=0e5604a3f2b93de023de56026c27b7536f978fc523c7001ff4e2eadacadeb058&amp;req=fSMlF89%2BmoNbFb4f3HP0gFTG7%2Fuj0fh%2FFS%2Bd4Gl%2BIiNbNLjme8cZgV57ruy6%0A2Zo%3D%0A)
 </div>
 
 
@@ -34286,7 +34286,7 @@ ações e usuários:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160730/e33659f2e6badf84148e75a5/image.png?expires=1752529500&amp;signature=109df342b04fb0d96a80c810b3733653c2d6c7ef20bf258962f4ee9b549ab620&amp;req=fSMlF89%2BmoJfFb4f3HP0gJkieHLgY5Ko5QQzRKhUXGyv59lD0eODrnLIPxRc%0Am2o%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160730/e33659f2e6badf84148e75a5/image.png?expires=1752633900&amp;signature=fa4d903e276679924d67a06d6f7f9ea45c5861c92ef8df31ea5c710e6f856b0f&amp;req=fSMlF89%2BmoJfFb4f3HP0gJkieHHhaZ6o5QQzRKhUXGzjxRLOQtVE9jhJ02ui%0A1Aw%3D%0A)
 </div>
 
 
@@ -34391,7 +34391,7 @@ automático.
 ^
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160736/616bb713633dca7b7d054abd/image.png?expires=1752529500&amp;signature=045e135c06cdb2bc3c5b0adddc09a129c0dbb04bc3e115abf6cda32c4a526012&amp;req=fSMlF89%2BmoJZFb4f3HP0gDjnDL88co%2F2ex4LEkRkDob1KUkpYeWT5csx6uTN%0AeQg%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160736/616bb713633dca7b7d054abd/image.png?expires=1752633900&amp;signature=2e9607f8c52415ad0cdeef4b5fe24dc2e34d054c43f1bc44c8c8f7fe8fe28dbf&amp;req=fSMlF89%2BmoJZFb4f3HP0gDjnDLw9eIP2ex4LEkRkDoYOloAn712g1nodULkv%0ANnE%3D%0A)
 </div>
 
 * Quando um boleto é sinalizado como pago na Kobana, atualize
@@ -34402,7 +34402,7 @@ automático.
 ^
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160739/64b53552b37ccfa5e4eed60f/image.png?expires=1752529500&amp;signature=93586a4917bef4d06491fe36991a0962c78b3b1be8bc6f5f40b083b3e841314d&amp;req=fSMlF89%2BmoJWFb4f3HP0gA2nR8DJrkxBm%2F1JrWQLoeW3QF01l7NOCf4nwqoZ%0ArXc%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160739/64b53552b37ccfa5e4eed60f/image.png?expires=1752633900&amp;signature=f6b55cc622f14c71e858971415e7f55112dbab5631ed545f8bb450fb69bd80e4&amp;req=fSMlF89%2BmoJWFb4f3HP0gA2nR8PIpEBBm%2F1JrWQLoeWnp6zOHsklbpkoVxcT%0A324%3D%0A)
 </div>
 
 [Veja mais automatizações que você pode criar e outras informações sobre
@@ -34519,7 +34519,7 @@ vai precisar preenchê-los todas as vezes.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160745/91701e5c7521e4a41d5d791b/image.png?expires=1752529500&amp;signature=804b1eb9689665004b3757d5cb3e1eede2281279a5c170efaebc07eee8028433&amp;req=fSMlF89%2BmoVaFb4f3HP0gHeFjkhHYWWJ8NKlvjY5bLgsT5ypju1mbUee2esQ%0AJ9M%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160745/91701e5c7521e4a41d5d791b/image.png?expires=1752633900&amp;signature=77085ca43b03a5890e98a9561a1819b1ebc9ccdb05cc9141a808e6b3deb3dc26&amp;req=fSMlF89%2BmoVaFb4f3HP0gHeFjktGa2mJ8NKlvjY5bLgOPQnrcyL%2FxrPI7Z5m%0AkZs%3D%0A)
 </div>
 
 
@@ -34533,7 +34533,7 @@ além de possíveis descontos:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160749/7bcdd77d49a5bc68e5f8aa62/image.png?expires=1752529500&amp;signature=38ef0e338526f8a2f34f0cc2d288ce05543822294ee74757a27496f6d914dcfa&amp;req=fSMlF89%2BmoVWFb4f3HP0gKX%2B4j1FFDZsAOFT0AK9VKkVMtylgHEJqHGaUVTe%0AZSI%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160749/7bcdd77d49a5bc68e5f8aa62/image.png?expires=1752633900&amp;signature=77f15794e0bd72341c259b4e26cbbe8783ce986e42ca48e8203c659cc37a8014&amp;req=fSMlF89%2BmoVWFb4f3HP0gKX%2B4j5EHjpsAOFT0AK9VKn%2FqpRox3RenjxjvxTb%0AxJE%3D%0A)
 </div>
 
 
@@ -34564,7 +34564,7 @@ relevantes da sua conta.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/932160753/da5dfed706c8809d8d1ecfee/image.png?expires=1752529500&amp;signature=7f89eea47f84685c2f376da406f47af720c8cf60c5ec548b917d8e4232bb18f1&amp;req=fSMlF89%2BmoRcFb4f3HP0gEf3iBMs21yEsdyZKZ%2F0iFoFGDq4juKKOg6zOqjF%0A72I%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/932160753/da5dfed706c8809d8d1ecfee/image.png?expires=1752633900&amp;signature=1a0c952055a389082c11d7de80ff832d4cedf14fcb34db6de397523a4361b220&amp;req=fSMlF89%2BmoRcFb4f3HP0gEf3iBAt0VCEsdyZKZ%2F0iFp%2F%2B5%2BYpmqHeM8gGdhZ%0AbKE%3D%0A)
 </div>
 
 
@@ -34652,7 +34652,7 @@ acessar as Configurações Avançadas:
 
 <div class="intercom-container" markdown="1">
 ![alertas
-configuras.JPG](https://kobana.intercom-attachments-1.com/i/o/932160757/b886ec0c592f764a0b05f07f/alertas-20configuras.JPG?expires=1752529500&amp;signature=99739726fd4045d7f07044bcdbe7af2880b38b6e3a0de670b7123bde98e683d6&amp;req=fSMlF89%2BmoRYFb4f3HP0gNgNx2MhcRaqnmFBm9VYkaqQ%2BhIEtEKpBcTE2CgQ%0AMR0%3D%0A)
+configuras.JPG](https://kobana.intercom-attachments-1.com/i/o/932160757/b886ec0c592f764a0b05f07f/alertas-20configuras.JPG?expires=1752633900&amp;signature=6e46c43f33e801dc36f4e7d8e63fd64b3156ab445b6f84498b8eb5cae01067d8&amp;req=fSMlF89%2BmoRYFb4f3HP0gNgNx2AgexqqnmFBm9VYkao5a5HVBAHrSuKs1yxQ%0A%2FTg%3D%0A)
 </div>
 
 * Escolha o endereço de e-mail onde quer receber os alertas;
@@ -34673,7 +34673,7 @@ As mensagens enviadas para o seu e-mail serão assim:
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![alertas.jpg](https://kobana.intercom-attachments-1.com/i/o/932160763/d2f862c73f9558e73e4734cc/alertas.jpg?expires=1752529500&amp;signature=0562ebaba639b16faf6796b1540eb38c4a08b1b108cd582e82bfd3552ae6a775&amp;req=fSMlF89%2BmodcFb4f3HP0gB7PqOoDnPGPZ3alG2xSlbln1Gr4rgEIjV%2BPOTwX%0AW1A%3D%0A)
+![alertas.jpg](https://kobana.intercom-attachments-1.com/i/o/932160763/d2f862c73f9558e73e4734cc/alertas.jpg?expires=1752633900&amp;signature=f4837457f2f3037a206ab81a04518586a9646fc52ab134a985cd5f090eedc6f8&amp;req=fSMlF89%2BmodcFb4f3HP0gB7PqOkClv2PZ3alG2xSlblEK4fi4CvQpcomi7Kc%0AX0Q%3D%0A)
 </div>
 
 
@@ -35208,7 +35208,7 @@ a **criação da sua conta**.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/931562451/77b4d6215106f9dcef5efd68/image.png?expires=1752529500&amp;signature=62f8077d66d171debcb01dfe52a8e9bf224fa307ea086aae293f924d22a4ed6e&amp;req=fSMmE898mYReFb4f3HP0gJBO2c9OLCH%2B2y8ehqa35Eb5VDIV6QKMymZ%2B5kyH%0Abp0%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/931562451/77b4d6215106f9dcef5efd68/image.png?expires=1752633900&amp;signature=b086fb27314d6677f20b0d2fe3973d62148b36ccc0e1b0885bbaec2f0e5ea574&amp;req=fSMmE898mYReFb4f3HP0gJBO2cxPJi3%2B2y8ehqa35EZheay1l5MKCO1QMfSa%0ASa8%3D%0A)
 </div>
 
 Ao clicar no botão de confirmação de endereço de e-mail, você será
@@ -35226,7 +35226,7 @@ dela, os dados do representante legal e o endereço.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/931562460/746632899be80f6c417f1189/image.png?expires=1752529500&amp;signature=c151014c8419d0cf82527e4dc75341ba7a9bb74a777019491b5ff0bd37d5032f&amp;req=fSMmE898mYdfFb4f3HP0gFDIBGNPqNxx0vbrlUN4qnYSatfYoAsKvbFldHxS%0AG3w%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/931562460/746632899be80f6c417f1189/image.png?expires=1752633900&amp;signature=f189866166a2f9254927a0777a2b671aa52867b059503e294c2be2767542544e&amp;req=fSMmE898mYdfFb4f3HP0gFDIBGBOotBx0vbrlUN4qnaD5vFVONE4iyvHeupH%0AOrM%3D%0A)
 </div>
 
 
@@ -35244,7 +35244,7 @@ receberá um código por SMS ou ligação para confirmar o número.*
 </div>
 
 <div class="intercom-container" markdown="1">
-![](https://kobana.intercom-attachments-1.com/i/o/931562466/156c9f0298c7846da83e7065/image.png?expires=1752529500&amp;signature=b50267fadaada4ca889a0af8b29e1c1c0eae6941dbcce3373a67af8daa2ae964&amp;req=fSMmE898mYdZFb4f3HP0gEyNHjMT85V%2FDuzwqjB1RK1LRO2fbBwlJplz0hNj%0AyMY%3D%0A)
+![](https://kobana.intercom-attachments-1.com/i/o/931562466/156c9f0298c7846da83e7065/image.png?expires=1752633900&amp;signature=55e6de47251ab585511fc81f4fee0f191e1951b939a3883bbeb099681a55b184&amp;req=fSMmE898mYdZFb4f3HP0gEyNHjAS%2BZl%2FDuzwqjB1RK0oDT7hfCfBdEh1t4UD%0Aw44%3D%0A)
 </div>
 
 Caso você tenha informado um celular, você receberá uma mensagem SMS com
@@ -35719,7 +35719,7 @@ endereço informado à nossa equipe. Então, você deve clicar em
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/931103381/79f9ecc7aae5a0d2db1dff27/confirmar+email.png?expires=1752529500&amp;signature=117ea0397853772ebc7d84c4496555adfc6d60674f9bf8b621b6402fb9b8a158&amp;req=fSMmF8l9noleFb4f3HP0gKJOvUKXqcH3zpn2fa06Ya2w%2BbAlb8yvviizyQrw%0AMyU%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/931103381/79f9ecc7aae5a0d2db1dff27/confirmar+email.png?expires=1752633900&amp;signature=c5a95e8abb3602e7dc0770c5b7389084f3c7fa635b952fb96ffb3b489250b770&amp;req=fSMmF8l9noleFb4f3HP0gKJOvUGWo833zpn2fa06Ya2Rf%2BTclvuqIKVIj410%0AHGg%3D%0A)
 </div>
 
 
@@ -35744,7 +35744,7 @@ digite uma senha segura para o cadastro.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/931109114/adc77b634dd2f05700d8761c/senha.png?expires=1752529500&amp;signature=ae914e2058e96e0018d206d9f82cd4af59c0394ce8acb1953f0557687777187f&amp;req=fSMmF8l3nIBbFb4f3HP0gH4wUf49CuNV5pYpk6cNJxAhKvo23iZTFlKFXRUy%0AV%2FI%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/931109114/adc77b634dd2f05700d8761c/senha.png?expires=1752633900&amp;signature=6dd5cf80d7b31ac57eabcd0f3d2ac4602df6c64dc8e7b44255931096c35ab0fb&amp;req=fSMmF8l3nIBbFb4f3HP0gH4wUf08AO9V5pYpk6cNJxAm4dcD1ljkPbqocFk%2F%0A9Bg%3D%0A)
 </div>
 
 
@@ -35760,7 +35760,7 @@ dela, os dados do representante legal e o endereço.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/931109594/02558658b98c7596b8cb11ce/cadastro+da+empresa.png?expires=1752529500&amp;signature=765c4e11e9d3f2f07b6bd85d488f6d56a6fa1fb2e6c42ed074191e531827c517&amp;req=fSMmF8l3mIhbFb4f3HP0gPZFFbqCF5zZObzwsakC67aa9C6h2TRrfMJb0lz8%0AS%2B8%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/931109594/02558658b98c7596b8cb11ce/cadastro+da+empresa.png?expires=1752633900&amp;signature=8b8b797d3d35dd0be2b013960a856fb4e837ea1c4729d1b28d7650927c3df12d&amp;req=fSMmF8l3mIhbFb4f3HP0gPZFFbmDHZDZObzwsakC67a4Ura4AzSuOm%2FxX2bs%0ATG8%3D%0A)
 </div>
 
 ## <br />4. **Cadastrando e validando o seu telefone**   {#h_06598c2b4a}
@@ -35773,7 +35773,7 @@ empresa e um número de telefone que esteja próximo de você.
 {: .no-margin}
 
 <div class="intercom-container" markdown="1">
-![](https://downloads.intercomcdn.com/i/o/931109909/10ea660f36df803f1e5e5d31/validacao+do+telefone.png?expires=1752529500&amp;signature=0951a4e0dbb165dd45e16b085213081b900ac1bafde0909848cab10f8f19614c&amp;req=fSMmF8l3lIFWFb4f3HP0gGVPMS%2B6WYu7oa6iY%2BWaKqaMkezkkAOQNcQqStxV%0ArpM%3D%0A)
+![](https://downloads.intercomcdn.com/i/o/931109909/10ea660f36df803f1e5e5d31/validacao+do+telefone.png?expires=1752633900&amp;signature=0cea5103afc4db95742b89059e6df058771fd00668e3f3dea9ffaceb7dd3a1ff&amp;req=fSMmF8l3lIFWFb4f3HP0gGVPMSy7U4e7oa6iY%2BWaKqZ6cINJ9IOb%2FPsdcLQ6%0AeG8%3D%0A)
 </div>
 
 
