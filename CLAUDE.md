@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Instructions
+
+After editing a file runs rubocop -a over the file.
+
 ## Commands
 
 ### Development
