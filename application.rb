@@ -40,8 +40,8 @@ class Application < Sinatra::Base
       # Try to find the appropriate layout
       if File.exist?(File.join(settings.views, "layouts/#{lang}/#{page}.erb"))
         erb :"layouts/#{lang}/#{page}"
-      elsif File.exist?(File.join(settings.views, "layouts/#{lang}.erb"))
-        erb :"layouts/#{lang}"
+      elsif File.exist?(File.join(settings.views, "layouts/#{lang}/index.erb"))
+        erb :"layouts/#{lang}/index"
       elsif File.exist?(File.join(settings.views, 'layout.erb'))
         erb :layout
       else
@@ -51,19 +51,12 @@ class Application < Sinatra::Base
     end
   end
 
-  # get '/:lang.md' do
-  #   lang = params['lang'] || 'pt-BR'
-  #   unless File.exist?(File.join(settings.views, "#{lang}/index.md"))
-  #     LOG.error "Language file not found: #{lang}"
-  #     halt 404, 'Not Found'
-  #   end
-  #   content_type 'text/markdown'
-  #   File.read(File.join(settings.views, "#{lang}/index.md"))
-  # end
-
-  # Root route redirects to default language
   get '/' do
     index('pt-BR', 'index', 'html')
+  end
+
+  get '/api' do
+    index('en-US', 'api', 'html')
   end
 
   # Handle routes like:
