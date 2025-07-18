@@ -24,7 +24,7 @@ if Dir.exist?(api_content_dir)
 else
   puts '📥 content/api directory not found. Cloning repository...'
   # Clone the repository to content/api
-  clone_cmd = "git clone git@github.com:universokobana/kobana-api-specs.git #{api_content_dir}"
+  clone_cmd = "git clone git@github.com:universokobana/kobana-developers-doc-readme.git #{api_content_dir}"
   system(clone_cmd)
   if $CHILD_STATUS.success?
     puts '✅ Successfully cloned content/api repository'
@@ -110,7 +110,7 @@ def sort_by_order_file(files, base_dir)
   sorted_files
 end
 
-# Read all markdown files from content/api directory recursively
+# Read all markdown files from content/api/docs directory recursively
 if api_docs_dir.exist?
   api_files = Dir.glob(api_docs_dir.join('**', '*.md')).sort
 
