@@ -72,7 +72,9 @@ def fetch_articles(api_token, url)
 end
 
 def article_as_markdown(article)
-  return [] unless article['state'] == 'published'
+  return unless article['state'] == 'published'
+  return if article['url'].nil?
+  return if article['body'].empty?
 
   # Generate filename from title
   # filename = underscorize(article['title']) + '.md'
@@ -165,9 +167,11 @@ puts "Found #{all_articles.length} articles"
 indice = []
 articles = []
 all_articles.each do |article|
+  article_content = article_as_markdown(article)
+  next if article_content.nil?
   puts "⚙️  #{article['title']} (ID: #{article['id']})"
   indice << "#{indice.size + 1}. [#{article['title']}](##{slug(article['title'])})"
-  articles += article_as_markdown(article)
+  articles += article_content
 end
 
 markdown_content = [
