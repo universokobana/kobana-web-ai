@@ -11,6 +11,22 @@ require 'uri'
 require 'json'
 require 'fileutils'
 require 'kramdown'
+require 'optparse'
+
+# Parse command line options
+options = {}
+OptionParser.new do |opts|
+  opts.banner = "Usage: #{$0} [options]"
+
+  opts.on('-f', '--force', 'Remove articles.json before running') do
+    options[:force] = true
+  end
+
+  opts.on('-h', '--help', 'Show this help message') do
+    puts opts
+    exit
+  end
+end.parse!
 
 # Check if API token is set
 unless ENV.fetch('INTERCOM_API_TOKEN', nil)
@@ -111,9 +127,17 @@ def article_as_markdown(article)
   # puts "Saved: #{filename}"
 end
 
-if File.exist?(File.join(content_dir, 'articles.json'))
+articles_json_path = File.join(content_dir, 'articles.json')
+
+# Remove articles.json if --force option is provided
+if options[:force] && File.exist?(articles_json_path)
+  puts 'Removing existing articles.json due to --force option...'
+  File.delete(articles_json_path)
+end
+
+if File.exist?(articles_json_path)
   puts 'Index file already exists. Skipping update.'
-  all_articles = JSON.parse(File.read(File.join(content_dir, 'articles.json')))
+  all_articles = JSON.parse(File.read(articles_json_path))
 else
   # Main execution
   puts 'Fetching articles from Intercom API...'
