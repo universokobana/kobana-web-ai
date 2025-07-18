@@ -322,7 +322,7 @@ Para mais configurações e opções, veja o [README do projeto no Github](https
 ### Assinaturas
 Gerenciar assinaturas
 
-#### GET /v1/v1/customer_subscriptions
+#### GET /v1/customer_subscriptions
 **Description**: Listar Assinaturas
 
 **Parameters**:
@@ -518,7 +518,7 @@ Sucesso na listagem de assinaturas
 ```
 
 
-#### POST /v1/v1/customer_subscriptions
+#### POST /v1/customer_subscriptions
 **Description**: Criar uma Assinatura
 
 **Request Body** (application/json):
@@ -841,7 +841,7 @@ Assinatura criada
 ```
 
 
-#### DELETE /v1/v1/customer_subscriptions/{id}
+#### DELETE /v1/customer_subscriptions/{id}
 **Description**: Excluir a Assinatura
 
 **Parameters**:
@@ -854,7 +854,7 @@ Assinatura criada
 
 Assinatura excluída
 
-#### GET /v1/v1/customer_subscriptions/{id}
+#### GET /v1/customer_subscriptions/{id}
 **Description**: Informações da Assinatura
 
 **Parameters**:
@@ -959,7 +959,7 @@ Assinatura encontrada
 ```
 
 
-#### PUT /v1/v1/customer_subscriptions/{id}
+#### PUT /v1/customer_subscriptions/{id}
 **Description**: Atualizar a Assinatura
 
 **Request Body** (application/json):
@@ -1191,7 +1191,7 @@ Disponível apenas para os seguintes bancos e formatos.
 
 Assinatura atualizado
 
-#### POST /v1/v1/customer_subscriptions/{id}/next_charge
+#### POST /v1/customer_subscriptions/{id}/next_charge
 **Description**: Gerar Próxima Cobrança
 
 **Parameters**:
@@ -1299,7 +1299,7 @@ Próxima cobrança gerada
 ### Boletos
 Gerenciar boletos
 
-#### GET /v1/v1/bank_billets
+#### GET /v1/bank_billets
 **Description**: Listar Boletos
 
 **Parameters**:
@@ -1690,7 +1690,7 @@ Sucesso na listagem de boletos
 ```
 
 
-#### POST /v1/v1/bank_billets
+#### POST /v1/bank_billets
 **Description**: Criar um Boleto
 
 **Request Body** (application/json):
@@ -2410,7 +2410,7 @@ Boleto criado
 ```
 
 
-#### POST /v1/v1/bank_billets/cancel_all
+#### POST /v1/bank_billets/cancel_all
 **Description**: Cancelar Boletos em Lote
 
 **Request Body** (application/json):
@@ -2454,7 +2454,7 @@ Boleto criado
 
 Solicitação realizada com sucesso
 
-#### GET /v1/v1/bank_billets/{id}
+#### GET /v1/bank_billets/{id}
 **Description**: Visualizar o Boleto
 
 **Parameters**:
@@ -2649,7 +2649,7 @@ Boleto encontrado
 ```
 
 
-#### PUT /v1/v1/bank_billets/{id}
+#### PUT /v1/bank_billets/{id}
 **Description**: Atualizar o Boleto
 
 **Request Body** (application/json):
@@ -2878,7 +2878,7 @@ Opções disponíveis para cada banco suportado:
 
 Boleto atualizado
 
-#### PUT /v1/v1/bank_billets/{id}/cancel
+#### PUT /v1/bank_billets/{id}/cancel
 **Description**: Cancelar o Boleto
 
 **Request Body** (application/json):
@@ -2908,7 +2908,7 @@ Boleto atualizado
 
 Boleto cancelado
 
-#### POST /v1/v1/bank_billets/{id}/duplicate
+#### POST /v1/bank_billets/{id}/duplicate
 **Description**: Duplicar Boleto
 
 **Request Body** (application/json):
@@ -3519,7 +3519,7 @@ Boleto duplicado
 ```
 
 
-#### PUT /v1/v1/bank_billets/{id}/pay
+#### PUT /v1/bank_billets/{id}/pay
 **Description**: Marcar Boleto Como Pago
 
 **Request Body** (application/json):
@@ -3550,7 +3550,7 @@ Boleto duplicado
 
 Boleto pago
 
-#### POST /v1/v1/bank_billets/{id}/send_email
+#### POST /v1/bank_billets/{id}/send_email
 **Description**: Enviar Boleto por E-mail
 
 **Request Body** (application/json):
@@ -3583,7 +3583,7 @@ Boleto pago
 
 E-mail enviado com sucesso
 
-#### POST /v1/v1/bank_billets/{id}/send_sms
+#### POST /v1/bank_billets/{id}/send_sms
 **Description**: Enviar Boleto por SMS
 
 **Request Body** (application/json):
@@ -3613,7 +3613,7 @@ E-mail enviado com sucesso
 
 SMS enviado com sucesso
 
-#### POST /v2/v2/payment/bank_billet_batches
+#### POST /v2/payment/bank_billet_batches
 **Description**: Criar um Lote de Pagamento de Boletos
 
 **Request Body** (application/json):
@@ -3721,7 +3721,7 @@ Lote de Pagamento criado
 ```
 
 
-#### GET /v2/v2/payment/bank_billets
+#### GET /v2/payment/bank_billets
 **Description**: Listar Pagamentos de Boleto
 
 **Parameters**:
@@ -3808,7 +3808,7 @@ Pagamentos encontrados
 ```
 
 
-#### POST /v2/v2/payment/bank_billets
+#### POST /v2/payment/bank_billets
 **Description**: Criar um Pagamento de Boleto
 
 **Request Body** (application/json):
@@ -3885,7 +3885,7 @@ Pagamento criado
 ```
 
 
-#### GET /v2/v2/payment/bank_billets/{uid}
+#### GET /v2/payment/bank_billets/{uid}
 **Description**: Visualizar um Pagamento de Boleto
 
 **Parameters**:
@@ -3936,7 +3936,7 @@ Pagamento encontrado
 
 ### CNAB (Remessa)
 
-#### GET /v1/v1/remittances
+#### GET /v1/remittances
 **Description**: Listar CNABs
 
 **Parameters**:
@@ -4049,7 +4049,7 @@ Sucesso na listagem de CNABs
 ```
 
 
-#### POST /v1/v1/remittances
+#### POST /v1/remittances
 **Description**: Criar CNAB
 
 **Request Body** (application/json):
@@ -4126,7 +4126,7 @@ CNAB criado
 ```
 
 
-#### POST /v1/v1/remittances/bulk
+#### POST /v1/remittances/bulk
 **Description**: Criar CNABs em Lote
 
 **Request Body** (application/json):
@@ -4245,7 +4245,7 @@ CNABs criadas
 ```
 
 
-#### DELETE /v1/v1/remittances/{id}
+#### DELETE /v1/remittances/{id}
 **Description**: Apagar CNAB
 
 **Parameters**:
@@ -4257,7 +4257,7 @@ CNABs criadas
 
 CNAB excluído
 
-#### GET /v1/v1/remittances/{id}
+#### GET /v1/remittances/{id}
 **Description**: Informações do CNAB
 
 **Parameters**:
@@ -4317,7 +4317,7 @@ CNAB encontrado
 ```
 
 
-#### GET /v1/v1/remittances/{id}/raw
+#### GET /v1/remittances/{id}/raw
 **Description**: Raw(text/plain) do CNAB
 
 **Parameters**:
@@ -4332,7 +4332,7 @@ Raw do CNAB
 ### CNAB (Retorno)
 CNAB (Retorno)
 
-#### GET /v1/v1/discharges
+#### GET /v1/discharges
 **Description**: Listar CNABs
 
 **Parameters**:
@@ -4444,7 +4444,7 @@ Sucesso na listagem de CNABs
 ```
 
 
-#### POST /v1/v1/discharges
+#### POST /v1/discharges
 **Description**: Enviar CNAB
 
 **Request Body** (multipart/form-data):
@@ -4521,7 +4521,7 @@ CNAB enviado
 ```
 
 
-#### GET /v1/v1/discharges/{id}
+#### GET /v1/discharges/{id}
 **Description**: Informações do CNAB
 
 **Parameters**:
@@ -4582,7 +4582,7 @@ CNAB encontrado
 ```
 
 
-#### GET /v1/v1/discharges/{id}/download
+#### GET /v1/discharges/{id}/download
 **Description**: Download do CNAB
 
 **Parameters**:
@@ -4594,7 +4594,7 @@ CNAB encontrado
 
 Download com sucesso
 
-#### PUT /v1/v1/discharges/{id}/pay_off
+#### PUT /v1/discharges/{id}/pay_off
 **Description**: Quitar Boletos
 
 **Parameters**:
@@ -4606,7 +4606,7 @@ Download com sucesso
 
 Boletos quitados
 
-#### PUT /v1/v1/discharges/{id}/reprocess
+#### PUT /v1/discharges/{id}/reprocess
 **Description**: Reprocessar CNAB
 
 **Parameters**:
@@ -4620,7 +4620,7 @@ CNAB reprocessada
 
 ### Caixas Postais
 
-#### GET /v2/v2/edi/edi_boxes
+#### GET /v2/edi/edi_boxes
 **Description**: Listar Caixas Postais
 
 **Parameters**:
@@ -4647,7 +4647,7 @@ Caixas Postais encontradas.
 ```
 
 
-#### POST /v2/v2/edi/edi_boxes
+#### POST /v2/edi/edi_boxes
 **Description**: Criar Caixa Postal
 
 **Request Body** (application/json):
@@ -4670,7 +4670,7 @@ Caixa Postal criada
 ```
 
 
-#### GET /v2/v2/edi/edi_boxes/{uid}
+#### GET /v2/edi/edi_boxes/{uid}
 **Description**: Visualizar Caixa Postal
 
 **Parameters**:
@@ -4690,7 +4690,7 @@ Caixa Postal encontrada
 ```
 
 
-#### PUT /v2/v2/edi/edi_boxes/{uid}
+#### PUT /v2/edi/edi_boxes/{uid}
 **Description**: Atualizar Caixa Postal
 
 **Request Body** (application/json):
@@ -4717,7 +4717,7 @@ Caixa Postal atualizada
 ### Carnês
 Gerenciar carnês
 
-#### GET /v1/v1/installments
+#### GET /v1/installments
 **Description**: Listar Carnês
 
 **Parameters**:
@@ -4944,7 +4944,7 @@ Sucesso na listagem de carnês
 ```
 
 
-#### POST /v1/v1/installments
+#### POST /v1/installments
 **Description**: Criar um Carnê
 
 **Request Body** (application/json):
@@ -5399,7 +5399,7 @@ Carnê Criado
 ```
 
 
-#### DELETE /v1/v1/installments/{id}
+#### DELETE /v1/installments/{id}
 **Description**: Excluir o Carnê
 
 **Parameters**:
@@ -5412,7 +5412,7 @@ Carnê Criado
 
 Carnê cancelado
 
-#### GET /v1/v1/installments/{id}
+#### GET /v1/installments/{id}
 **Description**: Informações do Carnê
 
 **Parameters**:
@@ -5535,7 +5535,7 @@ Carnê encontrado com sucesso
 ### Carteiras de Cobrança
 Gerenciar carteiras
 
-#### GET /v1/v1/bank_billet_accounts
+#### GET /v1/bank_billet_accounts
 **Description**: Listar Carteiras
 
 **Parameters**:
@@ -5607,8 +5607,8 @@ Carteiras Encontradas
     "name": "string",
     "status": "pending",
     "default": true,
-    "configuration": null,
-    "bank_contract": null,
+    "configuration": {},
+    "bank_contract": {},
     "custom_name": "string",
     "kind": "cnab400",
     "remittance_disabled": true,
@@ -5674,8 +5674,8 @@ Carteiras Encontradas
     "name": "string",
     "status": "pending",
     "default": true,
-    "configuration": null,
-    "bank_contract": null,
+    "configuration": {},
+    "bank_contract": {},
     "custom_name": "string",
     "kind": "cnab400",
     "remittance_disabled": true,
@@ -5689,7 +5689,7 @@ Carteiras Encontradas
 ```
 
 
-#### POST /v1/v1/bank_billet_accounts
+#### POST /v1/bank_billet_accounts
 **Description**: Criar Carteira de Cobrança
 
 **Request Body** (application/json):
@@ -5746,8 +5746,8 @@ Quando o valor é informado corretamente, ou no retorno processado, o banco diz 
 O campo `default` determina a carteira de cobrança que será usada na criação do boleto quando nenhuma carteira for informada.
 
 No momento que a primeira carteira é homologada (passa para o `status` = `active`), ela recebe o valor `default` = `true`
-  - `configuration` (optional): json - Configuração de dados padrões para boleto
-  - `bank_contract` (optional): hash - Dados da Carteira. Não é recebido na criação e nem na atualização, só é retornado na consulta e listagem.
+  - `configuration` (optional): object - Configuração de dados padrões para boleto
+  - `bank_contract` (optional): object - Dados da Carteira. Não é recebido na criação e nem na atualização, só é retornado na consulta e listagem.
   - `custom_name` (optional): string - Nome da Carteira para identificação dentro da Kobana.
   - `kind` (optional): string - Tipo de CNAB:
 * `cnab400` CNAB 400
@@ -5802,8 +5802,8 @@ No momento que a primeira carteira é homologada (passa para o `status` = `activ
   "name": "string",
   "status": "pending",
   "default": true,
-  "configuration": null,
-  "bank_contract": null,
+  "configuration": {},
+  "bank_contract": {},
   "custom_name": "string",
   "kind": "cnab400",
   "remittance_disabled": true,
@@ -5889,8 +5889,8 @@ Carteira de cobrança criada
   "name": "string",
   "status": "pending",
   "default": true,
-  "configuration": null,
-  "bank_contract": null,
+  "configuration": {},
+  "bank_contract": {},
   "custom_name": "string",
   "kind": "cnab400",
   "remittance_disabled": true,
@@ -5903,7 +5903,7 @@ Carteira de cobrança criada
 ```
 
 
-#### GET /v1/v1/bank_billet_accounts/{id}
+#### GET /v1/bank_billet_accounts/{id}
 **Description**: Informações da Carteira
 
 **Parameters**:
@@ -5981,8 +5981,8 @@ Carteira encontrada
   "name": "string",
   "status": "pending",
   "default": true,
-  "configuration": null,
-  "bank_contract": null,
+  "configuration": {},
+  "bank_contract": {},
   "custom_name": "string",
   "kind": "cnab400",
   "remittance_disabled": true,
@@ -5995,7 +5995,7 @@ Carteira encontrada
 ```
 
 
-#### PUT /v1/v1/bank_billet_accounts/{id}
+#### PUT /v1/bank_billet_accounts/{id}
 **Description**: Atualizar a Carteira
 
 **Request Body** (application/json):
@@ -6112,7 +6112,7 @@ Carteira encontrada
 
 Carteira atualizada
 
-#### GET /v1/v1/bank_billet_accounts/{id}/ask
+#### GET /v1/bank_billet_accounts/{id}/ask
 **Description**: Solicitar Homologação da Carteira de Cobrança
 
 **Parameters**:
@@ -6190,8 +6190,8 @@ Solicitação de homologação realizada com sucesso
   "name": "string",
   "status": "pending",
   "default": true,
-  "configuration": null,
-  "bank_contract": null,
+  "configuration": {},
+  "bank_contract": {},
   "custom_name": "string",
   "kind": "cnab400",
   "remittance_disabled": true,
@@ -6204,7 +6204,7 @@ Solicitação de homologação realizada com sucesso
 ```
 
 
-#### PUT /v1/v1/bank_billet_accounts/{id}/set_default
+#### PUT /v1/bank_billet_accounts/{id}/set_default
 **Description**: Alterar Carteira de Cobrança padrão
 
 **Request Body** (application/json):
@@ -6228,7 +6228,7 @@ Solicitação de homologação realizada com sucesso
 
 Carteira definida com padrão com sucesso
 
-#### PUT /v1/v1/bank_billet_accounts/{id}/validate
+#### PUT /v1/bank_billet_accounts/{id}/validate
 **Description**: Validar Carteira de Cobrança
 
 **Request Body** (application/json):
@@ -6254,7 +6254,7 @@ Carteira Homologada com sucesso
 
 ### Certificado
 
-#### GET /v2/v2/admin/certificates
+#### GET /v2/admin/certificates
 **Description**: Listar Certificados
 
 **Parameters**:
@@ -6314,7 +6314,7 @@ Certificados encontrados
 ```
 
 
-#### POST /v2/v2/admin/certificates
+#### POST /v2/admin/certificates
 **Description**: Incluir um Certificado
 
 **Request Body** (multipart/form-data):
@@ -6382,7 +6382,7 @@ Certificado incluído
 ### Clientes
 Gerenciar clientes
 
-#### GET /v1/v1/customers
+#### GET /v1/customers
 **Description**: Listar Clientes
 
 **Parameters**:
@@ -6467,7 +6467,7 @@ Sucesso na listagem de clientes
 ```
 
 
-#### POST /v1/v1/customers
+#### POST /v1/customers
 **Description**: Criar um Cliente
 
 **Request Body** (application/json):
@@ -6588,7 +6588,7 @@ Cliente criado
 ```
 
 
-#### GET /v1/v1/customers/cnpj_cpf
+#### GET /v1/customers/cnpj_cpf
 **Description**: Busca Cliente por CNPJ/CPF
 
 **Parameters**:
@@ -6638,7 +6638,7 @@ Cliente encontrado
 ```
 
 
-#### GET /v1/v1/customers/email
+#### GET /v1/customers/email
 **Description**: Busca Cliente por E-mail
 
 **Parameters**:
@@ -6688,7 +6688,7 @@ Cliente encontrado
 ```
 
 
-#### GET /v1/v1/customers/{id}
+#### GET /v1/customers/{id}
 **Description**: Visualizar o Cliente
 
 **Parameters**:
@@ -6738,7 +6738,7 @@ Cliente encontrado
 ```
 
 
-#### PUT /v1/v1/customers/{id}
+#### PUT /v1/customers/{id}
 **Description**: Atualizar Cliente
 
 **Request Body** (application/json):
@@ -6821,7 +6821,7 @@ Cliente atualizado
 
 ### Conexões
 
-#### GET /v2/v2/admin/connections
+#### GET /v2/admin/connections
 **Description**: Listar Conexões
 
 **Parameters**:
@@ -6903,7 +6903,7 @@ Conexões encontradas
 ```
 
 
-#### POST /v2/v2/admin/connections
+#### POST /v2/admin/connections
 **Description**: Incluir uma Conexão
 
 **Request Body** (application/json):
@@ -6939,13 +6939,13 @@ Conexão criada
     "associations": [
       {
         "resource": {
-          "type": "...",
+          "slug": "...",
           "uid": "..."
         }
       },
       {
         "resource": {
-          "type": "...",
+          "slug": "...",
           "uid": "..."
         }
       }
@@ -6955,7 +6955,7 @@ Conexão criada
 ```
 
 
-#### DELETE /v2/v2/admin/connections/{uid}
+#### DELETE /v2/admin/connections/{uid}
 **Description**: Excluir uma Conexão
 
 **Parameters**:
@@ -6968,7 +6968,7 @@ Conexão criada
 
 Conexão
 
-#### GET /v2/v2/admin/connections/{uid}
+#### GET /v2/admin/connections/{uid}
 **Description**: Informações da conexão
 
 **Parameters**:
@@ -7000,13 +7000,13 @@ Conexão encontrada
   "associations": [
     {
       "resource": {
-        "type": "charge.bank_billet_account",
+        "slug": "charge.bank_billet_account",
         "uid": "14a31e1b-6fa5-4825-8e54-61579842d520"
       }
     },
     {
       "resource": {
-        "type": "charge.bank_billet_account",
+        "slug": "charge.bank_billet_account",
         "uid": "14a31e1b-6fa5-4825-8e54-61579842d520"
       }
     }
@@ -7015,7 +7015,7 @@ Conexão encontrada
 ```
 
 
-#### PUT /v2/v2/admin/connections/{uid}
+#### PUT /v2/admin/connections/{uid}
 **Description**: Atualizar Conexão
 
 **Request Body** (application/json):
@@ -7123,7 +7123,7 @@ Conexão atualizada
 ```
 
 
-#### DELETE /v2/v2/admin/connections/{uid}/associations
+#### DELETE /v2/admin/connections/{uid}/associations
 **Description**: Desconectar Conta de Serviço
 
 **Request Body** (application/json):
@@ -7135,7 +7135,7 @@ Conexão atualizada
 ```
 {
   "resource": {
-    "type": "charge.bank_billet_account",
+    "slug": "charge.bank_billet_account",
     "uid": "14a31e1b-6fa5-4825-8e54-61579842d520"
   }
 }
@@ -7151,7 +7151,7 @@ Conexão atualizada
 
 Conexão
 
-#### POST /v2/v2/admin/connections/{uid}/associations
+#### POST /v2/admin/connections/{uid}/associations
 **Description**: Conectar Conta de Serviço
 
 **Request Body** (application/json):
@@ -7163,7 +7163,7 @@ Conexão
 ```
 {
   "resource": {
-    "type": "charge.bank_billet_account",
+    "slug": "charge.bank_billet_account",
     "uid": "14a31e1b-6fa5-4825-8e54-61579842d520"
   }
 }
@@ -7181,7 +7181,7 @@ Associação criada
 
 ### Consulta de Boletos
 
-#### GET /v2/v2/data/bank_billet_queries
+#### GET /v2/data/bank_billet_queries
 **Description**: Listar Consultas de Boletos
 
 **Parameters**:
@@ -7206,10 +7206,10 @@ Sucesso na listagem de consultas de boletos
       "line": "34191.79001 01043.510047 91020.150008 7 75870000001000",
       "barcode": "34197758700000010001790010104351004791020150",
       "expire_at": "2024-01-15",
-      "amount": 30,
-      "minimum_amount": 20,
-      "maximum_amount": 50,
-      "original_amount": 25,
+      "amount": 30.0,
+      "minimum_amount": 20.0,
+      "maximum_amount": 50.0,
+      "original_amount": 25.0,
       "beneficiary": {
         "document_number": "111.321.322-09",
         "name": "João da Silva"
@@ -7243,10 +7243,10 @@ Sucesso na listagem de consultas de boletos
       "line": "34191.79001 01043.510047 91020.150008 7 75870000001000",
       "barcode": "34197758700000010001790010104351004791020150",
       "expire_at": "2024-01-15",
-      "amount": 30,
-      "minimum_amount": 20,
-      "maximum_amount": 50,
-      "original_amount": 25,
+      "amount": 30.0,
+      "minimum_amount": 20.0,
+      "maximum_amount": 50.0,
+      "original_amount": 25.0,
       "beneficiary": {
         "document_number": "111.321.322-09",
         "name": "João da Silva"
@@ -7282,7 +7282,7 @@ Sucesso na listagem de consultas de boletos
 ```
 
 
-#### POST /v2/v2/data/bank_billet_queries
+#### POST /v2/data/bank_billet_queries
 **Description**: Criar uma Consulta de Boleto
 
 **Request Body** (application/json):
@@ -7327,10 +7327,10 @@ Código de Barras: 34197758700000010001790010104351004791020150
   "line": "34191.79001 01043.510047 91020.150008 7 75870000001000",
   "barcode": "34197758700000010001790010104351004791020150",
   "expire_at": "2024-01-15",
-  "amount": 30,
-  "minimum_amount": 20,
-  "maximum_amount": 50,
-  "original_amount": 25,
+  "amount": 30.0,
+  "minimum_amount": 20.0,
+  "maximum_amount": 50.0,
+  "original_amount": 25.0,
   "beneficiary": {
     "document_number": "111.321.322-09",
     "name": "João da Silva"
@@ -7378,10 +7378,10 @@ Consulta de Boleto criada
     "line": "34191.79001 01043.510047 91020.150008 7 75870000001000",
     "barcode": "34197758700000010001790010104351004791020150",
     "expire_at": "2024-01-15",
-    "amount": 30,
-    "minimum_amount": 20,
-    "maximum_amount": 50,
-    "original_amount": 25,
+    "amount": 30.0,
+    "minimum_amount": 20.0,
+    "maximum_amount": 50.0,
+    "original_amount": 25.0,
     "beneficiary": {
       "document_number": "111.321.322-09",
       "name": "João da Silva"
@@ -7413,7 +7413,7 @@ Consulta de Boleto criada
 
 ### Conta Pix
 
-#### GET /v2/v2/charge/pix_accounts
+#### GET /v2/charge/pix_accounts
 **Description**: Listar Contas Pix
 
 **Parameters**:
@@ -7436,7 +7436,7 @@ Contas Pix encontradas
       "financial_provider_slug": "bradesco",
       "enabled": true,
       "key": "+55999999999",
-      "default": null,
+      "default": "true",
       "beneficiary": {
         "document_number": "string",
         "name": "Nome do Beneficiário",
@@ -7458,7 +7458,7 @@ Contas Pix encontradas
       "financial_provider_slug": "bradesco",
       "enabled": true,
       "key": "+55999999999",
-      "default": null,
+      "default": "true",
       "beneficiary": {
         "document_number": "string",
         "name": "Nome do Beneficiário",
@@ -7484,7 +7484,7 @@ Contas Pix encontradas
 ```
 
 
-#### POST /v2/v2/charge/pix_accounts
+#### POST /v2/charge/pix_accounts
 **Description**: Criar Pix Account
 
 **Request Body** (application/json):
@@ -7496,7 +7496,7 @@ Contas Pix encontradas
   - `financial_provider_slug` (required): string - Slug do provedor financeiro
   - `enabled` (optional): boolean - Habilitar Conta Pix
   - `key` (required): string - Chave pix
-  - `default` (optional): bool - Conta default
+  - `default` (optional): boolean - Conta default
   - `beneficiary` (optional): object - Beneficiário
   - `created_at` (optional): string - Data de criação do registro
   - `updated_at` (optional): string - Data de atualização do registro
@@ -7508,7 +7508,7 @@ Contas Pix encontradas
   "financial_provider_slug": "bradesco",
   "enabled": true,
   "key": "+55999999999",
-  "default": null,
+  "default": "true",
   "beneficiary": {
     "document_number": "string",
     "name": "Nome do Beneficiário",
@@ -7544,7 +7544,7 @@ Conta Pix criada
     "financial_provider_slug": "bradesco",
     "enabled": true,
     "key": "+55999999999",
-    "default": null,
+    "default": "true",
     "beneficiary": {
       "document_number": "string",
       "name": "Nome do Beneficiário",
@@ -7564,7 +7564,7 @@ Conta Pix criada
 ```
 
 
-#### DELETE /v2/v2/charge/pix_accounts/{uid}
+#### DELETE /v2/charge/pix_accounts/{uid}
 **Description**: Deletar Pix Account
 
 **Parameters**:
@@ -7585,7 +7585,7 @@ Conta Pix deletada
     "financial_provider_slug": "bradesco",
     "enabled": true,
     "key": "+55999999999",
-    "default": null,
+    "default": "true",
     "beneficiary": {
       "document_number": "string",
       "name": "Nome do Beneficiário",
@@ -7605,7 +7605,7 @@ Conta Pix deletada
 ```
 
 
-#### GET /v2/v2/charge/pix_accounts/{uid}
+#### GET /v2/charge/pix_accounts/{uid}
 **Description**: Visualizar uma conta Pix
 
 **Parameters**:
@@ -7626,7 +7626,7 @@ Conta Pix encontrada
     "financial_provider_slug": "bradesco",
     "enabled": true,
     "key": "+55999999999",
-    "default": null,
+    "default": "true",
     "beneficiary": {
       "document_number": "string",
       "name": "Nome do Beneficiário",
@@ -7646,7 +7646,7 @@ Conta Pix encontrada
 ```
 
 
-#### PUT /v2/v2/charge/pix_accounts/{uid}
+#### PUT /v2/charge/pix_accounts/{uid}
 **Description**: Atualizar Pix Account
 
 **Request Body** (application/json):
@@ -7658,7 +7658,7 @@ Conta Pix encontrada
   - `financial_provider_slug` (required): string - Slug do provedor financeiro
   - `enabled` (optional): boolean - Habilitar Conta Pix
   - `key` (required): string - Chave pix
-  - `default` (optional): bool - Conta default
+  - `default` (optional): boolean - Conta default
   - `beneficiary` (optional): object - Beneficiário
   - `created_at` (optional): string - Data de criação do registro
   - `updated_at` (optional): string - Data de atualização do registro
@@ -7670,7 +7670,7 @@ Conta Pix encontrada
   "financial_provider_slug": "bradesco",
   "enabled": true,
   "key": "+55999999999",
-  "default": null,
+  "default": "true",
   "beneficiary": {
     "document_number": "string",
     "name": "Nome do Beneficiário",
@@ -7707,7 +7707,7 @@ Conta Pix atualizada
     "financial_provider_slug": "bradesco",
     "enabled": true,
     "key": "+55999999999",
-    "default": null,
+    "default": "true",
     "beneficiary": {
       "document_number": "string",
       "name": "Nome do Beneficiário",
@@ -7729,7 +7729,7 @@ Conta Pix atualizada
 
 ### Contas
 
-#### GET /v2/v2/financial/accounts
+#### GET /v2/financial/accounts
 **Description**: Listar Contas
 
 **Parameters**:
@@ -7804,7 +7804,7 @@ Contas encontradas
 ```
 
 
-#### POST /v2/v2/financial/accounts
+#### POST /v2/financial/accounts
 **Description**: Criar uma Conta
 
 **Request Body** (application/json):
@@ -7900,7 +7900,7 @@ Conta criada
 ```
 
 
-#### POST /v2/v2/financial/accounts/{financial_account_uid}/balances
+#### POST /v2/financial/accounts/{financial_account_uid}/balances
 **Description**: Criar um saldo
 
 **Request Body** (application/json):
@@ -7919,9 +7919,9 @@ Conta criada
 ```
 {
   "uid": "123e4567-e89b-12d3-a456-426614174000",
-  "amount": 124,
-  "blocked_amount": 24,
-  "automatically_invested_amount": 50,
+  "amount": 124.0,
+  "blocked_amount": 24.0,
+  "automatically_invested_amount": 50.0,
   "created_at": "2024-01-15T10:30:00Z",
   "custom_data": {},
   "external_id": "123456-abc-789",
@@ -7947,9 +7947,9 @@ Saldo criado
   "status": 1,
   "data": {
     "uid": "123e4567-e89b-12d3-a456-426614174000",
-    "amount": 124,
-    "blocked_amount": 24,
-    "automatically_invested_amount": 50,
+    "amount": 124.0,
+    "blocked_amount": 24.0,
+    "automatically_invested_amount": 50.0,
     "created_at": "2024-01-15T10:30:00Z",
     "custom_data": {},
     "external_id": "123456-abc-789",
@@ -7962,7 +7962,7 @@ Saldo criado
 ```
 
 
-#### GET /v2/v2/financial/accounts/{financial_account_uid}/commands
+#### GET /v2/financial/accounts/{financial_account_uid}/commands
 **Description**: Listar Comandos de uma Conta
 
 **Parameters**:
@@ -8042,7 +8042,7 @@ Comandos encontrado
 ```
 
 
-#### GET /v2/v2/financial/accounts/{financial_account_uid}/commands/{id}
+#### GET /v2/financial/accounts/{financial_account_uid}/commands/{id}
 **Description**: Visualizar um Comando
 
 **Parameters**:
@@ -8095,7 +8095,7 @@ Comando encontrada
 ```
 
 
-#### GET /v2/v2/financial/accounts/{id}
+#### GET /v2/financial/accounts/{id}
 **Description**: Visualizar uma Conta
 
 **Parameters**:
@@ -8139,7 +8139,7 @@ Conta encontrada
 ```
 
 
-#### PUT /v2/v2/financial/accounts/{id}
+#### PUT /v2/financial/accounts/{id}
 **Description**: Atualizar Conta
 
 **Request Body** (application/json):
@@ -8227,7 +8227,7 @@ Conta Financeira atualizada
 
 ### Contas de Consumo
 
-#### GET /v2/v2/payment/utilities
+#### GET /v2/payment/utilities
 **Description**: Listar Pagamentos de Contas de Consumo
 
 **Parameters**:
@@ -8314,7 +8314,7 @@ Pagamentos encontrados
 ```
 
 
-#### POST /v2/v2/payment/utilities
+#### POST /v2/payment/utilities
 **Description**: Criar um Pagamento de Conta de Consumo
 
 **Request Body** (application/json):
@@ -8391,7 +8391,7 @@ Pagamento criado
 ```
 
 
-#### GET /v2/v2/payment/utilities/{uid}
+#### GET /v2/payment/utilities/{uid}
 **Description**: Visualizar um Pagamento de Conta de Consumo
 
 **Parameters**:
@@ -8440,7 +8440,7 @@ Pagamento encontrado
 ```
 
 
-#### POST /v2/v2/payment/utility_batches
+#### POST /v2/payment/utility_batches
 **Description**: Criar um Lote de Pagamento de Contas de Consumo
 
 **Request Body** (application/json):
@@ -8550,7 +8550,7 @@ Lote de Pagamento criado
 
 ### DARF (beta)
 
-#### POST /v2/v2/payment/darf_batches
+#### POST /v2/payment/darf_batches
 **Description**: Criar um Lote de Pagamento de DARF
 
 **Request Body** (application/json):
@@ -8650,7 +8650,7 @@ Lote de Pagamento criado
 ```
 
 
-#### GET /v2/v2/payment/darfs
+#### GET /v2/payment/darfs
 **Description**: Listar Pagamentos de DARF
 
 **Parameters**:
@@ -8737,7 +8737,7 @@ Pagamentos encontrados
 ```
 
 
-#### POST /v2/v2/payment/darfs
+#### POST /v2/payment/darfs
 **Description**: Criar um Pagamento de DARF
 
 **Request Body** (application/json):
@@ -8806,7 +8806,7 @@ Pagamento criado
 ```
 
 
-#### GET /v2/v2/payment/darfs/{uid}
+#### GET /v2/payment/darfs/{uid}
 **Description**: Visualizar um Pagamento de DARF
 
 **Parameters**:
@@ -8857,7 +8857,7 @@ Pagamento encontrado
 
 ### Entre Contas
 
-#### GET /v2/v2/transfer/internal
+#### GET /v2/transfer/internal
 **Description**: Listar Transferências Entre Contas
 
 **Parameters**:
@@ -8982,7 +8982,7 @@ Sucesso na listagem das transferências
 ```
 
 
-#### POST /v2/v2/transfer/internal
+#### POST /v2/transfer/internal
 **Description**: Criar uma Transferência Entre Contas
 
 **Request Body** (application/json):
@@ -9090,7 +9090,7 @@ Transferência Entre Contas criada
 ```
 
 
-#### GET /v2/v2/transfer/internal/{uid}
+#### GET /v2/transfer/internal/{uid}
 **Description**: Visualizar uma Transferência Entre Contas
 
 **Parameters**:
@@ -9158,7 +9158,7 @@ Transferência Entre Contas encontrada
 ```
 
 
-#### POST /v2/v2/transfer/internal_batches
+#### POST /v2/transfer/internal_batches
 **Description**: Criar um Lote de Transferência Entre Contas
 
 **Request Body** (application/json):
@@ -9294,7 +9294,7 @@ Lote de Transferência Entre Contas criado
 ### Eventos
 Eventos
 
-#### GET /v1/v1/events
+#### GET /v1/events
 **Description**: Listar Eventos
 
 **Parameters**:
@@ -9337,7 +9337,7 @@ Sucesso na listagem dos eventos
 ```
 
 
-#### GET /v1/v1/events/{id}
+#### GET /v1/events/{id}
 **Description**: Informações do Evento
 
 **Parameters**:
@@ -9365,7 +9365,7 @@ Evento encontrado com sucesso
 
 ### Exportação do Lote
 
-#### GET /v1/v1/bank_billet_batch_exports/{id}
+#### GET /v1/bank_billet_batch_exports/{id}
 **Description**: Arquivo de Exportação do Lote
 
 **Parameters**:
@@ -9379,7 +9379,7 @@ Exportação de lote gerada com sucesso
 
 ### Extrato
 
-#### GET /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions
+#### GET /v2/financial/accounts/{financial_account_uid}/statement_transactions
 **Description**: Listar Transações
 
 **Parameters**:
@@ -9447,7 +9447,7 @@ Transações encontradas
 ```
 
 
-#### GET /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions/imports
+#### GET /v2/financial/accounts/{financial_account_uid}/statement_transactions/imports
 **Description**: Listar Importações de extrato
 
 **Parameters**:
@@ -9473,50 +9473,52 @@ Importações de Extrato encontradas
   "status": 1,
   "data": [
     {
+      "uid": "string",
+      "status": "string",
+      "started_at": "2024-01-15T10:30:00Z",
+      "finished_at": "2024-01-15T10:30:00Z",
       "created_at": "2024-01-15T10:30:00Z",
+      "updated_at": "2024-01-15T10:30:00Z",
       "created_rows": 1,
-      "custom_data": {},
       "enqueued_at": "2024-01-15T10:30:00Z",
-      "external_id": "123456789-abc",
+      "processed_at": "2024-01-15T10:30:00Z",
       "failed_to_create_rows": 1,
       "failed_to_update_rows": 1,
-      "finished_at": "2024-01-15T10:30:00Z",
       "import_errors": {},
-      "processed_at": "2024-01-15T10:30:00Z",
       "processed_rows": 1,
-      "started_at": "2024-01-15T10:30:00Z",
-      "status": "string",
-      "tags[]": [
-        "tag 1",
-        "tag 1"
-      ],
       "total_rows": 1,
-      "uid": "string",
-      "updated_at": "2024-01-15T10:30:00Z",
-      "updated_rows": 1
+      "updated_rows": 1,
+      "external_id": "string",
+      "custom_data": {},
+      "tags": [
+        "string",
+        "string"
+      ],
+      "created_via_api": true
     },
     {
+      "uid": "string",
+      "status": "string",
+      "started_at": "2024-01-15T10:30:00Z",
+      "finished_at": "2024-01-15T10:30:00Z",
       "created_at": "2024-01-15T10:30:00Z",
+      "updated_at": "2024-01-15T10:30:00Z",
       "created_rows": 1,
-      "custom_data": {},
       "enqueued_at": "2024-01-15T10:30:00Z",
-      "external_id": "123456789-abc",
+      "processed_at": "2024-01-15T10:30:00Z",
       "failed_to_create_rows": 1,
       "failed_to_update_rows": 1,
-      "finished_at": "2024-01-15T10:30:00Z",
       "import_errors": {},
-      "processed_at": "2024-01-15T10:30:00Z",
       "processed_rows": 1,
-      "started_at": "2024-01-15T10:30:00Z",
-      "status": "string",
-      "tags[]": [
-        "tag 1",
-        "tag 1"
-      ],
       "total_rows": 1,
-      "uid": "string",
-      "updated_at": "2024-01-15T10:30:00Z",
-      "updated_rows": 1
+      "updated_rows": 1,
+      "external_id": "string",
+      "custom_data": {},
+      "tags": [
+        "string",
+        "string"
+      ],
+      "created_via_api": true
     }
   ],
   "pagination": {
@@ -9528,7 +9530,7 @@ Importações de Extrato encontradas
 ```
 
 
-#### POST /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions/imports
+#### POST /v2/financial/accounts/{financial_account_uid}/statement_transactions/imports
 **Description**: Importar Extrato
 
 **Request Body** (multipart/form-data):
@@ -9536,18 +9538,18 @@ Importações de Extrato encontradas
 - Type: `v2_import_send`
 - Properties:
   - `source` (required): string - Arquivo para importação.
-  - `custom_data` (optional): object - Hash com chave e valor no formato JSON. Opcional para controle interno.
   - `external_id` (optional): string - ID no seu sistema. Opcional para controle interno.
-  - `tags[]` (optional): array - Tags associadas a importação. Opcional para controle interno.
+  - `custom_data` (optional): object - Hash com chave e valor no formato JSON.
+  - `tags` (optional): array - Tags associadas
 - Example:
 ```
 {
   "source": "string",
+  "external_id": "string",
   "custom_data": {},
-  "external_id": "123456789-abc",
-  "tags[]": [
-    "tag 1",
-    "tag 1"
+  "tags": [
+    "string",
+    "string"
   ]
 }
 ```
@@ -9566,33 +9568,34 @@ Importação criada
 {
   "status": 1,
   "data": {
+    "uid": "string",
+    "status": "string",
+    "started_at": "2024-01-15T10:30:00Z",
+    "finished_at": "2024-01-15T10:30:00Z",
     "created_at": "2024-01-15T10:30:00Z",
+    "updated_at": "2024-01-15T10:30:00Z",
     "created_rows": 1,
-    "custom_data": {},
     "enqueued_at": "2024-01-15T10:30:00Z",
-    "external_id": "123456789-abc",
+    "processed_at": "2024-01-15T10:30:00Z",
     "failed_to_create_rows": 1,
     "failed_to_update_rows": 1,
-    "finished_at": "2024-01-15T10:30:00Z",
     "import_errors": {},
-    "processed_at": "2024-01-15T10:30:00Z",
     "processed_rows": 1,
-    "started_at": "2024-01-15T10:30:00Z",
-    "status": "string",
-    "tags[]": [
-      "tag 1",
-      "tag 1"
-    ],
     "total_rows": 1,
-    "uid": "string",
-    "updated_at": "2024-01-15T10:30:00Z",
-    "updated_rows": 1
+    "updated_rows": 1,
+    "external_id": "string",
+    "custom_data": {},
+    "tags": [
+      "string",
+      "string"
+    ],
+    "created_via_api": true
   }
 }
 ```
 
 
-#### GET /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions/imports/{uid}
+#### GET /v2/financial/accounts/{financial_account_uid}/statement_transactions/imports/{uid}
 **Description**: Visualizar Importação de Extrato
 
 **Parameters**:
@@ -9609,33 +9612,34 @@ Importação de Extrato encontrada
 {
   "status": 1,
   "data": {
+    "uid": "string",
+    "status": "string",
+    "started_at": "2024-01-15T10:30:00Z",
+    "finished_at": "2024-01-15T10:30:00Z",
     "created_at": "2024-01-15T10:30:00Z",
+    "updated_at": "2024-01-15T10:30:00Z",
     "created_rows": 1,
-    "custom_data": {},
     "enqueued_at": "2024-01-15T10:30:00Z",
-    "external_id": "123456789-abc",
+    "processed_at": "2024-01-15T10:30:00Z",
     "failed_to_create_rows": 1,
     "failed_to_update_rows": 1,
-    "finished_at": "2024-01-15T10:30:00Z",
     "import_errors": {},
-    "processed_at": "2024-01-15T10:30:00Z",
     "processed_rows": 1,
-    "started_at": "2024-01-15T10:30:00Z",
-    "status": "string",
-    "tags[]": [
-      "tag 1",
-      "tag 1"
-    ],
     "total_rows": 1,
-    "uid": "string",
-    "updated_at": "2024-01-15T10:30:00Z",
-    "updated_rows": 1
+    "updated_rows": 1,
+    "external_id": "string",
+    "custom_data": {},
+    "tags": [
+      "string",
+      "string"
+    ],
+    "created_via_api": true
   }
 }
 ```
 
 
-#### POST /v2/v2/financial/accounts/{financial_account_uid}/statement_transactions/sync
+#### POST /v2/financial/accounts/{financial_account_uid}/statement_transactions/sync
 **Description**: Sincronizar Extrato
 
 **Parameters**:
@@ -9690,7 +9694,7 @@ Comando criado
 
 ### Histórico de E-mails
 
-#### GET /v1/v1/email_deliveries
+#### GET /v1/email_deliveries
 **Description**: Listar E-mails Enviados
 
 **Parameters**:
@@ -9770,7 +9774,7 @@ Sucesso na listagem dos e-mails enviados
 ```
 
 
-#### GET /v1/v1/email_deliveries/{id}
+#### GET /v1/email_deliveries/{id}
 **Description**: Informações do E-mail Enviado
 
 **Parameters**:
@@ -9815,7 +9819,7 @@ E-mail encontrado com sucesso
 ```
 
 
-#### PUT /v1/v1/email_deliveries/{id}/resend
+#### PUT /v1/email_deliveries/{id}/resend
 **Description**: Reenviar E-mail Enviado
 
 **Parameters**:
@@ -9830,7 +9834,7 @@ E-mail reeenviado com sucesso
 ### Histórico de SMS
 Histórico de SMS
 
-#### GET /v1/v1/sms_deliveries
+#### GET /v1/sms_deliveries
 **Description**: Listar SMS Enviados
 
 **Parameters**:
@@ -9886,7 +9890,7 @@ Sucesso na listagem dos SMS enviados
 ```
 
 
-#### GET /v1/v1/sms_deliveries/{id}
+#### GET /v1/sms_deliveries/{id}
 **Description**: Informações do SMS Enviado
 
 **Parameters**:
@@ -9919,7 +9923,7 @@ SMS encontrado com sucesso
 ```
 
 
-#### PUT /v1/v1/sms_deliveries/{id}/resend
+#### PUT /v1/sms_deliveries/{id}/resend
 **Description**: Reenviar SMS Enviado
 
 **Parameters**:
@@ -9933,7 +9937,7 @@ SMS reeenviado com sucesso
 
 ### Importações
 
-#### GET /v1/v1/imports/{collection_name}
+#### GET /v1/imports/{collection_name}
 **Description**: Listar Importações
 
 **Parameters**:
@@ -9991,7 +9995,7 @@ Importações encontradas
 ```
 
 
-#### POST /v1/v1/imports/{collection_name}
+#### POST /v1/imports/{collection_name}
 **Description**: Importar
 
 **Request Body** (multipart/form-data):
@@ -10041,7 +10045,7 @@ Importação criada
 ```
 
 
-#### GET /v1/v1/imports/{collection_name}/{id}
+#### GET /v1/imports/{collection_name}/{id}
 **Description**: Visualizar Importação
 
 **Parameters**:
@@ -10081,7 +10085,7 @@ Importação encontrada
 
 ### Log de Webhooks
 
-#### GET /v1/v1/webhook_deliveries
+#### GET /v1/webhook_deliveries
 **Description**: Listar Webhooks Enviados
 
 **Parameters**:
@@ -10106,10 +10110,10 @@ Sucesso na listagem dos webhooks enviados
     "id": 1,
     "uid": "string",
     "url": "string",
-    "request_payload": null,
+    "request_payload": {},
     "request_error": "string",
-    "response_headers": null,
-    "response_body": null,
+    "response_headers": "string",
+    "response_body": "string",
     "response_code": 1,
     "response_message": "string",
     "content_type": "string",
@@ -10130,10 +10134,10 @@ Sucesso na listagem dos webhooks enviados
     "id": 1,
     "uid": "string",
     "url": "string",
-    "request_payload": null,
+    "request_payload": {},
     "request_error": "string",
-    "response_headers": null,
-    "response_body": null,
+    "response_headers": "string",
+    "response_body": "string",
     "response_code": 1,
     "response_message": "string",
     "content_type": "string",
@@ -10154,7 +10158,7 @@ Sucesso na listagem dos webhooks enviados
 ```
 
 
-#### PUT /v1/v1/webhook_deliveries/resend
+#### PUT /v1/webhook_deliveries/resend
 **Description**: Reenviar Webhooks Enviados
 
 **Request Body** (application/json):
@@ -10642,7 +10646,7 @@ Sucesso na listagem dos webhooks enviados
 
 Webhooks reeenviados com sucesso
 
-#### GET /v1/v1/webhook_deliveries/{id}
+#### GET /v1/webhook_deliveries/{id}
 **Description**: Informações do Webhook Enviado
 
 **Parameters**:
@@ -10659,10 +10663,10 @@ Webhook encontrado com sucesso
   "id": 1,
   "uid": "string",
   "url": "string",
-  "request_payload": null,
+  "request_payload": {},
   "request_error": "string",
-  "response_headers": null,
-  "response_body": null,
+  "response_headers": "string",
+  "response_body": "string",
   "response_code": 1,
   "response_message": "string",
   "content_type": "string",
@@ -10684,7 +10688,7 @@ Webhook encontrado com sucesso
 
 ### Lotes
 
-#### GET /v1/v1/bank_billet_batches
+#### GET /v1/bank_billet_batches
 **Description**: Listar Lotes
 
 **Parameters**:
@@ -10723,7 +10727,7 @@ Sucesso na listagem dos lotes
 ```
 
 
-#### POST /v1/v1/bank_billet_batches
+#### POST /v1/bank_billet_batches
 **Description**: Criar Lote
 
 **Request Body** (application/json):
@@ -10763,7 +10767,7 @@ Lote criado com sucesso
 ```
 
 
-#### DELETE /v1/v1/bank_billet_batches/{id}/
+#### DELETE /v1/bank_billet_batches/{id}/
 **Description**: Excluir o lote
 
 **Parameters**:
@@ -10775,7 +10779,7 @@ Lote criado com sucesso
 
 Lote excluído
 
-#### GET /v1/v1/bank_billet_batches/{id}/
+#### GET /v1/bank_billet_batches/{id}/
 **Description**: Informações do Lote
 
 **Parameters**:
@@ -10801,7 +10805,7 @@ Lote encontrado
 ```
 
 
-#### PUT /v1/v1/bank_billet_batches/{id}/add_bank_billets
+#### PUT /v1/bank_billet_batches/{id}/add_bank_billets
 **Description**: Incluir Boletos no Lote
 
 **Request Body** (application/json):
@@ -10825,7 +10829,7 @@ Lote encontrado
 
 Boletos adicionados com sucesso
 
-#### POST /v1/v1/bank_billet_batches/{id}/pdf
+#### POST /v1/bank_billet_batches/{id}/pdf
 **Description**: Exportar Lote no Formato .pdf
 
 **Parameters**:
@@ -10853,7 +10857,7 @@ Solicitação de exportação do lote criada com sucesso
 ```
 
 
-#### DELETE /v1/v1/bank_billet_batches/{id}/remove_bank_billet
+#### DELETE /v1/bank_billet_batches/{id}/remove_bank_billet
 **Description**: Excluir Boleto do Lote
 
 **Request Body** (application/json):
@@ -10877,7 +10881,7 @@ Solicitação de exportação do lote criada com sucesso
 
 Boleto removido com sucesso
 
-#### POST /v1/v1/bank_billet_batches/{id}/zip
+#### POST /v1/bank_billet_batches/{id}/zip
 **Description**: Exportar Lote no Formato .zip
 
 **Parameters**:
@@ -10905,236 +10909,9 @@ Solicitação de exportação do lote criada com sucesso
 ```
 
 
-### Other
-
-#### GET /v2/v2/automation/email/email_accounts
-**Description**: Lista todas as contas de e-mail
-
-**Parameters**:
-
-- `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
-- `page` (query, integer) (optional): Número da página para paginação
-
-**Response**:
-
-Lista de contas de e-mail
-
-```
-{
-  "status": 1,
-  "data": [
-    {
-      "uid": "9e45d2e2-90b7-4908-a013-1e5ea23e5a00",
-      "name": "Conta Principal",
-      "sender_name": "Equipe Kobana",
-      "reply_to_address": "resposta@example.com",
-      "from_address": "no-reply@example.com",
-      "domain": "example.com",
-      "enabled": true,
-      "activated": true,
-      "tags": [
-        "string",
-        "string"
-      ],
-      "custom_data": {},
-      "external_id": "external-123",
-      "dns": {
-        "identity_status": "created",
-        "dns_status": "validated",
-        "dns_records": [
-          "...",
-          "..."
-        ]
-      },
-      "created_at": "2024-01-15T10:30:00Z",
-      "updated_at": "2024-01-15T10:30:00Z"
-    },
-    {
-      "uid": "9e45d2e2-90b7-4908-a013-1e5ea23e5a00",
-      "name": "Conta Principal",
-      "sender_name": "Equipe Kobana",
-      "reply_to_address": "resposta@example.com",
-      "from_address": "no-reply@example.com",
-      "domain": "example.com",
-      "enabled": true,
-      "activated": true,
-      "tags": [
-        "string",
-        "string"
-      ],
-      "custom_data": {},
-      "external_id": "external-123",
-      "dns": {
-        "identity_status": "created",
-        "dns_status": "validated",
-        "dns_records": [
-          "...",
-          "..."
-        ]
-      },
-      "created_at": "2024-01-15T10:30:00Z",
-      "updated_at": "2024-01-15T10:30:00Z"
-    }
-  ],
-  "pagination": {
-    "count": 1,
-    "page": 1,
-    "items": 1,
-    "pages": 1,
-    "last": true,
-    "next": "string",
-    "prev": "string"
-  }
-}
-```
-
-
-#### POST /v2/v2/automation/email/email_accounts
-**Description**: Criar nova conta de e-mail
-
-**Request Body** (application/json):
-
-- Properties:
-  - `name` (optional): string - Nome da conta de e-mail.
-  - `sender_name` (required): string - Nome do remetente.
-  - `from_address` (required): string - Endereço de e-mail (From).
-  - `reply_to_address` (required): string - Endereço de resposta (Reply-To).
-  - `enabled` (optional): boolean - Indica se o envio de e-mails está habilitado.
-  - `activated` (optional): boolean - Indica se a conta de e-mail está ativa.
-  - `domain` (required): string - Domínio associado à conta de e-mail.
-  - `external_id` (optional): string - Identificador externo associado à conta de e-mail.
-  - `custom_data` (optional): object - Dados personalizados definidos pelo usuário no formato chave-valor.
-  - `tags` (optional): array - Lista de etiquetas associadas à conta de e-mail.
-- Example:
-```
-{
-  "name": "string",
-  "sender_name": "string",
-  "from_address": "string",
-  "reply_to_address": "string",
-  "enabled": true,
-  "activated": true,
-  "domain": "string",
-  "external_id": "string",
-  "custom_data": {
-    "key1": "string",
-    "key2": "string"
-  },
-  "tags": [
-    "string",
-    "string"
-  ]
-}
-```
-
-**Parameters**:
-
-- `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
-
-**Response**:
-
-Conta de e-mail criada com sucesso
-
-```
-{
-  "status": 1,
-  "data": {}
-}
-```
-
-
-#### DELETE /v2/v2/automation/email/email_accounts/{uid}
-**Description**: Excluir conta de e-mail
-
-**Parameters**:
-
-- `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
-- `uid` (path, string) (required): UID da conta de e-mail
-
-**Response**:
-
-Conta de e-mail excluída com sucesso
-
-#### GET /v2/v2/automation/email/email_accounts/{uid}
-**Description**: Informações da Conta de E-mail
-
-**Parameters**:
-
-- `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
-- `uid` (path, string) (required): UID da conta de e-mail
-
-**Response**:
-
-Conta de e-mail encontrada
-
-```
-{
-  "status": 1,
-  "data": {}
-}
-```
-
-
-#### PATCH /v2/v2/automation/email/email_accounts/{uid}
-**Description**: Atualizar conta de e-mail
-
-**Request Body** (application/json):
-
-- Properties:
-  - `name` (optional): string - Nome da conta de e-mail
-  - `sender_name` (optional): string - Nome do remetente
-  - `from_address` (optional): string - Endereço de e-mail
-  - `enabled` (optional): boolean - Habilitar conta
-- Example:
-```
-{
-  "name": "string",
-  "sender_name": "string",
-  "from_address": "string",
-  "enabled": true
-}
-```
-
-**Parameters**:
-
-- `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
-- `uid` (path, string) (required): UID da conta de e-mail
-
-**Response**:
-
-Conta de e-mail atualizada com sucesso
-
-```
-{
-  "status": 1,
-  "data": {}
-}
-```
-
-
-#### PUT /v2/v2/automation/email/email_accounts/{uid}/check_identity
-**Description**: Verificar identidade da conta de e-mail
-
-**Parameters**:
-
-- `User-Agent` (header, string) (optional): Informar um e-mail válido para contatos.
-- `uid` (path, string) (required): UID da conta de e-mail
-
-**Response**:
-
-Verificação de identidade executada com sucesso
-
-```
-{
-  "status": 1,
-  "data": {}
-}
-```
-
-
 ### Pix
 
-#### GET /v2/v2/charge/pix
+#### GET /v2/charge/pix
 **Description**: Listar Pix
 
 **Parameters**:
@@ -11282,7 +11059,7 @@ Buscando Pix por tags
 ```
 
 
-#### POST /v2/v2/charge/pix
+#### POST /v2/charge/pix
 **Description**: Criar um Pix
 
 **Request Body** (application/json):
@@ -11476,7 +11253,7 @@ Pix criado com dados de cliente
 ```
 
 
-#### PUT /v2/v2/charge/pix/{pix_uid}/cancel
+#### PUT /v2/charge/pix/{pix_uid}/cancel
 **Description**: Cancelar um Pix
 
 **Parameters**:
@@ -11552,7 +11329,7 @@ Comando criado com sucesso
 ```
 
 
-#### GET /v2/v2/charge/pix/{pix_uid}/commands
+#### GET /v2/charge/pix/{pix_uid}/commands
 **Description**: Listar Comandos de um Pix
 
 **Parameters**:
@@ -11664,7 +11441,7 @@ Pix encontrado
 ```
 
 
-#### GET /v2/v2/charge/pix/{pix_uid}/commands/{id}
+#### GET /v2/charge/pix/{pix_uid}/commands/{id}
 **Description**: Visualizar um Comando
 
 **Parameters**:
@@ -11739,7 +11516,7 @@ Atualização do Pix encontrada
 ```
 
 
-#### PUT /v2/v2/charge/pix/{pix_uid}/update
+#### PUT /v2/charge/pix/{pix_uid}/update
 **Description**: Atualizar um Pix
 
 **Request Body** (application/json):
@@ -11894,7 +11671,7 @@ Comando criado com sucesso
 ```
 
 
-#### DELETE /v2/v2/charge/pix/{uid}
+#### DELETE /v2/charge/pix/{uid}
 **Description**: Excluir um Pix
 
 **Parameters**:
@@ -11906,7 +11683,7 @@ Comando criado com sucesso
 
 Pix deletado
 
-#### GET /v2/v2/charge/pix/{uid}
+#### GET /v2/charge/pix/{uid}
 **Description**: Visualizar um Pix
 
 **Parameters**:
@@ -11980,7 +11757,7 @@ Pix encontrado
 ```
 
 
-#### GET /v2/v2/payment/pix
+#### GET /v2/payment/pix
 **Description**: Listar Pagamentos Pix
 
 **Parameters**:
@@ -12067,7 +11844,7 @@ Pagamentos encontrados
 ```
 
 
-#### POST /v2/v2/payment/pix
+#### POST /v2/payment/pix
 **Description**: Criar um Pagamento Pix
 
 **Request Body** (application/json):
@@ -12152,7 +11929,7 @@ Pagamento criado
 ```
 
 
-#### GET /v2/v2/payment/pix/{uid}
+#### GET /v2/payment/pix/{uid}
 **Description**: Visualizar um Pagamento Pix
 
 **Parameters**:
@@ -12201,7 +11978,7 @@ Pagamento encontrado
 ```
 
 
-#### POST /v2/v2/payment/pix_batches
+#### POST /v2/payment/pix_batches
 **Description**: Criar um Lote de Pagamento Pix
 
 **Request Body** (application/json):
@@ -12311,7 +12088,7 @@ Lote de Pagamento criado
 ```
 
 
-#### GET /v2/v2/transfer/pix
+#### GET /v2/transfer/pix
 **Description**: Listar Transferências Pix
 
 **Parameters**:
@@ -12436,7 +12213,7 @@ Sucesso na listagem das transferências
 ```
 
 
-#### POST /v2/v2/transfer/pix
+#### POST /v2/transfer/pix
 **Description**: Criar uma Transferência Pix
 
 **Request Body** (application/json):
@@ -12568,7 +12345,7 @@ Transferência Pix criada
 ```
 
 
-#### GET /v2/v2/transfer/pix/{uid}
+#### GET /v2/transfer/pix/{uid}
 **Description**: Visualizar uma Transferência Pix
 
 **Parameters**:
@@ -12636,7 +12413,7 @@ Transferência Pix encontrada
 ```
 
 
-#### POST /v2/v2/transfer/pix_batches
+#### POST /v2/transfer/pix_batches
 **Description**: Criar um Lote de Transferência Pix
 
 **Request Body** (application/json):
@@ -12785,7 +12562,7 @@ Lote de Transferência Pix criado
 
 ### Provedores
 
-#### GET /v2/v2/financial/providers
+#### GET /v2/financial/providers
 **Description**: Listar Provedores
 
 **Parameters**:
@@ -12827,7 +12604,7 @@ Provedores encontradas
 
 ### Recebimento de Boleto
 
-#### GET /v1/v1/bank_billet_payments
+#### GET /v1/bank_billet_payments
 **Description**: Listar Pagamentos de Boleto
 
 **Parameters**:
@@ -12900,7 +12677,7 @@ Sucesso na listagem dos pagamentos de boletos
 ```
 
 
-#### POST /v1/v1/bank_billet_payments
+#### POST /v1/bank_billet_payments
 **Description**: Efetuar Pagamento de Boleto
 
 **Request Body** (application/json):
@@ -13025,7 +12802,7 @@ Pagamento efetuado com sucesso
 ```
 
 
-#### DELETE /v1/v1/bank_billet_payments/{id}
+#### DELETE /v1/bank_billet_payments/{id}
 **Description**: Excluir Pagamento de Boleto
 
 **Parameters**:
@@ -13037,7 +12814,7 @@ Pagamento efetuado com sucesso
 
 Pagamento de Boleto excluído
 
-#### GET /v1/v1/bank_billet_payments/{id}
+#### GET /v1/bank_billet_payments/{id}
 **Description**: Informações do Pagamento de Boleto
 
 **Parameters**:
@@ -13080,7 +12857,7 @@ Pagamento de boleto encontrado
 
 ### Registro de Boleto
 
-#### GET /v1/v1/bank_billet_registrations
+#### GET /v1/bank_billet_registrations
 **Description**: Listar Registros de Boleto.
 
 **Parameters**:
@@ -13129,7 +12906,7 @@ Sucesso na listagem de registros de boleto
 ```
 
 
-#### GET /v1/v1/bank_billet_registrations/{id}
+#### GET /v1/bank_billet_registrations/{id}
 **Description**: Informações do Registro de Boleto
 
 **Parameters**:
@@ -13160,7 +12937,7 @@ Registro de Boleto encontrado
 
 ### Registro de Remessa
 
-#### GET /v1/v1/bank_billet_remittances
+#### GET /v1/bank_billet_remittances
 **Description**: Listar Registros de Remessa
 
 **Parameters**:
@@ -13209,7 +12986,7 @@ Sucesso na listagem de registros de remessa
 ```
 
 
-#### GET /v1/v1/bank_billet_remittances/pending
+#### GET /v1/bank_billet_remittances/pending
 **Description**: Listar Registros de Remessa Pendentes
 
 **Parameters**:
@@ -13258,7 +13035,7 @@ Sucesso na listagem de registros de remessa
 ```
 
 
-#### DELETE /v1/v1/bank_billet_remittances/{id}
+#### DELETE /v1/bank_billet_remittances/{id}
 **Description**: Excluir Pendências
 
 **Parameters**:
@@ -13270,7 +13047,7 @@ Sucesso na listagem de registros de remessa
 
 Pendências excluida
 
-#### GET /v1/v1/bank_billet_remittances/{id}
+#### GET /v1/bank_billet_remittances/{id}
 **Description**: Informações do Registro de Remessa
 
 **Parameters**:
@@ -13282,7 +13059,7 @@ Pendências excluida
 
 Registro de Remessa encontrado
 
-#### POST /v1/v1/bank_billet_remittances/{id}/occurrence/{our_code}
+#### POST /v1/bank_billet_remittances/{id}/occurrence/{our_code}
 **Description**: Criar Pendências
 
 **Parameters**:
@@ -13304,7 +13081,7 @@ Pendências criada
 
 ### Registro de Retorno
 
-#### GET /v1/v1/bank_billet_discharges
+#### GET /v1/bank_billet_discharges
 **Description**: Listar Registros de Retorno
 
 **Parameters**:
@@ -13360,7 +13137,7 @@ Sucesso na listagem de registros de retorno
 ```
 
 
-#### GET /v1/v1/bank_billet_discharges/{id}
+#### GET /v1/bank_billet_discharges/{id}
 **Description**: Informações do Registro de Retorno
 
 **Parameters**:
@@ -13394,7 +13171,7 @@ Registro de Retorno encontrado
 
 ### Relatórios
 
-#### GET /v1/v1/reports/bank_billets
+#### GET /v1/reports/bank_billets
 **Description**: Contagem de Boletos.
 
 **Parameters**:
@@ -13432,7 +13209,7 @@ Sucesso na listagem de boletos
 
 ### Saldos
 
-#### GET /v2/v2/financial/accounts/{financial_account_uid}/balances
+#### GET /v2/financial/accounts/{financial_account_uid}/balances
 **Description**: Listar saldos
 
 **Parameters**:
@@ -13452,9 +13229,9 @@ Saldos encontrados
   "data": [
     {
       "uid": "123e4567-e89b-12d3-a456-426614174000",
-      "amount": 124,
-      "blocked_amount": 24,
-      "automatically_invested_amount": 50,
+      "amount": 124.0,
+      "blocked_amount": 24.0,
+      "automatically_invested_amount": 50.0,
       "created_at": "2024-01-15T10:30:00Z",
       "custom_data": {},
       "external_id": "123456-abc-789",
@@ -13465,9 +13242,9 @@ Saldos encontrados
     },
     {
       "uid": "123e4567-e89b-12d3-a456-426614174000",
-      "amount": 124,
-      "blocked_amount": 24,
-      "automatically_invested_amount": 50,
+      "amount": 124.0,
+      "blocked_amount": 24.0,
+      "automatically_invested_amount": 50.0,
       "created_at": "2024-01-15T10:30:00Z",
       "custom_data": {},
       "external_id": "123456-abc-789",
@@ -13486,7 +13263,7 @@ Saldos encontrados
 ```
 
 
-#### GET /v2/v2/financial/accounts/{financial_account_uid}/balances/{balance_uid}
+#### GET /v2/financial/accounts/{financial_account_uid}/balances/{balance_uid}
 **Description**: Visualizar um Saldo
 
 **Parameters**:
@@ -13505,9 +13282,9 @@ Conta encontrada
   "status": 1,
   "data": {
     "uid": "123e4567-e89b-12d3-a456-426614174000",
-    "amount": 124,
-    "blocked_amount": 24,
-    "automatically_invested_amount": 50,
+    "amount": 124.0,
+    "blocked_amount": 24.0,
+    "automatically_invested_amount": 50.0,
     "created_at": "2024-01-15T10:30:00Z",
     "custom_data": {},
     "external_id": "123456-abc-789",
@@ -13522,7 +13299,7 @@ Conta encontrada
 
 ### Subcontas
 
-#### GET /v2/v2/admin/subaccounts
+#### GET /v2/admin/subaccounts
 **Description**: Listar Subcontas
 
 **Parameters**:
@@ -13596,7 +13373,7 @@ Subcontas encontradas
 ```
 
 
-#### POST /v2/v2/admin/subaccounts
+#### POST /v2/admin/subaccounts
 **Description**: Criar uma Subconta
 
 **Request Body** (application/json):
@@ -13681,7 +13458,7 @@ Subconta criada
 ```
 
 
-#### GET /v2/v2/admin/subaccounts/{id}
+#### GET /v2/admin/subaccounts/{id}
 **Description**: Visualizar uma Subconta
 
 **Parameters**:
@@ -13722,7 +13499,7 @@ Subconta encontrada
 ```
 
 
-#### PUT /v2/v2/admin/subaccounts/{id}
+#### PUT /v2/admin/subaccounts/{id}
 **Description**: Alterar Subconta
 
 **Request Body** (application/json):
@@ -14195,7 +13972,7 @@ Subconta alterada
 
 ### TED
 
-#### GET /v2/v2/transfer/ted
+#### GET /v2/transfer/ted
 **Description**: Listar Transferências TED
 
 **Parameters**:
@@ -14320,7 +14097,7 @@ Sucesso na listagem das transferências
 ```
 
 
-#### POST /v2/v2/transfer/ted
+#### POST /v2/transfer/ted
 **Description**: Criar uma Transferência TED
 
 **Request Body** (application/json):
@@ -14431,7 +14208,7 @@ Transferência TED criada
 ```
 
 
-#### GET /v2/v2/transfer/ted/{uid}
+#### GET /v2/transfer/ted/{uid}
 **Description**: Visualizar uma Transferência TED
 
 **Parameters**:
@@ -14499,7 +14276,7 @@ Transferência TED encontrada
 ```
 
 
-#### POST /v2/v2/transfer/ted_batches
+#### POST /v2/transfer/ted_batches
 **Description**: Criar um Lote de Transferência TED
 
 **Request Body** (application/json):
@@ -14640,7 +14417,7 @@ Lote de Transferência TED criado
 
 ### Todos
 
-#### GET /v2/v2/payment/batches
+#### GET /v2/payment/batches
 **Description**: Listar Lotes de Pagamentos
 
 **Parameters**:
@@ -14691,7 +14468,7 @@ Lotes encontrados
 ```
 
 
-#### GET /v2/v2/payment/batches/{uid}
+#### GET /v2/payment/batches/{uid}
 **Description**: Visualizar um Lote de Pagamento
 
 **Parameters**:
@@ -14722,7 +14499,7 @@ Lote de Pagamento encontrado
 ```
 
 
-#### PUT /v2/v2/payment/batches/{uid}/approve
+#### PUT /v2/payment/batches/{uid}/approve
 **Description**: Aprovar um Lote de Pagamento
 
 **Parameters**:
@@ -14763,7 +14540,7 @@ Comando criado com sucesso
 ```
 
 
-#### PUT /v2/v2/payment/batches/{uid}/reprove
+#### PUT /v2/payment/batches/{uid}/reprove
 **Description**: Reprovar um Lote de Pagamento
 
 **Parameters**:
@@ -14804,7 +14581,7 @@ Comando criado com sucesso
 ```
 
 
-#### GET /v2/v2/transfer/batches
+#### GET /v2/transfer/batches
 **Description**: Listar Lotes de Transferência
 
 **Parameters**:
@@ -14857,7 +14634,7 @@ Sucesso na listagem dos lotes
 ```
 
 
-#### GET /v2/v2/transfer/batches/{uid}
+#### GET /v2/transfer/batches/{uid}
 **Description**: Visualizar um Lote de Transferência
 
 **Parameters**:
@@ -14931,7 +14708,7 @@ Lote de Transferência encontrado
 ```
 
 
-#### PUT /v2/v2/transfer/batches/{uid}/approve
+#### PUT /v2/transfer/batches/{uid}/approve
 **Description**: Aprovar um Lote de Transferência
 
 **Parameters**:
@@ -14973,7 +14750,7 @@ Comando criado com sucesso
 ```
 
 
-#### PUT /v2/v2/transfer/batches/{uid}/reprove
+#### PUT /v2/transfer/batches/{uid}/reprove
 **Description**: Reprovar um Lote de Transferência
 
 **Parameters**:
@@ -15018,7 +14795,7 @@ Comando criado com sucesso
 ### Usuário
 Usuário
 
-#### GET /v2/v2/admin/users
+#### GET /v2/admin/users
 **Description**: Listar Usuários
 
 **Parameters**:
@@ -15046,7 +14823,10 @@ Usuários encontrados
       "last_name": "string",
       "full_name": "string",
       "created_via_api": true,
-      "permissions": [],
+      "permissions": [
+        "string",
+        "string"
+      ],
       "enabled_at": "2024-01-15T10:30:00Z",
       "created_at": "2024-01-15T10:30:00Z",
       "updated_at": "2024-01-15T10:30:00Z"
@@ -15060,7 +14840,10 @@ Usuários encontrados
       "last_name": "string",
       "full_name": "string",
       "created_via_api": true,
-      "permissions": [],
+      "permissions": [
+        "string",
+        "string"
+      ],
       "enabled_at": "2024-01-15T10:30:00Z",
       "created_at": "2024-01-15T10:30:00Z",
       "updated_at": "2024-01-15T10:30:00Z"
@@ -15075,7 +14858,7 @@ Usuários encontrados
 ```
 
 
-#### POST /v2/v2/admin/users
+#### POST /v2/admin/users
 **Description**: Incluir um Usuário
 
 **Request Body** (application/json):
@@ -15105,7 +14888,10 @@ Usuários encontrados
   "last_name": "string",
   "full_name": "string",
   "created_via_api": true,
-  "permissions": [],
+  "permissions": [
+    "string",
+    "string"
+  ],
   "enabled_at": "2024-01-15T10:30:00Z",
   "created_at": "2024-01-15T10:30:00Z",
   "updated_at": "2024-01-15T10:30:00Z"
@@ -15133,7 +14919,10 @@ Usuário incluído
     "last_name": "string",
     "full_name": "string",
     "created_via_api": true,
-    "permissions": [],
+    "permissions": [
+      "string",
+      "string"
+    ],
     "enabled_at": "2024-01-15T10:30:00Z",
     "created_at": "2024-01-15T10:30:00Z",
     "updated_at": "2024-01-15T10:30:00Z"
@@ -15142,7 +14931,7 @@ Usuário incluído
 ```
 
 
-#### DELETE /v2/v2/admin/users/{id}
+#### DELETE /v2/admin/users/{id}
 **Description**: Excluir um Usuário
 
 **Parameters**:
@@ -15155,7 +14944,7 @@ Usuário incluído
 
 Usuário excluído
 
-#### PUT /v2/v2/admin/users/{id}
+#### PUT /v2/admin/users/{id}
 **Description**: Alterar Dados De Um Usuário
 
 **Request Body** (application/json):
@@ -15185,7 +14974,10 @@ Usuário excluído
   "last_name": "string",
   "full_name": "string",
   "created_via_api": true,
-  "permissions": [],
+  "permissions": [
+    "string",
+    "string"
+  ],
   "enabled_at": "2024-01-15T10:30:00Z",
   "created_at": "2024-01-15T10:30:00Z",
   "updated_at": "2024-01-15T10:30:00Z"
@@ -15214,7 +15006,10 @@ Usuário Alterado
     "last_name": "string",
     "full_name": "string",
     "created_via_api": true,
-    "permissions": [],
+    "permissions": [
+      "string",
+      "string"
+    ],
     "enabled_at": "2024-01-15T10:30:00Z",
     "created_at": "2024-01-15T10:30:00Z",
     "updated_at": "2024-01-15T10:30:00Z"
@@ -15225,7 +15020,7 @@ Usuário Alterado
 
 ### Usuário Autenticado
 
-#### GET /v1/v1/userinfo
+#### GET /v1/userinfo
 **Description**: Informações do Usuário
 
 **Parameters**:
@@ -15246,7 +15041,10 @@ Usuário encontrado
   "last_name": "string",
   "full_name": "string",
   "created_via_api": true,
-  "permissions": [],
+  "permissions": [
+    "string",
+    "string"
+  ],
   "enabled_at": "2024-01-15T10:30:00Z",
   "created_at": "2024-01-15T10:30:00Z",
   "updated_at": "2024-01-15T10:30:00Z"
@@ -15257,7 +15055,7 @@ Usuário encontrado
 ### Webhooks
 Webhooks
 
-#### GET /v1/v1/webhooks
+#### GET /v1/webhooks
 **Description**: Listar Webhooks
 
 **Parameters**:
@@ -15308,7 +15106,7 @@ Sucesso na listagem de webhooks
 ```
 
 
-#### POST /v1/v1/webhooks
+#### POST /v1/webhooks
 **Description**: Criar Webhook
 
 **Request Body** (application/json):
@@ -15375,7 +15173,7 @@ Webhook criado
 ```
 
 
-#### DELETE /v1/v1/webhooks/{id}
+#### DELETE /v1/webhooks/{id}
 **Description**: Excluir Webhook
 
 **Parameters**:
@@ -15387,7 +15185,7 @@ Webhook criado
 
 Webhook excluido
 
-#### GET /v1/v1/webhooks/{id}
+#### GET /v1/webhooks/{id}
 **Description**: Informações do Webhook
 
 **Parameters**:
@@ -15419,7 +15217,7 @@ Webhook encontrado
 ```
 
 
-#### PUT /v1/v1/webhooks/{id}
+#### PUT /v1/webhooks/{id}
 **Description**: Atualizar Webhook
 
 **Request Body** (application/json):

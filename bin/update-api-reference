@@ -8,9 +8,30 @@ require 'dotenv/load'
 require_relative '../config/1password'
 require 'json'
 require 'fileutils'
+require 'net/http'
+require 'uri'
 
-swagger_file = './content/kobana_swagger.json'
+swagger_url = 'https://raw.githubusercontent.com/universokobana/kobana-api-specs/refs/heads/main/swagger/all-versions/kobana-api-all-versions-openapi-3_1.json'
+swagger_file = './content/kobana-api-all-versions-openapi-3_1.json'
 output_file = './content/api_reference.md'
+
+# Download the swagger file
+puts "⏳ Downloading swagger file from #{swagger_url}..."
+begin
+  uri = URI(swagger_url)
+  response = Net::HTTP.get_response(uri)
+
+  if response.code == '200'
+    File.write(swagger_file, response.body)
+    puts '✅ Swagger file downloaded successfully'
+  else
+    puts "🚨 ERROR: Failed to download swagger file. HTTP status: #{response.code}"
+    exit 1
+  end
+rescue StandardError => e
+  puts "🚨 ERROR: Failed to download swagger file: #{e.message}"
+  exit 1
+end
 
 puts "⏳ Generating API documentation from #{swagger_file}..."
 
