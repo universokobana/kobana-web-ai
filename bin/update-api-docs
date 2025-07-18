@@ -1,14 +1,29 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
+require 'English'
 require 'pathname'
 require 'yaml'
 
 root_dir = Pathname.new(__dir__).parent
-api_content_dir = root_dir.join('content', 'api', 'docs')
+api_content_dir = root_dir.join('content', 'api')
+api_docs_dir = api_content_dir.join('docs')
 api_reference_file = root_dir.join('content', 'api_reference.md')
 output_file = root_dir.join('views', 'pt-BR', 'api.md')
 ignore_file = root_dir.join('content', 'ignore_docs.txt')
+
+# Run git pull --rebase on content/api directory
+puts '⏳ Updating content/api directory...'
+if Dir.exist?(api_content_dir)
+  system("git -C #{api_content_dir} pull --rebase")
+  if $CHILD_STATUS.success?
+    puts '✅ Successfully updated content/api'
+  else
+    puts '⚠️  Warning: git pull --rebase failed for content/api'
+  end
+else
+  puts "⚠️  Warning: #{api_content_dir} directory not found"
+end
 
 combined_content = ["# Documentação da API da Kobana\n\n"]
 index_entries = []
@@ -87,12 +102,12 @@ def sort_by_order_file(files, base_dir)
 end
 
 # Read all markdown files from content/api directory recursively
-if api_content_dir.exist?
-  api_files = Dir.glob(api_content_dir.join('**', '*.md')).sort
+if api_docs_dir.exist?
+  api_files = Dir.glob(api_docs_dir.join('**', '*.md')).sort
 
   # Filter out files matching ignore patterns
   filtered_files = api_files.reject do |file|
-    relative_path = Pathname.new(file).relative_path_from(api_content_dir).to_s.downcase
+    relative_path = Pathname.new(file).relative_path_from(api_docs_dir).to_s.downcase
 
     # Check if any ignore pattern matches the file path
     ignore_patterns.any? do |pattern|
@@ -108,12 +123,12 @@ if api_content_dir.exist?
     puts 'No markdown files to process after applying ignore patterns'
   else
     # Sort filtered files according to _order.yaml files
-    sorted_files = sort_by_order_file(filtered_files, api_content_dir)
+    sorted_files = sort_by_order_file(filtered_files, api_docs_dir)
     puts 'Sorted files according to _order.yaml configuration'
 
     hidden_count = 0
     sorted_files.each do |file|
-      relative_path = Pathname.new(file).relative_path_from(api_content_dir)
+      relative_path = Pathname.new(file).relative_path_from(api_docs_dir)
       puts "⚙️  Processing: #{relative_path}"
       content = File.read(file).strip
 
@@ -156,7 +171,7 @@ if api_content_dir.exist?
     combined_content[-1] = combined_content[-1].chomp("---\n\n") if combined_content.last.end_with?("---\n\n")
   end
 else
-  puts "Error: #{api_content_dir} directory not found"
+  puts "Error: #{api_docs_dir} directory not found"
   exit 1
 end
 
@@ -184,11 +199,9 @@ if api_reference_file.exist?
         anchor = normalize_anchor(section_title)
         index_entries << { number: section_counter, title: "API: #{section_title}", anchor: anchor }
         # Keep the original title without modifications
-        processed_reference << line
-      else
-        processed_reference << line
       end
-    elsif line.match(/^## (.+)$/) && idx == 0
+      processed_reference << line
+    elsif line.match(/^## (.+)$/) && idx.zero?
       # Skip the first ## header (Endpoints) as we're replacing it with "API Reference"
       next
     else
