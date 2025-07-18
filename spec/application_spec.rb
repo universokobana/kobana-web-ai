@@ -10,11 +10,11 @@ describe 'main application' do
   end
 
   describe 'GET /' do
-    it 'redirects to /pt-BR' do
+    it 'returns HTML' do
       get '/'
       expect(last_response).to be_ok
       expect(last_response.content_type).to eq('text/html;charset=utf-8')
-      expect(last_response.body).to match(/Kobana - Conteúdo Completo do Website/)
+      expect(last_response.body).to match(/Kobana: A Revolução na Automação Financeira para Empresas/)
       expect(last_response.body).to match(/Este conteúdo é projetado especificamente para LLMs/)
     end
   end
@@ -24,7 +24,7 @@ describe 'main application' do
         get '/pt-BR', {}, { 'HTTP_USER_AGENT' => 'Mozilla/5.0' }
         expect(last_response).to be_ok
         expect(last_response.content_type).to eq('text/html;charset=utf-8')
-        expect(last_response.body).to match(/Kobana - Conteúdo Completo do Website/)
+        expect(last_response.body).to match(/Kobana: A Revolução na Automação Financeira para Empresas/)
         expect(last_response.body).to match(/Este conteúdo é projetado especificamente para LLMs/)
       end
     end
@@ -34,7 +34,7 @@ describe 'main application' do
         get '/pt-BR', {}, { 'HTTP_USER_AGENT' => 'python-requests/2.31.0' }
         expect(last_response).to be_ok
         expect(last_response.content_type).to eq('text/markdown;charset=utf-8')
-        expect(last_response.body).to match(/# Kobana - Conteúdo Completo do Website/)
+        expect(last_response.body).to match(/# Kobana: A Revolução na Automação Financeira para Empresas/)
       end
     end
   end
@@ -43,7 +43,7 @@ describe 'main application' do
       get '/pt-BR.md'
       expect(last_response).to be_ok
       expect(last_response.content_type).to eq('text/markdown;charset=utf-8')
-      expect(last_response.body).to match(/Kobana - Conteúdo Completo do Website/)
+      expect(last_response.body).to match(/Kobana: A Revolução na Automação Financeira para Empresas/)
       expect(last_response.body).not_to match(/Este conteúdo é projetado especificamente para LLMs/)
     end
   end
@@ -53,7 +53,7 @@ describe 'main application' do
         get '/en-US', {}, { 'HTTP_USER_AGENT' => 'Mozilla/5.0' }
         expect(last_response).to be_ok
         expect(last_response.content_type).to eq('text/html;charset=utf-8')
-        expect(last_response.body).to match(/Kobana - Complete Website Content/)
+        expect(last_response.body).to match(/Kobana: The Revolution in Financial Automation for Businesses/)
         expect(last_response.body).to match(/This content is specifically designed for LLMs/)
       end
     end
@@ -63,7 +63,7 @@ describe 'main application' do
         get '/en-US', {}, { 'HTTP_USER_AGENT' => 'Googlebot/2.1' }
         expect(last_response).to be_ok
         expect(last_response.content_type).to eq('text/markdown;charset=utf-8')
-        expect(last_response.body).to match(/# Kobana - Complete Website Content/)
+        expect(last_response.body).to match(/# Kobana: The Revolution in Financial Automation for Businesses/)
       end
     end
   end
@@ -72,7 +72,7 @@ describe 'main application' do
       get '/en-US.md'
       expect(last_response).to be_ok
       expect(last_response.content_type).to eq('text/markdown;charset=utf-8')
-      expect(last_response.body).to match(/Kobana - Complete Website Content/)
+      expect(last_response.body).to match(/Kobana: The Revolution in Financial Automation for Businesses/)
       expect(last_response.body).not_to match(/This content is specifically designed for LLMs/)
     end
   end
