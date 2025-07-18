@@ -12,7 +12,7 @@ api_reference_file = root_dir.join('content', 'api_reference.md')
 output_file = root_dir.join('views', 'pt-BR', 'api.md')
 ignore_file = root_dir.join('content', 'ignore_docs.txt')
 
-# Run git pull --rebase on content/api directory
+# Run git pull --rebase on content/api directory or clone if it doesn't exist
 puts '⏳ Updating content/api directory...'
 if Dir.exist?(api_content_dir)
   system("git -C #{api_content_dir} pull --rebase")
@@ -22,7 +22,16 @@ if Dir.exist?(api_content_dir)
     puts '⚠️  Warning: git pull --rebase failed for content/api'
   end
 else
-  puts "⚠️  Warning: #{api_content_dir} directory not found"
+  puts '📥 content/api directory not found. Cloning repository...'
+  # Clone the repository to content/api
+  clone_cmd = "git clone https://github.com/universokobana/kobana-developers-doc.git #{api_content_dir}"
+  system(clone_cmd)
+  if $CHILD_STATUS.success?
+    puts '✅ Successfully cloned content/api repository'
+  else
+    puts "🚨 ERROR: Failed to clone repository to #{api_content_dir}"
+    exit 1
+  end
 end
 
 combined_content = ["# Documentação da API da Kobana\n\n"]
