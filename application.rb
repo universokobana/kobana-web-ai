@@ -55,8 +55,8 @@ class Application < Sinatra::Base
     index('pt-BR', 'index', 'html')
   end
 
-  get '/api' do
-    index('en-US', 'api', 'html')
+  get '/api/?' do
+    index('pt-BR', 'api', 'html')
   end
 
   # Handle routes like:
@@ -64,7 +64,7 @@ class Application < Sinatra::Base
   # /pt-BR.md       -> lang=pt-BR, page=index, format=md
   # /pt-BR/artigos  -> lang=pt-BR, page=artigos, format=html
   # /pt-BR/artigos.md -> lang=pt-BR, page=artigos, format=md
-  get %r{/([^/.]+)(?:\.md)?(?:/([^/.]+)(?:\.md)?)?} do |lang, page|
+  get %r{/([^/.]+)(?:\.md)?(?:/([^/.]+)(?:\.md)?)?\/?} do |lang, page|
     # Set defaults
     lang ||= 'pt-BR'
     page ||= 'index'
