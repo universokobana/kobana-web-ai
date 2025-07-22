@@ -1,0 +1,58 @@
+# Kobana AI
+
+Kobana is a financial automation platform that provides a comprehensive banking API solution for businesses of all sizes in Brazil.
+
+## Overview
+
+sKobana connects with over 40 Brazilian financial institutions through a single API, enabling businesses to automate their financial operations including payments, transfers, billing, and more. The platform serves small businesses, medium enterprises, and large corporations with a 96% customer satisfaction rate.
+
+## Core Services
+
+- **Banking Integration**: Connects multiple bank accounts through a unified interface
+- **Payment Automation**: Automates payments, transfers, and billing operations
+- **API Platform**: Provides secure, simple API for developers
+- **Multi-Bank Support**: Integrates with major Brazilian banks including Itaú, Santander, Banco do Brasil, Bradesco, Sicoob, Sicredi, BTG, and more.
+- **Business Integrations**: Offers over 3,000 integrations with business tools
+
+## Key Features
+
+### Financial Operations
+- Pix payment creation and management
+- Boleto (bank billet) generation and tracking
+- Batch payment processing
+- Automated financial communications
+- Webhook notifications for real-time updates
+- Digital certificate management
+
+### API Capabilities
+- Subscription management (create, update, delete)
+- Recurring billing with customizable cycles
+- Bank billet creation with detailed customization
+- Support for interest, fines, and discounts
+- Bulk operations for efficiency
+- Real-time payment status tracking
+
+## Technical Details
+
+- **Communication**: Supports APIs, EDI, webhooks
+- **Security**: TLS 1.2 and 1.3 protocols
+- **Libraries**: Official support for Ruby and PHP
+- **Documentation**: Comprehensive API documentation available
+- **Integration**: Clean, RESTful API design
+
+## Resources
+
+- **Website**: https://ai.kobana.com.br/
+- **Articles**: https://ai.kobana.com.br/pt-BR/artigos
+- **API Documentation**: https://ai.kobana.com.br/pt-BR/api
+- **GitHub**: Example code and integration libraries
+
+## Target Audiences
+
+1. **Small/Medium Businesses**: Eliminate manual financial operations
+2. **Large Enterprises**: Scale financial integration and automation
+3. **Developers**: Build financial solutions with robust API
+
+## Contact
+
+For more information about Kobana's financial automation platform and API integration, visit https://ai.kobana.com.br/
