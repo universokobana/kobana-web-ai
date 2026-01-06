@@ -1,179 +1,827 @@
-# Kobana: The Revolution in Financial Automation for Businesses
+# Kobana - Financial Platform with Native AI
 
-## Table of Contents
+## 1. Kobana Overview
 
-1. [Simplified Financial Integration with Multiple Banks](#simplified-financial-integration-with-multiple-banks)
-   - [Security and Comprehensive Coverage](#security-and-comprehensive-coverage)
-   - [Banking Freedom and Flexibility](#banking-freedom-and-flexibility)
-2. [How Kobana Transforms Financial Flow](#how-kobana-transforms-financial-flow)
-   - [1. Banking and Digital Account Connection](#1-banking-and-digital-account-connection)
-   - [2. Command Collections, Payments, and Transfers](#2-command-collections-payments-and-transfers)
-   - [3. Automated Banking Communication](#3-automated-banking-communication)
-3. [Integrations and Solutions for Different Business Profiles](#integrations-and-solutions-for-different-business-profiles)
-   - [Solutions Adapted to Customer Needs](#solutions-adapted-to-customer-needs)
-4. [Exceptional Service and Support](#exceptional-service-and-support)
-5. [Testimonials That Prove Success](#testimonials-that-prove-success)
-6. [Kobana for Small and Medium Businesses: The End of Manual Operations](#kobana-for-small-and-medium-businesses-the-end-of-manual-operations)
-   - [Comprehensive Banking Connectivity](#comprehensive-banking-connectivity)
-   - [Intuitive Interface and Complete Monitoring](#intuitive-interface-and-complete-monitoring)
-   - [Subscriptions for Recurring Billing and Automated Notifications](#subscriptions-for-recurring-billing-and-automated-notifications)
-   - [Data and Team Management](#data-and-team-management)
-   - [Agile and Personalized Service](#agile-and-personalized-service)
-7. [Kobana for Large Companies: Integration and Automation at Scale](#kobana-for-large-companies-integration-and-automation-at-scale)
-   - [Connectivity and Flexibility](#connectivity-and-flexibility)
-   - [Advanced Communication Rules](#advanced-communication-rules)
-   - [ERP Integrated with Banks](#erp-integrated-with-banks)
-   - [Security and Confidentiality of Certificates and Credentials](#security-and-confidentiality-of-certificates-and-credentials)
-   - [Personalized Service and Support Channels](#personalized-service-and-support-channels)
-8. [Kobana for Developers: Simple and Secure API](#kobana-for-developers-simple-and-secure-api)
-   - [Security and Comprehensive Support](#security-and-comprehensive-support-1)
-   - [Webhooks and Modules/Libraries](#webhooks-and-moduleslibraries)
-   - [Sandbox Environment for Testing](#sandbox-environment-for-testing)
-   - [Subaccounts for Ready-Made Interfaces](#subaccounts-for-ready-made-interfaces)
-9. [Conclusion](#conclusion)
+### What is Kobana
+
+Kobana is a financial automation and management platform that connects companies to dozens of Brazilian banks through a single API. It is a banking gateway that allows issuing charges, making payments, and tracking statements from all accounts in one place.
+
+**Value proposition:** "We take care of your processes while you take care of your purpose."
+
+**Tagline:** Financial platform with native AI - Banking operations automated by artificial intelligence.
+
+### Platform Numbers
+
+- Over R$ 50 billion in processed transactions
+- Over 5 million banking operations per month
+- Over 6,000 connected bank accounts
+- Over 40 integrated banks
+
+### Who is it for
+
+Kobana serves companies of all sizes that need to automate their financial management:
+- SMEs looking to reduce manual work and delinquency
+- Medium-sized companies seeking multi-bank integration
+- Large companies with high transaction volumes
+- Fintechs and platforms that need a white-label solution
+
+Segments served: retail, services, industry, education, healthcare, real estate, and more.
+
+### Kobana is not a bank
+
+Kobana does not replace bank accounts. It is a banking gateway that connects existing accounts in different banks, centralizing management in a single platform. Customers continue using their banks normally, but with the advantage of managing everything in one place.
 
 ---
 
-In today's business landscape, efficiency and security in financial operations are fundamental pillars for success. Kobana emerges as an innovative solution, offering a robust banking API gateway, optimized B2B payments, cutting-edge enterprise infrastructure, and complete financial automation software. Focusing on integrating and simplifying financial flow, Kobana positions itself as a strategic partner for companies seeking to optimize their banking routines and free up resources for what really matters: business growth.
+## 2. How It Works
 
-## Simplified Financial Integration with Multiple Banks
+### Three Steps to Get Started
 
-Kobana's main value proposition lies in its ability to integrate your company's financial system with a vast network of Brazilian banks. With more than 30 connected financial institutions, the platform offers a unified API interface that automates collections, updates statements, and makes payments in a scalable and secure manner. This comprehensive integration eliminates the need to deal with multiple internet banking systems and legacy systems, providing a unified view and total control over financial operations.
+1. **Connect your bank accounts**: Add accounts from any partner bank. Connection is made via API or CNAB files.
 
-### Security and Comprehensive Coverage
+2. **Operate via dashboard or API**: Use the panel for visual management or integrate via API to automate processes.
 
-Security is a non-negotiable priority for Kobana. The platform architecture was meticulously designed for companies with high transaction volumes, prioritizing data protection. Following rigorous security protocols and frameworks, Kobana ensures that its customers' financial information is always protected. Additionally, the platform stands out for its wide coverage, connecting to Brazil's 34 main banks and financial institutions. In cases where a specific bank is not yet supported, Kobana commits to implementing the integration at no additional cost, demonstrating its commitment to adaptability and customer satisfaction.
+3. **Scale your operation**: Add new accounts, users, and features as the company grows.
 
-### Banking Freedom and Flexibility
+### Main Benefits
 
-One of the greatest benefits offered by Kobana is the freedom it provides companies to choose and switch banks without the complexity of new developments. With a single integration to the Kobana platform, companies have access to all banking operations from various banks in Brazil. This means that the decision of which bank to use becomes strategic, based on commercial conditions and services, and no longer limited by technological barriers or integration costs.
+- **Direct connection with banks**: Native integration with over 40 Brazilian banks, no intermediaries
+- **One API, all banks**: Integrate once, operate with any bank through unified API
+- **Complete dashboard**: Manage charges, payments, and statements in a single place
+- **End-to-end automation**: Billing rules, webhooks, batch imports
+- **Brazilian support**: Team available to help with quick responses
+- **Security as priority**: Encrypted data, LGPD compliance, robust infrastructure monitored 24/7
 
-## How Kobana Transforms Financial Flow
+---
 
-Financial flow automation with Kobana is an intuitive and efficient process, divided into clear steps that ensure smooth operations:
+## 3. Receivables Features
 
-### 1. Banking and Digital Account Connection
+### Registered Bank Slips (Boletos)
 
-Kobana establishes a direct connection with your company's banking and digital accounts. This connection can be made through EDI (automatic exchange of CNAB files), a traditional format widely used by banks, or through modern APIs offered by financial institutions. This flexibility ensures that Kobana adapts to your company's existing infrastructure, facilitating the transition to automation.
+Issuance of registered bank slips in over 15 banks with instant registration.
 
-### 2. Command Collections, Payments, and Transfers
+**Features:**
+- Issuance via API or dashboard
+- Registration via API or CNAB
+- Layout and instructions customization
+- Interest, penalty, and discount configuration
+- Automatic write-off when paid
+- Bank slips with or without registration
+- Protest instructions
+- Payment split
+- Configurable portfolios (with/without registration)
 
-Through Kobana's interface or API, companies can command collections, payments, and transfers individually, in batch, or scheduled. The platform offers the necessary flexibility to manage all financial transactions, from issuing payment slips to making payments to suppliers and transfers between accounts. Automation of these processes significantly reduces manual work, minimizing errors and optimizing the finance team's time.
+**Complete control:**
+- Automatic protest instructions after due date
+- Credit bureau negativation
+- Early payment discount instructions
+- Command history per bank slip
 
-### 3. Automated Banking Communication
+### PIX Charges
 
-Once operations are commanded, Kobana takes responsibility for communication with the bank. The platform executes operations, handles any errors, and sends real-time notifications to the company, its customers, suppliers, and employees. This automated communication ensures that all parties involved are always updated on transaction status, promoting transparency and efficiency.
+Generation of dynamic and static QR Codes for instant payments.
 
-## Integrations and Solutions for Different Business Profiles
+**Features:**
+- Dynamic QR Code (unique per charge)
+- Static QR Code (reusable)
+- PIX Copy and Paste
+- Charges with due date
+- Instant confirmation webhook
+- Payments credited immediately
 
-Kobana goes beyond banking automation, offering more than 3000 integrations with applications and systems widely used in the market. This direct connection capability allows companies to further optimize their processes, integrating financial flow with their management tools, CRM, e-commerce, and much more. Notable integrations include:
+**PIX Integrations:**
+- Banco do Brasil, Bradesco, Itau, Santander, Caixa
+- Sicoob, Sicredi, Banrisul
+- Inter, BTG, ABC Brasil, QI Tech, Semear
 
-* **Productivity and Collaboration Tools:** Trello, Google Drive, HubSpot, Discord, Calendly, Airtable, Notion.
-* **Marketing and Sales Platforms:** Facebook Lead Ads, ActiveCampaign, Typeform, Google Forms, Facebook Pages, Salesforce, Pipedrive, Acuity Scheduling.
-* **Payment and E-commerce Systems:** Stripe, Shopify.
-* **Other Integrations:** Twitter, YouTube, Gravity Forms, Code by Zapier, Email Parser by Zapier, Asana, SMS by Zapier, Microsoft Outlook, ClickFunnels, Webflow.
+### BolePix (Hybrid Bank Slip)
 
-### Solutions Adapted to Customer Needs
+Traditional bank slip with integrated PIX QR Code. The customer chooses how to pay: barcode or instant PIX.
 
-Kobana offers customized solutions for different business profiles, ensuring that each customer finds the ideal approach for their needs:
+**Features:**
+- PIX QR Code on the bank slip
+- Two payment methods in one charge
+- Automatic write-off regardless of method
+- Higher conversion rate
 
-* **Use via Interface:** For companies seeking a complete solution to automate their financial operations, Kobana's interface offers visibility and security, freeing the finance team from manual and repetitive tasks. It's the ideal solution for those who need to grow and whose financial transaction volume already exceeds team capacity.
-* **Use via Integration:** For companies dealing with high transaction volumes and requiring a robust and secure solution, Kobana's API integration simplifies processes, automates flow, and handles exception cases that consume much operation time. It ensures no transaction is lost and money flows securely.
-* **Developers:** Kobana offers a clean, simple, and functional API, with documented responses, error handling, and webhooks for all events. This eliminates the complexity and risk of dealing with text file parsing and inconsistent behavior of banking APIs, allowing developers to focus on creating value.
+### Automatic PIX
 
-## Exceptional Service and Support
+Automatic debit via PIX with prior authorization from the payer.
 
-One of Kobana's differentiators is its commitment to excellent customer service. With a 96% satisfaction rate (based on data from December/2020 to November/2021) and an NPS of 76 (based on 2021), Kobana stands out for the quality of its support:
+**Features:**
+- Single authorization for recurring charges
+- Automatic charge on scheduled date
+- Cancellation at any time
+- Ideal for subscriptions and monthly fees
 
-* **Guaranteed Satisfaction:** The high satisfaction rate and elevated NPS demonstrate Kobana's commitment to exceeding customer expectations.
-* **Real People:** Kobana prioritizes human contact, ensuring customers always speak with real people, without robots or frustrating automated services. Support is available during business hours via email, phone, chat, and even smoke signals, as they joke.
-* **Virtual Office:** Kobana offers the possibility to schedule visits to their virtual office, providing even more personalized and close service.
+### Payment Links
 
-## Testimonials That Prove Success
+Customizable checkout pages to share on any channel.
 
-The positive impact of Kobana on its customers' financial automation is evidenced by testimonials:
+**Features:**
+- Unique link per charge
+- Branded page
+- Multiple payment methods
+- Sharing via WhatsApp, email, SMS
 
-* **Aurélio Schuelter (Área Central):** Highlights the simple-to-integrate API and agility in homologating portfolios from various banks, as well as good service and support.
-* **Suellen Malveis (Amaze Travel):** Praises the didactic and functional interface, as well as the speed and efficiency of the support team.
-* **Anderson Rocha (Interis):** Mentions integration with more than 20 banks as a differentiator for attracting new customers, who can easily issue payment slips directly from the platform.
-* **Thiago Daher (Protesto 24h):** States that Kobana's API was one of the easiest to integrate he has ever used.
-* **Gustavo Benites (Porto Vistos):** Emphasizes the time savings provided by Kobana, from payment slip generation to automatic reminders, highlighting excellent cost-benefit.
-* **Emerson Henning (Henning Informática):** Recommends Kobana for simplicity in API integration, payment slip generation, subscriptions, and remittance files, plus good cost-benefit.
+### Payment Books
 
-## Kobana for Small and Medium Businesses: The End of Manual Operations
+Installment charges with automatic bank slip generation.
 
-For small and medium businesses, Kobana represents the end of manual operations and financial sector optimization. The platform helps reduce recurring manual work, reducing errors and freeing up team time to focus on more strategic tasks.
+**Features:**
+- Installment creation
+- Automatic bank slip generation per installment
+- Due date control
+- Communication rules per installment
 
-### Comprehensive Banking Connectivity
+### Communication Rules
 
-Kobana connects to more than 30 different banks, ensuring that your company's financial institution is on their list. The platform offers support for:
+Automatic sequence of messages sent to customers at strategic moments.
 
-* **CNAB:** Ability to read and generate files in CNAB 240 and CNAB 400 format from all banks, a traditional standard for data exchange.
-* **EDI:** Electronic data exchange service for automatic sending and receiving of files between Kobana and the bank's server, eliminating manual work.
-* **API:** The most modern form of integration, allowing instant and fast communication with banks, without the need for files.
+**Channels:**
+- Email
+- SMS
+- WhatsApp
 
-An important differentiator is that Kobana resolves the complexity of different peculiarities of commands available in CNAB and API from the same bank, ensuring operations work without confusion.
+**Moments:**
+- Before due date (reminder)
+- On due date
+- After due date (collection)
+- Payment confirmation
 
-### Intuitive Interface and Complete Monitoring
+---
 
-Kobana's interface is designed to be simple and intuitive, without the need for extensive training. Just a web browser is needed to access the panel and perform all banking operations from all banks, eliminating the need for multiple internet banking systems. Additionally, every action performed in the panel is monitored and recorded in the event history, allowing managers to track what each user is doing.
+## 4. Payments Features
 
-### Subscriptions for Recurring Billing and Automated Notifications
+### Bank Slip Payments
 
-With the subscriptions feature, Kobana facilitates recurring billing for customers, allowing manual registration or import via spreadsheet and automatic generation of charges each cycle. The platform also offers robust communication rules, sending automatic notifications to customers via email and SMS, based on customized events (payment slip generated, payment received, overdue charge, etc.). It's possible to customize the subject, message, and email templates, as well as monitor opening and link clicks, ensuring communication is effective.
+Payment of bank slips from any bank directly through the platform.
 
-### Data and Team Management
+**Features:**
+- Barcode reading
+- Automatic data validation
+- Payment scheduling
+- Batch payments
+- Processing via API or dashboard
 
-Kobana values data ownership, allowing companies to import spreadsheets in CSV, Excel, and Google Docs to bring their history to the platform, and export in the same formats for offline use. All download history is also stored. Additionally, the platform allows inviting as many people as necessary to work in the control panel, with individual access and two-factor authentication for greater security.
+### PIX Payments
 
-### Agile and Personalized Service
+PIX transfers to any key or QR Code.
 
-Kobana's support for small and medium businesses is taken seriously, with an average response below 5 minutes in the platform chat and service by real people, without robots. The 97% satisfaction rate reflects the commitment to excellence in service.
+**Features:**
+- Payment by PIX key (CPF, CNPJ, email, phone, random)
+- QR Code reading
+- PIX Charge payment
+- Instant confirmation
 
-## Kobana for Large Companies: Integration and Automation at Scale
+### Utility Bill Payments
 
-For large companies, Kobana offers the ability to integrate and automate all financial operations at scale, making processes fast and uncomplicated through its API.
+Payment of utility companies and recurring bills.
 
-### Connectivity and Flexibility
+**Types:**
+- Electricity
+- Water
+- Gas
+- Phone
+- Internet
 
-Kobana allows connection to 1 or 30 banks with the same ease, offering support for CNAB, EDI, and API. Kobana's API is a differentiator, as it allows integration with all banks without the need to handle different peculiarities of each bank's documentation. Kobana's documentation is simple and complete, already mapping each bank's operations.
+**Features:**
+- Automatic barcode reading
+- Scheduling
+- Batch payments
 
-### Advanced Communication Rules
+### Tax Payments
 
-Kobana's communication rules for large companies send automatic notifications to customers via email and SMS, with customized events and email and SMS automation. Opening and link click monitoring ensures communication effectiveness.
+Payment of federal, state, and municipal taxes.
 
-### ERP Integrated with Banks
+**Supported types:**
+- DARF (Federal Revenue Collection Document)
+- GPS (Social Security Payment Guide)
+- GRU (Federal Collection Guide)
+- GARE (State Collection Guide)
+- GNRE (National Guide for State Tax Collection)
 
-Kobana allows the company's ERP to be completely integrated with banks, managing and performing financial transactions directly from the ERP securely and agilely. This is possible through the API, which allows customizing integration, and through CNAB file import. Kobana also offers integrations with various applications and systems for greater agility in day-to-day tasks.
+**Features:**
+- Automatic data validation
+- Scheduling
+- Batch processing
 
-### Security and Confidentiality of Certificates and Credentials
+### Batch Payments
 
-Security is paramount for large companies. Kobana offers secure storage of certificates and banking credentials, expiration monitoring with alerts and automatic renewal, support for multiple CNPJs, and event control and auditing to track all operations.
+Processing of multiple payments simultaneously.
 
-### Personalized Service and Support Channels
+**Features:**
+- Import via CSV or CNAB
+- Validation of all data before processing
+- Error indication for correction
+- Batch approval
 
-Service for large companies is personalized, with chat in the interface with average response below 5 minutes, shared Slack for direct interaction with the Kobana team, and phone with local calling for more urgent problems.
+---
 
-## Kobana for Developers: Simple and Secure API
+## 5. Transfer Features
 
-For developers, Kobana offers a simple and secure API to connect to all operations from more than 30 banks, with complete documentation to facilitate development.
+### PIX Transfers
 
-### Security and Comprehensive Support
+Instant transfers 24/7 to any account.
 
-Kobana uses 2048-bit SSL Certificates and all requests are encrypted. Documentation details each operation's support in banks, and the platform offers changelog and weekly updates to keep developers updated.
+**Features:**
+- Transfer by PIX key
+- Transfer by bank details
+- Instant processing
+- Real-time confirmation
 
-### Webhooks and Modules/Libraries
+### TED Transfers
 
-Kobana's webhooks allow the developer's system to be updated in real-time about any operation updates (payment slip paid, payment completed, PIX generated). Kobana also offers modules for integration with major systems like WHCMS, TOTVS Protheus, and Shopify, and libraries in Ruby, PHP, C#, and other languages to speed up integration. The code is open source, allowing adaptation to company needs.
+Transfers between banks during business hours.
 
-### Sandbox Environment for Testing
+**Features:**
+- Same-day TED (D+0)
+- Scheduling for future dates
+- Batch processing
+- Bank details validation
 
-A Sandbox environment mirrors Kobana's application, allowing developers to test the API or interface and simulate system use for free.
+### Internal Transfers
 
-### Subaccounts for Ready-Made Interfaces
+Internal movement between accounts connected to Kobana.
 
-Kobana offers subaccount functionality, allowing developers to deliver a ready and complete interface to their customers, who will have access to Kobana to manage their banking operations without the need to develop their own interface.
+**Features:**
+- Instant transfer
+- No additional cost
+- Ideal for multi-company cash management
 
-## Conclusion
+---
 
-Kobana establishes itself as a complete and versatile solution for financial automation, serving from small and medium businesses to large corporations and developers. Its robust, secure platform with wide banking connectivity, combined with excellent service, makes it an indispensable partner for any business seeking to optimize its financial processes and boost growth. The promise to simplify, automate, and ensure the security of banking operations is masterfully fulfilled, freeing companies to focus on their core activities and reach new levels of efficiency and profitability.
+## 6. Financial Management
+
+### Bank Accounts
+
+Centralization of all accounts in a single platform.
+
+**Features:**
+- Connection via API or EDI/CNAB
+- Unified dashboard
+- Consolidated balance view
+- Operations on any connected account
+
+### Balances and Statements
+
+Complete visibility of financial movements.
+
+**Features:**
+- Automatic statement import
+- Complete transaction history
+- Real-time balances
+- Export in multiple formats (CSV, OFX)
+
+### Bank Reconciliation
+
+Process automation.
+
+**Features:**
+- Automatic payment matching
+- Divergence identification
+- Receivables reconciliation
+- Reconciliation reports
+
+### DDA (Direct Debit Authorization)
+
+Receipt and viewing of bank slips issued against the CNPJ.
+
+**Features:**
+- Automatic listing of bank slips to pay
+- Integration with payment flow
+- Centralized approval
+
+### Subaccounts
+
+Segregation of operations by unit, project, or purpose.
+
+**Features:**
+- Unlimited subaccount creation
+- Independent balances
+- Reports per subaccount
+- Internal transfers
+
+### User Management
+
+Granular access and permission control.
+
+**Features:**
+- Over 340 granular permissions
+- Customizable access profiles
+- Email invitation
+- Audit logs per user
+
+### Customer Portal
+
+Interface for customers to check their charges.
+
+**Features:**
+- Customized customer area
+- Pending charges query
+- Bank slip duplicate
+- Payment history
+
+### Exports
+
+Report generation in various formats.
+
+**Formats:**
+- CSV
+- Excel
+- OFX
+- CNAB
+
+**Types:**
+- Charge reports
+- Payment reports
+- Statements
+- Reconciliation
+
+---
+
+## 7. Solutions by Need
+
+### Accounts Receivable
+
+Complete automation of the receivables cycle.
+
+**Features:**
+- Automated charge issuance
+- Communication rules
+- Automatic payment write-off
+- Receivables reconciliation
+- Delinquency reports
+- Protests and negativation
+
+### Accounts Payable
+
+Centralization and automation of payments.
+
+**Features:**
+- Batch payments
+- Multi-level approvals
+- Scheduling
+- ERP integration
+- Integrated DDA
+- Cash flow reports
+
+---
+
+## 8. Solutions by Company Size
+
+### SMEs (Small and Medium Enterprises)
+
+**Benefits:**
+- Reduction of manual work
+- Recurring charge automation
+- Communication rules to reduce delinquency
+- Simple and intuitive dashboard
+- Affordable price per transaction
+
+### Enterprise (Large Companies)
+
+**Benefits:**
+- High transaction volume
+- Custom integrations
+- Dedicated SLA
+- Priority support
+- Multi-company management
+- Granular permissions
+
+### Fintechs
+
+**Benefits:**
+- White-label available
+- Complete API for integration
+- Subaccounts for segregation
+- Guaranteed scalability
+- Sandbox for development
+
+---
+
+## 9. Solutions by Segment
+
+### Retail
+
+- Bank slip and payment book issuance
+- Payment links
+- Sales reconciliation
+- POS integration
+
+### Healthcare
+
+- Recurring charges for plans
+- Automated communication rules
+- Patient portal
+- Hospital system integration
+
+### Education
+
+- Payment books for tuition
+- Bank slips with early payment discount
+- Student portal
+- Academic system integration
+
+### Industry
+
+- Batch supplier payments
+- Multiple bank account management
+- Automated reconciliation
+- Industrial ERP integration
+
+### Real Estate
+
+- Rent charges
+- Payment split (administrator/owner)
+- Condominium payment books
+- Tenant portal
+
+### Services
+
+- Recurring charges
+- Payment links per project
+- Billing automation
+- Management system integration
+
+---
+
+## 10. Bank Integrations
+
+### Banks with Complete Integration (API + EDI)
+
+| Bank | Code | Features |
+|------|------|----------|
+| Banco do Brasil | 001 | Bank slips, PIX, Payments, Transfers, Statements |
+| Bradesco | 237 | Bank slips, PIX, Payments, Transfers, Statements |
+| Itau | 341 | Bank slips, PIX, Payments, Transfers, Statements |
+| Santander | 033 | Bank slips, PIX, Payments, Transfers, Statements |
+| Caixa Economica | 104 | Bank slips, PIX, Payments, Transfers, Statements |
+| Sicoob | 756 | Bank slips, PIX, Payments, Transfers, Statements |
+| Banrisul | 041 | Bank slips, PIX, Payments, Transfers, Statements |
+| ABC Brasil | 246 | Bank slips, PIX, Statements |
+| BTG Pactual | 208 | Bank slips, PIX, Statements |
+| BV | 655 | Bank slips |
+
+### Credit Unions
+
+| Union | Code | Connection | Features |
+|-------|------|------------|----------|
+| Sicoob | 756 | API + EDI | Bank slips, PIX, Payments, Transfers, Statements |
+| Sicredi | 748 | API + EDI | Bank slips, PIX, Statements |
+| Ailos | 085 | API + EDI | Bank slips |
+| Cresol | 133 | API + EDI | Bank slips |
+| Unicred | 136 | API + EDI | Bank slips |
+| Uniprime | 099 | API + EDI | Bank slips |
+| Credisis | 097 | EDI | Bank slips |
+
+### Regional Banks
+
+| Bank | Code | Connection | Features |
+|------|------|------------|----------|
+| Banrisul | 041 | API + EDI | Bank slips, PIX, Payments, Transfers, Statements |
+| BRB | 070 | EDI | Bank slips |
+| Banco do Nordeste | 004 | EDI | Bank slips |
+| Banese | 047 | EDI | Bank slips |
+| Banestes | 021 | EDI | Bank slips |
+
+### Digital Banks
+
+| Bank | Code | Connection | Features |
+|------|------|------------|----------|
+| Inter | 077 | API | PIX, Statements |
+| BTG Pactual | 208 | API + EDI | Bank slips, PIX, Statements |
+| Cora | 403 | API | Bank slips |
+| QI Tech | 329 | API | Bank slips, PIX, Payments, Transfers |
+| Semear | 743 | API | Bank slips, PIX |
+
+### Other Banks
+
+Safra, Arbi, Banco Industrial, BNP Paribas, Caruana, Citibank, Daycoval, Mercantil, BMP (Moneyplus), Rendimento, Sofisa - all with EDI integration for bank slips.
+
+### Connection Types
+
+**API Connection:**
+- Real-time operations
+- Instant bank slip registration
+- Immediate payment confirmation
+- Ideal for complete automation
+
+**EDI/CNAB Connection:**
+- Universal compatibility with any bank
+- Automated file sending and receiving
+- Ideal for banks without available API
+- Batch processing
+
+---
+
+## 11. ERP and System Integrations
+
+### Integrated ERPs
+
+- TOTVS
+- SAP
+- Omie
+- Bling
+- Tiny
+- ContaAzul
+
+### API Integrations
+
+The API allows connecting any system that supports webhooks or HTTP calls.
+
+### EDI/Mailbox
+
+Integration via CNAB file exchange with banks that do not offer API.
+
+---
+
+## 12. Artificial Intelligence
+
+### Kia - AI Assistant
+
+Kia is Kobana's AI assistant, available as a desktop application for macOS, Windows, and Linux.
+
+**Capabilities:**
+- Execution of financial tasks through natural language commands
+- Complete contextual access to financial data
+- Automation of repetitive operations
+- Data analysis and reports
+
+**Usage examples:**
+- "List my financial accounts"
+- "Pay all overdue bills"
+- "Show the balance of all accounts"
+- "Generate a delinquency report"
+
+### MCP Servers (Model Context Protocol)
+
+Connection of AI agents directly to the Kobana platform through the MCP protocol.
+
+**Compatible Clients:**
+- Claude Desktop
+- Claude Code
+- ChatGPT Desktop
+- Cursor
+- VS Code (with MCP extension)
+- Windsurf
+- Manus
+- Perplexity
+
+**Available MCP Servers:**
+
+| Server | npm package | Tools | Description |
+|--------|-------------|-------|-------------|
+| Admin | kobana-mcp-admin | 17 | Certificate, connection, subaccount, and user management |
+| Charge | kobana-mcp-charge | 35 | Pix charges, Pix accounts, automatic Pix, and receivables |
+| Payment | kobana-mcp-payment | 24 | Bank slip, Pix, DARF, tax, and utility payments |
+| Transfer | kobana-mcp-transfer | 16 | Pix, TED, and internal account transfers |
+| Financial | kobana-mcp-financial | 15 | Financial accounts, balances, statements, and transactions |
+| Data | kobana-mcp-data | 2 | Bank slip queries by barcode |
+| EDI | kobana-mcp-edi | 4 | EDI mailbox management for CNAB files |
+
+**Total:** 113 tools available for AI automation.
+
+**Connection Modes:**
+- Local (via npx): Server execution on local machine
+- Remote (hosted server): Direct connection to cloud server at mcp.kobana.com.br
+
+---
+
+## 13. Developer Resources
+
+### RESTful API
+
+Well-documented API with standardized endpoints, JSON responses, and semantic HTTP codes.
+
+**Features:**
+- OAuth 2.0 authentication with JWT tokens
+- Granular permission scopes
+- Rate limiting for protection
+- Signed webhooks (HMAC-SHA256)
+
+### Webhooks
+
+Real-time notifications about events.
+
+**Available events:**
+- Payment confirmed
+- Bank slip generated/registered
+- Transfer completed
+- Charge status changed
+
+**Features:**
+- Automatic retry on failure
+- HMAC-SHA256 validation
+- Delivery logs
+
+### Sandbox
+
+Free test environment identical to production.
+
+**Features:**
+- Simulated data without real effect
+- Same APIs as production
+- Ideal for development and testing
+- Available at sandbox.kobana.com.br
+
+### Official SDKs
+
+| Language | Repository | Installation |
+|----------|------------|--------------|
+| Ruby | github.com/kobana/kobana-ruby | gem install kobana |
+| PHP | github.com/kobana/kobana-php | composer require kobana/kobana-php |
+| Python | github.com/kobana/kobana-python | pip install kobana |
+| Node.js | github.com/kobana/kobana-node | npm install kobana |
+
+### Documentation
+
+Available at developers.kobana.com.br:
+- Step-by-step integration guides
+- Complete endpoint reference
+- Code examples
+- Interactive try it out
+
+---
+
+## 14. Security
+
+### Security Metrics
+
+- 99.9% availability
+- Less than 15 minutes incident response time
+- 2 pentests conducted per year
+- Zero data breaches
+
+### Protection Layers
+
+**Encryption:**
+- TLS 1.3 in transit with HSTS and Perfect Forward Secrecy
+- AES-256 for data at rest
+- Keys rotated via HSM
+- ICP-Brasil certificates for bank integration (mTLS)
+
+**Infrastructure:**
+- Hosted on Amazon Web Services (AWS)
+- 24/7 monitoring with SIEM
+- Real-time anomaly detection
+- Incremental backups with geographic redundancy
+
+**Network Architecture:**
+- Segmentation by function and sensitivity level
+- Firewalls with strict rules
+- WAF (Web Application Firewall)
+- DDoS protection
+
+**Access Control:**
+- Principle of least privilege
+- Mandatory MFA for administrative access
+- Corporate SSO
+- Quarterly access review
+
+**Backup and Recovery:**
+- RPO: Maximum 1 hour data loss
+- RTO: Recovery within 4 hours
+- Automatic failover
+- Quarterly DR tests
+
+### Compliance
+
+- LGPD (General Data Protection Law)
+- Clear data collection and use policies
+- Data subject rights (access, correction, deletion)
+- Designated DPO
+
+### White Hat Program
+
+Reward program for security researchers.
+
+**Rewards:** R$ 500 to R$ 5,000+ depending on severity.
+
+**Rules:**
+- Responsible disclosure
+- Reports to whitehat@kobana.com.br
+- Donations to NGOs receive double rewards
+
+---
+
+## 15. Frequently Asked Questions
+
+### About Registration and Account
+
+**How to create an account:** Access kobana.com.br/cadastro, fill in data (name, email, CNPJ), confirm email. Less than 2 minutes, no credit card required.
+
+**Test before subscribing:** Free sandbox environment available. Trial period for new users.
+
+**Add users:** No user limit. Access profiles with over 340 granular permissions.
+
+**2FA authentication:** Available via Google Authenticator, Authy, or similar.
+
+### About Charges
+
+**Available types:** Registered bank slip, PIX Charge, BolePix, Payment link, Payment books.
+
+**Payment tracking:** Dashboard with status, real-time webhooks, API for queries, exportable reports.
+
+### About Payments
+
+**Available types:** Bank slips from any bank, taxes (DARF, GPS, GRU, GARE, GNRE), utility bills, PIX, TED.
+
+**Scheduling:** Available for all modalities. Cancelable until execution date.
+
+**Batch payments:** Via dashboard (CSV/CNAB import) or API (list in single request).
+
+### About Integrations
+
+**Bank connection:** Via API (faster) or via CNAB/EDI (for any bank).
+
+**Integration time:**
+- Dashboard only: Immediate
+- Basic API integration: 1-3 days
+- Complete integration: 1-2 weeks
+
+### About Pricing
+
+**Pricing model:** Initial setup + monthly fee based on actual usage.
+
+**Setup fee:** None for standard plans.
+
+**Plan change:** Immediate upgrade, downgrade on next cycle. No penalty.
+
+### About Support
+
+**Channels:** Dashboard chat, email (suporte@kobana.com.br), Help Center.
+
+**Hours:** Monday to Friday, 8am to 6pm (Brasilia time). Enterprise customers: Extended SLA.
+
+**Training:** Webinars, video tutorials, documentation. Enterprise: personalized training.
+
+---
+
+## 16. Pricing Model
+
+### Structure
+
+- **Initial setup:** One-time fee to start using the platform
+- **Monthly fee:** Based on actual usage (processed transactions)
+
+### Features
+
+- Fixed monthly price
+- Volume discounts
+- Cancel anytime
+- No setup fee for standard plans
+
+### Plan Types
+
+Some plans have a fixed monthly fee + per-transaction fee. Others are 100% usage-based (pay as you go).
+
+---
+
+## 17. Links and Resources
+
+### Platform
+
+- Dashboard: app.kobana.com.br
+- API: api.kobana.com.br
+- Sandbox: sandbox.kobana.com.br
+- MCP Servers: mcp.kobana.com.br
+
+### Documentation
+
+- API Documentation: developers.kobana.com.br
+- Help Center: suporte.kobana.com.br
+- Status: status.kobana.com.br
+
+### Contact
+
+- Support: suporte@kobana.com.br
+- Security: seguranca@kobana.com.br
+- White Hat: whitehat@kobana.com.br
+- Sales: comercial@kobana.com.br
+
+---
+
+## 18. Customer Testimonials
+
+**Aurelio Schuelter - Area Central:**
+"Kobana has a simple-to-integrate API that supports portfolios from various banks, plus the agility in approving each of these portfolios. I recommend it for the good service and support."
+
+**Suellen Malveis - Amaze Travel:**
+"Kobana's interface is very didactic and functional. Additionally, the support team is very fast and efficient in service."
+
+**Anderson Rocha - Interis:**
+"Kobana has integration with more than 20 banks. Today with our tool integrated with Kobana we have a differentiator for attracting new customers, who can easily issue bank slips directly from our platform."
+
+**Thiago Daher - Protesto 24h:**
+"I did several integrations with different systems throughout 2021. Kobana's API was very easy to integrate, it was one of the best I've ever used."
+
+**Gustavo Benites - Porto Vistos:**
+"Kobana saves us a lot of time. From generating the bank slip that the customer themselves creates via integration with Typeform to reminding the customer two days before the due date through integrations with Zapier and Drip. Everything is automated! Kobana has an excellent cost-benefit."
+
+**Emerson Henning - Henning Informatica:**
+"I recommend Kobana for its simplicity both in API integration and in generating bank slips, subscriptions, and remittance files. Everything is done simply and intuitively, plus it has good cost-benefit."
+
+---
+
+*Document generated from kobana.com.br website content for AI model training and consultation purposes.*

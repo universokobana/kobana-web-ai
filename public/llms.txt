@@ -1,59 +1,55 @@
-# Kobana: The Revolution in Financial Automation for Businesses
+# Kobana
 
-Kobana is a financial automation platform that provides a comprehensive banking API solution for businesses of all sizes in Brazil.
+> Kobana é uma plataforma de automação de operações bancárias que conecta empresas a mais de 30 bancos brasileiros através de uma API unificada. Oferece funcionalidades de cobranças (boletos, PIX, bolepix), pagamentos, transferências, extratos e conciliação bancária.
 
-## Overview
+A Kobana simplifica a integração bancária para empresas de todos os portes, eliminando a complexidade de lidar com múltiplas APIs bancárias. A plataforma oferece dashboard intuitivo, API REST completa, webhooks em tempo real e SDKs em múltiplas linguagens.
 
-Kobana connects with over 40 Brazilian financial institutions through a single API, enabling businesses to automate their financial operations including payments, transfers, billing, and more. The platform serves small businesses, medium enterprises, and large corporations with a 96% customer satisfaction rate.
-Kobana establishes itself as a complete and versatile solution for financial automation, serving from small and medium businesses to large corporations and developers. Its robust, secure platform with wide banking connectivity, combined with excellent service, makes it an indispensable partner for any business seeking to optimize its financial processes and boost growth. The promise to simplify, automate, and ensure the security of banking operations is masterfully fulfilled, freeing companies to focus on their core activities and reach new levels of efficiency and profitability.
+## Documentação
 
-## Core Services
+- [Site AI-Friendly](https://ai.kobana.com.br): Versão do site otimizada para consumo por LLMs e agentes de IA
+- [Documentação da API](https://ai.kobana.com.br/pt-BR/api): Guias de integração, tutoriais e melhores práticas
+- [Artigos de Suporte](https://ai.kobana.com.br/pt-BR/artigos): Central de ajuda com artigos detalhados sobre funcionalidades
+- [Referência da API (OpenAPI)](https://raw.githubusercontent.com/universokobana/kobana-api-specs/refs/heads/main/swagger/all-versions/kobana-api-all-versions-openapi-3_1.json): Especificação completa da API em formato OpenAPI 3.1
 
-- **Banking Integration**: Connects multiple bank accounts through a unified interface
-- **Payment Automation**: Automates payments, transfers, and billing operations
-- **API Platform**: Provides secure, simple API for developers
-- **Multi-Bank Support**: Integrates with major Brazilian banks including Itaú, Santander, Banco do Brasil, Bradesco, Sicoob, Sicredi, BTG, and more.
-- **Business Integrations**: Offers over 3,000 integrations with business tools
+## Funcionalidades Principais
 
-## Key Features
+- [Recebimentos](https://www.kobana.com.br/funcionalidades/recebimentos): Boletos registrados, PIX Cobrança, Bolepix e links de pagamento
+- [Boletos](https://www.kobana.com.br/funcionalidades/recebimentos/boletos): Emissão de boletos registrados via API e dashboard
+- [PIX Cobrança](https://www.kobana.com.br/funcionalidades/recebimentos/pix): QR Code dinâmico e estático para cobranças
+- [Bolepix](https://www.kobana.com.br/funcionalidades/recebimentos/bolepix): Boleto híbrido com QR Code PIX
+- [Pagamentos](https://www.kobana.com.br/funcionalidades/pagamentos): Pagamento de boletos, tributos e contas
+- [Transferências](https://www.kobana.com.br/funcionalidades/transferencias): PIX, TED e transferências entre contas
+- [Saldos e Extratos](https://www.kobana.com.br/funcionalidades/saldos-extratos): Consulta de saldos e extratos bancários
+- [Conciliação Bancária](https://www.kobana.com.br/funcionalidades/conciliacao-bancaria): Conciliação automática de recebimentos
+- [DDA](https://www.kobana.com.br/funcionalidades/dda): Débito Direto Autorizado
+- [Régua de Comunicação](https://www.kobana.com.br/funcionalidades/regua-comunicacao): Automação de notificações por email, SMS e WhatsApp
 
-### Financial Operations
-- Pix payment creation and management
-- Boleto (bank billet) generation and tracking
-- Batch payment processing
-- Automated financial communications
-- Webhook notifications for real-time updates
-- Digital certificate management
+## Desenvolvedores
 
-### API Capabilities
-- Subscription management (create, update, delete)
-- Recurring billing with customizable cycles
-- Bank billet creation with detailed customization
-- Support for interest, fines, and discounts
-- Bulk operations for efficiency
-- Real-time payment status tracking
+- [Portal de Desenvolvedores](https://www.kobana.com.br/desenvolvedores): Overview da API e recursos para desenvolvedores
+- [SDKs](https://www.kobana.com.br/desenvolvedores/sdks): Ruby, PHP, Python e Node.js
+- [Webhooks](https://www.kobana.com.br/desenvolvedores/webhooks): Eventos e notificações em tempo real
+- [Sandbox](https://www.kobana.com.br/desenvolvedores/sandbox): Ambiente de testes gratuito
 
-## Technical Details
+## Integrações
 
-- **Communication**: Supports APIs, EDI, webhooks
-- **Security**: TLS 1.2 and 1.3 protocols
-- **Libraries**: Official support for Ruby and PHP
-- **Documentation**: Comprehensive API documentation available
-- **Integration**: Clean, RESTful API design
+- [Bancos Suportados](https://www.kobana.com.br/integracoes/bancos): Mais de 30 bancos brasileiros integrados
+- [ERPs](https://www.kobana.com.br/integracoes/erps): TOTVS, SAP, Omie, Bling e outros
+- [Plataformas](https://www.kobana.com.br/integracoes/plataformas): Shopify, WooCommerce, Zapier, Make e mais
 
-## Resources
+## Soluções
 
-- **Website**: https://ai.kobana.com.br/
-- **Articles**: https://ai.kobana.com.br/pt-BR/artigos
-- **API Documentation**: https://ai.kobana.com.br/pt-BR/api
-- **GitHub**: Example code and integration libraries
+- [PMEs](https://www.kobana.com.br/solucoes/pmes): Automação financeira para pequenas e médias empresas
+- [Enterprise](https://www.kobana.com.br/solucoes/enterprise): Soluções escaláveis para grandes operações
+- [Fintechs](https://www.kobana.com.br/solucoes/fintechs): Infraestrutura white-label para plataformas financeiras
+- [Contas a Receber](https://www.kobana.com.br/solucoes/contas-receber): Automação da cobrança e redução de inadimplência
+- [Contas a Pagar](https://www.kobana.com.br/solucoes/contas-pagar): Centralização e automação de pagamentos
 
-## Target Audiences
+## Optional
 
-1. **Small/Medium Businesses**: Eliminate manual financial operations
-2. **Large Enterprises**: Scale financial integration and automation
-3. **Developers**: Build financial solutions with robust API
-
-## Contact
-
-For more information about Kobana's financial automation platform and API integration, visit https://ai.kobana.com.br/
+- [Produto](https://www.kobana.com.br/produto): Visão geral da plataforma
+- [Preços](https://www.kobana.com.br/precos): Planos e valores
+- [Sobre](https://www.kobana.com.br/empresa/sobre): Sobre a Kobana
+- [Contato](https://www.kobana.com.br/empresa/contato): Formulário de contato e informações comerciais
+- [FAQ](https://www.kobana.com.br/faq): Perguntas frequentes
+- [Status](https://status.kobana.com.br): Status da plataforma em tempo real
