@@ -821,7 +821,3 @@ Some plans have a fixed monthly fee + per-transaction fee. Others are 100% usage
 
 **Emerson Henning - Henning Informatica:**
 "I recommend Kobana for its simplicity both in API integration and in generating bank slips, subscriptions, and remittance files. Everything is done simply and intuitively, plus it has good cost-benefit."
-
----
-
-*Document generated from kobana.com.br website content for AI model training and consultation purposes.*

@@ -821,7 +821,3 @@ Alguns planos têm mensalidade fixa + taxa por transação. Outros são 100% bas
 
 **Emerson Henning - Henning Informática:**
 "Recomendo a Kobana pela sua simplicidade tanto na integração da API, como também para geração dos boletos, assinaturas e arquivos de remessa. Tudo isso é feito de forma simples e intuitiva, além de ter um bom custo benefício."
-
----
-
-*Documento gerado a partir do conteúdo do site kobana.com.br para fins de treinamento e consulta por modelos de IA.*
