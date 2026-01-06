@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '3.4.4'
+ruby '3.4.8'
 
 gem 'dotenv'
 gem 'kramdown'
