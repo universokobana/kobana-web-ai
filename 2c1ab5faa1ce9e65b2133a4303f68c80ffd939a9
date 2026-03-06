@@ -1,0 +1,35 @@
+views/layouts/pt-BR/index.erb
+  2dde580696630271 14,22,25,34
+public/copy-button.js
+  2dde580696630271 1-35
+views/layouts/pt-BR/artigos.erb
+  2dde580696630271 14,21,24,33
+views/layouts/pt-BR/api.erb
+  2dde580696630271 14,21,24,33
+public/style.css
+  2dde580696630271 73-148
+application.rb
+  2dde580696630271 16-37
+views/layouts/en-US/index.erb
+  2dde580696630271 14,20,23,32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "2c1ab5faa1ce9e65b2133a4303f68c80ffd939a9",
+  "prompts": {
+    "2dde580696630271": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0a58e8be-77ff-4427-b7ce-0d02d813e0e6",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Rafael Lima <contato@rafael.adm.br>",
+      "messages": [],
+      "total_additions": 152,
+      "total_deletions": 419,
+      "accepted_lines": 149,
+      "overriden_lines": 0
+    }
+  }
+}
