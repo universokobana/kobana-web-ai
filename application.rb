@@ -13,6 +13,28 @@ class Application < Sinatra::Base
   LOG = Logger.new($stdout)
   LOG.level = Logger.const_get ENV['LOG_LEVEL'] || 'DEBUG'
 
+  CONTENT_SECURITY_POLICY = [
+    "default-src 'none'",
+    "script-src 'self'",
+    "style-src 'self'",
+    "img-src 'self'",
+    "font-src 'self'",
+    "connect-src 'self'",
+    "base-uri 'self'",
+    "form-action 'self'"
+  ].join('; ')
+
+  before do
+    headers \
+      'X-Content-Type-Options' => 'nosniff',
+      'X-Frame-Options' => 'DENY',
+      'X-XSS-Protection' => '1; mode=block',
+      'Referrer-Policy' => 'strict-origin-when-cross-origin',
+      'Permissions-Policy' => 'geolocation=(), microphone=(), camera=()',
+      'Strict-Transport-Security' => 'max-age=31536000; includeSubDomains',
+      'Content-Security-Policy' => CONTENT_SECURITY_POLICY
+  end
+
   def index(lang, page, format)
     # For backwards compatibility, check both new structure and old flat files
     file_path = if File.exist?(File.join(settings.views, "#{lang}/#{page}.md"))
@@ -64,7 +86,7 @@ class Application < Sinatra::Base
   # /pt-BR.md       -> lang=pt-BR, page=index, format=md
   # /pt-BR/artigos  -> lang=pt-BR, page=artigos, format=html
   # /pt-BR/artigos.md -> lang=pt-BR, page=artigos, format=md
-  get %r{/([^/.]+)(?:\.md)?(?:/([^/.]+)(?:\.md)?)?\/?} do |lang, page|
+  get %r{/([^/.]+)(?:\.md)?(?:/([^/.]+)(?:\.md)?)?/?} do |lang, page|
     # Set defaults
     lang ||= 'pt-BR'
     page ||= 'index'
