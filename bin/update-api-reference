@@ -47,7 +47,12 @@ def build_example_from_schema(schema, swagger_doc = nil, depth = 0)
     return build_example_from_schema(ref_schema, swagger_doc, depth + 1) if ref_schema
   end
 
-  case schema['type']
+  # OpenAPI 3.1 allows `type` to be an array (e.g. ["string", "null"]).
+  # Normalize to the first non-null type so the case statement below matches.
+  schema_type = schema['type']
+  schema_type = schema_type.find { |t| t != 'null' } || 'null' if schema_type.is_a?(Array)
+
+  case schema_type
   when 'object'
     example = {}
     if schema['properties']
@@ -117,9 +122,9 @@ def build_example_from_schema(schema, swagger_doc = nil, depth = 0)
   else
     # Handle schemas without explicit type
     if schema['properties']
-      build_example_from_schema({ 'type' => 'object' }.merge(schema), swagger_doc, depth)
+      build_example_from_schema(schema.merge('type' => 'object'), swagger_doc, depth + 1)
     elsif schema['items']
-      build_example_from_schema({ 'type' => 'array' }.merge(schema), swagger_doc, depth)
+      build_example_from_schema(schema.merge('type' => 'array'), swagger_doc, depth + 1)
     elsif schema['anyOf']&.any?
       build_example_from_schema(schema['anyOf'].first, swagger_doc, depth + 1)
     elsif schema['oneOf']&.any?
