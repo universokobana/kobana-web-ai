@@ -1,17 +1,17 @@
 source 'https://rubygems.org'
-ruby '3.4.8'
+ruby '4.0.2'
 
 gem 'dotenv'
 gem 'kramdown'
 gem 'logger'
 gem 'ostruct'
 gem 'puma', '~> 6.0'
-gem 'rack-canonical-host', '1.0.0'
+gem 'rack-canonical-host', '~> 1.3'
 gem 'rack-ssl-enforcer'
-gem 'rake', '13.0.3'
+gem 'rake', '~> 13.3'
 gem 'rerun', '~> 0.14', group: :development
 gem 'rexml'
-gem 'sinatra', '~> 3.0'
+gem 'sinatra', '~> 4.0'
 
 # For bin/update-articles script
 gem 'json'
