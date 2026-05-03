@@ -1,0 +1,30 @@
+.ruby-version
+  h_cb1bc17e67fa35 1
+Gemfile
+  4724c11d9009e051 2,9,11,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "672aae0843deb48fd1738d1608ba501c2d193f90",
+  "prompts": {
+    "4724c11d9009e051": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52fe0e26-ea5d-4f88-badb-d711cf0183c6",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Rafael Lima",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 4,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_cb1bc17e67fa35": {
+      "author": "Rafael Lima"
+    }
+  }
+}
