@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "regions": ["gru1"],
+  "functions": {
+    "app/[[...slug]]/page.tsx": {
+      "memory": 2048,
+      "maxDuration": 30
+    },
+    "app/raw/[[...slug]]/route.ts": {
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  }
+}

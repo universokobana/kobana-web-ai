@@ -1,0 +1,10 @@
+# Inputs for the generators in `scripts/`, never read at request time. The
+# markdown actually served lives in `views/` and must NOT be listed here.
+content/api
+content/api_reference.md
+content/articles.json
+content/ignore_docs.txt
+content/kobana-api-all-versions-openapi-3_1.json
+
+test
+.github

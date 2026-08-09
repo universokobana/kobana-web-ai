@@ -1,5 +1,11 @@
 node_modules
+.next
+next-env.d.ts
+*.tsbuildinfo
 .env
+.env*.local
 .claude/settings.local.json
 content/articles.json
+# Cloned by `npm run update-api-docs`; it carries its own .git
+content/api
 .DS_Store

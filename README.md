@@ -2,31 +2,69 @@
 
 This is the project that host the website for LLMs available at: https://ai.kobana.com.br
 
+Built with [Next.js](https://nextjs.org) (App Router) and TypeScript.
+
 ## Languages
 
 Brazilian Portuguese (default): https://ai.kobana.com.br/pt-BR
 English: https://ai.kobana.com.br/en-US
 
 ## Usage
+
 - `curl ai.kobana.com.br/en-US`: load the content in english and in markdown.
 - Pipe into [`llm`](https://github.com/simonw/llm):
+
 ```bash
 curl ai.kobana.com.br/en-US.md | llm -s 'understand Kobana platform' -m claude-3.5-sonnet
 ```
 
 ## Note
+
 - Opening ai.kobana.com.br/en-US in a browser gives you a `text/html` response, but programmatic access gives you a clean `text/markdown` response. This is due to the `user-agent` value.
-- For browser JS `fetch` where you can't change the `user-agent` or in scenarios where you pretend to be a browser by `user-agent` spoofing, you can add 'accept': 'text/markdown' to the header to force the `text/markdown` response.
+- Appending `.md` to any path forces the `text/markdown` response, whatever the `user-agent` is.
+
+## Development
+
+Requires Node.js (see `.nvmrc`).
+
+    $ npm install
+    $ npm run dev
+
+Other tasks:
+
+| Command             | Description                 |
+| ------------------- | --------------------------- |
+| `npm run build`     | Production build            |
+| `npm start`         | Serve the production build  |
+| `npm test`          | Run the test suite (Vitest) |
+| `npm run lint`      | ESLint                      |
+| `npm run typecheck` | `tsc --noEmit`              |
+| `npm run format`    | Prettier                    |
+
+### Environment variables
+
+| Variable             | Description                                                               |
+| -------------------- | ------------------------------------------------------------------------- |
+| `CANONICAL_HOST`     | Redirects every other host to this one.                                   |
+| `FORCE_SSL`          | Set to `false` to disable the HTTPS redirect when running a local build.  |
+| `INTERCOM_API_TOKEN` | Used by `npm run update-articles`. Supports `op://` 1Password references. |
+
+## Layout
+
+    app/            routes: the HTML page, the raw markdown handler and the root layout
+    components/     the page chrome, one entry per locale/page in `components/layouts.tsx`
+    lib/            content negotiation, file lookup and the markdown renderer
+    scripts/        content generators
+    views/          the markdown served by the site, per locale
+    public/         static assets
 
 ## Updating articles
 
-### Remove the cache file
-
-    $ rm content/articles.json
-
 ### Fetch all articles
 
-    $ ./bin/update-articles
+    $ npm run update-articles -- --force
+
+Without `--force` the cached `content/articles.json` is reused.
 
 ### Commit and push the changes
 
@@ -35,13 +73,12 @@ curl ai.kobana.com.br/en-US.md | llm -s 'understand Kobana platform' -m claude-3
 
 ## Updating the API docs
 
-### Update the readme content
-
-    $ cd content/api && git pull --rebase && cd ../..
-
 ### Update the api page
 
-    $ ./bin/update-api-reference && ./bin/update-api-docs
+    $ npm run update-api-reference && npm run update-api-docs
+
+`update-api-docs` pulls (or clones) the ReadMe documentation into `content/api` on
+its own.
 
 ### Commit and push the changes
 

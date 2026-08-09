@@ -1,0 +1,7 @@
+.next
+node_modules
+content
+views/**/*.md
+public/llms.txt
+pnpm-lock.yaml
+package-lock.json

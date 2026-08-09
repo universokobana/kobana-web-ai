@@ -1,0 +1,52 @@
+{
+  "name": "kobana-web-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kobana website optimized for LLMs",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "update-api-reference": "tsx scripts/update-api-reference.ts",
+    "update-api-docs": "tsx scripts/update-api-docs.ts",
+    "update-articles": "tsx scripts/update-articles.ts"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-deflist": "^3.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@types/turndown": "^5.0.5",
+    "@vitejs/plugin-react": "^4.7.0",
+    "dotenv": "^17.2.1",
+    "eslint": "^9.33.0",
+    "eslint-config-next": "^15.5.4",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.4",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4",
+    "yaml": "^2.8.1"
+  }
+}
